@@ -68,7 +68,8 @@
       "rooms": [],
       "stakes": { "value": 0, "max": 0 }
     },
-    "adversary": {:
+    "adversary": {
+      "type": "",
       "size": "",
       "traits": "",
       "description": "",

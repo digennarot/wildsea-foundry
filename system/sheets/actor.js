@@ -6,6 +6,9 @@ export default class WildseaActorSheet extends ActorSheet {
   async getData() {
     const context = super.getData()
     context.config = WILDSEA
+    
+    console.log(context.config);
+
     return context
   }
 
