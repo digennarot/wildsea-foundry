@@ -1,0 +1,25 @@
+<form class="wildsea">
+  <div class="flexrow spaced">
+    <div class="flexcol spaced">
+      <div class="flex flex0 flexrow spaced">
+        <div class="flex0 img"><img src="{{actor.img}}" data-edit="img" title="{{actor.name}}" /></div>
+        <div>
+          <input id="name" class="corners" type="text" name="name" value="{{actor.name}}" placeholder="{{localize "wildsea.name"}}" />
+        </div>
+      </div>
+      {{!-- We want the size and descriptors here. Dropdown for size, descriptors input. --}}
+      <div class="flex flex0 flexrow">
+        <select name="system.size" class="flex0 corners">
+          {{selectOptions config.adversarySizes selected="system.size" localize=true}}
+        </select>
+        <div>
+          <input id="traits" class="corners" type="text" name="system.traits" value="{{system.traits}}" placeholder="{{localize "wildsea.traits"}}"/>
+        </div>
+      </div>
+      {{> "systems/wildsea/templates/sheets/adversary/drives.hbs"}}
+    </div>
+    <div class="flexcol spaced">
+      {{> "systems/wildsea/templates/sheets/adversary/aspects.hbs"}}
+    </div>
+  </div>
+</form>
