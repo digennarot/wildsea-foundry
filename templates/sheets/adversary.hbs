@@ -7,6 +7,9 @@
           <input id="name" class="corners" type="text" name="name" value="{{actor.name}}" placeholder="{{localize "wildsea.name"}}" />
         </div>
       </div>
+      <div class="flex flex0 flexrow spaced">
+        <input id="type" class="corners" type="text" name="system.type" value="{{system.type}}" placeholder="{{localize "wildsea.type"}}" />
+      </div>
       {{!-- We want the size and descriptors here. Dropdown for size, descriptors input. --}}
       <div class="flex flex0 flexrow">
         <select name="system.size" class="flex0 corners">
@@ -23,6 +26,8 @@
     <div class="flexcol spaced">
       {{> "systems/wildsea/templates/sheets/adversary/aspects.hbs"}}
       {{> "systems/wildsea/templates/sheets/adversary/quirks.hbs"}}
+      <h2 class="corners dark flex0">{{localize "wildsea.description"}}</h2>
+      {{> "systems/wildsea/templates/shared/description.hbs" content=system.enrichedDetails target="system.description"}}
     </div>
   </div>
 </form>

@@ -24,6 +24,7 @@ export default class WildseaActorSheet extends ActorSheet {
         html.find('.item .track').contextmenu(this.reduceItemTrack.bind(this))
       }
     }
+    super.activateListeners(html)
   }
 
   itemContextMenu = [
