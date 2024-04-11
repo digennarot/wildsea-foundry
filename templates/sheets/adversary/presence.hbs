@@ -1,0 +1,16 @@
+<div id="presence" class="flex0">
+  <h2 class="corners dark">
+    {{localize "wildsea.presence"}}
+  </h2>
+  <div>
+    <h3 class="corners mid">
+      {{localize "wildsea.sight"}}
+      <a class="addItem" data-item-type="sight">
+        <i class="fas fa-plus"></i>
+      </a>
+    </h3>
+    {{#each system.sight as |sight|}}
+      {{> "systems/wildsea/templates/shared/slim_item.hbs" sight type="sight"}}
+    {{/each}}
+  </div>
+</div>

@@ -6,9 +6,6 @@ export default class WildseaActorSheet extends ActorSheet {
   async getData() {
     const context = super.getData()
     context.config = WILDSEA
-    
-    console.log(context.config);
-
     return context
   }
 
@@ -44,7 +41,6 @@ export default class WildseaActorSheet extends ActorSheet {
       callback: (element) => {
         const itemId = element.closest('.item').data('item-id')
         this.actor.items.get(itemId).sheet.render(true)
-        console.log(this.actor.items.get(itemId))
       },
     },
     {
@@ -113,8 +109,14 @@ export default class WildseaActorSheet extends ActorSheet {
 
     if (itemSubtype) slimData['subtype'] = itemSubtype
 
-    const items = [...this.actor.system[itemType]]
-    items.push(slimData)
+    let items = []
+
+    if(this.actor.system[itemType] != null) {
+      items = [...this.actor.system[itemType]]
+      items.push(slimData)
+    } else {
+      items.push(slimData)
+    }
 
     this.actor.update({
       system: {

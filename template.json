@@ -72,9 +72,7 @@
       "type": "",
       "size": "",
       "traits": "",
-      "description": "",
-      "presence": { "sight": "", "sound": "", "smell": "", "taste": "" },
-      "resources": []
+      "description": ""
     }
   },
   "Item": {

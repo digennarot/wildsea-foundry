@@ -31,6 +31,10 @@ export const loadHandlebarsPartials = () => {
     'systems/wildsea/templates/sheets/ship/reputations.hbs',
     'systems/wildsea/templates/sheets/adversary/drives.hbs',
     'systems/wildsea/templates/sheets/adversary/aspects.hbs',
+    'systems/wildsea/templates/sheets/adversary/presence.hbs',
+    'systems/wildsea/templates/sheets/adversary/quirks.hbs',
+    'systems/wildsea/templates/sheets/adversary/resource.hbs',
+    'systems/wildsea/templates/sheets/adversary/resources.hbs',
   ]
 
   return loadTemplates(partials)

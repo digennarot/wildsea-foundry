@@ -18,7 +18,8 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
 
     context.aspects = []
     context.drives = []
-    
+    context.quirks = []
+
     for (const attribute of this.actor.itemTypes.attribute) {
       if(attribute.system.type === "aspect") {
         context.aspects.push(attribute)
@@ -31,7 +32,18 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
       }
     }
 
-    console.log(context.aspects)
+    for (const attribute of this.actor.itemTypes.attribute) {
+      if(attribute.system.type === "quirk") {
+        context.quirks.push(attribute)
+      }
+    }
+
+    context.system.resources = this.actor.itemTypes.resource.sort((a, b) =>
+      a.sort < b.sort ? -1 : 1,
+    )
+
+    console.log(context.system)
+
     return context
   }
   
@@ -54,6 +66,21 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
         break
       case 'drive':
         this.addAttribute('drive')
+        break
+      case 'quirk':
+        this.addAttribute('quirk')
+        break
+      case 'sight':
+        this.addSlimItem('sight')
+        break
+      case 'sound':
+        this.addSlimItem('sound')
+        break
+      case 'smell':
+        this.addSlimItem('smell')
+        break
+      case 'taste':
+        this.addSlimItem('taste')
         break
       case 'resource':
         this.addResource()
@@ -81,4 +108,19 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
 
     this.addEmbeddedDocument(itemData)
   }
+  
+  async addResource() {
+    const defaultData = {}
+
+    const itemData = {
+      name: game.i18n.localize('wildsea.newResourceName'),
+      type: 'resource',
+      data: {
+        ...defaultData,
+      },
+    }
+
+    this.addEmbeddedDocument(itemData)
+  }
+
 }
