@@ -13,10 +13,10 @@
       {{!-- We want the size and descriptors here. Dropdown for size, descriptors input. --}}
       <div class="flex flex0 flexrow">
         <select name="system.size" class="flex0 corners">
-          {{selectOptions config.adversarySizes selected="system.size" localize=true}}
+          {{selectOptions config.adversarySizes selected=system.size localize=true}}
         </select>
         <div>
-          <input id="traits" class="corners" type="text" name="traits" value="{{system.traits}}" placeholder="{{localize "wildsea.traits"}}"/>
+          <input id="traits" class="corners" type="text" name="system.traits" value="{{system.traits}}" placeholder="{{localize "wildsea.traits"}}"/>
         </div>
       </div>
       {{> "systems/wildsea/templates/sheets/adversary/drives.hbs"}}

@@ -18,6 +18,8 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
 
     context.system.enrichedDetails = await enrich(this.actor.system.description)
 
+    console.log(context.system)
+
     context.aspects = []
     context.drives = []
     context.quirks = []
@@ -44,8 +46,6 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
       a.sort < b.sort ? -1 : 1,
     )
 
-    console.log(context.system)
-
     return context
   }
   
@@ -64,25 +64,15 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
 
     switch (data.itemType) {
       case 'aspect':
-        this.addAttribute('aspect')
-        break
       case 'drive':
-        this.addAttribute('drive')
-        break
       case 'quirk':
-        this.addAttribute('quirk')
+        this.addAttribute(data.itemType)
         break
       case 'sight':
-        this.addSlimItem('sight')
-        break
       case 'sound':
-        this.addSlimItem('sound')
-        break
       case 'smell':
-        this.addSlimItem('smell')
-        break
       case 'taste':
-        this.addSlimItem('taste')
+        this.addSlimItem(data.itemType)
         break
       case 'resource':
         this.addResource()

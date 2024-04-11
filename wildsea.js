@@ -32,7 +32,7 @@ Hooks.once('init', () => {
   Actors.unregisterSheet('core', ActorSheet)
   Actors.registerSheet('wildsea', WildseaPlayerSheet, { types: ['player'] })
   Actors.registerSheet('wildsea', WildseaShipSheet, { types: ['ship'] })
-  Actors.registerSheet('wildsea', WildseaAdversarySheet, {types: ['adversary'] })
+  Actors.registerSheet('wildsea', WildseaAdversarySheet, {types: ['hazard'] })
 
 	
 

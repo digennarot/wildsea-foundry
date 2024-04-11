@@ -1,6 +1,6 @@
 {
   "Actor": {
-    "types": ["player", "ship", "adversary"],
+    "types": ["player", "ship", "hazard"],
     "player": {
       "bloodline": "",
       "drives": [],
@@ -68,7 +68,7 @@
       "rooms": [],
       "stakes": { "value": 0, "max": 0 }
     },
-    "adversary": {
+    "hazard": {
       "type": "",
       "size": "",
       "traits": "",
