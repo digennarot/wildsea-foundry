@@ -44,6 +44,7 @@ export default class WildseaActorSheet extends ActorSheet {
       callback: (element) => {
         const itemId = element.closest('.item').data('item-id')
         this.actor.items.get(itemId).sheet.render(true)
+        console.log(this.actor.items.get(itemId))
       },
     },
     {

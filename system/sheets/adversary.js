@@ -12,6 +12,26 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
     const context = await super.getData()
     context.system = this.actor.system
 
+    for (const item of this.actor.items) {
+      item.system.enrichedDetails = await enrich(item.system.details)
+    }
+
+    context.aspects = []
+    context.drives = []
+    
+    for (const attribute of this.actor.itemTypes.attribute) {
+      if(attribute.system.type === "aspect") {
+        context.aspects.push(attribute)
+      }
+    }
+
+    for (const attribute of this.actor.itemTypes.attribute) {
+      if(attribute.system.type === "drive") {
+        context.drives.push(attribute)
+      }
+    }
+
+    console.log(context.aspects)
     return context
   }
   
@@ -30,10 +50,10 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
 
     switch (data.itemType) {
       case 'aspect':
-        this.addSlimItem('aspects')
+        this.addAttribute('aspect')
         break
       case 'drive':
-        this.addSlimItem('drives')
+        this.addAttribute('drive')
         break
       case 'resource':
         this.addResource()
@@ -44,5 +64,21 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
         )
         break
     }
+  }
+
+  async addAttribute(attributeType) {
+    const defaultData = {}
+
+    const itemData = {
+      name: game.i18n.localize('wildsea.newAttributeName'),
+      type: 'attribute',
+      data: {
+        details: game.i18n.localize('wildsea.newAttributeDetails'),
+        type: attributeType,
+        ...defaultData,
+      }
+    }
+
+    this.addEmbeddedDocument(itemData)
   }
 }

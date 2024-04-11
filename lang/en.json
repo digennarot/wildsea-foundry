@@ -60,6 +60,8 @@
     "name": "Name",
     "newAspectDetails": "<p>Aspect details.</p>",
     "newAspectName": "New Aspect",
+    "newAttributeDetails": "<p>Attribute details.</p>",
+    "newAttributeName": "New Attribute",
     "newEffect": "New Effect",
     "newFittingDetail": "<p>Fitting details.</p>",
     "newFittingName": "New Fitting",

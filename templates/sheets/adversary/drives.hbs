@@ -5,10 +5,12 @@
       <i class="fas fa-plus"></i>
     </a>
   </h2>
-    {{#if (any system.drives)}}
-      {{#each system.drives as |drive|}}
-        {{> "systems/wildsea/templates/shared/slim_item.hbs" drive type="drives"}}
-      {{/each}}
+    {{#if (any drives)}}
+      <div class = "flexcol item-list spaced">
+        {{#each drives as |drive|}}
+          {{> "systems/wildsea/templates/shared/attribute.hbs" drive id=drive.id}}
+        {{/each}}
+      </div>
     {{else}}
       <p class="center corners light-transparent padded">{{localize "wildsea.none"}}</p>
     {{/if}}

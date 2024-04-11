@@ -5,6 +5,7 @@ import {
 } from './system/preload.js'
 import WildseaActor from './system/actor.js'
 import WildseaAspectSheet from './system/sheets/aspect.js'
+import WildseaAttributeSheet from './system/sheets/attribute.js'
 import WildseaDicePool from './system/applications/dice_pool.js'
 import WildseaItem from './system/item.js'
 // import WildseaJournalSheet from './system/sheets/journal.js'
@@ -43,6 +44,7 @@ Hooks.once('init', () => {
   Items.registerSheet('wildsea', WildseaShipItemSheet, {
     types: ['design', 'fitting', 'undercrew'],
   })
+  Items.registerSheet('wildsea', WildseaAttributeSheet, { types: ['attribute'] })
 
   // Journal.unregisterSheet('core', JournalSheet)
   // Journal.registerSheet('dilemma', WildseaJournalSheet, { makeDefault: true })

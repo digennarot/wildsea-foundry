@@ -2,6 +2,7 @@ export const loadHandlebarsPartials = () => {
   const partials = [
     'systems/wildsea/templates/shared/aspect.hbs',
     'systems/wildsea/templates/shared/aspects.hbs',
+    'systems/wildsea/templates/shared/attribute.hbs',
     'systems/wildsea/templates/shared/description.hbs',
     'systems/wildsea/templates/shared/effects.hbs',
     'systems/wildsea/templates/shared/number_field.hbs',

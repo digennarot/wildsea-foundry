@@ -73,15 +73,12 @@
       "size": "",
       "traits": "",
       "description": "",
-      "drives": [],
       "presence": { "sight": "", "sound": "", "smell": "", "taste": "" },
-      "resources": [],
-      "aspects": [],
-      "quirks": []
+      "resources": []
     }
   },
   "Item": {
-    "types": ["aspect", "design", "fitting", "resource", "temporaryTrack", "undercrew"],
+    "types": ["aspect", "attribute", "design", "fitting", "resource", "temporaryTrack", "undercrew"],
     "templates": {
       "hasDetails": {
         "details": "",
@@ -124,6 +121,10 @@
       "templates": ["hasDetails", "hasTrack"],
       "stakes": 1,
       "track": { "max": 8 },
+      "type": ""
+    },
+    "attribute": {
+      "templates": ["hasDetails"],
       "type": ""
     }
   }
