@@ -1,6 +1,9 @@
 <div class="form-group flexrow">
   <label class="flex1">{{localize label}}</label>
   <div class="form-fields flex3">
-    <input type="number" name="{{field}}" value="{{#if value}}{{value}}{{else}}{{min}}{{/if}}" placeholder="{{localize label}}" class="corners" min="{{min}}" max="{{max}}" />
+    {{!-- For some reason, if value is 0, it made the if statement fail. In all implementations of this field, a value is passed. So i am removing it for now. --}}
+    {{!-- <input type="text" name="{{field}}" value="{{#if value}}{{value}}{{else}}{{min}}{{/if}}" data-dtype="Number" placeholder="{{localize label}}" class="corners {{css_class}}" min="{{min}}" max="{{max}}" /> --}}
+
+    <input type="text" name="{{field}}" value="{{value}}" data-dtype="Number" placeholder="{{localize label}}" class="corners {{css_class}}" min="{{min}}" max="{{max}}" />
   </div>
 </div>

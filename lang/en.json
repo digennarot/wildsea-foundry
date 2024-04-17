@@ -1,5 +1,7 @@
 {
   "wildsea": {
+    "": "",
+    "adjustment": "Adjustment",
     "advantage": "Advantage",
     "armour": "Armour",
     "aspects": "Aspects",
@@ -31,6 +33,7 @@
     "edges": "Edges",
     "edit": "Edit",
     "effects": "Effects",
+    "empty": "",
     "engine": "Engine",
     "fittings":"Fittings",
     "flourish": "Flourish",

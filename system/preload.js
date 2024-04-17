@@ -28,6 +28,7 @@ export const loadHandlebarsPartials = () => {
     'systems/wildsea/templates/sheets/ship/fittings.hbs',
     'systems/wildsea/templates/sheets/ship/rating.hbs',
     'systems/wildsea/templates/sheets/ship/ratings.hbs',
+    'systems/wildsea/templates/sheets/ship/ratings_select.hbs',
     'systems/wildsea/templates/sheets/ship/reputations.hbs',
     'systems/wildsea/templates/sheets/adversary/drives.hbs',
     'systems/wildsea/templates/sheets/adversary/aspects.hbs',

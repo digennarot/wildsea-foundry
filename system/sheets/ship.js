@@ -45,6 +45,27 @@ export default class WildseaShipSheet extends WildseaActorSheet {
       a.sort < b.sort ? -1 : 1,
     )
 
+    let ratings = {...context.system.ratings}
+
+    for (const design of context.system.designs) {
+      for (const [index, ratingUpdate] of Object.entries(design.system.ratings)) {
+        //That means we have a value to adjust.
+        if (ratingUpdate.rating != '') {
+          ratings[ratingUpdate.rating].max += ratingUpdate.value
+        }
+      }
+    }
+
+    //We cant reduce the values below one.
+    //I cant do this check when subtracting, because we could subtract and then add, and the math would be inaccurate.
+    for (const [key, value] of Object.entries(ratings)) {
+      ratings[key].max = clamp(value.max, 6, 1)
+    }
+
+    let ratingsSelect = [...context.config.shipRatings]
+    ratingsSelect.unshift('')
+    context.config.ratingsSelect = ratingsSelect
+
     return context
   }
 
@@ -53,12 +74,12 @@ export default class WildseaShipSheet extends WildseaActorSheet {
       if (this.actor.isOwner) {
         html.find('.track').click(this.adjustTrack.bind(this, 1))
         html.find('.track').contextmenu(this.adjustTrack.bind(this, -1))
-
         html.find('.addItem').click(this.addItem.bind(this))
       }
     }
     super.activateListeners(html)
   }
+
 
   async adjustTrack(change, event) {
     event.preventDefault()

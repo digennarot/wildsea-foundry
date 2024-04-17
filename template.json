@@ -99,7 +99,8 @@
     "design": {
       "templates": ["hasDetails"],
       "stakes": 1,
-      "type": ""
+      "type": "",
+      "ratings": { "first": {"rating": "", "value": 0}, "second": {"rating": "", "value": 0}, "third": {"rating": "", "value": 0} }
     },
     "fitting": {
       "templates": ["hasDetails", "hasTrack"],

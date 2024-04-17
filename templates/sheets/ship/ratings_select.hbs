@@ -1,0 +1,26 @@
+<div class="ratings-adjustment">
+  <div class="flexrow spaced">
+    {{> "systems/wildsea/templates/shared/select_field.hbs" field="system.ratings.first.rating" value=system.ratings.first.rating label="wildsea.ratings" selectOptions=config.ratingsSelect}}
+    <div>
+    {{#if (ne system.ratings.first.rating '')}}
+      {{> "systems/wildsea/templates/shared/number_field.hbs" field="system.ratings.first.value" value=system.ratings.first.value label="wildsea.adjustment" min=-6 max=6}}
+    {{/if}}
+    </div>
+  </div>
+  <div class="flexrow spaced">
+    {{> "systems/wildsea/templates/shared/select_field.hbs" field="system.ratings.second.rating" value=system.ratings.second.rating label="wildsea.ratings" selectOptions=config.ratingsSelect }}
+    <div>
+    {{#if (ne system.ratings.second.rating '')}}
+      {{> "systems/wildsea/templates/shared/number_field.hbs" field="system.ratings.second.value" value=system.ratings.second.value label="wildsea.adjustment" min=-6 max=6 }}
+    {{/if}}
+    </div>
+  </div>
+  <div class="flexrow spaced">
+    {{> "systems/wildsea/templates/shared/select_field.hbs" field="system.ratings.third.rating" value=system.ratings.third.rating label="wildsea.ratings" selectOptions=config.ratingsSelect}}
+    <div >
+    {{#if (ne system.ratings.third.rating '')}}
+      {{> "systems/wildsea/templates/shared/number_field.hbs" field="system.ratings.third.value" value=system.ratings.third.value label="wildsea.adjustment" min=-6 max=6}}
+    {{/if}}
+    </div>
+  </div>
+</div>

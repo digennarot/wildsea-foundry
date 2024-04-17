@@ -18,8 +18,6 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
 
     context.system.enrichedDetails = await enrich(this.actor.system.description)
 
-    console.log(context.system)
-
     context.aspects = []
     context.drives = []
     context.quirks = []
