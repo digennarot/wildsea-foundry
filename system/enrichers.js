@@ -28,7 +28,7 @@ const enrichItem = async (match) => {
       if (item.type !== 'design') traits.push(item.system.type)
     }
 
-    html = `<h3>${itemName}`
+    html = `<h3><a class="content-link unstyled" data-uuid="${item.uuid}">${itemName}</a>`
     if (traits.length > 0) html += ` <small>${traits.join(' ')}</small>`
     html += '</h3>'
     if (item.system.details) html += item.system.details
