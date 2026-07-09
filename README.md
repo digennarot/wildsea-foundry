@@ -8,4 +8,4 @@ A FoundryVTT implementation of character sheets for [The Wildsea](https://thewil
 
 Copy the following URL into the `Manifest URL` field of the `Install System` dialog and click `Install`
 
-- `https://gitlab.com/api/v4/projects/pacosgrove1%2Fwildsea-foundry/packages/generic/wildsea-foundry/latest/system.json`
+- `https://gitlab.com/maxschreifels32/wildsea-foundry/-/blob/main/system.json`
