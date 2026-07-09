@@ -1,5 +1,9 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.2
+
+- Updated to foundry V14. Removed some erroring code related to chat message posting for rolls.
+
 ## v0.2.1
 
 - Fix expanding dice tooltips
