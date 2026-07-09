@@ -220,7 +220,6 @@ export default class WildseaShipSheet extends WildseaActorSheet {
       ),
       roll,
       sound: CONFIG.sounds.dice,
-      type: CONST.CHAT_MESSAGE_TYPES.ROLL,
     }
     ChatMessage.create(chatData)
   }
