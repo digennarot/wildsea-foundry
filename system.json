@@ -21,8 +21,8 @@
   ],
   "version": "0.2.3",
   "url": "https://gitlab.com/maxschreifels32/wildsea-foundry",
-  "manifest": "https://gitlab.com/maxschreifels32/wildsea-foundry/-/blob/main/system.json",
-  "download": "https://gitlab.com/maxschreifels32/wildsea-foundry/-/archive/v0.2.3/wildsea-foundry-v0.2.3.zip",
+  "manifest": "https://gitlab.com/maxschreifels32/wildsea-foundry/-/raw/main/system.json",
+  "download": "https://gitlab.com/maxschreifels32/wildsea-foundry/-/archive/0.2.3/wildsea-foundry-v0.2.3.zip",
 
   "compatibility": {
     "minimum": "13",
