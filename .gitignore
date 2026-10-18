@@ -4,3 +4,9 @@ node_modules/*
 *.log
 .vscode
 .idea/*
+
+# Manuale di riferimento (materiale protetto da copyright)
+Wildsea-Wilderness-ITA.md
+
+# Non escludere i write-ahead log di LevelDB dei compendi
+!packs/**/*.log

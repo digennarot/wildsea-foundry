@@ -23,7 +23,7 @@ To install a specific version, use the `system.json` attached to that release on
 - **UI tracks panel**: shared tracks for the whole table, with a configurable position
 - **Compendiums**: character aspects, ship aspects, and a Quick Reference rules journal
 - **Ship ratings** that pick up modifiers from designs and fittings
-- **Localization**: English and Ukrainian
+- **Localization**: English, Ukrainian, and Italian
 
 ### Journal enrichers
 
