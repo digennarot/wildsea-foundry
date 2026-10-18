@@ -1,5 +1,9 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.5
+
+- Add Italian translations of the compendiums (character aspects, ship aspects and the Quick Reference journal), applied through the Babele module
+
 ## v0.2.4
 
 - Add Italian translation, using the terminology of the official Italian rulebook

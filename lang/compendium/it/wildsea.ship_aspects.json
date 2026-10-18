@@ -1,0 +1,2155 @@
+{
+  "label": "Aspetti della Nave",
+  "mapping": {
+    "details": "system.details",
+    "type": "system.type"
+  },
+  "folders": {
+    "Aeronaut Equipment": "Equipaggiamento da Aeronauta",
+    "Airborne Armament": "Armamenti Aerei",
+    "Airborne Rooms": "Cabine Aeree",
+    "Auxiliary Lift Systems": "Sistemi di Sollevamento Ausiliari",
+    "Bafflers": "Disturbatori",
+    "Beast Packs": "Branchi",
+    "Bites": "Mordenti",
+    "Bloom Surfing": "Surf sulle Fioriture",
+    "Boarding Equipment": "Armamenti da Arrembaggio",
+    "Bounteous Additions": "Moduli da Risorse",
+    "Common Rooms": "Cabine Comuni",
+    "Deck Weapons": "Armamenti da Ponte",
+    "Delving Additions": "Moduli da Profondità",
+    "Delving Armament": "Armamenti da Profondità",
+    "Delving Equipment": "Equipaggiamento da Profondità",
+    "Delving Gangs": "Squadre da Profondità",
+    "Delving Insect Packs": "Sciami da Profondità",
+    "Delving Officer": "Ufficiale da Profondità",
+    "Delving Packs": "Branchi da Profondità",
+    "Delving Rooms": "Cabine da Profondità",
+    "Engines": "Motori",
+    "Escaping the Embrace": "Sfuggire all'Abbraccio",
+    "External Structures": "Strutture Esterne",
+    "Frame": "Profilo",
+    "Full Gardening Solutions": "Soluzioni Complete",
+    "Gangs": "Squadre",
+    "Garden Armament": "Armamenti da Giardinaggio",
+    "Gardening Gangs": "Squadre da Giardinaggio",
+    "Gardening Mediums": "Substrati",
+    "Gardening Officer": "Ufficiale da Giardinaggio",
+    "Gardening Packs": "Branchi da Giardinaggio",
+    "Gardening Plots": "Appezzamenti",
+    "General Additions": "Moduli Generici",
+    "Hull Weapons": "Armamenti da Scafo",
+    "Hulls": "Scafi",
+    "Hybrid Gardening Plots": "Appezzamenti Ibridi",
+    "Insect Packs": "Sciami",
+    "Launching and Docking": "Sganciare e Rimorchiare",
+    "Lift Systems": "Sistemi di Sollevamento",
+    "Light, Power, & Sound": "Luce, Energia e Suono",
+    "Motif": "Funzione",
+    "Officer": "Ufficiale",
+    "Outrider Chassis": "Telaio da Battistrada",
+    "Outrider Fittings": "Moduli da Battistrada",
+    "Pressure Shells": "Gusci Pressurizzati",
+    "Quiet Armament": "Armamenti Silenziosi",
+    "Quiet Fittings": "Moduli Silenziosi",
+    "Rising Beast Packs": "Branchi d'Ascesa",
+    "Rising Fittings": "Moduli d'Ascesa",
+    "Rising Gangs": "Squadre d'Ascesa",
+    "Rising Insect Packs": "Sciami d'Ascesa",
+    "Rising Officer": "Ufficiale d'Ascesa",
+    "Scrubbers": "Filtri d'Aria",
+    "Ship Gardens": "Orti di Bordo",
+    "Size": "Taglia",
+    "Torpedo Charge": "Carica da Siluro",
+    "Torpedo Launcher": "Lanciasiluri",
+    "Xylem Phloers": "Xilema-Floemi"
+  },
+  "entries": {
+    "G8qpHmIpK2eC7Ct6": {
+      "name": "+Batteria Rotta",
+      "details": "<p>Perché riparare batterie di ceramica distrutte quando puoi riciclarle? Infligge danni AD Elettrici a impatto totale.</p>",
+      "type": "Carica da Siluro"
+    },
+    "xYBrMYQOPIKqneEP": {
+      "name": "+Collezione di Ingranaggi",
+      "details": "<p>Anche se non particolarmente affilati, la velocità a cui viaggiano dà loro un filo inaspettato. Infligge danni AD Laceranti a impatto totale.</p>",
+      "type": "Carica da Siluro"
+    },
+    "eRIYopzjEHwdoXrm": {
+      "name": "+Erbe della Lunga Notte",
+      "details": "<p>Raccolte e intrecciate con estrema cura, queste erbe instabili implodono con un freddo feroce quando vengono disturbate. Infligge danni AD Gelidi a impatto totale.</p>",
+      "type": "Carica da Siluro"
+    },
+    "93QKaCuC1kZAJ5p7": {
+      "name": "+Nucleo Pieno",
+      "details": "<p>Ci sarebbe molto da dire su un pezzo di ferro di recupero, ma dovrai parlare in fretta. Infligge danni AD Contundenti a impatto totale.</p>",
+      "type": "Carica da Siluro"
+    },
+    "2C9tjoijTwACICpr": {
+      "name": "+Rovinabalene",
+      "details": "<p>Battezzato da un ambrato risvegliatosi da sogni di antico sale. Infligge danni AD Perforanti a impatto totale.</p>",
+      "type": "Carica da Siluro"
+    },
+    "DF4TCr76OkO1DWaX": {
+      "name": "A Corrosione Metallica",
+      "details": "<p>Una vasca chimica aperta che fonde i rottami metallici, pompando la poltiglia pressurizzata risultante in tutta la nave. Potente e quasi impossibile da fermare.</p><p>Alimentato con materiali di recupero e rottami.</p>"
+    },
+    "BMhsYJoLJQ2Gmb9y": {
+      "name": "A Fitocombustione",
+      "details": "<p>Motori rumorosi alimentati a legna, che creano enormi nubi di fumo e polvere ma con un rischio minimo di fiamme.</p><p>Alimentato con legno del Selvapelago.</p>"
+    },
+    "SWZjkMxjkNwuRHXk": {
+      "name": "A Molla",
+      "details": "<p>Caricati faticosamente a mano, i motori a molla immagazzinano e rilasciano energia cinetica con sorprendente efficienza.</p><p>Alimentato con sudore, fatica e tempo passato a caricarlo.</p>"
+    },
+    "prRrx9ZKdc1oqkyX": {
+      "name": "A Moto Perpetuo",
+      "details": "<p>Cilindri rotanti che, idealmente, mantengono uno stato di moto quasi perpetuo.</p><p>Alimentato con rottami magnetici.</p>"
+    },
+    "U2LUfD5yF2OHPJU5": {
+      "name": "A Rampini",
+      "details": "<p>Rampini montati a prua che vengono lanciati per agganciarsi ai rami e poi riavvolti con fatica, per un avanzamento lento e inesorabile.</p><p>Una nave che si muove solo con un mordente a rampini non può andare Avanti Tutta durante un viaggio.\n\nInfligge danni AD Perforanti a impatto totale.</p>"
+    },
+    "iUtFmadqq4stygnt": {
+      "name": "A Rotore",
+      "details": "<p>Grandi motori fuoribordo a getto che spingono la nave tra le onde con la forza bruta.</p><p>Infligge danni RAV Laceranti a impatto totale.</p>"
+    },
+    "QgA6wj7BrkKOaStu": {
+      "name": "A Ruota Cinetica",
+      "details": "<p>Esattamente quello che immagini: un puro trasferimento di energia cinetica da ratti irrequieti alla ruota e al mordente. Gli ingegneri etici tendono a lasciare ai loro ratti la libertà della nave.</p><p>I ratti vanno nutriti ogni tanto, ma non sono schizzinosi.</p>"
+    },
+    "ZnbbjpRoe9xqJzSj": {
+      "name": "A Torchio",
+      "details": "<p>Non certo il motore più potente in circolazione, ma uno estremamente facile da alimentare per un equipaggio diligente.</p><p>Alimentato con scorze di frutta e bucce di verdura.</p>"
+    },
+    "6myrClYa0RV8ioom": {
+      "name": "A Vapore",
+      "details": "<p>Congegni infernali di tubature aggrovigliate, sostanze chimiche rare e vapore bollente.</p><p>Alimentato con acqua (più è pulita, meglio è).</p>"
+    },
+    "vJaxc4DTnnRKwZcV": {
+      "name": "Accozzaglia Rissosa",
+      "details": "<p>Quando gettate l'ancora, riducete automaticamente di uno il numero di segni sul tracciato Pressione.</p>",
+      "type": "Squadre da Profondità"
+    },
+    "7kqoxerMIAt2ieFk": {
+      "name": "Acqua d'Infuso",
+      "details": "<p>Quando semini piante nell'acqua d'infuso, non ottengono un segno alla conclusione di un viaggio. Tuttavia, tutti i campioni ottenuti da piante coltivate in questo modo prendono l'etichetta \"Delizioso\".</p>",
+      "type": "Substrati"
+    },
+    "6mc6wjGrDb9Mf8F9": {
+      "name": "Ad Alveare Sinergico",
+      "details": "<p>Un motore organico e ronzante di favi e operaie striscianti, i cui movimenti sono una danza complessa.</p><p>Alimentato con fiori rubati e polline grezzo.\nUna volta per viaggio, mentre è in mare, l'equipaggio può usare un compito per ottenere la risorsa Miele di Motore Fresco.</p>"
+    },
+    "iDTUjAlJtMFvPnCN": {
+      "name": "Ad Archeocombustione",
+      "details": "<p>Un antico bruciatore che funziona con carburante chimico raffinato, recuperato dalle viscere di una nave Pre-Verdeggiante. Richiede una ventilazione eccessiva. Non usarlo.</p><p>Funziona con carburante chimico raffinato.\n\nRischia di esplodere se gravemente danneggiato.</p>"
+    },
+    "LntTb6YxgTTNudA9": {
+      "name": "Aerostieri di Vedetta",
+      "details": "<p>Quando la nave è all'ancora (o ferma) gli aerostieri di vedetta si alzano sopra il ponte, dando un preavviso dei pericoli in avvicinamento.</p>",
+      "type": "Squadre d'Ascesa"
+    },
+    "QKIssBGdkAkL0LvV": {
+      "name": "Affilato",
+      "details": "<p>Spesso a forma di cuneo o di lama, i profili affilati sono costruiti appositamente per fendere le onde nel modo più efficiente possibile.</p>"
+    },
+    "4JYvtQXxtjEKt4W2": {
+      "name": "Aggiustatutto",
+      "details": "<p>Quando gettate l'ancora, un singolo membro dell'equipaggio può riparare un segno da qualsiasi attrezzatura.</p>",
+      "type": "Squadre"
+    },
+    "NWYhBmAU1ggs2300": {
+      "name": "Aggraziato",
+      "details": "<p>La quiete è rara nel Selvapelago, ma un profilo aggraziato fa sì che, per quanto rumorosi possano essere il mordente e il motore, resterai sempre basso sulle onde.</p>"
+    },
+    "jM3ecKmfc1uuexcA": {
+      "name": "Aiuola Recintata",
+      "details": "<p>Se tiri per raccogliere le piante che crescono nell'aiuola recintata, tratta invece i disastri come conflitti.</p>",
+      "type": "Appezzamenti"
+    },
+    "gasAjk4aF1yr2ds4": {
+      "name": "Albero da Frutto",
+      "details": "<p>Un albero antico radicato sul tuo ponte, carico di frutti a crescita rapida.\nQuando usi un compito per curare l'albero da frutto, ottieni automaticamente un campione a base di frutta.</p>",
+      "type": "Moduli da Risorse"
+    },
+    "FfjGRVR3R0lWZFoT": {
+      "name": "Albero di Ferrogranato",
+      "details": "<p>Una delle scelte più popolari per chi coltiva alberi sul ponte: i frutti prodotti da un albero di ferrogranato sono quasi del tutto immangiabili, ma i loro abbondanti semi sono naturalmente carichi di magnetismo. Una volta per viaggio, ottieni come campione Manciata di Semi di Ferrogranato o Scorza di Ferro di Ferrogranato.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "5yd0co9Zj4rpXfQF": {
+      "name": "Ali di Cuoio",
+      "details": "<p>Ripiegate contro lo scafo quando non vengono usate: una nave ha bisogno di una buona velocità per alzarsi in volo quando si spalancano.</p><p>Costo di Decollo: Manovrabilità\nStili di Volo: Slancio, Battito d'Ali</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "FzzAm2VXBKgqMvxr": {
+      "name": "Ali di Tela",
+      "details": "<p>Usano materiali più leggeri e tecniche ingegneristiche più avanzate rispetto ad altre ali. Batterle per sollevarsi richiede comunque un'enorme quantità di energia, soprattutto per le navi più pesanti.</p><p>Costo di Decollo: Velocità\nStili di Volo: Slancio, Planare, Battito d'Ali</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "HVRCx4iQy9yI93HL": {
+      "name": "Ali Spezzascafo",
+      "details": "<p>Non lasciarti ingannare dalla disarmante onestà del loro nome: ci sono scelte molto migliori di queste trappole mortali meccaniche e cigolanti.</p><p>Costo di Decollo: Velocità + Guarnizioni\nStili di Volo: Slancio, Battito d'Ali</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "gB3nwgwvdJtc87my": {
+      "name": "Aliante Composito",
+      "details": "<p>Un aliante legato al ponte con una lunga corda, che permette l'esplorazione aerea nelle giornate ventose.</p>",
+      "type": "Moduli Generici"
+    },
+    "lTDT45uPqU2n4nEa": {
+      "name": "Alveare Zelante",
+      "details": "<p>Riduci di una casella il tracciato di crescita di tutte le piante di questo appezzamento, ma subisci una riduzione di 1 quando cerchi di raccoglierle.</p>",
+      "type": "Appezzamenti"
+    },
+    "zgd4FQjea1k1gTB4": {
+      "name": "Amalgama",
+      "details": "<p>Il marchio di una nave piena di cicatrici e spesso riparata: uno scafo amalgama è a malapena uno scafo... Più che altro un insieme di metallo recuperato, legno alla deriva e ossa di animali; instabile, arrugginito e pieno di falle.</p><p>Segna il tracciato base Guarnizioni o Armatura per estrarre dallo scafo un materiale di recupero utile.</p>"
+    },
+    "GFNmXVfF81Y1gyXq": {
+      "name": "Ambra Focalizzante",
+      "details": "<p>Uno schermo di ambra delicata posto davanti ai comandi del pilota, con varie bolle e lenti d'ingrandimento integrate. Permette al pilota ai comandi di beneficiare di Occhio di Falco, la capacità di vedere più lontano della maggior parte delle persone e con un dettaglio molto maggiore.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "kviRkybKGy46xjkj": {
+      "name": "Ambra Intagliata",
+      "details": "<p>Tagliato e modellato da enormi blocchi di resina di ferradice indurita, questo materiale per scafi è apprezzato per il suo bagliore dorato, ma è un vero incubo da riparare senza l'aiuto del bacino di carenaggio di un porto profondo.</p>"
+    },
+    "ejbcupDqnsrSRIkU": {
+      "name": "Ancora Aerea",
+      "details": "<p>Un pallone chimico dispiegabile che contiene gas più leggero dell'aria, con sotto una catena zavorrata a pendolo. Le navi con un'ancora aerea possono Andare alla Deriva mentre sono in quota, anche se di solito non possono Fluttuare o Librarsi.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "oMbIvMnJOhptuI7L": {
+      "name": "Ancora Asteroide",
+      "details": "<p>Un pezzo di stella caduta con insolite proprietà di attrazione degli spiriti. La massa principale è quasi troppo pesante per essere spostata, ma i frammenti che se ne staccano conservano per un po' alcune delle sue proprietà più utili.</p><p>Uso Ottimale: Lancia un frammento dal ponte per ripulire una casella bruciata da qualsiasi Occhio di natura spirituale.\nUso Alternativo: Il metallo dell'asteroide produce un rombo sordo quando viene azionato, che risveglia per breve tempo gli esseri intangibili vicini in una vera corporeità.</p>",
+      "type": "Disturbatori"
+    },
+    "bjaq7GU4lKWyRvqp": {
+      "name": "Ancora del Cacciatore",
+      "details": "<p>Ogni enorme dardo lanciato da questa balestra è attaccato a una catena avvolta intorno al profilo della nave. Infligge danni AD Perforanti a impatto totale. Puoi segnare uno dei tuoi tracciati base per legare alla tua nave un bersaglio colpito dall'ancora del cacciatore, costringendolo a liberarsi prima di poter fuggire (o a trascinarti con sé mentre si muove, se è abbastanza forte).</p>",
+      "type": "Armamenti da Profondità"
+    },
+    "X90P3aguH8CPuWmn": {
+      "name": "Ancore da Sottogroviglio",
+      "details": "<p>Un potenziamento dei soliti sistemi d'ancoraggio del Selvapelago, così diffuso da essere considerato di serie.</p>",
+      "type": "Moduli da Profondità"
+    },
+    "f5us2ojOa3TOm6Ad": {
+      "name": "Angolo Idroponico",
+      "details": "<p>Quando semini una pianta in un angolo idroponico, segna immediatamente la prima casella del suo tracciato.</p>",
+      "type": "Appezzamenti"
+    },
+    "k5Xsv66oZmH29RRh": {
+      "name": "Antizavorra",
+      "details": "<p>Più palloni di tela collocati in punti strategici della nave, con tubi che li collegano. Il gas che li riempie non resta più leggero dell'aria a lungo, ma basta per prendere un po' di distanza dalle cime delle onde.</p><p>Stile Aggiuntivo: Fluttuare</p>",
+      "type": "Sistemi di Sollevamento Ausiliari"
+    },
+    "aPTaQmzMcDqpWeDE": {
+      "name": "Apparato di Aquiloni",
+      "details": "<p>Una serie di aquiloni che catturano i venti più forti degli strati d'aria più bassi.</p><p>Efficace solo con venti favorevoli.</p>"
+    },
+    "4nmHk8XogJHn8rrv": {
+      "name": "Apripista Elettrico",
+      "details": "<p>Il fulmine immagazzinato viene rilasciato lentamente mentre la nave viaggia, in quantità appena sufficiente a far crepitare i rami e a far saltare archi di energia tra le foglie sulla tua scia. Ignora le riduzioni ai tiri tracciato base imposte dal fatto che la nave è incalzata o inseguita.</p>",
+      "type": "Luce, Energia e Suono"
+    },
+    "fDvRuSDBGCP0dk96": {
+      "name": "Aracnide",
+      "details": "<p>Più che uno scafo, un insetto gigante cresciuto per adattarsi alle specifiche del tuo profilo, di solito qualcosa di simile a un ragno.</p>"
+    },
+    "YkPqyT51WW12dZyM": {
+      "name": "Archivio Nautico",
+      "details": "<p>Una stanza dedicata alla conservazione e all'uso di mappe, carte nautiche e strumenti di navigazione.</p>",
+      "type": "Cabine Comuni"
+    },
+    "pkpxxCW0ZIcBzAUm": {
+      "name": "Aria Canalizzata",
+      "details": "<p>Un sistema di tubi che porta l'aria dall'interno della nave a ugelli sul ponte, permettendo a chi lavora all'esterno di respirare con facilità anche in alta quota.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "ZgHrUz2KiX4MJndT": {
+      "name": "Arpagone",
+      "details": "<p>Una serie di artigli-rampino a corto raggio sui fianchi della nave, usati per avvicinare le navi nemiche per l'abbordaggio. Più che un'arma vera e propria, uno strumento d'aiuto negli scontri ravvicinati.</p>",
+      "type": "Armamenti da Scafo"
+    },
+    "ICw4qXsRETLaydzF": {
+      "name": "Arpionieri",
+      "details": "<p>Quando gettate l'ancora, ottenete automaticamente un campione normale.</p>",
+      "type": "Squadre"
+    },
+    "TBCbfvhYN7zCdsKt": {
+      "name": "Arti Navapodici",
+      "details": "<p>Arti da millepiedi che rivestono lo scafo, permettendo alla nave di zampettare attraverso il fruscio. Sempre che un vascello del genere possa ancora essere chiamato nave, s'intende.</p><p>Infligge danni RAV Perforanti a impatto totale.</p>"
+    },
+    "2tvXvGpIkZyBKHET": {
+      "name": "Artiglio Pseudomatico",
+      "details": "<p>Una macchina dotata di anima, simile a una corazzata. Funge da gru da carico fluttuante, capace di spostarsi da un punto all'altro grazie all'energia spirituale.</p>",
+      "type": "Branchi d'Ascesa"
+    },
+    "Xb38OQ2Ik7JzPjUG": {
+      "name": "Atmosfuretti",
+      "details": "<p>Piccole bestie agili dal pelo arruffato, tenute soprattutto per compagnia o per distrarsi ad altitudini estreme.</p>",
+      "type": "Branchi d'Ascesa"
+    },
+    "2acqxuSPzDbOOJj8": {
+      "name": "Bagno Voltaico",
+      "details": "<p>Una sala di terapia sperimentale ideata da chirurghi e smanettoni al lavoro insieme. Quando la nave getta l'ancora, un singolo navigaselva può guarire una casella di uno dei suoi tracciati ferita (una volta per personaggio per viaggio).</p>",
+      "type": "Luce, Energia e Suono"
+    },
+    "xExevwqVKZxzKfOs": {
+      "name": "Balista Esplosiva",
+      "details": "<p>Una postazione simile a una balestra che spara dardi esplosivi. Infligge danni AD Esplosivi a impatto totale.</p>",
+      "type": "Armamenti da Ponte"
+    },
+    "Ucptd5BEsTICPAqJ": {
+      "name": "Banca dei Semi Interna",
+      "details": "<p>Una stanza dedicata non solo a conservare i semi al sicuro, ma anche a depurarli dalla contaminazione del crezzerin con metodi dolorosamente lenti ma affidabili, usati da generazioni di coltivatori di parassiti.</p><p>All'inizio di un viaggio, scegli una singola serie di semi con l'etichetta \"Selvatico\" o \"Rigoglioso\". Alla fine del viaggio, quei semi perdono l'etichetta originale e ottengono invece l'etichetta \"Parassita\".</p>",
+      "type": "Orti di Bordo"
+    },
+    "LrvRfCoDbcXNDN13": {
+      "name": "Bandiere Colorate",
+      "details": "<p>Più probabili ad attirare l'attenzione che a dissiparla, eppure alcuni aeronauti ci giurano sopra.</p><p>Uso Alternativo: Si può inviare un singolo messaggio in Pelagico a distanze estreme che normalmente non sarebbero possibili.</p>",
+      "type": "Disturbatori"
+    },
+    "iawQuUFmjYs8NO1Y": {
+      "name": "Bandiere Volpi di Rame",
+      "details": "<p>Imitazioni ben fatte in cima a pali isolati: il tessuto sigillato con la cera e i bordi metallici di queste finte vulpivere attirano la furia dei fulmini di una tempesta vivente lontano dalle aree più esposte della nave.</p><p>Uso Ottimale: Estendile al momento giusto per sventare un fulmine, ripulendo una casella bruciata da qualsiasi occhio di natura meteorologica.\nUso Alternativo: Tengono la nave al sicuro dalle tempeste non viventi, oppure caricano le batterie di ceramica.</p>",
+      "type": "Disturbatori"
+    },
+    "kfs8sFFNxy5LcaYR": {
+      "name": "Batteria di Aquiloni",
+      "details": "<p>Più rapida, ma molto più pericolosa di altri metodi rudimentali. La batteria di aquiloni è una complessa serie di vele, corde e tele che può essere dispiegata per un'improvvisa spinta ascensionale.</p><p>Costo di Decollo: Rostro\nStili di Volo: Slancio, Planare</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "9tbgAksbxqY1FPZS": {
+      "name": "Batterie di Ceramica",
+      "details": "<p>Batterie che immagazzinano elettricità, collegate per regolare e distribuire l'energia. Il loro ronzio crepitante rende inquieti gli insetti vicini (e i membri superstiziosi della ciurma).</p><p>Alimentato dai fulmini.</p>"
+    },
+    "Py7iXey9lWGtG0Je": {
+      "name": "Biblioteacaro",
+      "details": "<p>Quando attraccate in un porto, ottenete automaticamente una carta nautica normale.</p>",
+      "type": "Sciami"
+    },
+    "0G93PC3uGPcRHFXn": {
+      "name": "Biblioteca",
+      "details": "<p>Un nome decisamente esagerato per quella che il più delle volte è una piccola scorta di libri, pergamene e tavolette incise.</p>",
+      "type": "Cabine Aeree"
+    },
+    "Oz8vPOYburMZlsYV": {
+      "name": "Blatte della Ruggine",
+      "details": "<p>Quando attraccate in un porto, ottenete automaticamente un materiale di recupero normale.</p>",
+      "type": "Sciami"
+    },
+    "8EP4GprVfdtkGhDy": {
+      "name": "Bolla Ameboide",
+      "details": "<p>Una viscida bolla alchemica che ricopre ogni area esposta del ponte, cangiante come l'olio.</p><p>L'area del ponte beneficia delle resistenze dell'interno della nave.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "fSoLXpwz3U5Inepj": {
+      "name": "Bollitore di Rame delle Gronde",
+      "details": "<p>Contenendo una miscela sempre in ebollizione di erbe, spezie e liquidi alchemici ustionanti, questo bollitore sovradimensionato può essere inclinato per rilasciare getti pressurizzati di vapore bollente. Infligge danni AD Incenerenti a impatto totale. Nonostante le temperature intense, il vapore non dà mai fuoco alle cose.</p>",
+      "type": "Armamenti da Profondità"
+    },
+    "1uSghHZK4Su4bnKW": {
+      "name": "Bombarda",
+      "details": "<p>Spara nubi di metallo lacerante, di solito bracciate di ritagli di rottami gettati nella canna. Infligge danni AD Laceranti a impatto totale.</p>",
+      "type": "Armamenti da Ponte"
+    },
+    "EqauR8ksxshxqFSE": {
+      "name": "Braccia di Gufo",
+      "details": "<p>Segna il tracciato delle braccia di gufo per ottenere la risorsa Preda Appena Catturata.</p>",
+      "type": "Squadre d'Ascesa"
+    },
+    "6YYDIsURXNiRr95K": {
+      "name": "Branco di Lemuri",
+      "details": "<p>Un gruppo di agili aiutanti che tiene la nave libera dagli insetti più piccoli.</p>",
+      "type": "Branchi"
+    },
+    "9fuVlJrXfQ77MwRq": {
+      "name": "Branco di Spettrolinci",
+      "details": "<p>Gatti semi-spettrali che di solito si trovano nei cantieri navali e nei vicoli delle città sulle strisce; gli spettrolinci nati a bordo passano gran parte del tempo a cacciare ratti e a trovare modi per infilarsi negli spazi più assurdamente scomodi.</p>",
+      "type": "Branchi"
+    },
+    "hqpp3JzEpnS894mL": {
+      "name": "Branco di Vulpivere",
+      "details": "<p>Un gruppo di vulpivere che danzano e saltano tra le onde intorno alla tua nave mentre viaggi. Il loro comportamento può avvertire dei pericoli provenienti dalle chiome più profonde.</p>",
+      "type": "Branchi"
+    },
+    "TMNbRaHtlx46Vjja": {
+      "name": "Brulicante",
+      "details": "<p>Grandi meccanismi simili a dita, distribuiti intorno alla parte anteriore della nave, le permettono di muoversi tra le onde strisciando.</p><p>Infligge danni RAV Contundenti a impatto totale.</p>"
+    },
+    "yhzWPLQVD4f2YgXy": {
+      "name": "Calamari Fraterni",
+      "details": "<p>Bestiole tentacolari affettuose che sembrano esserci sempre quando ne hai bisogno.</p>",
+      "type": "Branchi da Profondità"
+    },
+    "jSHd0qFVn47cPYeQ": {
+      "name": "Cambusa",
+      "details": "<p>Uno spazio per riunirsi, cucinare e mangiare, pieno di padelle e pentolame, di solito con un fornello chimico.</p>",
+      "type": "Cabine Comuni"
+    },
+    "s9v5J3oCcyOXXI03": {
+      "name": "Camere a Schegge",
+      "details": "<p>Frammenti di una pietra viaggiante sono collocati in punti strategici della struttura della nave. Detestano i cieli, ma eccellono nel filare attraverso le profondità e gli spazi spalancati delle fratture.</p><p>Costo di Decollo: Velocità\nStili di Volo: Fluttuare, Librarsi, Planare\nFunzionano solo quando la nave si trova all'altezza del Fruscio o al di sotto.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "esJs5OIBvJAZB3Ss": {
+      "name": "Cannone a Bolas",
+      "details": "<p>I cavi zavorrati sparati da un cannone a bolas non sono fatti per avviluppare, come ci si potrebbe aspettare, ma per tagliare. Infligge danni AD Taglienti a impatto totale.</p>",
+      "type": "Armamenti Aerei"
+    },
+    "vxT9zmBRG0EwceLw": {
+      "name": "Cannone ad Acqua di Quarzo",
+      "details": "<p>Ogni colpo è un bacio del più profondo inverno. Infligge danni AD Gelidi a impatto totale. Riduci le riduzioni quando attacchi bersagli piumati.</p>",
+      "type": "Armamenti Aerei"
+    },
+    "4goWHexFwnizP4cw": {
+      "name": "Cannone Voltaico",
+      "details": "<p>Due enormi aste di ottone avvolte da cavi mal schermati, collegate a un generatore voltaico. Infligge danni AD Elettrici a impatto totale.</p>",
+      "type": "Armamenti da Ponte"
+    },
+    "QgSH3O2tgaCAkBGv": {
+      "name": "Cannoni da Bordata",
+      "details": "<p>Un'esplosione da un passato semidimenticato: queste batterie di cannoni possono sparare solo a bersagli sui tuoi fianchi. Infliggono danni AD Contundenti o Esplosivi a impatto totale.</p>",
+      "type": "Armamenti da Scafo"
+    },
+    "R8Fjkx7ElbMVd4oj": {
+      "name": "Capanno sul Ponte",
+      "details": "<p>Ancora più disordinati dell'officina media, i capanni sono riforniti di una varietà di attrezzi semplici per la manutenzione e la preparazione degli appezzamenti dell'orto di bordo.</p>",
+      "type": "Orti di Bordo"
+    },
+    "iLgMGdb2s95t00It": {
+      "name": "Carroponte",
+      "details": "<p>Una robusta gru per caricare e scaricare le merci, capace di sollevare oggetti estremamente pesanti senza sbilanciare la nave.</p>",
+      "type": "Moduli Generici"
+    },
+    "ouCIXYwqCddIt82l": {
+      "name": "Cartografi",
+      "details": "<p>Quando gettate l'ancora, ottenete automaticamente una carta nautica normale.</p>",
+      "type": "Squadre"
+    },
+    "sDJr9XdGUMVoGllD": {
+      "name": "Cassa Fuoribordo",
+      "details": "<p>Una collezione di cianfrusaglie per lo più inutili in una cassa da carico piuttosto elegante, pensata apposta per attirare l'attenzione di saccheggiatori e predoni dopo essere stata spinta fuori bordo.</p><p>Uso Ottimale: Spingila fuori bordo per ripulire una casella bruciata da qualsiasi occhio di natura predona.</p>",
+      "type": "Disturbatori"
+    },
+    "rTVtAqRmN50pw1Hu": {
+      "name": "Catapulta da Sbarco",
+      "details": "<p>Una sezione del ponte caricata a molla, usata per catapultare velocemente i battistrada tra le onde. Ottima per cogliere di sorpresa le altre navi, ma la logistica per ricaricare un battistrada per un altro lancio è... complicata.</p>",
+      "type": "Sganciare e Rimorchiare"
+    },
+    "JuD5XxoHFJCK5lPp": {
+      "name": "Catastrofapulta",
+      "details": "<p>Un'arma da ponte biforcuta che spara proiettili a forma di testa d'ascia usando molle e tensione accumulata. Infligge danni AD Trincianti a impatto totale.</p>",
+      "type": "Armamenti Aerei"
+    },
+    "HKxBJWiWlmYOpTky": {
+      "name": "Cavi Cumulonembo",
+      "details": "<p>Funzionano secondo gli stessi principi alchemici del filo delle nubi: sparano sottili filamenti in alto nell'aria, che trascinano con sé la nave mentre cercano il vapore acqueo.</p><p>Costo di Decollo: Manovrabilità\nStili di Volo: Fluttuare, Librarsi, Volteggiare\nFunzionano solo quando la nave ha una linea di vista diretta verso le nubi.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "hlOfv2QYVzgyfuwO": {
+      "name": "Cavi da Traino",
+      "details": "<p>Per gli equipaggi con un budget limitato, a volte non c'è altra scelta che rimorchiare un battistrada dietro la nave principale e sperare che non si danneggi troppo nel frattempo.</p>",
+      "type": "Sganciare e Rimorchiare"
+    },
+    "rtWbPBvH3zVQmIzi": {
+      "name": "Cavi di Galleggiamento",
+      "details": "<p>Ganci simili a quelli di un mordente a rampini, progettati per agganciarsi ai detriti fluttuanti. Non comodi come un'ancora aerea, ma garantiscono che un'aeronave incustodita non si sposti affatto da dove viene lasciata.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "0mZkSW9uE6Z9kO0i": {
+      "name": "Cavi di Ritegno",
+      "details": "<p>Rotoli di gomma-foglia rinforzata e spago, progettati per srotolarsi lentamente e riavvolgersi velocemente.</p><p>I membri dell'equipaggio che hanno il tempo di agganciare un cavo prima di lasciare la nave in profondità ottengono un bonus temporaneo da 3 caselle, Cavo di Ritegno. Il tracciato del cavo può essere segnato per dondolarsi brevemente sul cavo, o per farsi strattonare verso il ponte della nave.</p>",
+      "type": "Equipaggiamento da Profondità"
+    },
+    "kIMkidSRca0okpnF": {
+      "name": "Cavi di Sicurezza",
+      "details": "<p>Collegati da un anello incassato nel ponte alla cintura o all'imbracatura di un navigaselva, trasformano una caduta pericolosa in un imbarazzante penzolare a mezz'aria.</p><p>Lavorare con un cavo agganciato è più sicuro, ma anche più goffo: è frequente subire riduzioni nelle azioni compiute con altri compagni agganciati intorno.</p>",
+      "type": "Equipaggiamento da Aeronauta"
+    },
+    "kMbhK4mewZ6vgdPd": {
+      "name": "Cella di Conservazione",
+      "details": "<p>Uno spazio pulito per lavorare e conservare i campioni.</p>",
+      "type": "Cabine Comuni"
+    },
+    "7zMJgIYdfutn5SQW": {
+      "name": "Cella Frigorifera",
+      "details": "<p>Una stanza isolata dove il respiro si condensa nell'aria, perfetta per conservare i deperibili e sfuggire al bagliore del sole.</p>",
+      "type": "Cabine Comuni"
+    },
+    "CDAPcPuriGxZgnZe": {
+      "name": "Centopacciame",
+      "details": "<p>Quando semini un fungo, un muschio o una pianta predatrice nel centopacciame, segna immediatamente una casella del suo tracciato.</p>",
+      "type": "Substrati"
+    },
+    "0NAqHulrK4biDccm": {
+      "name": "Ceramica",
+      "details": "<p>Un guscio di pesante argilla cotta. Appariscente e fragile, a meno che non venga mantenuto con grande cura.</p>"
+    },
+    "2r4HKAmjHm40IgdE": {
+      "name": "Cercacuori",
+      "details": "<p>Caricato con proiettili viventi affamati di una gloria ben al di là delle loro possibilità. Riduci di uno le riduzioni negli attacchi contro leviatani e protoleviatani.</p>",
+      "type": "Lanciasiluri"
+    },
+    "t9xHc5TzOM6DnLqz": {
+      "name": "Cespuglio di Bacche Annegate",
+      "details": "<p>Anche se nella maggior parte delle condizioni si rifiuta di produrre qualcosa di commestibile, quando lo fa ne vale la pena. Una volta per viaggio (se sei sceso fino all'Annegatoio), ottieni il campione Bacche Annegate Medicinali.</p>",
+      "type": "Moduli da Profondità"
+    },
+    "YIEHIlfAX6VgwDuy": {
+      "name": "Cesti di Vimini",
+      "details": "<p>Tutte le piante coltivate nei cesti di vimini hanno immunità ai danni subiti dalla nave nel suo complesso (ma possono comunque subire effetti negativi diretti contro di loro).</p>",
+      "type": "Appezzamenti"
+    },
+    "i6Fwd4Jv5xAwxeAn": {
+      "name": "Chiatta a Rimorchio",
+      "details": "<p>La distanza della chiatta dalla nave principale fa sì che i pericoli o le condizioni avverse che colpiscono il ponte non colpiscano necessariamente la chiatta, e viceversa.</p>",
+      "type": "Appezzamenti"
+    },
+    "j6pglbeMA3nhkXQD": {
+      "name": "Chioma-Boccaporti",
+      "details": "<p>Una serie di portelloni integrati nello scafo che si aprono direttamente sulle onde dall'interno della nave, permettendo ai battistrada di partire e attraccare da soli o di essere \"raccolti\" dalla nave madre mentre si muove.</p>",
+      "type": "Sganciare e Rimorchiare"
+    },
+    "uVEJMwKSPauYnL1D": {
+      "name": "Chitina",
+      "details": "<p>Ricavata dai gusci raccolti degli insetti più grandi del Selvapelago. Liscia, offre pochissimo attrito e pochi appigli.</p>"
+    },
+    "enGME69TDU8p1QDo": {
+      "name": "Cilindro Ambrato",
+      "details": "<p>Di solito si estende per tutta la lunghezza del ponte: un giroscopio impregnato di sogni rivolti alle nubi.</p><p>Costo di Decollo: Manovrabilità\nStili di Volo: Slancio, Librarsi</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "SzMFuGx8QVtKMltW": {
+      "name": "Cingolato",
+      "details": "<p>Cingoli motorizzati con rampini lungo la chiglia e i fianchi dello scafo; una scelta lenta, solida e affidabile.</p><p>Infligge danni RAV Trincianti a impatto totale.</p>"
+    },
+    "3WMrUP5wI2ff3El0": {
+      "name": "Cingoli a Bruco",
+      "details": "<p>Ti permettono di rimetterti in movimento dopo aver gettato l'ancora (nell'Abbraccio di Dimm) senza subire riduzioni né perdere impatto.</p>"
+    },
+    "uYKgHNWpXNm1P9Z2": {
+      "name": "Coccinelle Dorate",
+      "details": "<p>Tutti i tuoi appezzamenti hanno resistenza alle erbacce.</p>",
+      "type": "Branchi da Giardinaggio"
+    },
+    "2ZMfnvl3f1kui8uj": {
+      "name": "Coglisole",
+      "details": "<p>Un apparato simile a una vela che si increspa e si gonfia alla luce del sole.</p><p>Efficace solo alla luce diretta del sole.</p>"
+    },
+    "LIbv4ZpohGWofqCB": {
+      "name": "Coglitori",
+      "details": "<p>Quando gettate l'ancora, ottenete automaticamente un materiale di recupero normale.</p>",
+      "type": "Squadre"
+    },
+    "3QNJrEsf9auf0Zwz": {
+      "name": "Colonia Aracnide",
+      "details": "<p>Un tempo una tzelicrae, ora a malapena tenuta insieme, una colonia aracnide può ottenere poco su una nave, a parte tenere lontani insetti e roditori.</p>",
+      "type": "Sciami"
+    },
+    "mAWTCZoiRZjHzIsB": {
+      "name": "Colonia di Cineticanti",
+      "details": "<p>Una volta per viaggio puoi Seguire la Rotta senza usare il mordente o il motore. Aumenta di due segni il tracciato base Furtività per la durata di questo movimento.</p>",
+      "type": "Moduli da Profondità"
+    },
+    "F72wVak8GEkkyQKx": {
+      "name": "Colonia di Scorpioni",
+      "details": "<p>Scorbutici, pazienti e velenosi, spesso si trovano a prendere il sole sui parapetti o nascosti negli stivali.</p>",
+      "type": "Sciami"
+    },
+    "tApbpj62dD67lv7X": {
+      "name": "Colonia Fungina",
+      "details": "<p>Una fossa di terra buia e coperta per coltivare funghi.\nQuando usi un compito per curare la colonia fungina, ottieni automaticamente un campione a base di funghi.</p>",
+      "type": "Moduli da Risorse"
+    },
+    "X3iXVfE1bjz1bSrx": {
+      "name": "Colpo di Scorpione",
+      "details": "<p>Un'arma caricata a molla che cigola in modo allarmante a ogni scossone della nave, con una potenza tale che \"spararla\" tende a scuotere il vascello fino al profilo. Infligge danni RAV Trincianti a impatto totale. Puoi segnare uno dei tuoi tracciati base per dirottare il riflettore e attaccare con questo armamento (una volta per scena).</p>",
+      "type": "Armamenti da Profondità"
+    },
+    "XN5mh7slEkkp4q8X": {
+      "name": "Coltura di Alghe",
+      "details": "<p>Anche se difficili da mantenere, le colture di alghe offrono un'opportunità senza precedenti tanto ai sarti quanto ai rammendatori.</p><p>Aumenta di due caselle i tracciati di crescita delle piante di questo appezzamento. Ogni volta che raccogli una pianta da una coltura di alghe, ottieni un campione aggiuntivo di tintura colorata legata alla pianta.</p>",
+      "type": "Soluzioni Complete"
+    },
+    "LYVCEu7o9lWYrD73": {
+      "name": "Composito",
+      "details": "<p>Costruiti per essere regolabili e reattivi, i profili compositi sono spesso multi-segmentati o in qualche modo snodati.</p>"
+    },
+    "NigZhvVjZ27OvX3X": {
+      "name": "Compressore Chimico",
+      "details": "<p>Il motore più comune delle onde fruscianti, affidabilmente inaffidabile ma estremamente facile da alimentare.</p><p>Alimentato con frutta schiacciata e gusci di insetti.</p>"
+    },
+    "zVwCPBK0YHusaXvz": {
+      "name": "Compressore Solare",
+      "details": "<p>Fatto per immagazzinare, liquefare e pressurizzare la luce del sole.</p><p>Si alimenta naturalmente nelle giornate di sole.</p>"
+    },
+    "MFoFN3HnlPJvYvRw": {
+      "name": "Contorno di Gesso",
+      "details": "<p>Qualsiasi tempesta, viaggio accidentato o danno alla nave rischia di danneggiare o distruggere del tutto l'appezzamento. Tira un d6: con un 6 va tutto bene, con 5 o 4 le piante sono danneggiate, con 3, 2 o 1 l'intero appezzamento è distrutto.</p>",
+      "type": "Appezzamenti"
+    },
+    "7DWmDWg2iudj2Nyi": {
+      "name": "Contro-Scrutinatore",
+      "details": "<p>Il cielo osserva, ma questa nave ricambia lo sguardo. Un sistema di lenti d'ambra e cavi a carica arconautica conduce a uno schermo centrale, creando un display semplice ma accurato simile a un radar.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "bdRGOmg4b7ssd3XT": {
+      "name": "Corde da Traino",
+      "details": "<p>Usate per trascinare la nave, lentamente e faticosamente, attraverso aree con ampi varchi tra i rami. Capaci di sostenere grandi pesi, ma devono essere fissate a mano a tronchi e rami lontani.</p>",
+      "type": "Moduli Generici"
+    },
+    "6jGiKG1OOURALp2W": {
+      "name": "Corona di Zanne Cave",
+      "details": "<p>Disposte ad anello intorno al ponte come farebbero sulla mascella inferiore di un leviatano, il fatto che queste zanne siano piene di gas fa ben poco per placare i mormorii inquieti della ciurma.</p><p>Costo di Decollo: Rostro\nStili di Volo: Fluttuare, Slancio, Librarsi, Planare\nRiduci di uno le riduzioni nelle acrobazie aeree eseguite mentre sei incalzato o inseguito da una minaccia aerea.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "XdOAMQsS9wqd1zbG": {
+      "name": "Corteccia Grezza",
+      "details": "<p>Raccolta dalle ferradici. Irregolare e difficile da mantenere, ma a distanza tra le onde è facile non notarla.</p>"
+    },
+    "MzfSVWiZcVH4woYq": {
+      "name": "Corteccia Scorbutica",
+      "details": "<p>Quando semini un frutto, una bacca o un muschio nella corteccia scorbutica, segna immediatamente una casella del suo tracciato.</p>",
+      "type": "Substrati"
+    },
+    "GpkOIfadirSp0maY": {
+      "name": "Cranio Cavo di Bestia",
+      "details": "<p>Tutte le piante coltivate in un cranio di bestia hanno immunità alla predazione da parte delle bestie (ma non degli insetti).</p>",
+      "type": "Appezzamenti"
+    },
+    "h7KlmFU5YhBIfS3v": {
+      "name": "Crezzercannone",
+      "details": "<p>Cerchi di coltivare le cose alla vecchia maniera? Tanto vale sfruttare tutto quel crezzerin in eccesso... Infligge danni AD Tossici a impatto totale.</p>",
+      "type": "Armamenti da Giardinaggio"
+    },
+    "adaK9MSKejc7daOq": {
+      "name": "Crezzimenea",
+      "details": "<p>Costruzioni bulbose di metallo e argilla con sommità a canna fumaria e più portelli, piene di pacciame imbevuto di crezzer e di coleotteri allevati appositamente.</p><p>I risultati duplicati dell'ibridazione aggiungono alla pianta una nuova etichetta, copiata da una risorsa esistente di un qualsiasi membro dell'equipaggio.</p>",
+      "type": "Appezzamenti Ibridi"
+    },
+    "9xRYEMpxAlnewZ6l": {
+      "name": "Crisalide",
+      "details": "<p>Uno scafo ricavato dalla crisalide abbandonata di un insetto gigantesco, un'eccellente protezione contro le infiltrazioni del mare.</p>"
+    },
+    "MspLzX0leVBH5E6n": {
+      "name": "Crotalo",
+      "details": "<p></p>",
+      "type": "Telaio da Battistrada"
+    },
+    "yCflOngzoBBBsFi6": {
+      "name": "Cuccette di Lusso",
+      "details": "<p>Spazi individuali in cui ogni membro dell'equipaggio può dormire, con arredi morbidi e decorazioni di buon gusto.</p>",
+      "type": "Cabine Comuni"
+    },
+    "hmgD2lUVMzb3u5ud": {
+      "name": "Cumulo di Rottami",
+      "details": "<p>Subisci una riduzione di 1 quando cerchi di raccogliere le piante di questo appezzamento.</p>",
+      "type": "Appezzamenti"
+    },
+    "41G4GleC88bMacZp": {
+      "name": "Cuore Rubato alla Tempesta",
+      "details": "<p>C'è una probabilità non nulla che verrai inseguito con ostinazione finché il tuo equipaggio non sarà arrostito e la tua nave ridotta a nient'altro che un ricordo carbonizzato. Ma, fino ad allora, è un ritrovamento formidabile.</p><p>Costo di Decollo: Guarnizioni\nStili di Volo: Fluttuare, Librarsi, Volteggiare\nRiduci di uno le riduzioni nelle acrobazie aeree eseguite nelle tempeste, viventi o meno.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "5RsaqJYu61DYI0QD": {
+      "name": "Cupola d'Osservazione",
+      "details": "<p>Una bolla di vetro o d'ambra, di solito sul fianco o sulla poppa della nave, con un piccolo sedile all'interno.</p>",
+      "type": "Strutture Esterne"
+    },
+    "av7HagjEySpyigOe": {
+      "name": "Da Brigantaggio",
+      "details": "<ul><li><p>Parapetti fortificati per dare copertura all'equipaggio mentre spara (o gli sparano addosso).</p></li><li><p>Porte stagne che possono essere chiuse e sbarrate per isolare le squadre d'abbordaggio.</p></li><li><p>Una cassa armeria con armi prese come bottino in incontri precedenti, che dà all'equipaggio che combatte sul ponte o sottocoperta facile accesso ai danni Contundenti o Esplosivi.</p></li></ul>",
+      "type": "Funzione"
+    },
+    "gYG3Ws4oYvhqIWaD": {
+      "name": "Da Caccia",
+      "details": "<ul><li><p>Trofei di ossa, pelliccia o chitina esposti in bella vista sullo scafo esterno.</p></li><li><p>Un'area di carico modificata, completa di recinti per animali.</p></li><li><p>Una serie di attrezzi da caccia e da macellazione, che dà all'equipaggio che combatte sul ponte o sottocoperta facile accesso ai danni RAV Taglienti o Perforanti.</p></li></ul>",
+      "type": "Funzione"
+    },
+    "Dh7nLZ0jSWt26hn0": {
+      "name": "Da Carico",
+      "details": "<ul><li><p>Passerelle, argani e portelloni per caricare e scaricare rapidamente in porto</p></li><li><p>Un'area di carico ampliata con sicurezza extra e reti per i colli di forma strana</p></li><li><p>Una gru da carico affidabile integrata nella struttura della nave, per sostenere e trasportare casse e oggetti particolarmente pesanti</p></li></ul>",
+      "type": "Funzione"
+    },
+    "of9Hh3OoJvBn55Oq": {
+      "name": "Da Esplorazione",
+      "details": "<ul><li><p>Ninnoli e cianfrusaglie delle varie culture incontrate, fissati allo scafo.</p></li><li><p>Una sala macchine rinforzata, protetta da una seconda serie di guarnizioni o paratie.</p></li><li><p>Una serie di attrezzi per sgombrare la vegetazione, che dà all'equipaggio che combatte sul ponte o sottocoperta facile accesso ai danni Trincianti o Laceranti.</p></li></ul>",
+      "type": "Funzione"
+    },
+    "tGqjEWbk1lYvNAGT": {
+      "name": "Da Immersione Profonda",
+      "details": "<p>Nessun equipaggio viaggia regolarmente nelle profondità senza un buon motivo, o almeno così si spera.</p><ul><li><p>Segni superstiziosi sullo scafo e amuleti per tenere lontani i leviatani (di dubbia efficacia)</p></li><li><p>Sfiati-esca al miele per attirare gli insetti lontano da porte e oblò</p></li><li><p>Una serie di attrezzi per sgombrare la vegetazione, che dà all'equipaggio sul ponte o sottocoperta facile accesso ai danni Trincianti o Laceranti</p></li></ul>",
+      "type": "Funzione"
+    },
+    "O9lrLtYpOHZVO6PE": {
+      "name": "Da Intrattenimento",
+      "details": "<ul><li><p>Un aspetto sgargiante che attira lo sguardo.</p></li><li><p>Un palcoscenico teatrale integrato nel ponte principale.</p></li><li><p>Materiale per costumi per rappresentare vari credi e personaggi.</p></li></ul>",
+      "type": "Funzione"
+    },
+    "nMQxT9RgzEn0Rg8g": {
+      "name": "Da Recupero",
+      "details": "<ul><li><p>Un aspetto graffiato e ammaccato, che fa quasi sembrare anche voi un relitto.</p></li><li><p>Un'area di carico modificata con banchi da lavoro e attrezzi per lo smontaggio.</p></li><li><p>Una gru a rampino integrata nella struttura della nave per agganciare grandi relitti, così da issarli sul ponte o trainarli a poppa.</p></li></ul>",
+      "type": "Funzione"
+    },
+    "K707VbJJkfNwMk5s": {
+      "name": "Da Ricerca",
+      "details": "<ul><li><p>Un livello di tecnologia in mostra più alto della media.</p></li><li><p>Una biblioteca per registrare le nuove scoperte e approfondire segreti e conoscenze.</p></li><li><p>Un sistema di scattografia, un complesso apparato fotografico montato sul ponte per catturare immagini delle onde e stamparle su carta fotosensibile.</p></li></ul>",
+      "type": "Funzione"
+    },
+    "f82llqmU8fz3YOZJ": {
+      "name": "Da Salvataggio",
+      "details": "<ul><li><p>Medicinali d'emergenza per alcuni dei malanni più comuni delle onde.</p></li><li><p>Un fotoscopio per individuare a grande distanza i riflessi dei relitti o i razzi di soccorso.</p></li><li><p>Una stanza d'isolamento imbottita di morbida resina d'ambra, per tenere l'equipaggio al riparo dalle malattie e rallentarne il decorso durante un viaggio.</p></li></ul>",
+      "type": "Funzione"
+    },
+    "x7eUZffhYSpXDXIr": {
+      "name": "Da Soma",
+      "details": "<p>Un sistema simile a un guinzaglio o a un giogo, che permette a bestie ben addestrate di trainare la nave come un carro.</p><p>Quando scegli questo mordente, decidi che tipo di bestie trattiene (i millepiedi giganti sono una scelta solida).\n\nUna nave con un mordente da soma non richiede la scelta di un motore dalla sezione successiva, ma le bestie stesse hanno bisogno di cure, cibo e sonno.</p>"
+    },
+    "U0G1cyFpqpsJ18rC": {
+      "name": "Da Trasporto",
+      "details": "<ul><li><p>Una verniciatura pulita e professionale per attirare potenziali passeggeri.</p></li><li><p>Alloggi per passeggeri integrati, con vari livelli di comfort. </p></li><li><p>Una stanza antipanico solidamente costruita, adatta a ospitare i passeggeri che non vogliono combattere nel caso in cui la nave venga attaccata o abbordata.</p></li></ul>",
+      "type": "Funzione"
+    },
+    "bfnCv3cldwkMBrDn": {
+      "name": "Danza della Luce Stellare",
+      "details": "<p>Gli equipaggi a cui è stata insegnata la danza della luce stellare conoscono le vie segrete per distrarre la luce affamata che sta lassù, usando forma e ritmo per annullarne il bisogno lancinante.</p><p>Uso Ottimale: Esegui la danza di notte con una fonte di luce aggiuntiva per ripulire una casella bruciata dalle Stelle Affamate.\nUso Alternativo: Invece di ripulire un occhio, tutti i compagni di equipaggio che danzano possono ripulire una casella di fardello.</p>",
+      "type": "Disturbatori"
+    },
+    "S0Q8HiljLP2zKz0C": {
+      "name": "Dente di Vipera",
+      "details": "<p>Un'arma instabile che spara un liquido corrosivo. Infligge danni AD Acidi a impatto totale.</p>",
+      "type": "Armamenti da Ponte"
+    },
+    "VqJyXf18gPRed2uf": {
+      "name": "Depuratore",
+      "details": "<p>Un sistema di filtraggio a imbuto. Ottieni automaticamente un barile di acqua fresca con l'etichetta\n\"Pura\" ogni volta che getti l'ancora o Segui la Rotta sotto la pioggia.</p>",
+      "type": "Moduli da Risorse"
+    },
+    "XSRqSCoVniWsNhCL": {
+      "name": "Distillatori di Vapore",
+      "details": "<p>Dopo aver attraversato un banco di nubi d'alta quota ottieni automaticamente la risorsa Acqua Pura.</p>",
+      "type": "Squadre d'Ascesa"
+    },
+    "XgE6rdnLIn8DdTNM": {
+      "name": "Donatza",
+      "details": "<p>Insetti ronzanti simili a libellule. La loro attività, di solito frenetica, rallenta in presenza di predatori aerei più grandi.</p>",
+      "type": "Sciami d'Ascesa"
+    },
+    "0zXrVFStZjydycz9": {
+      "name": "Dromati Cleptotermici",
+      "details": "<p>Tutti i tuoi appezzamenti hanno resistenza ai pericoli meteorologici.</p>",
+      "type": "Branchi da Giardinaggio"
+    },
+    "cogbEAUzW0T33j2D": {
+      "name": "Duraquercia",
+      "details": "<p>Assi di legno ricavate dagli alberi più affidabili del Selvapelago. Robuste e flessibili.</p>"
+    },
+    "6rGb1qufTYNdYxm5": {
+      "name": "Equipaggio Rattoppato",
+      "details": "<p>Per quanto inquietante possa essere la loro presenza, questi sacchi di foglie secche e ritagli raccolti tra le onde, animati da sussurri, possono essere spinti fuori bordo per adescare inseguitori affamati con un debole per l'equipaggio.</p><p>Uso Ottimale: Gettali fuori bordo per ripulire una casella bruciata da qualsiasi Occhio che segue l'equipaggio invece della nave.\nUso Alternativo: Raramente combinano granché, ma tanto vale mettere al lavoro quei sussurri. Invece di ripulire un Occhio, ripulisci un segno su due qualsiasi dei tracciati base della tua nave.</p>",
+      "type": "Disturbatori"
+    },
+    "3NpN6Zz6u0wpm4OJ": {
+      "name": "Estensione della Stiva",
+      "details": "<p>Uno spazio più ampio con reti da carico, rastrelliere a muro e sezioni rinforzate per gli oggetti più pericolosi.</p>",
+      "type": "Cabine Comuni"
+    },
+    "usZerNMHFUP2eiI9": {
+      "name": "Esteso",
+      "details": "<p>Distribuisce i ponti e le cabine della nave su un'area più ampia e piatta del solito. La nave non subisce mai riduzioni nei movimenti per attraversare rami sottili o fragili.</p>"
+    },
+    "hIbDugQo3yb35y4f": {
+      "name": "Etterescu",
+      "details": "<p>Quando attraccate in un porto, ottenete automaticamente un sussurro normale.</p>",
+      "type": "Sciami"
+    },
+    "OA34VBw5OBwz5f26": {
+      "name": "Falena Occhio di Falco",
+      "details": "<p>Una falena grande quanto un grosso cane, i cui disegni sulle ali fissano l'esterno per confondere e intimidire i potenziali predatori... compreso il cielo eternamente affamato. Riduci di uno le riduzioni quando cerchi di resistere agli effetti dello Scrutinio mentre sei vicino alla falena occhio di falco della nave.</p>",
+      "type": "Sciami d'Ascesa"
+    },
+    "OpxMoWv2RtimnOQP": {
+      "name": "Farfalle Coda di Drago",
+      "details": "<p>Farfalle dalle splendide ali allungate. Non fanno nulla di utile, ma molti le considerano dei portafortuna.</p>",
+      "type": "Sciami"
+    },
+    "kDGi4tZBtrTCsCan": {
+      "name": "Fari Chimici",
+      "details": "<p>Illuminano le aree circostanti con la chiarezza del giorno.</p>",
+      "type": "Moduli Generici"
+    },
+    "tkrJ2HZr3kcc8OAZ": {
+      "name": "Fasce Intagliate",
+      "details": "<p>Fatte per scorrere verso l'alto dai bordi della nave e incastrarsi sopra il ponte, ogni fascia di duraquercia è al tempo stesso flessibile e resistente.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "g0PW9m31I2bIXV3J": {
+      "name": "Fasciame Parassita",
+      "details": "<p>Legno tagliato con cura dai rami di vecchie coltivazioni di parassiti, trattato per resistere ai danni ma abbastanza naturale perché le piante possano ancora attecchire.</p><p>Ottieni sulla tua nave due appezzamenti chiamati \"aiuole del fasciame\". I semi di parassita seminati in questi appezzamenti non ottengono la consueta casella extra sui loro tracciati di crescita.</p>"
+    },
+    "a8hIHoCs0uecC48M": {
+      "name": "Fendibufera",
+      "details": "<p>Riduci l'impatto delle tempeste quando ti muovi attraverso le nubi che le compongono. Inoltre, la tua nave ha resistenza ai fulmini.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "HOH0GiDJyoqclO2d": {
+      "name": "Ferrovena",
+      "details": "<p>Placcatura metallica proveniente da navi dismesse, rimodellata per il tuo profilo. Durevole e resistente alla ruggine.</p>"
+    },
+    "Uy95gdFa4X1Hl9Ic": {
+      "name": "Fioriera da Oblò",
+      "details": "<p>Ogni volta che la tua nave scende più in profondità del Fruscio, il tuo appezzamento è a rischio. Tira un d6: con un 6 va tutto bene, con 5 o 4 le piante sono danneggiate, con 3, 2 o 1 l'intero appezzamento è distrutto.</p>",
+      "type": "Appezzamenti"
+    },
+    "GykeNRks1EHRK1Cl": {
+      "name": "Fischiofono a Vapore",
+      "details": "<p>Un fischio stridulo e penetrante, usato per annunciare la propria presenza o spaventare gli abitanti più timidi del mare.</p>",
+      "type": "Moduli Generici"
+    },
+    "VuwRuAA2qhPHtlOf": {
+      "name": "Fitocarnivoro",
+      "details": "<p>Una grande pianta carnivora indotta a mettere radici nel vano motore, con i viticci intrecciati ai sistemi della nave.</p><p>Alimentato con materiale organico (preferibilmente vivo).</p>"
+    },
+    "NpDyMpf05e5MklJR": {
+      "name": "Fitoreazione",
+      "details": "<p>Sistemi pressurizzati pieni di sostanze chimiche fitofobiche, che rivestono lo scafo e spingono la nave.</p><p>Infligge danni RAV Acidi a impatto totale.</p>"
+    },
+    "NeqRoH9ETvqPntIa": {
+      "name": "Florammasso",
+      "details": "<p>Uno scafo di vegetazione vivente fatta crescere appositamente intorno al tuo profilo. Si confonde facilmente con il paesaggio marino.</p><p>Aumenti l'impatto quando usi la Furtività restando immobile.</p>"
+    },
+    "Mh7eOQ3jxxVzFrr7": {
+      "name": "Frammenti di Tempio",
+      "details": "<p>Le piante con l'etichetta \"Rigogliosa\" non occupano un quarto in più quando vengono seminate nei frammenti di tempio.</p>",
+      "type": "Substrati"
+    },
+    "KmfhjEC0hfDodGH5": {
+      "name": "Frangia Ondeggiante",
+      "details": "<p>Meglio non chiedere da quale creatura sia stata prelevata, né perché continui a muoversi.</p><p>Stile Aggiuntivo: Battito d'Ali</p>",
+      "type": "Sistemi di Sollevamento Ausiliari"
+    },
+    "UsBAP7cDDtWBZxRo": {
+      "name": "Frattaglie da Mannaia",
+      "details": "<p>Quando semini una noce o un narcotico nelle frattaglie da mannaia, segna immediatamente una casella del suo tracciato.</p>",
+      "type": "Substrati"
+    },
+    "mFbM6DF8uPyK1IkM": {
+      "name": "Furetti del Sartiame",
+      "details": "<p>Usati per fare e disfare nodi molto al di sopra del ponte, su navi che evocano la sensazione del vecchio mare salato.</p>",
+      "type": "Branchi"
+    },
+    "kpkqONdrt2L0df4M": {
+      "name": "Gabbia Trebbiatrice",
+      "details": "<p>Un sistema sempre in movimento di pali, catene e lame: l'intero sferragliante assemblaggio è collegato direttamente al motore della nave.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "GimR1S4UhcKKfNS5": {
+      "name": "Gabbiani Ciarlieri",
+      "details": "<p>Messaggeri alati con notevoli capacità di imitare i suoni, usati per trasmettere messaggi tra aeronavi.</p>",
+      "type": "Branchi d'Ascesa"
+    },
+    "gyONElPdBVjR4q2T": {
+      "name": "Gabbie di Uccelli Sparpaglianti",
+      "details": "<p>Per chi ha ambizioni più alte dell'addestramento degli insetti, queste file di gabbie possono essere aperte per riempire l'aria di uccelli estremamente arrabbiati. (Per lo più) tornano ai loro trespoli dopo aver sfogato la loro furia su qualsiasi cosa nei paraggi.</p><p>Uso Ottimale: Liberali per ripulire una casella bruciata da qualsiasi Occhio che segue la nave da sopra le nubi.\nUso Alternativo: Una furia di artigli e becchi ricopre il ponte, infliggendo danni RAV Perforanti a impatto totale a chiunque si trovi nelle vicinanze (compreso il tuo equipaggio, se è lì fuori).</p>",
+      "type": "Disturbatori"
+    },
+    "e8XESQ6CLbUVyHkP": {
+      "name": "Galli del Tramonto",
+      "details": "<p>Questi uccelli cantano al calare del sole invece che al suo sorgere, e si curano poco del vento gelido o della temperatura esterna.</p>",
+      "type": "Branchi d'Ascesa"
+    },
+    "7InzKq9kzx6IDQJu": {
+      "name": "Ganascia da Scafo",
+      "details": "<p>Una serie di morsetti d'attracco all'esterno della nave per tenere in posizione un battistrada, usati soprattutto per scialuppe di salvataggio e piccoli skipper da trasporto.</p>",
+      "type": "Sganciare e Rimorchiare"
+    },
+    "K3xttpZ5fkOzLu6S": {
+      "name": "Gatling a Canne Pepate",
+      "details": "<p>Fatta per scatenare una grandinata di fuoco di soppressione o per fare a brandelli i bersagli più piccoli. Infligge danni AD Perforanti o Laceranti a impatto superiore a tutti i bersagli in una piccola area.</p>",
+      "type": "Armamenti Aerei"
+    },
+    "iSWHCrR8Fr5TCJqU": {
+      "name": "Gattabuia",
+      "details": "<p>Un'amaca. Un secchio. Una porta con serratura e una serie di sbarre di ferro. Lo spazio angusto della maggior parte delle navi raramente permette molto di più.</p>",
+      "type": "Cabine Comuni"
+    },
+    "22Usa4eSiAbaLmTt": {
+      "name": "Generalista Promosso",
+      "details": "<ul><li><p>1 grado in tre abilità o lingue qualsiasi.</p></li></ul>",
+      "type": "Ufficiale d'Ascesa"
+    },
+    "GdSeDxUzGvoScDTF": {
+      "name": "Getti Catalitici",
+      "details": "<p>La meccanica è semplice, ma le sostanze chimiche e i rinforzi dello scafo necessari sono tutt'altro. Noti per sputare gas di scarico ustionanti dietro di sé.</p><p>Costo di Decollo: Guarnizioni\nStili di Volo: Slancio, Volteggiare\nPossono infliggere danni RAV Incenerenti o Acidi a impatto totale, ma senza il rischio che il fuoco si propaghi.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "YUT43CQknVIm4NhR": {
+      "name": "Giardino-Tumulo Commemorativo",
+      "details": "<p>La terra di sepoltura è rara in un mondo di sepolture in mare, ma alcuni seguono usanze più antiche delle onde.</p><p>Aumenta di due caselle la lunghezza del tracciato delle piante del giardino-tumulo. La prima volta che una pianta coltivata o raccolta nel giardino-tumulo dovrebbe ottenere un'etichetta negativa, ignorala (una volta per viaggio).</p>",
+      "type": "Soluzioni Complete"
+    },
+    "34rDcBIJAVAjtkIF": {
+      "name": "Giroscopio a Sussurri",
+      "details": "<p>Una girandola di sussurri appena visibili, ognuno un accenno di volo o di libertà. Offrono un volo più fluido, ma se l'apparato viene danneggiato le radiazioni linguistiche rischiano di contagiare l'equipaggio.</p><p>Stile Aggiuntivo: Volteggiare</p>",
+      "type": "Sistemi di Sollevamento Ausiliari"
+    },
+    "2iXaqMBa1SnDHzQk": {
+      "name": "Golem di Cordame",
+      "details": "<p>Una massa semi-senziente di corde animate che percorre le stanze e i corridoi della nave.</p><p>Non richiede carburante, ma le corde vanno sostituite quando iniziano a sfilacciarsi.\n\nI golem di cordame hanno una volontà propria e imprevedibile, che può manifestarsi in momenti inaspettati.</p>"
+    },
+    "peOTZf90q3NPjqqs": {
+      "name": "Grande",
+      "details": "<p>Può ospitare 10-20 membri d'equipaggio con spazio in abbondanza, e molti di più se necessario, a seconda del design interno e dei moduli aggiuntivi. Le navi grandi sono usate soprattutto per pattugliare le rotte commerciali nelle aree più rispettose della legge, o per trasportare coloni e squadre di ricerca per conto delle grandi fazioni.</p>"
+    },
+    "uxOt2WPPFCT03B5D": {
+      "name": "Grande Complicado",
+      "details": "<ul><li><p>Un aspetto complesso qualsiasi.</p></li><li><p>Il tracciato di un grande complicado è pari al tracciato dell'aspetto a cui ha accesso, più due caselle.</p></li></ul>",
+      "type": "Ufficiale da Profondità"
+    },
+    "wwxjtycCL8pyTD5w": {
+      "name": "Grappolo Cobra",
+      "details": "<p>La pioggia di esplosivi ad alta velocità forse non ha la forza di ferire i leviatani, ma può far male a quasi tutto il resto. Infligge danni AD Esplosivi o Acidi a impatto superiore a tutti i bersagli in una piccola area.</p>",
+      "type": "Armamenti Aerei"
+    },
+    "9lRKgRZnVLZy8tAz": {
+      "name": "Grappolo di Tarassaco",
+      "details": "<p>Grandi e soffici grappoli di semi che catturano il vento, con le radici indotte ad aggrapparsi alle sezioni più robuste della nave. Anche se non sono affidabili quanto a tempismo, questi enormi grappoli di tarassaco sollevano una nave con una facilità preoccupante.</p><p>Costo di Decollo: Nessuno\nStili di Volo: Fluttuare, Librarsi\nPuoi alzarti in volo solo con condizioni di vento favorevoli o con l'aiuto delle correnti termiche.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "gFz7dxPEDLIGgQo3": {
+      "name": "Gru da Carico",
+      "details": "<p>Un sistema per varare i battistrada, di solito dal ponte della nave. Può anche recuperarli direttamente dalle onde.</p>",
+      "type": "Sganciare e Rimorchiare"
+    },
+    "8Y2hVsFyVN9qWOBB": {
+      "name": "Gru Magnetica",
+      "details": "<p>Una curiosa gru elettromagnetica, spesso usata dai rovistatori. I comandi della gru possono aumentare, diminuire o interrompere del tutto il magnetismo.</p>",
+      "type": "Moduli Generici"
+    },
+    "GEoLUPrJzbCBvCk0": {
+      "name": "Guardaroba di Tute Alari",
+      "details": "<p>Queste tute non garantiscono in alcun modo il volo o la planata, ma li aggiungono come possibili esiti a una lista che altrimenti comprende solo \"precipitare verso la morte\".</p><p>I membri dell'equipaggio che hanno il tempo di indossarle prima di lasciare la nave ad alta quota ottengono un bonus temporaneo da 3 caselle, Tuta Alare (può tenere in aria un personaggio con venti favorevoli o interrompere una caduta letale).</p>",
+      "type": "Equipaggiamento da Aeronauta"
+    },
+    "qmOeaA4M21h73jUk": {
+      "name": "Guardastelle",
+      "details": "<p>Quando gettate l'ancora, ottenete automaticamente un sussurro normale.</p>",
+      "type": "Squadre"
+    },
+    "hOcqFFCAgmAKZ9nv": {
+      "name": "Guscio d'Ambra",
+      "details": "<p>Una calotta d'ambra retrattile che può racchiudere completamente il ponte. La natura traslucida del guscio offre una buona visuale a tutto tondo sul ponte, e la finitura senza interruzioni permette ai navigaselva sul ponte di beneficiare dei filtri d'aria interni della nave.</p><p>L'area del ponte beneficia delle resistenze dell'interno della nave.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "A2jyKOKlPfBSMEXY": {
+      "name": "Guscio di Noce Galleggiante",
+      "details": "<p>Anche se le ferradici da cui provengono non sono mai state trovate, la loro efficacia come via naturale al viaggio aereo è indiscutibile.</p><p>Costo di Decollo: Nessuno\nStili di Volo: Fluttuare, Planare\nPermettono di decollare solo dalle onde, e restano inerti entro i confini di un porto aereo.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "0PZ9DY0BByJgBhR2": {
+      "name": "Il Redivivo",
+      "details": "<p>Il primo progetto Ziggurat riuscito, assemblato molto prima che la maggior parte delle persone puntasse lo sguardo all'azzurro selvaggio.</p><p>Velocità +2 (solo in volo)\nStili di volo: Slancio, Volteggiare</p>"
+    },
+    "Htet0ti9KDry4Fjg": {
+      "name": "Imbracatura Celeste",
+      "details": "<p>Catene o corde ancorate in profondità nella struttura della nave: un'imbracatura celeste viene fornita completa di un protoleviatano dell'azzurro selvaggio ben addestrato.</p><p>Costo di Decollo: Armatura\nStili di Volo: Fluttuare, Slancio, Librarsi, Battito d'Ali\nLa creatura imbrigliata può infliggere danni RAV a impatto totale di un qualsiasi tipo scelto, tranne Incenerente.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "FY2EaKoyLtWYerFE": {
+      "name": "Impianto d'Irrigazione",
+      "details": "<p>Un osservatore attento potrebbe dire che è poco più di una serie di secchi e tubi ammassati insieme con guarnizioni di gomma-foglia. E avrebbe ragione.</p><p>Le condizioni aride non influiscono negativamente sulla crescita delle piante nell'orto di bordo (a meno che non durino per più viaggi di fila senza accesso all'acqua).</p>",
+      "type": "Orti di Bordo"
+    },
+    "a2j7KKeAaswTUJb9": {
+      "name": "Infermeria",
+      "details": "<p>Uno spazio pulito con tavoli e letti morbidi per i feriti e per chi li assiste.</p>",
+      "type": "Cabine Comuni"
+    },
+    "4mjsoi5OL0fUafO2": {
+      "name": "Infiorescenze Luminose",
+      "details": "<p>Chiazze di muschio o piante in fiore che emanano una luce pallida nelle ore più buie.</p>",
+      "type": "Moduli Generici"
+    },
+    "3M6QrXgM4ULpfXlT": {
+      "name": "Ingegneri di Coperta",
+      "details": "<p>Quando gettate l'ancora, ripulite automaticamente un segno da qualsiasi tracciato base danneggiato della nave.</p>",
+      "type": "Squadre"
+    },
+    "Cuzb3LXDgsB10HKz": {
+      "name": "Ingranaggi a Sette Denti",
+      "details": "<p>Qualcosa nel modo in cui questi ingranaggi si incastrano e girano è contrario alle entità spettrali, e persino i navigaselva ancorati e corazzati tendono a sentirsi nauseati in loro presenza.</p><p>L'interno della nave ha resistenza agli spiriti erranti.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "6MMjRGnse77F4qle": {
+      "name": "Innesto di Nepente Sputante",
+      "details": "<p>Una pianta predatrice delle profondità indotta a mettere radici tra le assi e la placcatura della tua nave. Infligge danni AD Acidi o Tossici a impatto totale.</p>",
+      "type": "Armamenti da Profondità"
+    },
+    "FZeq1hLxbdtWckml": {
+      "name": "Insetti Luminescenti",
+      "details": "<p>Dà a tutti i membri dell'equipaggio una propria fioca luce simile a una lanterna mentre sono sulla nave (a meno che non vengano scacciati).</p>",
+      "type": "Sciami"
+    },
+    "WMpTbRbwPGBzT7ql": {
+      "name": "Kaboara",
+      "details": "<p>Orribilmente complesso, ma innegabilmente efficace nell'aprire la strada, il kaboara si presenta come una serie di vasi, tubi e imbuti inclinati usati per indirizzare dosi di miscela alchemica esplosiva.</p><p>Infligge danni RAV Esplosivi a impatto totale.</p>"
+    },
+    "sCHU5nslja2XrkwX": {
+      "name": "Labirinto di Spago",
+      "details": "<p>Un appezzamento dai lati alti composto da aiuole inclinate, pali di metallo dentellati, terriccio trattato alchemicamente e un vero pantano di fili intrecciati.</p><p>I risultati duplicati dell'ibridazione vengono scartati, senza alcun effetto sulla pianta.</p>",
+      "type": "Appezzamenti Ibridi"
+    },
+    "m7vNwMr9c7Lsemll": {
+      "name": "Lana Grezza",
+      "details": "<p>Presa da scontrosi montoni di montagna, e puzza esattamente come ci si aspetterebbe. Però tiene basso il rumore.</p><p>L'interno della nave ha resistenza all'aria malsana.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "pwoRMq9kftkuGLtc": {
+      "name": "Lana Ovattante",
+      "details": "<p>Tosata da capre irsute che abitano l'Annegatoio, lasciata morbida all'interno della nave e laccata sullo scafo esterno.</p><p>L'equipaggio tratta i conflitti come trionfi quando cerca di nascondersi, restare in silenzio o passare inosservato all'interno della nave.</p>"
+    },
+    "JggmW7jLnHrxlUXG": {
+      "name": "Lancia di Hakebasu",
+      "details": "<p>Un filo conduttore luminoso collegato a un minuscolo uncino: i colpi della lancia sembrano fare pochi danni finché le batterie di ceramica integrate non si attivano completamente. Infligge danni AD Elettrici a impatto totale. Riduci le riduzioni se spari nel buio pesto.</p>",
+      "type": "Armamenti da Profondità"
+    },
+    "4nWHGFArJCfD8mVT": {
+      "name": "Lanciadardi Turbine",
+      "details": "<p>I dardi simili ad arpioni sparati da questo lanciatore ruotano mentre volano, perforando anche le pelli di leviatano più spesse. Infligge danni AD Perforanti a impatto totale. Riduci le riduzioni quando attacchi bersagli dalla pelle dura.</p>",
+      "type": "Armamenti Aerei"
+    },
+    "nvBwGxy6rh8NplbP": {
+      "name": "Lanterne a Lucciola",
+      "details": "<p>Una rete di lanterne i cui luminosi abitanti si svegliano o si addormentano con un colpetto sul vetro, pronte a illuminare qualsiasi parte della nave.</p>",
+      "type": "Moduli Generici"
+    },
+    "HWVCXRfJsss9jeJW": {
+      "name": "Lanterne da Segnalazione",
+      "details": "<p>Una serie di luci con otturatori per emettere segnali visivi lampeggianti a grandi distanze. Per usarle o comprenderle in modo efficace serve almeno un'infarinatura della lingua Pelagico.</p>",
+      "type": "Moduli Generici"
+    },
+    "5AQqK31zzCo8sdfW": {
+      "name": "Latta Nembo",
+      "details": "<p>Anche se meno impressionante del ferro o dell'acciaio in termini di difesa, la latta nembo è abbastanza leggera da non interferire troppo con il movimento aereo... E poi la sua strana colorazione chiazzata si intona bene con i cieli selvaggi.</p>"
+    },
+    "BqyREznckjpTuvTz": {
+      "name": "Lavaggio all'Aceto",
+      "details": "<p>Una volta per viaggio puoi rimetterti in movimento dopo aver gettato l'ancora (nell'Abbraccio di Dimm) senza subire riduzioni né perdere impatto.\nRiempire di nuovo i barili d'aceto in porto costerà probabilmente all'equipaggio qualche materiale di recupero (sempre che il porto disponga dei mezzi per aiutarlo).</p>",
+      "type": "Sfuggire all'Abbraccio"
+    },
+    "4oA3o2gHvBSWfIcK": {
+      "name": "Leggero",
+      "details": "<p>Realizzato con i materiali più leggeri possibili, nelle quantità più ridotte possibili.</p>"
+    },
+    "ib46HvDyQrywzW38": {
+      "name": "Legno di Radice",
+      "details": "<p>Assi per scafi tagliate dalla base delle ferradici, impregnate di trecento anni di storia verdeggiante e di incalcolabili eoni di tempo perduto.</p><p>Una volta per viaggio, la tua nave ignora i danni in arrivo da una fonte delle dimensioni di un leviatano.</p>"
+    },
+    "ScSRoR5AvEDt6xsA": {
+      "name": "Levia-Cardio",
+      "details": "<p>Un vero cuore di leviatano, che batte ancora per riflesso, collegato alla nave. Pompa un carburante nero e viscoso attraverso tubi e valvole.</p><p>Non richiede carburante, ma in un modo particolarmente inquietante.</p>"
+    },
+    "xoNNk2gYDM8at0cR": {
+      "name": "Levitazione Voltaica",
+      "details": "<p>Crepitanti di fulmini a stento contenuti, questi congegni fuoribordo permettono a una nave di fluttuare appena sopra i rami agitati del mare.</p><p>Infligge danni RAV Elettrici a impatto totale.</p>"
+    },
+    "lopjTXaXLe76ak14": {
+      "name": "Liane Parassite",
+      "details": "<p>Serpeggiando per tutta la nave, le foglie di queste liane tendono ad assorbire elementi insoliti mentre crescono.</p><p>L'interno della nave ha resistenza all'aria malsana.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "jJPWazAshaaxQz2r": {
+      "name": "Lingua d'Inverno",
+      "details": "<p>Un accessorio di prua che congela all'istante la vegetazione prima di tagliarla, lasciando una scia di cristalli di ghiaccio al passaggio della nave.</p><p>Infligge danni RAV Gelidi a impatto totale.</p>"
+    },
+    "Qb3NDo4jy3idp54c": {
+      "name": "Lingua di Drago",
+      "details": "<p>Un lanciafiamme pressurizzato che infrange ogni convenzione di logica, decenza e buon senso. Infligge danni AD Incenerenti a impatto totale. Quando spari tratta i trionfi come conflitti: causerà più problemi di quanti ne risolva.</p>",
+      "type": "Armamenti da Ponte"
+    },
+    "ttp88Y8ltkoU5erP": {
+      "name": "Lucciole Gastronome",
+      "details": "<p>Una volta per viaggio, le lucciole gastronome si posano su un campione commestibile con un'etichetta positiva vicino alla nave (fornito dalla Lucciola).</p>",
+      "type": "Sciami da Profondità"
+    },
+    "TsEBouX8XrI2v7Fy": {
+      "name": "Lumache Vetroguscio",
+      "details": "<p>Gli equipaggi con lumache vetroguscio a bordo imparano a camminare con leggerezza, specialmente di notte.</p>",
+      "type": "Sciami"
+    },
+    "M1Xg1xzmELnboUZK": {
+      "name": "Macchina dell'Eco",
+      "details": "<p>Un dispositivo simile a un sonar usato per trovare vene, rovine sommerse e navi nascoste. Usarlo in modo efficace durante un viaggio richiede che un membro dell'equipaggio lo azioni e lo sorvegli, ma per tutta la durata quel membro ottiene la vista nella foschia (la capacità di vedere chiaramente attraverso nubispora e ostruzioni gassose).</p>",
+      "type": "Moduli da Profondità"
+    },
+    "Cordzob81CuwPKU3": {
+      "name": "Magneticactus",
+      "details": "<p>Tecnicamente si usano solo le spine, conficcate nelle sezioni esterne della nave dove possono risuonare con i campi magnetici. Fissarle correttamente allo scafo esterno è una sfida di per sé.</p><p>Costo di Decollo: Velocità\nStili di Volo: Fluttuare, Librarsi, Volteggiare</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "9ZUCX5f0Mh3JqZr0": {
+      "name": "Malandrini",
+      "details": "<p>Combattono corpo a corpo per difendere la nave, ottenendo di tanto in tanto il riflettore per infliggere danni RAV Contundenti, Taglienti o Perforanti.</p>",
+      "type": "Squadre"
+    },
+    "G7UsUZ10meoExdPk": {
+      "name": "Mandibolare",
+      "details": "<p>Un sistema di motoseghe montato sotto lo scafo che si estende dalla parte anteriore della nave, masticando e tirando in avanti.</p><p>Infligge danni RAV Laceranti a impatto totale.</p>"
+    },
+    "ADzpkC8GHC2kJsKT": {
+      "name": "Mannaia",
+      "details": "<p>Brutali e rumorosi, i battistrada mannaia sono progettati per farsi strada tagliando la vegetazione più dura del Selvapelago.</p>",
+      "type": "Telaio da Battistrada"
+    },
+    "xxGq3JDanJuprFdq": {
+      "name": "Manto Brulicante",
+      "details": "<p>Il tuo scafo è un focolaio di simbiosi insettoide: migliaia di corpi chitinosi e ali traslucide spuntano dal legno e dal ferro.</p><p>Costo di Decollo: Nessuno\nStili di Volo: Fluttuare, Battito d'Ali\nRiduci di uno le riduzioni nelle acrobazie aeree eseguite nella foschia, nella nebbia o nelle nubispora.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "taHtbWJ7LdKOOGuO": {
+      "name": "Mascella Superiore",
+      "details": "<p>Il mezzo cranio di una creatura enorme pende sopra il ponte, pronto a essere abbassato come copertura macabra ma efficace contro le profondità che avanzano.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "ovNd3BlhtRUfYNQI": {
+      "name": "Media",
+      "details": "<p>Comoda per 5-10 persone, ma se necessario può ospitarne il doppio. La maggior parte delle navi del Selvapelago è di taglia media.</p>"
+    },
+    "ogWwRkr6Jgu1Soqx": {
+      "name": "Messaggeri Animali",
+      "details": "<p>Creature volanti addestrate a cercare terre lontane (o navi vicine), consegnare loro messaggi e tornare con le risposte. Quando scegli i messaggeri animali, specifica il tipo di creatura che usi (per esempio libellule o corvi).</p>",
+      "type": "Moduli Generici"
+    },
+    "3ivUTRuPNo3czZIt": {
+      "name": "Micro",
+      "details": "<p>Adatta a un singolo marinaio e forse a un passeggero o due. Perfetta per il navigaselva solitario, dotato di un eccesso di coraggio (o di un desiderio di morte).</p>"
+    },
+    "Jsz5qcwH1F5RuSvl": {
+      "name": "Mietitrebbia",
+      "details": "<p>Lame rotanti sulla parte anteriore della nave, con reti e attrezzature di raccolta sul retro.</p><p>Ogni volta che Segui la Rotta, tira un d6. Con un 6, ottieni un campione di semi Selvatico o Rigoglioso appropriato alle onde che stai attraversando.</p>"
+    },
+    "c35Xk5QzJnTTkDte": {
+      "name": "Mimetizzazione",
+      "details": "<p>+3 Furtività quando è fermo o all'ancora.</p>",
+      "type": "Moduli da Battistrada"
+    },
+    "zTuLKoNzMXsI1MH9": {
+      "name": "Miscela Chitinosa",
+      "details": "<p>Quando semini un fiore, un'erba o del grano in una miscela chitinosa, segna immediatamente una casella del suo tracciato.</p>",
+      "type": "Substrati"
+    },
+    "MJZWulfsIhmswpBj": {
+      "name": "Momento Motore",
+      "details": "<p>Un sussurro fossilizzato di parole legate al movimento, intrappolato e rotante come ubriaco, simile a un disco di fonografo rotto.</p><p>Alimentato da suoni interrotti in modo innaturale.</p>"
+    },
+    "O9JY8XnEPwXuJLHe": {
+      "name": "Monumentale",
+      "details": "<p>Un'affettazione assurda in un mondo di rami flessibili e profondità infinite: gli scafi monumentali sono fatti di pietra di montagna spaventosamente pesante.</p><p>Una nave con scafo monumentale non può andare Avanti Tutta durante un viaggio.</p>"
+    },
+    "Jw8LvSBUnTs96vGE": {
+      "name": "Motore d'Innesto",
+      "details": "<p>Un macchinario complicato con molte camere di vetrambra, piene di soluzioni di crescita alchemiche pompate da un punto all'altro attraverso tubi di gomma-foglia.</p><p>Ogni risultato duplicato dell'ibridazione riempie una casella del tracciato di crescita della pianta risultante, dando il via al suo percorso verso il raccolto.</p>",
+      "type": "Appezzamenti Ibridi"
+    },
+    "d0OOj81QjAKcnH1c": {
+      "name": "Mulo",
+      "details": "<p></p>",
+      "type": "Telaio da Battistrada"
+    },
+    "h0EaeNv3RY2yC1uh": {
+      "name": "Muta di Segugi",
+      "details": "<p>Forse non i migliori amici possibili, ma questi cani sono quantomeno ferocemente protettivi verso la loro nave (pur avendo pochi altri usi oltre a fare compagnia e a giocare magnificamente al riporto).</p>",
+      "type": "Branchi"
+    },
+    "sNpJyA2MHnT8jvFr": {
+      "name": "Mutapacciame",
+      "details": "<p>I campioni coltivati nel mutapacciame ottengono un'etichetta negativa aggiuntiva al momento del raccolto (fornita dalla Lucciola).</p>",
+      "type": "Substrati"
+    },
+    "ewBfbFITjQrKo7Gq": {
+      "name": "Nautilizzazione Completa",
+      "details": "<p>Un riallestimento completo di ogni sistema, ogni centimetro del profilo, ogni asse di legno e ogni pezzo di rottame rubato, per rendere l'interno della nave una fortezza contro i pericoli delle profondità.</p><p>L'interno della nave ha immunità all'aria malsana, alle spore vaganti, alle incursioni di insetti e agli spiriti erranti.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "0XnK2DHWTWhCFsDb": {
+      "name": "Nautofono Amplificatore",
+      "details": "<p>Una sirena profonda e assordante, che può essere usata anche come efficace amplificatore della voce.</p>",
+      "type": "Moduli Generici"
+    },
+    "3eVrHT080BUfzm7O": {
+      "name": "Nepente a Getto",
+      "details": "<p>Una delicata pianta carnivora con un sistema inaspettatamente robusto di sfiati simili a radici. Il bulbo della pianta produce gas di galleggiamento, e le radici possono essere orientate per dare alla nave una minima spinta direzionale.</p><p>Costo di Decollo: Guarnizioni\nStili di Volo: Fluttuare, Planare</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "YQID34nwMdQgWOXg": {
+      "name": "Nepente Tossente",
+      "details": "<p>Tecnicamente non impedisce agli insetti di entrare, si limita a garantire che non vivano abbastanza a lungo da dare inizio a un'infestazione.</p><p>L'interno della nave ha resistenza alle incursioni di insetti.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "iPyNjNUpGLuQoMZk": {
+      "name": "Nido di Larve-Gas",
+      "details": "<p>Paffute e squittenti, queste larve producono un gas più leggero dell'aria come sottoprodotto naturale della digestione. Una volta per viaggio (se hai un contenitore adatto), ottieni il materiale di recupero Bombola di Gas di Sollevamento.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "jkQyWsQo6PqA8hwR": {
+      "name": "Nient'Altro che Speranza",
+      "details": "<p>La tua nave viaggia nelle profondità senza rinforzi, e l'equipaggio si affida a preghiere silenziose per tenere a bada la pressione.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "1huY3Op2wWQBbiXl": {
+      "name": "Nube di Lucciole",
+      "details": "<p>Tenute in barattoli anneriti con la pece e coperchi collegati da fili, basta tirare la leva giusta per riempire l'aria intorno alla nave con una nube di lucciole. Prima o poi tornano, se sono ben addestrate (e se sopravvivono al loro esodo esplosivo).</p><p>Uso Ottimale: Sparale per ripulire una casella bruciata da qualsiasi occhio di natura predatoria insettivora.\nUso Alternativo: Le lucciole sciamano su un nemico, distraendolo e riducendone la vista fino alla fine della scena.</p>",
+      "type": "Disturbatori"
+    },
+    "FsYDUzxIWA2LCKdz": {
+      "name": "Nubi Fasulle",
+      "details": "<p>Di solito prodotta alchemicamente, una nube fasulla avvolge la nave di vapori atmosferici per renderla molto più difficile da seguire con lo sguardo. Le nubi vere, però, riconoscono la differenza.</p><p>Uso Ottimale: Dispiegale per ripulire una casella bruciata da qualsiasi Occhio che segue la nave da sotto le nubi.\nUso Alternativo: Cambiare le miscele chimiche usate può avere risultati insoliti e dannosi. Invece di ripulire un Occhio, le nubi fasulle possono creare sul ponte una sacca di aria malsana che dura per la durata di una scena.</p>",
+      "type": "Disturbatori"
+    },
+    "Wo0QVEJq87AmgX4Z": {
+      "name": "Oblò Extra",
+      "details": "<p>Una benedizione e una maledizione: permettono all'equipaggio di restare al sicuro dentro la nave godendo di una buona vista delle profondità circostanti, ma a volte i predatori curiosi sono attratti dalla luce che emanano.</p>",
+      "type": "Moduli da Profondità"
+    },
+    "n8j45BUwBxuRppnv": {
+      "name": "Occhio di Pietra",
+      "details": "<p>È arconautico o spirituale? Un ricettacolo per sussurri, o per qualcosa di molto più antico? È opera di qualche scultore impazzito, un manufatto di prima del mondo verdeggiante, o forse un residuo di un'epoca ancora precedente? E, cosa più importante, ha appena sbattuto le palpebre?</p><p>Alimentato da un'attenzione inquietante.</p>"
+    },
+    "xLNMrQ3WiWzOpTKX": {
+      "name": "Officina",
+      "details": "<p>Una stanza (probabilmente in disordine) con attrezzi da fabbro e da riparazione, oltre a un banco da lavoro meccanico.</p>",
+      "type": "Cabine Comuni"
+    },
+    "iSCpPuMRCMuDvZK9": {
+      "name": "Onirico",
+      "details": "<p>All'interno si agita un insetto sconosciuto, che si rimpinza di sogni e li fila in un flusso di forza arconautica. Gli equipaggi riferiscono sogni intensamente vividi.</p><p>Alimentato con i sogni dell'equipaggio.</p>"
+    },
+    "cUmZtfZsLWLyAfol": {
+      "name": "Ordinatore di Navigazione",
+      "details": "<p>Anche se la macchina è abbastanza grande da richiedere una stanza tutta sua sulla nave, i tecnici giurano che entro cinquant'anni sarà grande quanto una bussola. Ignora qualsiasi effetto negativo della Pressione o dello Scrutinio quando tiri per manovrare la nave.</p>",
+      "type": "Luce, Energia e Suono"
+    },
+    "Nn8oQECmc1delVgh": {
+      "name": "Orto di Sentina",
+      "details": "<p>Cosa potrebbe esserci di più naturale che collegare il sistema fognario di una nave al suo sistema di produzione alimentare? Dopotutto, c'è molto da dire a favore del riciclo.</p><p>Riduci di una casella i tracciati di crescita delle piante di questo appezzamento. Chiunque cerchi di raccogliere una pianta dall'orto di sentina subisce due segni di danno Tossico.</p>",
+      "type": "Soluzioni Complete"
+    },
+    "CRYbpDwlsIvUlzjg": {
+      "name": "Orto sul Tetto",
+      "details": "<p>Riduci di 1 casella la lunghezza del tracciato di crescita delle piante seminate in un orto sul tetto.</p>",
+      "type": "Appezzamenti"
+    },
+    "pLaupFTgT3oihgl8": {
+      "name": "Ossa di Aeroviatano",
+      "details": "<p>Ossa cave prelevate da enormi creature aeree, resistenti ai danni ma naturalmente leggere.</p>"
+    },
+    "I4XLk7If7osbWXoi": {
+      "name": "Ossa Scanalate",
+      "details": "<p>Adattate dalle strutture aerodinamiche di innumerevoli bestie celesti del Selvapelago. Ignora gli effetti negativi dei venti forti o imprevedibili mentre voli o plani (gli effetti positivi ti avvantaggiano comunque normalmente).</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "jDxfAObas4SC7k0A": {
+      "name": "Osso di Leviatano",
+      "details": "<p>Uno scafo ricavato da uno o più pezzi dello scheletro di un leviatano. Solido, anche se un po' macabro.</p>"
+    },
+    "9xKrU1nU93dPEcmG": {
+      "name": "Palestra",
+      "details": "<p>Una serie di pesi, corde e attrezzi da allenamento per tenersi in forma senza sfidare le cime degli alberi.</p>",
+      "type": "Cabine Comuni"
+    },
+    "EZ5VpeKSYV1z5FFO": {
+      "name": "Pallone Bulboso",
+      "details": "<p>Un involucro di tela e uno speciale motore chimico per riempirlo con una miscela più leggera dell'aria.</p><p>Costo di Decollo: Armatura\nStili di Volo: Fluttuare, Librarsi</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "r7tuK0YpBZjJ5NHU": {
+      "name": "Pallone Rattoppato",
+      "details": "<p>È quasi criminale che ti facciano pagare per questo. Salire con un pallone di questa qualità è lentissimo, e sottopone le strutture interne della nave a uno stress enorme.</p><p>Costo di Decollo: Manovrabilità + Armatura\nStili di Volo: Fluttuare, Librarsi</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "yxEiBeRcc8V3gQJv": {
+      "name": "Pamu",
+      "details": "<p>Foglie parassite che crescono direttamente dalla parte superiore dello scafo e che si arrotolano naturalmente intorno al ponte esposto quando la nave scende sotto la chioma.</p><p>L'area del ponte beneficia delle resistenze dell'interno della nave.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "z4r08op166gAUTni": {
+      "name": "Pannelli Scorrevoli",
+      "details": "<p>Inutili come guscio pressurizzato, ma all'occorrenza sono una comoda serie di scudi mobili.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "cMXJtsUxCirsO52m": {
+      "name": "Parabrezza",
+      "details": "<p></p>",
+      "type": "Moduli da Battistrada"
+    },
+    "gs0xfGdgBHJS6xrg": {
+      "name": "Parafulmine",
+      "details": "<p>Una struttura metallica a più punte per attirare i fulmini e immagazzinarne l'energia in batterie di ceramica.\nOgni volta che la tua nave entra in una tempesta di fulmini, ottieni automaticamente una batteria di ceramica carica.</p>",
+      "type": "Moduli da Risorse"
+    },
+    "kky1p5h0C81T9Cl1": {
+      "name": "Parapendio",
+      "details": "<p>Progettato per trainare un seme da surf usando solo i venti selvaggi. Per viaggiare servono venti favorevoli.</p>",
+      "type": "Surf sulle Fioriture"
+    },
+    "mg63dxn54Yvi0jL8": {
+      "name": "Paratie di Plasma",
+      "details": "<p>Sottili membrane organiche tese su ogni presa d'aria e porta, che si aprono e si chiudono d'istinto al passaggio dell'equipaggio e dei famigli.</p><p>L'interno della nave ha immunità all'aria malsana.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "55lSsXheA7yyWa1G": {
+      "name": "Paraurti di Corteccia",
+      "details": "<p>Usati insieme alle seghe a ruota xilematiche per transizioni più confortevoli.</p><p>Quando entri o esci dalla struttura interna di una ferradice (per esempio usando una Sega a Ruota Xilematica), effettua un tiro tracciato base Armatura. Con un trionfo, il consueto segno di danno non viene applicato.</p>",
+      "type": "Xilema-Floemi"
+    },
+    "oCb4JV0JEWQyYbCR": {
+      "name": "Parrocchetto Rumoroso",
+      "details": "<p>Dotato di uno strido acuto e fastidioso, ma tollerato come sistema d'allarme preventivo contro i predatori pericolosi che si aggirano nelle vicinanze.</p>",
+      "type": "Branchi"
+    },
+    "GXCQxbbk5TKQOsLA": {
+      "name": "Pergola Tortuosa",
+      "details": "<p>Quando raccogli da una pergola, una svolta fornisce le solite risorse ma ripulisce solo metà dei segni sul tracciato di crescita.</p>",
+      "type": "Appezzamenti"
+    },
+    "qgg2Lw8nibdmiHmn": {
+      "name": "Personalizzazione",
+      "details": "<p>Ma che cosa gli hai fatto, esattamente? Gli ingegneri portuali ne piangerebbero.\n\n1. Aumenta di 1 tre tracciati base a scelta\n2. Diminuisci di 1 un tracciato base a scelta.\n</p>",
+      "type": "Moduli da Battistrada"
+    },
+    "yIq4XoLAhMs6Frgd": {
+      "name": "Pezzi di Stoffa",
+      "details": "<p>Davvero? Vuoi andare con questo?</p>",
+      "type": "Filtri d'Aria"
+    },
+    "gNmm6aq4GGegrNPt": {
+      "name": "Pianale",
+      "details": "<p>Ti permette di trasportare un piccolo numero di membri dell'equipaggio o di carichi.</p>",
+      "type": "Moduli da Battistrada"
+    },
+    "NL9RwuR0SJLzEfUK": {
+      "name": "Piattaforma di Osservazione",
+      "details": "<p>Una sporgenza simile a un puntone che offre una vista impareggiabile sulle onde circostanti, di solito con qualche tipo di linea di comunicazione con la cabina del pilota.</p>",
+      "type": "Strutture Esterne"
+    },
+    "NNJEfS4sfXfll354": {
+      "name": "Piattaforma Sottochioma",
+      "details": "<p>Una porta robusta che conduce a una piattaforma aperta alla base della nave, di solito a poppa, sotto la linea di galleggiamento.</p>",
+      "type": "Strutture Esterne"
+    },
+    "8u92LClEI826LGAW": {
+      "name": "Picari",
+      "details": "<p>Combattono a distanza per difendere la nave, ottenendo di tanto in tanto il riflettore per infliggere danni AD Contundenti, Taglienti o Perforanti.</p>",
+      "type": "Squadre"
+    },
+    "fc4XCgUWVwyRpOS9": {
+      "name": "Piccola",
+      "details": "<p>Adatta a 2-4 persone, angusta ma utilizzabile per il doppio. Ideale come prima nave.</p>"
+    },
+    "gTQwRo3KNbDh1VL5": {
+      "name": "Pinne da Pescatrice",
+      "details": "<p>Queste pinne di legno o metallo offrono un maggiore controllo sui movimenti in volo. Riduci le riduzioni nelle manovre acrobatiche complicate (come avvitamenti e virate strette) qualunque siano le condizioni atmosferiche.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "vQFbxfu5ZGE3u7M7": {
+      "name": "Pinne Remiganti",
+      "details": "<p>Modellate sulle pinne di una saettomanta, queste penne a forma di pagaia funzionano come remi sul mare di cime d'albero e come pinne direzionali quando la nave è in volo.</p><p>Infligge danni RAV Contundenti a impatto totale.</p>"
+    },
+    "rfQB2WOsjhK7nZE1": {
+      "name": "Piume di Rame",
+      "details": "<p>Che siano attaccate a un paio di ali esistenti o semplicemente saldate allo scafo, queste piume scolpite con cura permettono alle navi di sfiorare le nubi per lega dopo lega.</p><p>Stile Aggiuntivo: Planare</p>",
+      "type": "Sistemi di Sollevamento Ausiliari"
+    },
+    "ZJ2ltY9CfckYlEp7": {
+      "name": "Placcatura di Volcrez",
+      "details": "<p>Le litonavi sono troppo preziose per essere cedute anche ai navigaselva più intrepidi, ma gli opportunisti potrebbero riuscire a recuperarne pezzi di materiale dai relitti (o con affari loschi) e incorporarli.</p><p>La tua nave ha immunità completa ai danni dei pericoli legati al fuoco e al calore estremo. L'equipaggio al suo interno, però, no.</p>"
+    },
+    "jndefOQSNevyvfqP": {
+      "name": "Polena Fossile Piangente",
+      "details": "<p>Una creatura trasformata in qualcosa di simile alla pietra dallo scorrere delle ere, o dalle imprevedibili energie delle terre selvagge. La vegetazione si ritrae quando un esemplare del genere si avvicina.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "VkKegmTwcdAz96aS": {
+      "name": "Polena Funebre",
+      "details": "<p>Gli intagli della polena sono studiati con cura per avere un effetto mesmerico su chi è quasi perduto. Ottieni automaticamente una risorsa legata agli spiriti quando attraversi un'area con una densa presenza spettrale o incontri spiriti erranti.</p>",
+      "type": "Moduli da Profondità"
+    },
+    "imTKTD2s2YXXa6M4": {
+      "name": "Pollaio di Galline Cumulo",
+      "details": "<p>Le galline cumulo sono a disagio all'altezza delle chiome e iniziano a deporre uova solo sopra le nubi. Una volta per viaggio (se sei salito abbastanza in alto), ottieni il campione Uova di Cumulo Fresche.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "VhthAi9T60isHD5H": {
+      "name": "Pollici Verdi",
+      "details": "<p>Aggiungere semi a un appezzamento dell'orto di bordo non richiede un compito.</p>",
+      "type": "Squadre da Giardinaggio"
+    },
+    "IWgRIfMf9UE5MJxw": {
+      "name": "Polpompa di Gomma-Foglia",
+      "details": "<p>Non è vivo. In fondo è solo una macchina. Ma il modo in cui quei tubi si contorcono, e quei mantici ansimano come polmoni... Basti dire che, se fosse vivo, molto probabilmente sarebbe molto infelice.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "HWK5cueXwhtkaLNa": {
+      "name": "Pompa Catalitica",
+      "details": "<p>Aumenta la pressione all'interno della nave per eguagliare quella esterna. Sgradevole, a lungo termine, ma efficace.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "Eh4kHrvqmbd8vg41": {
+      "name": "Ponte Molleggiato",
+      "details": "<p>Queste assi del ponte cedono leggermente, e le loro proprietà ammortizzanti riducono il rischio di ferite per l'equipaggio quando le manovre aeree si fanno brusche.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "K7xCaarM4rZf1jfs": {
+      "name": "Ponte Trivellato alla Buona",
+      "details": "<p>Quando crei un appezzamento Ponte Trivellato alla Buona, riduci di una casella il tracciato base Armatura o Guarnizioni.</p>",
+      "type": "Appezzamenti"
+    },
+    "UCUFf5fhk5xu7H06": {
+      "name": "Portellone a Iride",
+      "details": "<p>Una stanza simile a una camera stagna, di solito alla base della nave, completa di porte scorrevoli per entrare e uscire facilmente.</p>",
+      "type": "Cabine Aeree"
+    },
+    "Yce4wH0TEpZ2WBjP": {
+      "name": "Post-Bruciatore",
+      "details": "<p></p>",
+      "type": "Moduli da Battistrada"
+    },
+    "ZfDvHPKV9EY10sUr": {
+      "name": "Postazione d'Arma",
+      "details": "<p>Infligge danni AD Contundenti, Taglienti, Perforanti o Esplosivi a impatto totale (a scelta).</p>",
+      "type": "Moduli da Battistrada"
+    },
+    "ECyigsFVuwTup5JH": {
+      "name": "Postazione della Campana-Falce",
+      "details": "<p>Una versione più avanzata della campana-gabbia: quando viene staccata dalla nave principale, questa \"cabina\" funziona quasi come un battistrada legato a un cavo. La campana-falce può essere alzata e abbassata con comandi interni, ed è dotata di una lama seghettata capace di tagliare gli ostacoli e di effettuare movimenti laterali.</p>",
+      "type": "Cabine da Profondità"
+    },
+    "cypS9d2u6descqEz": {
+      "name": "Postazione della Campana-Gabbia",
+      "details": "<p>Una gabbia rinforzata di rottami all'estremità di una serie di cavi d'argano, integrata all'interno della nave con un rudimentale sistema di porte a pressione. La campana-gabbia può essere alzata e abbassata con comandi interni.</p>",
+      "type": "Cabine da Profondità"
+    },
+    "KrZsEGSuAwoj191q": {
+      "name": "Prese di Vapore",
+      "details": "<p>Collettori a imbuto collegati a un motore a compressione interno. Funziona in quasi totale silenzio.</p><p>Alimentato con materia di nubi e vapore acqueo, ma facilmente intasato dalle nubispora.</p>"
+    },
+    "2ycf6U6Pu2obygOX": {
+      "name": "Promessa dei Sei Anelli",
+      "details": "<p>Una batteria di turbine a propulsione chimica che lavorano in tandem, oggetto di molte discussioni nei cantieri aerei.</p><p>Manovrabilità +2 (solo in volo)\nStili di volo: Slancio, Volteggiare</p>"
+    },
+    "kvNC3FC4WmFrvGZ2": {
+      "name": "Prora a Saracco",
+      "details": "<p>Una delle preferite del Selvapelago: una lama a motosega che corre lungo la curva della prua. Capace di tagliare con facilità la maggior parte degli ostacoli.</p>"
+    },
+    "q9uWOnQ4aX9kfGW9": {
+      "name": "Prora Affilata",
+      "details": "<p>Semplice e diretta, una lama affilata che corre per tutta la lunghezza della prua per tagliare la vegetazione.</p><p>Fornisce un filo tagliente di base, ma nessuna forza motrice. Funziona appena abbinata ai remi, ma dovresti davvero scegliere qualcosa di meglio.\n\nInfligge danni RAV Taglienti a impatto totale... o lo farebbe, se riuscissi a prendere abbastanza velocità.</p>"
+    },
+    "6OGRK5sg998e4BVE": {
+      "name": "Protocollo di Isolamento",
+      "details": "<p>Serie di istruzioni stampate in più lingue, esposte in tutta la nave, scritte o dettate da esploratori delle profondità esperti.</p><p>All'inizio di ogni viaggio puoi scegliere tra aria malsana, spore vaganti, spiriti erranti o incursioni di insetti. Per tutta la durata del viaggio l'interno della tua nave ha immunità completa ai pericoli scelti.</p>",
+      "type": "Moduli da Profondità"
+    },
+    "nixmDaWIQjZoDNeb": {
+      "name": "Protovincolati",
+      "details": "<p>Gli spiriti invasori che attaccano prendono di mira i protovincolati prima di qualsiasi altro membro dell'equipaggio.</p>",
+      "type": "Squadre da Profondità"
+    },
+    "iipAPmpS6ntkrSEX": {
+      "name": "Prua a Catena",
+      "details": "<p>Un bordo d'attacco seghettato per tagliare le navi nemiche senza pericolo per il tuo scafo. Infligge danni RAV Laceranti a impatto totale.</p>",
+      "type": "Armamenti da Scafo"
+    },
+    "nmNVZtKYaqfkCFd4": {
+      "name": "Prua a Falange",
+      "details": "<p>Una serie di spuntoni rinforzati che sporgono dalla parte anteriore della tua nave, per speronare le altre senza pericolo per il tuo scafo. Infligge danni RAV Perforanti a impatto totale.</p>",
+      "type": "Armamenti da Scafo"
+    },
+    "50yQeYQjwRBB4htH": {
+      "name": "Prua a Lama",
+      "details": "<p>Un filo tagliente a cuneo per affettare le navi nemiche senza pericolo per il tuo scafo. Infligge danni RAV Trincianti a impatto totale.</p>",
+      "type": "Armamenti da Scafo"
+    },
+    "Kl73tRZtI3kTPC3d": {
+      "name": "Prua da Speronamento",
+      "details": "<p>Ti permette di speronare creature (e navi) senza pericolo per il tuo scafo. Infligge danni RAV Contundenti a impatto totale.</p>",
+      "type": "Armamenti da Scafo"
+    },
+    "rbfJVi3cxMcUxR0V": {
+      "name": "Pseudomascella Frattale",
+      "details": "<p>Prelevati da una bestia intrinsecamente arconautica di dimensioni considerevoli, i denti della pseudomascella frattale affondano in qualcosa di più della carne e del legno quando mordono. Infligge danni RAV Perforanti a impatto totale. Con un attacco riuscito puoi segnare uno dei tuoi tracciati base per ridurre di un grado l'immunità o la resistenza del bersaglio morso a un singolo tipo di danno.</p>",
+      "type": "Armamenti da Profondità"
+    },
+    "Ggl02M9jxS7gKEo4": {
+      "name": "Psicopolpo",
+      "details": "<p>Una volta per viaggio, lo psicopolpo permette a un singolo membro dell'equipaggio di tirare 6d6 al posto della sua normale riserva di dadi in qualsiasi compito in cui potrebbe plausibilmente aiutare.</p>",
+      "type": "Branchi"
+    },
+    "Ym8y5Y65S1R42F3E": {
+      "name": "Puntelli Miconici",
+      "details": "<p>Non fa nulla per proteggere la nave da altre spore (o da qualsiasi altro pericolo specifico delle profondità), ma un rinforzo fungino del profilo della nave la aiuta a sopportare gli aspetti fisici dell'aumento di pressione.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "qYIf7eadAWwrOxK8": {
+      "name": "Rabir Segnavento",
+      "details": "<p>Fatto su misura per girare con i venti, produce un ronzio musicale che tiene lontani tutti i parassiti dell'orto, tranne i più insoliti.</p><p>Tutte le piante dei tuoi appezzamenti hanno resistenza alla predazione degli insetti e alle malattie trasmesse dagli insetti.</p>",
+      "type": "Orti di Bordo"
+    },
+    "WMiWRkwsXnBLjekU": {
+      "name": "Radio a Onde Corte",
+      "details": "<p>Un sistema radio a corto raggio capace di inviare e ricevere segnali carichi di disturbi, basato su una tecnologia Pre-Verdeggiante riscoperta di recente. Permette comunicazioni istantanee, ma dipende da fragili antenne fissate sulla parte più alta della nave.</p>",
+      "type": "Moduli Generici"
+    },
+    "CINde7cDW4fnM4Mf": {
+      "name": "Ragni Tintinnanti",
+      "details": "<p>Quando la nave è all'ancora (o comunque ferma), i ragni tessono ragnatele intorno alla nave, dando un preavviso se si avvicinano dei pericoli.</p>",
+      "type": "Sciami"
+    },
+    "WxeGYEEav5ZCD14g": {
+      "name": "Rame degli Esuli",
+      "details": "<p>Un metallo raro che pesa molto, molto meno di quanto dovrebbe, apprezzato per gli scafi delle navi da corsa.</p>"
+    },
+    "HmRKmXQ01bWXX2jT": {
+      "name": "Rametto di Ferradice",
+      "details": "<p>Concludere un viaggio segna due caselle sulle piante innestate su un rametto di ferradice (invece della solita una).</p>",
+      "type": "Substrati"
+    },
+    "d3rPv6UIDetsGEXi": {
+      "name": "Rampini a Scatto",
+      "details": "<p>Inutili per avanzare, ma eccellenti quando si tratta di frenare di colpo o fermare una caduta altrimenti incontrollata. Dopo l'uso devono essere riavvolti e riarmati con un compito prima di poter essere usati di nuovo.</p>",
+      "type": "Moduli da Profondità"
+    },
+    "nCskV8DuHIfHQWwp": {
+      "name": "Rastrelliera di Armamenti da Demolizione",
+      "details": "<p>Una rastrelliera rifornita di armi meno convenzionali. Quando lasciano la nave o la difendono, i membri dell'equipaggio possono prendere un'attrezzatura temporanea con l'etichetta AD o RAV e un singolo tipo di danno (Trinciante, Lacerante o Esplosivo). Quest'arma temporanea ha un tracciato da due caselle e non può essere riparata.</p>",
+      "type": "Armamenti da Arrembaggio"
+    },
+    "WyEdQb1w9I1Zwu1R": {
+      "name": "Rastrelliera di Armamenti Limitata",
+      "details": "<p>Una rastrelliera rifornita di armi semplici. Quando lasciano la nave o la difendono, i membri dell'equipaggio possono prendere un'attrezzatura temporanea con l'etichetta AD o RAV e un singolo tipo di danno (Contundente, Tagliente o Perforante). Quest'arma temporanea ha un tracciato da due caselle e non può essere riparata.</p>",
+      "type": "Armamenti da Arrembaggio"
+    },
+    "MASrq2uXevHpgc8V": {
+      "name": "Rastrelliera di Attrezzi d'Emergenza",
+      "details": "<p>Serralame e sciabole vanno benissimo, ma le sfide del Sottogroviglio sono varie e raramente prevedibili.</p><p>Quando si preparano a un'immersione, tutti i membri dell'equipaggio possono prendere un bonus temporaneo da 3 caselle, Attrezzo da Profondità. L'attrezzo infligge danni RAV Laceranti, Trincianti, Acidi o Elettrici, scelti quando lo si ottiene.</p>",
+      "type": "Equipaggiamento da Profondità"
+    },
+    "kwT4cwACHce8l7YI": {
+      "name": "Rastrelliera di Semi da Surf",
+      "details": "<p>Una collezione di semi dalla sommità piatta, ognuno abbastanza grande da sdraiarcisi o starci in piedi sopra. I navigaselva possono lanciarsi sulle onde con uno di questi per cavalcare una marea di fioritura, a patto di riuscire a mantenere l'equilibrio.</p><p>Un giocatore potrebbe usare Ondivagare o Scattare per restare in equilibrio su un seme da surf mentre lo trasporta, un tiro tanto più difficile quanto più violenta è la marea di fioritura che sceglie di cavalcare.</p>",
+      "type": "Surf sulle Fioriture"
+    },
+    "EwiycGccmDT5emcd": {
+      "name": "Razzi Chimici d'Artificio",
+      "details": "<p>Al tempo stesso disturbatore e arma improvvisata, questi razzi accuratamente confezionati esplodono in uno spruzzo chimico colorato.</p><p>Uso Ottimale: Spara di notte per ripulire una casella bruciata da qualsiasi occhio di natura predatoria.\nUso Alternativo: Spara per un singolo colpo di danni AD Acidi a impatto totale.</p>",
+      "type": "Disturbatori"
+    },
+    "ZqBM6W48YbiwxcIB": {
+      "name": "Razzi di Segnalazione",
+      "details": "<p>Razzi codificati per colore, destinati a essere sparati in cielo per comunicare scoperte, minacce e posizioni. Per usarli o comprenderli in modo efficace serve almeno un'infarinatura della lingua Pelagico.</p>",
+      "type": "Moduli Generici"
+    },
+    "UOKEgBhe6ompusgQ": {
+      "name": "Recinto di Ferrovena",
+      "details": "<p>Costellato di oblò e guarnizioni gommate, questo congegno di copertura offre un livello di protezione eccellente per gli equipaggi di sommergibilisti seri.</p><p>L'area del ponte beneficia delle resistenze dell'interno della nave.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "QPCQNlGRI2gh3Y6G": {
+      "name": "Reti da Pesca",
+      "details": "<p>Reti rinforzate da drappeggiare sui fianchi della nave durante i viaggi tranquilli, che catturano insetti più grandi e piccoli mammiferi prima di essere tirate a bordo.\nQuando Segui la Rotta, ottieni automaticamente un campione normale.</p>",
+      "type": "Moduli da Risorse"
+    },
+    "66SZepkvzIZHUmGI": {
+      "name": "Ricercatori",
+      "details": "<p>Ogni volta che gettate l'ancora apprendete un segreto delle onde circostanti, fornito dalla Lucciola.</p>",
+      "type": "Squadre"
+    },
+    "yuwce1ZxSpG6HoGT": {
+      "name": "Ricordo della Fiamma",
+      "details": "<p>Una bobina avvolta con i sussurri di chi ha assistito di persona all'incendio. Quando viene rilasciata, i bersagli si spaccano e si deformano come se bruciassero, senza alcun rischio che il fuoco si propaghi e senza dolore ustionante. Infligge danni AD Incenerenti a impatto totale.</p>",
+      "type": "Armamenti Silenziosi"
+    },
+    "umqbQbdziKEorZby": {
+      "name": "Rinforzato",
+      "details": "<p>Un profilo semplice, potenziato con una moltitudine di camere stagne, scambiatori di pressione e ordinatori integrati.</p>"
+    },
+    "Z320Thq5zAjKfVQb": {
+      "name": "Rivestimento di Cera da Pollice",
+      "details": "<p>Strofinata intorno a porte e oblò, e poi applicata generosamente su qualsiasi punto insolitamente spifferoso.</p><p>L'interno della nave ha resistenza agli spiriti erranti.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "QWeZeBBJ30ZWDYQP": {
+      "name": "Rivestimento Mucoide",
+      "details": "<p></p>",
+      "type": "Moduli da Battistrada"
+    },
+    "NZEu3n4DGQYNpiUY": {
+      "name": "Robusto",
+      "details": "<p>Costruito per durare in un luogo di cose effimere, un profilo robusto aiuta a resistere agli assalti più violenti.</p>"
+    },
+    "YoIB9YTND1Rvksc4": {
+      "name": "Rospi Gargoyle",
+      "details": "<p>Argilla cotta e modellata con potenza arconautica: le lingue invisibili di queste decorazioni immobili a bocca aperta guizzano nell'aria per raccogliere e neutralizzare le spore vaganti.</p><p>L'interno della nave ha immunità alle spore vaganti.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "7IBv4xwrb1kRHkZh": {
+      "name": "Rotaia Magnetica Montata",
+      "details": "<p>Una potente carica voltaica accelera proiettili esplosivi a velocità quasi impossibili. Infligge danni AD Esplosivi a impatto totale. Riduci le riduzioni quando attacchi bersagli dotati di scaglie.</p>",
+      "type": "Armamenti Aerei"
+    },
+    "jUaDYy6e5i1ef5rT": {
+      "name": "Roto-Trinciatore",
+      "details": "<p>C'è chi dice che il rotore degli aeronauti sia stato ispirato dalle seghe circolari dei primi tempi del Selvapelago. Il roto-trinciatore dimostra che a volte l'ispirazione chiude il cerchio.</p><p>Infligge danni RAV Trincianti a impatto totale.</p>"
+    },
+    "Xc2fl6DUClNLnqZj": {
+      "name": "Rotori Vorticanti",
+      "details": "<p>Orientati con precisione, permettono complesse manovre aeree anche nelle condizioni più difficili. Però non riuscirai a sentire nemmeno i tuoi pensieri: molti equipaggi di navi a rotori imparano il Tacito per necessità.</p><p>Costo di Decollo: Furtività\nStili di Volo: Slancio, Librarsi, Battito d'Ali\nRiduci di uno le riduzioni nelle acrobazie aeree eseguite con pericolosi venti trasversali o burrasche imprevedibili.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "1eZJhWgsQPR67k1g": {
+      "name": "Rotta Sussurrata",
+      "details": "<p>Una stanza di deprivazione sensoriale riempita fino alla vita di una poltiglia alchemica che attutisce i sensi e dotata di una console di pilotaggio, progettata per lasciare che i sussurri guidino le mani. La Rotta Sussurrata è quasi inutile se non si ha un sussurro legato al viaggio o alla scoperta.</p>",
+      "type": "Moduli Silenziosi"
+    },
+    "zHhYMSOrw17RC3yx": {
+      "name": "Rottame di Tempesta",
+      "details": "<p>Sigillato all'interno di una camera a triplice chiusura, circondata da guarnizioni di gomma e gabbie di sicurezza. Se un frammento di tempesta, anche uno così piccolo e privo di mente, dovesse mai fuggire, devasterebbe la nave che lo ha imprigionato.</p><p>Alimentato con materiali di recupero elettroconduttivi.</p>"
+    },
+    "RplG6bDJTx5OoYYn": {
+      "name": "Rugiada Crepuscolare di Mida",
+      "details": "<p>Anche se i processi arconautici dietro le proprietà trasformative di questa pianta rasentano l'imperscrutabile, è difficile ignorarli. Una volta per viaggio, ottieni un campione di insetto con l'etichetta \"Dorato\".</p>",
+      "type": "Moduli da Profondità"
+    },
+    "ZspThAbR7WVjLJdD": {
+      "name": "Ruminante",
+      "details": "<p>Denti trituranti in una bocca simile a quella di una lampreda. Terribilmente rumoroso ma spaventosamente efficace.</p><p>Infligge danni RAV Laceranti a impatto totale.</p>"
+    },
+    "W7IbY2lL7vae1Q8o": {
+      "name": "Ruote a Catena",
+      "details": "<p>Congegni di cuoio grezzo e catena robusta, perfetti per rotolare sui cumuli di neve.</p><p>Può affrontare le nevi invernali senza subire riduzioni.\nInfligge danni RAV Contundenti a impatto totale.</p>"
+    },
+    "y1skNyHyy9eEnddT": {
+      "name": "Saggi dei Nembi",
+      "details": "<p>Dopo una tempesta (o un altro evento meteorologico insolito) ottieni automaticamente una carta nautica legata al meteo.</p>",
+      "type": "Squadre d'Ascesa"
+    },
+    "o91dxWnM20noYcvb": {
+      "name": "Sagomato",
+      "details": "<p>Un'unica struttura ininterrotta che attraversa tutta la nave: una vera impresa di ingegneria attenta alla sicurezza.</p>"
+    },
+    "JjdjNRMS1lT7sGYX": {
+      "name": "Sala Caldaie",
+      "details": "<p>Usa reazioni alchemiche per scaldare l'acqua, che viene fatta circolare nelle pareti della nave per tenerla calda nel freddo dei cieli.</p>",
+      "type": "Cabine Aeree"
+    },
+    "ev1waWf54VfulBWb": {
+      "name": "Sala da Gioco",
+      "details": "<p>Attrezzata con sgabelli, carte e tavoli pieghevoli, permette all'equipaggio di fare una serie di giochi d'azzardo provenienti da regioni lontane.</p>",
+      "type": "Cabine Aeree"
+    },
+    "xpunegnr4OKeh0zc": {
+      "name": "Sala Mescita",
+      "details": "<p>Per produrre, conservare e consumare birre, idromele e liquori (del tipo alcolico). Di solito arredata con comodi posti a sedere, e magari tavoli da gioco.</p>",
+      "type": "Cabine Comuni"
+    },
+    "0Ejr9snJGXS6GHp8": {
+      "name": "Sala Ottiche",
+      "details": "<p>Una stanza di telescopi e ingranditori ottici che offre un'ampia visuale, una buona alternativa interna alla piattaforma di osservazione.</p>",
+      "type": "Cabine Comuni"
+    },
+    "ol1FMOGxAHdNQcOY": {
+      "name": "Salice Cappuccio",
+      "details": "<p>Un albero che cresce direttamente dal ponte: per qualche stranezza della biologia vegetale, il salice cappuccio è estremamente protettivo verso lo spazio sotto i suoi rami.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "JFNFKS5PKoYNszoS": {
+      "name": "Salotto Oscurato",
+      "details": "<p>Finestre di vetro d'ambra oscurato permettono a chi sta dentro di vedere fuori, ma una costosa finitura a specchio impedisce a chiunque di guardare dentro. Perfetto per incontri clandestini e per evitare occhi indiscreti.</p>",
+      "type": "Cabine Aeree"
+    },
+    "LGA7KQCSaW6YdfhN": {
+      "name": "Saluti Crudeli",
+      "details": "<p>Molto raramente c'è una seconda occasione per salutare. Riduci di uno le riduzioni negli attacchi contro navi e strutture.</p>",
+      "type": "Lanciasiluri"
+    },
+    "EcbvEhnv00mx0ijO": {
+      "name": "Sartiame",
+      "details": "<p>Corde tese sopra il ponte per vari scopi: spesso ci si arrampica, si usano come cavi di sicurezza per le uscite fuori bordo, o ci si stende il bucato ad asciugare.</p>",
+      "type": "Moduli Generici"
+    },
+    "s9ZIqwm7voUtJ9XL": {
+      "name": "Scafandri a Tubo",
+      "details": "<p>I membri dell'equipaggio che hanno il tempo di indossarli prima di lasciare la nave in profondità ottengono un bonus temporaneo da 3 caselle (Scafandro Pressurizzato). Hanno immunità all'aria malsana, ma la loro capacità di muoversi liberamente potrebbe risentirne.</p>",
+      "type": "Moduli Generici"
+    },
+    "irW5Eyym8eJR4Vy0": {
+      "name": "Scafinsetto Intessuto",
+      "details": "<p>Un protoleviatano parassita che cresce come parte della nave invece di esservi legato in qualche modo, dando origine a un paio di enormi ma funzionali ali d'insetto.</p><p>Costo di Decollo: Nessuno\nStili di Volo: Fluttuare, Librarsi, Volteggiare\nGli scafinsetti si rifiutano categoricamente di volare con il tempo umido.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "ydaSn1CQKvbApZtZ": {
+      "name": "Scaglie di Buccia",
+      "details": "<p>Un materiale per scafi flessibile e organico, ricavato da frutti e funghi alterati alchemicamente.</p><p>I danni ai tracciati base Armatura e Guarnizioni della nave possono essere riparati usando campioni coltivati nell'orto di bordo, invece dei soliti materiali di recupero.</p>"
+    },
+    "EvuSF2g7MkE30FOg": {
+      "name": "Scaglie di Corteccia",
+      "details": "<p>Trattate chimicamente per essere flessibili, ma comunque inclini a impigliarsi e a frenare la nave in movimento, il vero vantaggio delle scaglie di corteccia è il mimetismo naturale che offrono in profondità.</p><p>Aumenti l'impatto dei tiri tracciato base Furtività effettuati quando sei all'ancora nelle profondità.</p>"
+    },
+    "TUUZeQ7hzpfhVHdK": {
+      "name": "Scaglie di Piume",
+      "details": "<p>Piume a incastro intrecciate fittamente, capaci di flettersi e adattarsi al vento pur restando robuste e resistenti ai danni esterni.</p><p>Aumenti l'impatto quando esegui manovre aeree.</p>"
+    },
+    "410iVuZExqBiuUEM": {
+      "name": "Scambiatore a Bulloni Levito",
+      "details": "<p>Anche se può sembrare poco più di un caos di pistoni sibilanti e martelli pulsanti, la sezione esterna (una serie di bulloni fissati allo scafo) permette a una nave di cavalcare campi magnetici normalmente troppo deboli da percepire.</p><p>Costo di Decollo: Furtività + Rostro\nStili di Volo: Fluttuare, Librarsi, Planare</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "tREC136FncWaDwMA": {
+      "name": "Scambiatore a Vapore",
+      "details": "<p>Sulle sconfinate distese innevate c'è poco da temere dal fuoco... ricordati solo di spegnerlo prima di tornare nei veri mari.</p><p>Mantiene l'interno della nave a una temperatura vivibile.\nFunziona con carbone e neve sciolta.\nProduce il campione Acqua Pulita ogni volta che la nave getta l'ancora.</p>"
+    },
+    "wtzwy3sZ4DWEl6kF": {
+      "name": "Scambiatore di Granargento",
+      "details": "<p>Il granargento è una minuscola sostanza in particelle ricavata da steli essiccati di drosera, pompata nei corridoi e fuori dalle prese d'aria per distrarre gli insetti invasori.</p><p>L'interno della nave ha immunità alle incursioni di insetti.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "DUrZR8LQWj6tXmyd": {
+      "name": "Scambiatore Micovent",
+      "details": "<p>Un sistema di imbuti che estrae e reindirizza l'energia dall'aria densa di spore.</p><p>Alimentato viaggiando attraverso le nubispora.</p>"
+    },
+    "fz6mS1C81Tw2h5g2": {
+      "name": "Scheletro di Protoleviatano",
+      "details": "<p>Le piramidi di predatori e prede sotto le onde sono malleabili e in continuo mutamento, ma leviatani e protoleviatani ne occupano quasi inevitabilmente la cima.</p><p>L'interno della nave ha resistenza all'aria malsana, alle spore vaganti, alle incursioni di insetti e agli spiriti erranti.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "HuwYw86b7CXLrE2S": {
+      "name": "Sciame di Farfalle",
+      "details": "<p>Un'orda di grandi farfalle legate con fili sottili a un cavo o a un'impugnatura, pensata per essere tenuta mentre si cavalca un seme da surf, per viaggiare senza una marea di fioritura.</p>",
+      "type": "Surf sulle Fioriture"
+    },
+    "fZvTXWbi0PYCOye4": {
+      "name": "Scisto Itterico",
+      "details": "<p>Quando semini un'erba aromatica, una spezia o una succulenta nello scisto itterico, segna immediatamente una casella del suo tracciato.</p>",
+      "type": "Substrati"
+    },
+    "iyBmBo0WctDuGEAb": {
+      "name": "Scocca a Propulsione",
+      "details": "<p>Un alloggiamento a gabbia che contiene grandi eliche, come quelle degli idroscivolanti, usate per spingere in avanti la nave.</p><p>Infligge danni RAV Contundenti a impatto totale.</p>"
+    },
+    "0xLGBwRFTifKGj32": {
+      "name": "Scoiattoli Frombolieri",
+      "details": "<p>Combattono a distanza per difendere la nave, ottenendo di tanto in tanto il riflettore per infliggere danni AD Contundenti, Taglienti o Perforanti.</p>",
+      "type": "Branchi"
+    },
+    "9J1mNClW15AMom8c": {
+      "name": "Scoiattoli Straccioni",
+      "details": "<p>Scoiattoli volanti abili nel recuperare piccole risorse nelle immediate vicinanze della nave, permettendo all'equipaggio di restare al sicuro sigillato all'interno.</p>",
+      "type": "Branchi da Profondità"
+    },
+    "tb3ba37TBSswJtjL": {
+      "name": "Scorta di Bombole d'Aria Selvaggia",
+      "details": "<p>Queste bombole pressurizzate sono piene di aria all'altezza delle chiome, e permettono di respirare con facilità anche quando la nave è così in alto che l'atmosfera inizia a rarefarsi.</p><p>I membri dell'equipaggio che hanno il tempo di mettersi in spalla una bombola prima di lasciare la nave ad alta quota ottengono un bonus temporaneo da 3 caselle, Aria Pulita.</p>",
+      "type": "Equipaggiamento da Aeronauta"
+    },
+    "BSifeqFnGlZFCRx2": {
+      "name": "Scorta di Paracadute Compatti",
+      "details": "<p>Una versione meno flessibile ma più affidabile della tuta alare, che permette a un membro dell'equipaggio di scendere in sicurezza verso le onde dopo un salto o una caduta.</p><p>I membri dell'equipaggio che hanno il tempo di indossare un paracadute compatto prima di lasciare la nave ad alta quota ottengono un bonus temporaneo da 3 caselle, Paracadute (può trasformare una caduta letale in una discesa controllata). Il paracadute deve essere ripiegato con un compito prima di poter essere usato di nuovo.</p>",
+      "type": "Equipaggiamento da Aeronauta"
+    },
+    "t23Uk7iQQKKJraOe": {
+      "name": "Scorte d'Emergenza",
+      "details": "<p>Contengono razzi, bandiere, rampini, bende e razioni d'emergenza.</p>",
+      "type": "Moduli Generici"
+    },
+    "DyDHn8PWBom0RV65": {
+      "name": "Scorza di Salice",
+      "details": "<p>Leggera e flessibile, ma estremamente fragile, persino per gli standard degli scafi più deboli.</p><p>Aumenti l'impatto quando esegui manovre aeree.</p>"
+    },
+    "jXSC4CU7rm2cSuOV": {
+      "name": "Scribi Senza Luce",
+      "details": "<p>Ogni volta che il Livello di Pressione aumenta, fai un tiro della fortuna con un d6. Con 4, 5 o 6 ottieni una carta nautica.</p>",
+      "type": "Squadre da Profondità"
+    },
+    "mOJ64GAqegIH58aW": {
+      "name": "Scultura Celeste",
+      "details": "<p>I dettagli della scultura sono secondari: il vero potere sta nell'origine della pietra, estratta da un'isola fluttuante o rubata da un tempio aereo in rovina.</p><p>Costo di Decollo: Velocità\nStili di Volo: Fluttuare, Librarsi, Planare</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "6lwKcfVXNwZMO1tA": {
+      "name": "Sega a Ruota Xilematica",
+      "details": "<p>Una mola inclinata progettata non solo per squarciare la corteccia di una ferradice, ma anche per fare presa con la massima trazione sul viscido legno interno.</p><p>Infligge danni RAV Laceranti a impatto totale.\nPermette di viaggiare all'interno dei rami più grandi delle ferradici, ma entrare in queste aree e uscirne segna il tracciato base Armatura o Guarnizioni della nave.</p>"
+    },
+    "KTw05Nrk9IuQtLcC": {
+      "name": "Segaossa",
+      "details": "<p>Quando gettate l'ancora, un singolo membro dell'equipaggio può riparare un segno da qualsiasi tratto danneggiato o ferita.</p>",
+      "type": "Squadre"
+    },
+    "1Nkt6EJYQd62KWfM": {
+      "name": "Segmento Arrugginito",
+      "details": "<p>Piastre di ferro a incastro che possono essere tirate in posizione per coprire il ponte. Di bassa qualità quanto a materiali, ma brave a deviare i danni in arrivo.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "ymmxGaIhgg68QNQs": {
+      "name": "Segmento di Chitina",
+      "details": "<p>Nemmeno lontanamente efficace quanto la sua controparte in ferro nel resistere ai danni, il segmento di chitina è comunque popolare tra i sommergibilisti grazie alla capacità innata della sua placcatura semi-vivente di resistere alla spinta delle profondità.</p><p>L'area del ponte beneficia delle resistenze dell'interno della nave.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "oDGV8t5NZjYlqde7": {
+      "name": "Segni di Sale",
+      "details": "<p>Invisibili tranne che alla luce diretta della luna, sigilli incredibilmente complessi coprono ogni centimetro della struttura della nave, vietando l'ingresso a qualsiasi entità spettrale che la nave non riconosca come membro dell'equipaggio.</p><p>L'interno della nave ha immunità agli spiriti erranti.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "Od1kYmodAOhL661s": {
+      "name": "Sentinelle Mantidi",
+      "details": "<p>Quando attraccate in un porto, ottenete automaticamente un campione normale.</p>",
+      "type": "Sciami"
+    },
+    "ZQOIdo6CaKjV4CGr": {
+      "name": "Serbatoi di Zavorra",
+      "details": "<p>Pieni di trucioli di legno, liquidi andati a male e materiali di recupero arrugginiti. Questi serbatoi possono essere aperti a distanza e il loro contenuto scaricato per guadagnare di colpo quota mentre si è in volo.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "ta96VxtFFXSv7e3d": {
+      "name": "Serpentino",
+      "details": "<p>La segmentazione portata all'estremo. Quando getta l'ancora, la nave può avvolgersi intorno a rami o monumenti, ancorandosi così saldamente che nemmeno un radimoto riesce a smuoverla.</p>"
+    },
+    "U8ZUnaU16w5X6LRN": {
+      "name": "Serra d'Ambra",
+      "details": "<p>Una volta per viaggio, tira un d6. Con un 6, tutte le piante dell'appezzamento ottengono l'etichetta rara \"Rigogliosa\". Con 5 o 4, segna una casella sul tracciato di crescita di tutte le piante dell'appezzamento. Con 3, 2 o 1, l'appezzamento non ha effetti aggiuntivi.</p>",
+      "type": "Appezzamenti"
+    },
+    "0vzVievfqA2ToWKi": {
+      "name": "Serrartigli Fuoribordo",
+      "details": "<p>Motori fuoribordo che ospitano accessori a motosega, fatti per somigliare alle chele di un mantide.</p><p>Infligge danni RAV Laceranti a impatto totale.</p>"
+    },
+    "G6jnxOOzMm8lwY4G": {
+      "name": "Sfiati Sferraglianti a Carbone",
+      "details": "<p>Un sistema di prese d'aria e filtri meccanici, alimentato dal motore. Finalmente un uso per il carbone!</p><p>L'interno della nave ha resistenza all'aria malsana e alle spore vaganti.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "sFUdfmBexHNNNJvw": {
+      "name": "Sistema d'Ancoraggio",
+      "details": "<p>Tratti di catena con pesanti ganci ricurvi, usati per ancorare le navi ai rami del Selvapelago. Quasi tutte le navi ne sono dotate di serie.</p>",
+      "type": "Moduli Generici"
+    },
+    "wbWkCHtbPe0xUBBR": {
+      "name": "Skipper",
+      "details": "<p></p>",
+      "type": "Telaio da Battistrada"
+    },
+    "0vy8wJu4yeoNV2NO": {
+      "name": "Spargifiori Ancorato",
+      "details": "<p>Quando raccogli una pianta coltivata nello spargifiori ancorato, tira un d6. Con un 6, il campione ottenuto prende l'etichetta \"Pre-Verdeggiante\". Con 5 o 4, prende l'etichetta \"Animato\". Con 3, 2 o 1, prende l'etichetta \"Malinconico\".</p>",
+      "type": "Substrati"
+    },
+    "rdWBpyajCVE206ia": {
+      "name": "Spaventapasseri Urlante",
+      "details": "<ul><li><p>Tutti i tuoi appezzamenti hanno resistenza alla predazione da parte delle bestie</p></li></ul>",
+      "type": "Ufficiale da Giardinaggio"
+    },
+    "lfc7ERcvmgFIb6xI": {
+      "name": "Specchi da Segnalazione",
+      "details": "<p>Un metodo di comunicazione a lunga distanza che usa una serie di specchi rotanti collegati a un ordinatore rimesso a nuovo. Può essere controllato dalla postazione del pilota o dagli specchi stessi.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "E5L7v6upqZxdCu1a": {
+      "name": "Specchi Periscopici",
+      "details": "<p>Disposti in tutta la nave, una serie di canali a specchio che offre al pilota una visione più completa dell'ambiente circostante anche quando la nave è sommersa.</p>",
+      "type": "Moduli Generici"
+    },
+    "RpO0IaZLoFsTusEl": {
+      "name": "Specialista Promosso",
+      "details": "<ul><li><p>3 gradi in un'abilità qualsiasi</p></li></ul>",
+      "type": "Ufficiale da Profondità"
+    },
+    "MLeRKBlIPP1ruLZq": {
+      "name": "Spettrovere",
+      "details": "<p>Pallido come la morte e straordinariamente flessibile, lo spettrovere cresce raramente al di fuori delle profondità senza luce dell'Annegatoio.</p>"
+    },
+    "n2GK1Hb5U7P5ANIC": {
+      "name": "Spiedini Felici",
+      "details": "<p>Dopo aver attraversato un'area con un'attività di insetti particolarmente intensa, ottenete automaticamente la risorsa Insetto allo Spiedo.</p>",
+      "type": "Squadre da Profondità"
+    },
+    "8R32xxNvBGnWJNuk": {
+      "name": "Spinch",
+      "details": "<p>\"Submersible Pneumatic Inching Frame\", ossia profilo pneumatico sommergibile ad avanzamento graduale. Il profilo estensibile della nave le permette di superare varchi lunghi diverse volte la nave stessa.</p>"
+    },
+    "1AcFkLwCr2LXkZoU": {
+      "name": "Spinolupo Addestrato",
+      "details": "<p>Combatte corpo a corpo per difendere la nave, ottenendo di tanto in tanto il riflettore per infliggere danni RAV Contundenti, Taglienti o Perforanti.</p>",
+      "type": "Branchi"
+    },
+    "gl6iEzInElygEuE0": {
+      "name": "Spirale Magnetica",
+      "details": "<p>Usata per accelerare i siluri a velocità così ridicole che si frantumano all'impatto. Le cariche sparate infliggono i loro danni a tutti i bersagli in una piccola area.</p>",
+      "type": "Lanciasiluri"
+    },
+    "DW5CdWlQ5I1rYzzQ": {
+      "name": "Spray Chimico",
+      "details": "<p>Meglio farsi una doccia di nocive soluzioni alchemiche di origine sconosciuta e inquietante che di crezzerin. Probabilmente.</p><p>I membri dell'equipaggio che hanno il tempo di cospargersene prima di lasciare la nave in profondità ottengono un bonus temporaneo da 2 caselle, Inzuppato, che conferisce resistenza al crezzerin.</p>",
+      "type": "Equipaggiamento da Profondità"
+    },
+    "lGOF7AQXi7zhq9we": {
+      "name": "Spuntoni Spettrali",
+      "details": "<p>Una serie di ancore spirituali conficcate nello scafo esterno, ognuna legata all'anima di un aeronauta perduto. I fantasmi sono fragili, ma vanno in estasi per i cieli aperti.</p><p>Stile Aggiuntivo: Librarsi</p>",
+      "type": "Sistemi di Sollevamento Ausiliari"
+    },
+    "0NoLYwC4Dti18thI": {
+      "name": "Squamalama",
+      "details": "<p>Un esterno di scaglie a incastro perse o raccolte da una bestia del Selvapelago, affilate per una maggiore efficacia.</p>"
+    },
+    "SIgm8osd4FToN1H7": {
+      "name": "Stabilizzatore Piramidale",
+      "details": "<p>Questo ingombrante dispositivo rileva e corregge rotazioni impreviste e perdite di equilibrio. Riduci le riduzioni imposte quando cerchi di segare o speronare un ostacolo aereo.</p>",
+      "type": "Cabine Aeree"
+    },
+    "OxWlLQGfBgb1yWu5": {
+      "name": "Stanza Antipanico",
+      "details": "<p>Una piccola stanza rifornita di provviste sotto sale e giacigli, che può essere chiusa a tripla mandata dall'interno ed è estremamente difficile da forzare.</p>",
+      "type": "Cabine Comuni"
+    },
+    "3GpIbkMZnaYbC7L9": {
+      "name": "Stanza Selvaggia",
+      "details": "<p>Profuma di terriccio di foglie e di muschio, rassicurante nella sua oscurità. Un luogo dove rifugiarsi dal vuoto spalancato dei cieli.</p>",
+      "type": "Cabine Aeree"
+    },
+    "q6R90EuimsX7cil3": {
+      "name": "Stanzino Pseudosolare",
+      "details": "<p>Angusto ma rilassante, questo piccolo spazio è inondato da una calda luce arancione proveniente da diverse lampadine ad arco e lanterne a lucciola, che simula i raggi del sole lontano.</p>",
+      "type": "Moduli da Profondità"
+    },
+    "DyHIeOBIOzMJRa3J": {
+      "name": "Stormo di Pipistrelli",
+      "details": "<p>Da lontano conferiscono alla tua nave un aspetto decisamente gotico, ma da vicino sono inaspettatamente amichevoli.</p>",
+      "type": "Branchi"
+    },
+    "EYNk0PwhryISGlep": {
+      "name": "Strati di Tela Catramata",
+      "details": "<p>Tessuto irrigidito, dipinto con strati su strati di sigillante protettivo, che copre il ponte come una tenda rigida.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "y6wOIRUI5lizh75u": {
+      "name": "Strisciante",
+      "details": "<p>Migliaia di scaglie flessibili che fanno avanzare la nave con un movimento furtivo e sinuoso.</p><p>Infligge danni RAV Taglienti a impatto totale.</p>"
+    },
+    "oYk8j7B0d4VYTMgy": {
+      "name": "Striscianti Petalo-Polmone",
+      "details": "<p>Piante deambulanti simili a orchidee che filtrano naturalmente l'aria intorno a loro. Segna per aumentare l'impatto di un'azione per affrontare l'aria malsana o le spore vaganti mentre sei sulla tua nave.</p>",
+      "type": "Branchi da Profondità"
+    },
+    "AeUcyMcWsWl7kn6K": {
+      "name": "Stuoia Intrecciata",
+      "details": "<p>Una stuoia di erbe e liane del Selvapelago intrecciate tra pali rinforzati, più per mimetizzarsi che per proteggere l'equipaggio sul ponte.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "JRjNR09XmtbVZ35D": {
+      "name": "Superstizioso",
+      "details": "<p>Un dispositivo simile a un sonar usato per trovare vene, rovine sommerse e navi nascoste. Usarlo in modo efficace durante un viaggio richiede che un membro dell'equipaggio lo sorvegli, ma per tutta la durata quel membro ottiene la vista nella foschia (la capacità di vedere attraverso nubispora e ostruzioni gassose).</p>",
+      "type": "Moduli Generici"
+    },
+    "pQJ2dhfuHtaNZ7G7": {
+      "name": "Sussurri Inchiodati",
+      "details": "<p>A volte riesci a vederli, come polvere in un raggio di sole.</p><p>L'interno della nave ha resistenza alle incursioni di insetti e agli spiriti erranti.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "HikOh0qWMtqzgdXg": {
+      "name": "Sussurri Macinati",
+      "details": "<p>Quando un qualsiasi membro dell'equipaggio porta avanti o soddisfa una motivazione, segna i tracciati di tutte le piante seminate nei sussurri macinati. È l'unico modo per segnare i tracciati di queste piante.</p>",
+      "type": "Substrati"
+    },
+    "5ZnZXifoCbw8p9e6": {
+      "name": "Talea di Mangrovia",
+      "details": "<p>Macabri resti prelevati da un particolare albero del Sottogroviglio, che la ciurma evita ogni volta che può. Ogni volta che il Livello di Pressione aumenta, fai un tiro della fortuna con un d6. Con 4, 5 o 6, ottieni un sussurro.</p>",
+      "type": "Moduli da Profondità"
+    },
+    "pQUI7SIxlfTVhD27": {
+      "name": "Tartarvaso",
+      "details": "<p>Il tartarvaso può muoversi lentamente per la nave, evitando le cattive condizioni di crescita (come il maltempo) scendendo sottocoperta. Se viene coinvolto in uno scontro, una volta per scena può annullare un danno subito da un membro dell'equipaggio vicino.</p>",
+      "type": "Appezzamenti"
+    },
+    "B0oXo2pTfdOvfjcn": {
+      "name": "Tela Fremente",
+      "details": "<p>Un telo di vecchia tela da aeronave impregnato di sussurri irrequieti, legato a molle e carrucole per sfruttarne il movimento costante ma irregolare.</p><p>Alimentato dalle sillabe perdute dei segreti borbottati dall'equipaggio.</p>"
+    },
+    "QqtH0S3OIOqooNb3": {
+      "name": "Tenda Privata",
+      "details": "<p>Un'area di riposo sul ponte della nave: la tela offre ombra e riparo dal vento senza dover stare rinchiusi sottocoperta.</p>",
+      "type": "Strutture Esterne"
+    },
+    "inx7OlC0b4XdGdgo": {
+      "name": "Tentacolare",
+      "details": "<p>Un ammasso vivente di viticci o tentacoli attaccati allo scafo della nave, che la trasportano attraverso le onde con un movimento inquietante e alieno.</p><p>Infligge danni RAV Salini a impatto totale.</p>"
+    },
+    "D6w3vcYZsjH6uu10": {
+      "name": "Terra Monumentale",
+      "details": "<p>Quando semini un ortaggio o un legume nella terra monumentale, segna immediatamente una casella del suo tracciato.</p>",
+      "type": "Substrati"
+    },
+    "E0qLKy38c9nrl6tx": {
+      "name": "Terre Aride",
+      "details": "<p>Quando semini una pianta nelle terre aride, aggiungi tre caselle extra al tracciato della pianta.</p>",
+      "type": "Substrati"
+    },
+    "rMcdfRA7urrvm6Xe": {
+      "name": "Tessisole",
+      "details": "<p>Una meraviglia arconautica che intreccia e cristallizza brevemente la luce del sole, cavalcando il luccichio che ne risulta come un binario.</p><p>Costo di Decollo: Rostro\nStili di Volo: Slancio, Volteggiare\nFunziona solo quando la nave è alla luce diretta del sole.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "G9TI0jmXVziuTFyj": {
+      "name": "Tessuti Multistrato",
+      "details": "<p>Un enorme passo avanti rispetto al semplice ficcare stracci negli angoli.</p><p>L'interno della nave ha resistenza alle spore vaganti.</p>",
+      "type": "Filtri d'Aria"
+    },
+    "Nb01tCrvcGtnZmoZ": {
+      "name": "Tetralpaca",
+      "details": "<p>Un piccolo branco di animali robusti, presi dalle regioni più settentrionali del mare conosciuto. Usa un compito o segna il tetralpaca per ottenere una risorsa, Latte Fresco o Lana Color Neve.</p>",
+      "type": "Branchi d'Ascesa"
+    },
+    "qIGhNcZivclxASrj": {
+      "name": "Torretta ad Arpioni",
+      "details": "<p>Spara lance uncinate per perforare gli scafi delle navi e le pelli delle creature più grandi. Infligge danni AD Perforanti a impatto totale.</p>",
+      "type": "Armamenti da Ponte"
+    },
+    "urtDjg2BYRQ3jFAz": {
+      "name": "Trabucco",
+      "details": "<p>Scaglia pietre, pezzi di legno o ammassi di materiali di recupero. Infligge danni AD Contundenti a impatto totale.</p>",
+      "type": "Armamenti da Ponte"
+    },
+    "iIiD3HyGGi7cy7ap": {
+      "name": "Trio Condannato",
+      "details": "<p>Ogni volta che un membro del tuo equipaggio dovrebbe essere colpito da un effetto negativo della Pressione, puoi bruciare una casella del tracciato del trio condannato per farlo subire a loro.</p>",
+      "type": "Squadre da Profondità"
+    },
+    "H4iqQ2APUpRHMkV0": {
+      "name": "Trivelle da Tronco",
+      "details": "<p>Mentre è all'ancora, la nave può agganciarsi al tronco di una ferradice, riuscendo a resistere a scosse o impatti inaspettati.</p>",
+      "type": "Moduli da Profondità"
+    },
+    "mhm7BZdWddhANNOw": {
+      "name": "Turbine Brute",
+      "details": "<p>Enormi motori fuoribordo che minacciano di far andare la nave in pezzi. Assetati di carburante, danno una spinta costante.</p><p>Stile Aggiuntivo: Slancio</p>",
+      "type": "Sistemi di Sollevamento Ausiliari"
+    },
+    "FXoIGiJWy7Rxxw0g": {
+      "name": "Tute Improvvisate",
+      "details": "<p>Scomode da indossare a lungo, queste tute offrono un minimo di protezione contro i pericoli delle profondità che l'equipaggio potrebbe incontrare fuori dalla nave.</p><p>I membri dell'equipaggio che hanno il tempo di indossarle prima di lasciare la nave ottengono un bonus temporaneo da 4 caselle, Tuta Improvvisata (che può avere effetti negativi sul movimento). Il numero di caselle di questo tracciato si riduce ogni volta che il Livello di Pressione aumenta, partendo da quelle non segnate.</p>",
+      "type": "Equipaggiamento da Profondità"
+    },
+    "5XnVwhHZ08Dt3fGI": {
+      "name": "Ufficiale Abile",
+      "details": "<ul><li><p>2 gradi in un'abilità qualsiasi</p></li><li><p>1 grado in un'altra abilità qualsiasi</p></li></ul>",
+      "type": "Ufficiale"
+    },
+    "bn9XJBAvrGFAQw2R": {
+      "name": "Ufficiale Navigato",
+      "details": "<ul><li><p>2 gradi in una lingua qualsiasi</p></li><li><p>1 grado in un'altra lingua qualsiasi</p></li></ul>",
+      "type": "Ufficiale"
+    },
+    "aQ3uHqUacyKmPZTU": {
+      "name": "Ufficiale Veterano",
+      "details": "<ul><li><p>Un aspetto qualsiasi</p></li><li><p>Il tracciato di un ufficiale veterano è pari al tracciato dell'aspetto a cui ha accesso</p></li></ul>",
+      "type": "Ufficiale"
+    },
+    "XTfAW5cQy6VIsykK": {
+      "name": "Ur-Compostiera",
+      "details": "<p>Una brontolante serie di contenitori a compressione e tubi di gomma-foglia. Attira gli insetti, ma mai a lungo.</p><p>Alimentato con legno marcio, ritagli e ragnatele.</p>"
+    },
+    "I1i0g4RubOj8CO36": {
+      "name": "Vasi di Ceramica",
+      "details": "<p>I campioni raccolti dai vasi di ceramica ottengono un'etichetta positiva aggiuntiva al momento del raccolto (fornita dalla Lucciola).</p>",
+      "type": "Appezzamenti"
+    },
+    "BAKg7kL5FxYpZh6l": {
+      "name": "Veggenti degli Abissi",
+      "details": "<p>Puoi bruciare una casella del tracciato di questa squadra per ridurre di 1d6 il numero di segni sul tuo Manometro di Pressione.</p>",
+      "type": "Squadre da Profondità"
+    },
+    "pWPhdYMZWSvS5gwY": {
+      "name": "Veggenti del Cielo",
+      "details": "<p>Puoi segnare il tracciato di questa squadra per evitare che una riduzione conti per lo Scrutinio.</p>",
+      "type": "Squadre d'Ascesa"
+    },
+    "ysyspwcuACbYg6Kw": {
+      "name": "Vela Canalizzatrice",
+      "details": "<p>Nota per fornire una spinta al decollo e poco altro, le ossa del telaio di questa vela simile a un aquilone hanno bisogno di frequenti riparazioni.</p><p>Costo di Decollo: Velocità + Armatura\nStili di Volo: Slancio, Planare</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "HK5qxyohiX71efwb": {
+      "name": "Vela di Scheggia di Ferro",
+      "details": "<p>Una scheggia di ferro del vecchio mondo, di solito divisa in due pattini montati sui fianchi. La corrente voltaica che vi scorre li fa reagire ai metalli lontani per sollevare la nave.</p><p>Costo di Decollo: Manovrabilità\nStili di Volo: Fluttuare, Librarsi, Volteggiare\nRiduci di uno le riduzioni nelle acrobazie aeree eseguite in campi magnetici forti o conosciuti.</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "OZptpq7bOagiIrLw": {
+      "name": "Vela Mongolfiera",
+      "details": "<p>Tenute basse sulle onde, tele spiegate e sagomate per catturare il calore che sale da sotto la chioma.</p><p>Efficace solo con venti favorevoli.</p>"
+    },
+    "UHr2PTFQBDOtL7pu": {
+      "name": "Vela Quadrata",
+      "details": "<p>Una tela tesa che ha bisogno di una brezza forte; questo design richiama un'epoca di acque calme e limpide.</p><p>Efficace solo con venti favorevoli.</p>"
+    },
+    "PjQa8B79EDjOS3YQ": {
+      "name": "Vela Spettrale",
+      "details": "<p>Una vela quasi invisibile, tessuta con i fantasmi di vecchie tele. Si increspa e si gonfia in presenza degli spiriti.</p><p>Efficace solo in aree con una densa presenza spirituale.</p>"
+    },
+    "RjOYG2TiyQPasbdp": {
+      "name": "Vela Triangolare",
+      "details": "<p>Triangolare e orientata a mano, si affida a un equipaggio attento per cogliere le brezze giuste.</p><p>Efficace solo con venti favorevoli.</p>"
+    },
+    "W5PiUMY5rDpJGF0V": {
+      "name": "Vela-Aquilone Magnaccoppiata",
+      "details": "<p>Una vela-aquilone senza un evidente cavo che la leghi alla nave, che permette una completa libertà di movimento a distanze estreme nelle giornate ventose. Quando l'aquilonauta ha bisogno di tornare rapidamente alla nave, il rilascio di una molla attiva un elettromagnete, che lo strattona violentemente ma efficacemente verso il ponte da cui è partito.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "o13w9PFuUFy6aV4F": {
+      "name": "Vele Composite",
+      "details": "<p>Un sistema rinforzato di più vele, progettato per domare anche le raffiche più violente.</p><p>Efficace solo con venti favorevoli.</p>"
+    },
+    "BWtC20osbxdGIUlI": {
+      "name": "Vespe Incrostate di Sale",
+      "details": "<p>Segna per aumentare l'impatto di un'azione per affrontare spiriti erranti o incursioni di insetti mentre sei sulla tua nave.</p>",
+      "type": "Sciami da Profondità"
+    },
+    "dFdypXitrwiZGJhY": {
+      "name": "Vetro Antispruzzo",
+      "details": "<p>Vetro Pre-V rivestito da un sottile strato di grasso idrorepellente che interferisce pochissimo con la trasparenza. Mantiene la visuale limpida con qualsiasi tempo.</p>",
+      "type": "Moduli d'Ascesa"
+    },
+    "PJI2xcaUuzeEHjrc": {
+      "name": "Vite di Legno",
+      "details": "<p>Spesso scambiata da chi ondivaga per una specie di trivella celeste, gli ingegneri assicurano agli aeronauti dubbiosi che, in effetti, funziona.</p><p>Costo di Decollo: Rostro\nStili di Volo: Fluttuare, Battito d'Ali</p>",
+      "type": "Sistemi di Sollevamento"
+    },
+    "qhBqKoWlL64Za2fO": {
+      "name": "Viticci di Artiglieto",
+      "details": "<p>Tradizionalmente intagliati dai sinuosi alberi di artiglieto, noti per crescere, flettersi e afferrare per decenni dopo il raccolto.</p><p>Infligge danni RAV Perforanti a impatto totale.</p>"
+    },
+    "RX09QNSsZJqvrt1U": {
+      "name": "Vivente",
+      "details": "<p>Uno scafo semi-vivente di carne e ossa, flessibile e inquietantemente caldo.</p>"
+    },
+    "WgYttoXXbGconPtg": {
+      "name": "Vomere di Magnetite",
+      "details": "<p>Schegge di pietra di montagna, pesanti di minerale di ferro: si sollevano in aria con un interruttore, formando uno scudo parziale fluttuante sulla parte anteriore del ponte.</p>",
+      "type": "Gusci Pressurizzati"
+    },
+    "rgqg2IIIfoqrZl3z": {
+      "name": "Zampe di Geco",
+      "details": "<p>Zampe meccaniche con cuscinetti simili a quelli dei gechi alle estremità, progettate per afferrare saldamente i rami tenendo la nave sollevata (o appesa sotto).</p><p>La nave non subisce mai riduzioni nei movimenti per attraversare rami sottili o fragili.\nInfligge danni RAV Contundenti a impatto totale.</p>"
+    },
+    "w1psrTlu0LxRF4wA": {
+      "name": "Zanzare Mediche",
+      "details": "<p>Infezioni e virus non si trasmettono naturalmente da un membro dell'equipaggio all'altro.</p>",
+      "type": "Sciami"
+    },
+    "U1Y2fyvcu9xsPsyD": {
+      "name": "Zarabucco",
+      "details": "<p>Progettato per scagliare nubi di detriti taglienti in archi pigri ma pericolosi. Infligge danni AD Taglienti o Trincianti a impatto superiore a tutti i bersagli in una piccola area.</p>",
+      "type": "Armamenti Aerei"
+    }
+  }
+}

@@ -19,15 +19,24 @@
       "discord": "Mutex"
     }
   ],
-  "version": "0.2.4",
+  "version": "0.2.5",
   "url": "https://github.com/digennarot/wildsea-foundry",
   "manifest": "https://github.com/digennarot/wildsea-foundry/releases/latest/download/system.json",
-  "download": "https://github.com/digennarot/wildsea-foundry/releases/download/v0.2.4/wildsea-foundry-v0.2.4.zip",
+  "download": "https://github.com/digennarot/wildsea-foundry/releases/download/v0.2.5/wildsea-foundry-v0.2.5.zip",
 
   "compatibility": {
     "minimum": "13",
     "verified": "14",
     "maximum": "14"
+  },
+  "relationships": {
+    "recommends": [
+      {
+        "id": "babele",
+        "type": "module",
+        "reason": "Translates the compendiums into Italian"
+      }
+    ]
   },
   "media": [
     {

@@ -64,6 +64,11 @@ Hooks.once('init', () => {
   CONFIG.TinyMCE.content_css = `${WILDSEA.root_path}/styles/tinymce.css`
 })
 
+// Compendium translations, applied by the Babele module when it is active
+Hooks.once('babele.init', (babele) => {
+  babele.setSystemTranslationsDir('lang/compendium')
+})
+
 Hooks.once('ready', () => {
   runMigrations()
 })
