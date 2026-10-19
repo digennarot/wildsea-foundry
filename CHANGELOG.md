@@ -1,5 +1,9 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.6
+
+- Use the official Italian names for three translated aspects (Sentinella, Birra d'Acero, Farfalle Coda di Drago Verde)
+
 ## v0.2.5
 
 - Add Italian translations of the compendiums (character aspects, ship aspects and the Quick Reference journal), applied through the Babele module
