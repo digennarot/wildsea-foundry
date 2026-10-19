@@ -1,0 +1,36 @@
+{
+  "_id": "cLfS4xV8DQKmEIKX",
+  "_key": "!journal!cLfS4xV8DQKmEIKX",
+  "name": "Il Focolare",
+  "folder": "MdFjcxApyWvDGL2a",
+  "sort": 0,
+  "flags": {
+    "wildsea": {
+      "faction": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "T2Sct2ALJZJyQRXU",
+      "_key": "!journal.pages!cLfS4xV8DQKmEIKX.T2Sct2ALJZJyQRXU",
+      "name": "Il Focolare",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Territorio di origine:</strong> l'Urbe Profonda della Mortificazione. <strong>Obiettivi:</strong> riscaldare tutto.</p><p>Mentre in superficie si combatte, sotto la città il Motore Sottotorre si sta spegnendo. Il Focolare lotta senza sosta per evitare che la Mortificazione congeli.</p><p><em>Trascina questa voce sulla scheda della nave per aggiungere un tracciato reputazione.</em></p>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "R2fDUHQWuw31jk3j",
+  "_key": "!journal!R2fDUHQWuw31jk3j",
+  "name": "I Famelici",
+  "folder": "20EQgRp9peiBDLXD",
+  "sort": 0,
+  "flags": {
+    "wildsea": {
+      "faction": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "XyxsMXVfHPS6Mq04",
+      "_key": "!journal.pages!R2fDUHQWuw31jk3j.XyxsMXVfHPS6Mq04",
+      "name": "I Famelici",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Territorio di origine:</strong> lo Stretto del Pianto. <strong>Obiettivi:</strong> saziare l'Affamato.</p><p>Devoti isolazionisti di un'oscurità divina sotto le onde della Kremich, da placare con sacrifici regolari. Commerciano volentieri, ma se offesi diventano nemici implacabili.</p><p><em>Trascina questa voce sulla scheda della nave per aggiungere un tracciato reputazione.</em></p>"
+      }
+    }
+  ]
+}

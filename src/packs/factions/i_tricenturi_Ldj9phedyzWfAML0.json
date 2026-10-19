@@ -1,0 +1,36 @@
+{
+  "_id": "Ldj9phedyzWfAML0",
+  "_key": "!journal!Ldj9phedyzWfAML0",
+  "name": "I Tricenturi",
+  "folder": "IEBDtanAcykQgg7c",
+  "sort": 0,
+  "flags": {
+    "wildsea": {
+      "faction": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "kGMK5c0mnNf3NRyn",
+      "_key": "!journal.pages!Ldj9phedyzWfAML0.kGMK5c0mnNf3NRyn",
+      "name": "I Tricenturi",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Territorio di origine:</strong> le Archeopietre. <strong>Obiettivi:</strong> custodire la storia Pre-Verdeggiante.</p><p>Storici di stirpi longeve (Ektus, Falenidi, Ambrati) che hanno vissuto in prima persona gli eventi che tramandano. Si occupano soprattutto dell'Itterino e dei suoi antichi imperi, ma accolgono notizie affidabili su qualsiasi regione.</p><p><em>Trascina questa voce sulla scheda della nave per aggiungere un tracciato reputazione.</em></p>"
+      }
+    }
+  ]
+}

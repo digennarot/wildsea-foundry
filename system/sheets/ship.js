@@ -147,6 +147,39 @@ export default class WildseaShipSheet extends WildseaActorSheet {
     }
   }
 
+  // Dropped faction journals (flags.wildsea.faction) become reputation tracks
+  async _onDrop(event) {
+    const editor = foundry.applications?.ux?.TextEditor?.implementation ?? TextEditor
+    const data = editor.getDragEventData(event)
+    if (!['JournalEntry', 'JournalEntryPage'].includes(data.type))
+      return super._onDrop(event)
+
+    let doc = await fromUuid(data.uuid)
+    if (doc?.documentName === 'JournalEntryPage') doc = doc.parent
+    if (!doc?.getFlag('wildsea', 'faction') || !this.actor.isOwner) return false
+
+    const reputations = this.actor.system.reputations || []
+    if (reputations.some((r) => r.text === doc.name)) {
+      ui.notifications.info(
+        game.i18n.format('wildsea.reputationExists', { name: doc.name }),
+      )
+      return false
+    }
+
+    return this.actor.update({
+      system: {
+        reputations: [
+          ...reputations,
+          {
+            id: foundry.utils.randomID(),
+            text: doc.name,
+            ...foundry.utils.deepClone(WILDSEA.slimDefaults.reputations),
+          },
+        ],
+      },
+    })
+  }
+
   // The ship has no resource list: dropped resources go to Cargo & Passengers
   async _onDropItem(event, data) {
     if (!this.actor.isOwner) return false

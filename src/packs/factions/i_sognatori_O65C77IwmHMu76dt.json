@@ -1,0 +1,36 @@
+{
+  "_id": "O65C77IwmHMu76dt",
+  "_key": "!journal!O65C77IwmHMu76dt",
+  "name": "I Sognatori",
+  "folder": "6xLCCRratYb9eRBl",
+  "sort": 0,
+  "flags": {
+    "wildsea": {
+      "faction": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "vThd9CcLSsHIiQGW",
+      "_key": "!journal.pages!O65C77IwmHMu76dt.vThd9CcLSsHIiQGW",
+      "name": "I Sognatori",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Territorio di origine:</strong> la Tomba. <strong>Obiettivi:</strong> cercare l'illuminazione e proteggere l'eredità della Sibilla.</p><p>Una religione fondata dai discepoli della Sibilla, che custodisce i segreti Pre-V della Tomba. I loro servitori vestono d'azzurro e portano glifi sacri sulla fronte; solo gli iniziati sanno distinguerne le sette.</p><p><em>Trascina questa voce sulla scheda della nave per aggiungere un tracciato reputazione.</em></p>"
+      }
+    }
+  ]
+}

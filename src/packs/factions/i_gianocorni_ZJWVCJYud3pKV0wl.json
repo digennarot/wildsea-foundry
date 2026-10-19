@@ -1,0 +1,36 @@
+{
+  "_id": "ZJWVCJYud3pKV0wl",
+  "_key": "!journal!ZJWVCJYud3pKV0wl",
+  "name": "I Gianocorni",
+  "folder": "MdFjcxApyWvDGL2a",
+  "sort": 0,
+  "flags": {
+    "wildsea": {
+      "faction": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "Rm6gb9KNVraizhjr",
+      "_key": "!journal.pages!ZJWVCJYud3pKV0wl.Rm6gb9KNVraizhjr",
+      "name": "I Gianocorni",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Territorio di origine:</strong> la Mortificazione. <strong>Obiettivi:</strong> proteggere le antiche usanze e la città.</p><p>Un culto il cui potere risiede nella Torre di Taurobol, ma i cui membri sono per lo più cittadini comuni. Più disperati che malvagi: cercano di tenere in piedi la città e l'ordine in un mondo caotico, spesso con metodi duri.</p><p><em>Trascina questa voce sulla scheda della nave per aggiungere un tracciato reputazione.</em></p>"
+      }
+    }
+  ]
+}

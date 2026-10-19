@@ -100,6 +100,7 @@
     "ratings": "Ratings",
     "rattle": "Rattle",
     "reputation": "Reputation",
+    "reputationExists": "{name} is already in Reputation",
     "reputations": "Reputation",
     "resources": "Resources",
     "salvage": "Salvage",

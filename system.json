@@ -79,6 +79,13 @@
       "type": "Item"
     },
     {
+      "name": "factions",
+      "label": "Factions",
+      "system": "wildsea",
+      "path": "packs/factions",
+      "type": "JournalEntry"
+    },
+    {
       "name": "journals",
       "label": "Journals",
       "system": "wildsea",
@@ -91,7 +98,7 @@
     {
       "name": "The Wildsea",
       "sorting": "m",
-      "packs": ["character_aspects", "ship_aspects", "hazards", "cargo", "journals"]
+      "packs": ["character_aspects", "ship_aspects", "hazards", "cargo", "factions", "journals"]
     }
   ],
   "languages": [

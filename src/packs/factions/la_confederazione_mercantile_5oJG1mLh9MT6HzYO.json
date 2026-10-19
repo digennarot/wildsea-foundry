@@ -1,0 +1,36 @@
+{
+  "_id": "5oJG1mLh9MT6HzYO",
+  "_key": "!journal!5oJG1mLh9MT6HzYO",
+  "name": "La Confederazione Mercantile",
+  "folder": "6xLCCRratYb9eRBl",
+  "sort": 0,
+  "flags": {
+    "wildsea": {
+      "faction": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "dBZeFQPYOPErrxVg",
+      "_key": "!journal.pages!5oJG1mLh9MT6HzYO.dBZeFQPYOPErrxVg",
+      "name": "La Confederazione Mercantile",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Territorio di origine:</strong> la Borsa Mercantile di Piccoscuro. <strong>Obiettivi:</strong> ottenere la libertà di aumentare il proprio profitto.</p><p>Un'alleanza di mercanti cresciuta rapidamente in opposizione alle tasse e ai divieti imposti dal clero dei Sognatori. Per entrare bastano una quota e una raccomandazione, e oggi si presenta come voce del popolo.</p><p><em>Trascina questa voce sulla scheda della nave per aggiungere un tracciato reputazione.</em></p>"
+      }
+    }
+  ]
+}

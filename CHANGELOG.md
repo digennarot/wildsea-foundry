@@ -3,6 +3,8 @@
 ## v0.2.9
 
 - Add a "Cargo" compendium in Italian ("Carichi" with Babele): the cargo examples from the rulebook and the cargo left by hazards, as resources tagged "Carico". Descriptions are summaries
+- Add a "Factions" compendium in Italian ("Fazioni" with Babele): the twelve factions of the rulebook regions as journal entries, grouped by region, with home territory, goals and a summary
+- Ship sheet: dropping a faction entry on it adds a Reputation track for that faction
 - Ship sheet: dropping a resource on it adds it to Cargo & Passengers (with its tags, except "Carico") instead of creating an item the sheet cannot show
 
 ## v0.2.8

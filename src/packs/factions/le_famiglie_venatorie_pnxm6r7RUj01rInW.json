@@ -1,0 +1,36 @@
+{
+  "_id": "pnxm6r7RUj01rInW",
+  "_key": "!journal!pnxm6r7RUj01rInW",
+  "name": "Le Famiglie Venatorie",
+  "folder": "kcZZgSkxlaMiMgsk",
+  "sort": 0,
+  "flags": {
+    "wildsea": {
+      "faction": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "Yz0x9SZvwHG0QvsQ",
+      "_key": "!journal.pages!pnxm6r7RUj01rInW.Yz0x9SZvwHG0QvsQ",
+      "name": "Le Famiglie Venatorie",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Territorio di origine:</strong> le Torbiere. <strong>Obiettivi:</strong> abbattere le bestie più pericolose.</p><p>Gruppi seminomadi di cacciatori, uniti dalla passione per la caccia. Commerciano pelli, ossa e carne nei porti e si incontrano spesso in mare aperto, sulle tracce di una preda. Sono considerati rudi, ma onesti e determinati.</p><p><em>Trascina questa voce sulla scheda della nave per aggiungere un tracciato reputazione.</em></p>"
+      }
+    }
+  ]
+}

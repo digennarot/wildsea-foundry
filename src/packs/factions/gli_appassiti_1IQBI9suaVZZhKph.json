@@ -1,0 +1,36 @@
+{
+  "_id": "1IQBI9suaVZZhKph",
+  "_key": "!journal!1IQBI9suaVZZhKph",
+  "name": "Gli Appassiti",
+  "folder": "xCTZZ3jszCNa6EE3",
+  "sort": 0,
+  "flags": {
+    "wildsea": {
+      "faction": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "hLIHLNmzx5xuhhZb",
+      "_key": "!journal.pages!1IQBI9suaVZZhKph.hLIHLNmzx5xuhhZb",
+      "name": "Gli Appassiti",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Territorio di origine:</strong> le Ferradici Ambrate. <strong>Obiettivi:</strong> rinnovare il corpo, liberare lo spirito, coltivare il cimitero.</p><p>Persone che portano sul corpo i segni del marciume e della decomposizione, ricoperte di flora come giardini viventi. Riciclano i morti e viaggiano su leviatani radicati. Suscitano rispetto, paura o gratitudine, a seconda di chi li incontra.</p><p><em>Trascina questa voce sulla scheda della nave per aggiungere un tracciato reputazione.</em></p>"
+      }
+    }
+  ]
+}

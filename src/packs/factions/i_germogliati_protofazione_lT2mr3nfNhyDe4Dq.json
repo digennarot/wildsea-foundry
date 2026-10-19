@@ -1,0 +1,36 @@
+{
+  "_id": "lT2mr3nfNhyDe4Dq",
+  "_key": "!journal!lT2mr3nfNhyDe4Dq",
+  "name": "I Germogliati (protofazione)",
+  "folder": "xCTZZ3jszCNa6EE3",
+  "sort": 0,
+  "flags": {
+    "wildsea": {
+      "faction": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "v9lCUNgEbREzCcUr",
+      "_key": "!journal.pages!lT2mr3nfNhyDe4Dq.v9lCUNgEbREzCcUr",
+      "name": "I Germogliati (protofazione)",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Territorio di origine:</strong> le Ferradici Ambrate e oltre. <strong>Obiettivi:</strong> sconosciuti.</p><p>Flotte di leviatani avvolte nell'oscurità, che compaiono solo di notte tra nubi di polline luminoso. Chi viene catturato sparisce senza lasciare traccia. Nessuno sa cosa vogliano, e molti marinai li considerano un presagio di sventura.</p><p><em>Trascina questa voce sulla scheda della nave per aggiungere un tracciato reputazione.</em></p>"
+      }
+    }
+  ]
+}

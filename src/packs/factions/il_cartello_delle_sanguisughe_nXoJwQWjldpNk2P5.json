@@ -1,0 +1,36 @@
+{
+  "_id": "nXoJwQWjldpNk2P5",
+  "_key": "!journal!nXoJwQWjldpNk2P5",
+  "name": "Il Cartello delle Sanguisughe",
+  "folder": "IEBDtanAcykQgg7c",
+  "sort": 0,
+  "flags": {
+    "wildsea": {
+      "faction": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "Vbl8STRPVNBtCUW7",
+      "_key": "!journal.pages!nXoJwQWjldpNk2P5.Vbl8STRPVNBtCUW7",
+      "name": "Il Cartello delle Sanguisughe",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Territorio di origine:</strong> Porto Baskar (sede centrale). <strong>Obiettivi:</strong> raccogliere e distribuire acqua a scopo di lucro.</p><p>Dodici piccole imprese che trivellano i cactus ed estraggono acqua. Il loro monopolio le rende odiate, ma senza di loro molti porti della regione resterebbero all'asciutto.</p><p><em>Trascina questa voce sulla scheda della nave per aggiungere un tracciato reputazione.</em></p>"
+      }
+    }
+  ]
+}

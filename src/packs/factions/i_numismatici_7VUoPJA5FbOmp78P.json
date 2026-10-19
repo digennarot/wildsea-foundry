@@ -1,0 +1,36 @@
+{
+  "_id": "7VUoPJA5FbOmp78P",
+  "_key": "!journal!7VUoPJA5FbOmp78P",
+  "name": "I Numismatici",
+  "folder": "kcZZgSkxlaMiMgsk",
+  "sort": 0,
+  "flags": {
+    "wildsea": {
+      "faction": true
+    }
+  },
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "2FmloMeUYxYJCw1n",
+      "_key": "!journal.pages!7VUoPJA5FbOmp78P.2FmloMeUYxYJCw1n",
+      "name": "I Numismatici",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Territorio di origine:</strong> Altoborgo. <strong>Obiettivi:</strong> accumulare ed esibire le ricchezze Pre-V.</p><p>Un culto che ricerca monete, banconote, contratti e libri del mondo antico, usati anche per decorare navi e insediamenti. C'è chi li chiama pirati, ma di rado sono violenti: ciò che raccolgono ha poco valore per gli altri.</p><p><em>Trascina questa voce sulla scheda della nave per aggiungere un tracciato reputazione.</em></p>"
+      }
+    }
+  ]
+}
