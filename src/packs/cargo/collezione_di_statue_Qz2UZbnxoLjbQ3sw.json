@@ -1,0 +1,20 @@
+{
+  "_id": "Qz2UZbnxoLjbQ3sw",
+  "_key": "!items!Qz2UZbnxoLjbQ3sw",
+  "name": "Collezione di Statue",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "NMyrN9xDUfkziab8",
+  "sort": 400000,
+  "system": {
+    "details": "<p>Un gruppo di statue di pietra o di metallo, forse antiche. Pesanti, fragili, preziose.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

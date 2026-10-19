@@ -1,0 +1,20 @@
+{
+  "_id": "FLvQJijZGpNhtF8V",
+  "_key": "!items!FLvQJijZGpNhtF8V",
+  "name": "Uovo del Sognatore",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 2000000,
+  "system": {
+    "details": "<p>Un uovo che sembra emanare sogni a chi gli dorme vicino. Si ottiene da: <em>La Regina Di Sotto</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

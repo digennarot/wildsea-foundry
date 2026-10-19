@@ -1,0 +1,20 @@
+{
+  "_id": "2I8MhSUHAyJGwcbB",
+  "_key": "!items!2I8MhSUHAyJGwcbB",
+  "name": "Arto Malformato",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 1500000,
+  "system": {
+    "details": "<p>Un arto deforme e contaminato, ricavato dal corpo del leviatano. Si ottiene da: <em>Il Miasmacorvo</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

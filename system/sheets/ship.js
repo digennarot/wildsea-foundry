@@ -147,6 +147,28 @@ export default class WildseaShipSheet extends WildseaActorSheet {
     }
   }
 
+  // The ship has no resource list: dropped resources go to Cargo & Passengers
+  async _onDropItem(event, data) {
+    if (!this.actor.isOwner) return false
+    const item = await Item.implementation.fromDropData(data)
+    if (item?.type !== 'resource') return super._onDropItem(event, data)
+
+    const tags = (item.system.tags || '')
+      .split(',')
+      .map((t) => t.trim())
+      .filter((t) => t && !/^(cargo|carico)$/i.test(t))
+    const text = tags.length ? `${item.name} (${tags.join(', ')})` : item.name
+
+    return this.actor.update({
+      system: {
+        cargoPassengers: [
+          ...(this.actor.system.cargoPassengers || []),
+          { id: foundry.utils.randomID(), text },
+        ],
+      },
+    })
+  }
+
   async addDesign(subtype) {
     this.addEmbeddedDocument({
       name: game.i18n.format('wildsea.newDesignName', {

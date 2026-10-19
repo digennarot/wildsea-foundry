@@ -1,0 +1,20 @@
+{
+  "_id": "C5dbAVQFm4IRVkEo",
+  "_key": "!items!C5dbAVQFm4IRVkEo",
+  "name": "Becco di Miasmacorvo",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 1600000,
+  "system": {
+    "details": "<p>Un enorme becco ricurvo, ancora sporco di miasma. Si ottiene da: <em>Il Miasmacorvo</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

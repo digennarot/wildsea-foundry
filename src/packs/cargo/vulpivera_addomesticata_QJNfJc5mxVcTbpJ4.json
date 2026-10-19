@@ -1,0 +1,20 @@
+{
+  "_id": "QJNfJc5mxVcTbpJ4",
+  "_key": "!items!QJNfJc5mxVcTbpJ4",
+  "name": "Vulpivera Addomesticata",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "NMyrN9xDUfkziab8",
+  "sort": 600000,
+  "system": {
+    "details": "<p>Un animale vivo trasportato nella stiva. Abbastanza docile, finché qualcosa non lo spaventa.</p>",
+    "collapsed": false,
+    "tags": "Carico, Imbizzarrito",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

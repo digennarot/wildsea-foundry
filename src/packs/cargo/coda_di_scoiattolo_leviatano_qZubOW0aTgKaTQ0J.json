@@ -1,0 +1,20 @@
+{
+  "_id": "qZubOW0aTgKaTQ0J",
+  "_key": "!items!qZubOW0aTgKaTQ0J",
+  "name": "Coda di Scoiattolo Leviatano",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 3400000,
+  "system": {
+    "details": "<p>Una coda gigantesca e folta, pesantissima. Si ottiene da: <em>Vecchio Ordalio</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

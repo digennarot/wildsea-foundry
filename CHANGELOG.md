@@ -1,5 +1,10 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.9
+
+- Add a "Cargo" compendium in Italian ("Carichi" with Babele): the cargo examples from the rulebook and the cargo left by hazards, as resources tagged "Carico". Descriptions are summaries
+- Ship sheet: dropping a resource on it adds it to Cargo & Passengers (with its tags, except "Carico") instead of creating an item the sheet cannot show
+
 ## v0.2.8
 
 - Ship Aspects compendium: group the 58 flat folders into Design, Fittings (Motif, Additions, Rooms, Armaments, Outriders, Airborne, Delving, Gardens, Quiet) and Undercrew (Gangs, Beast Packs, Insect Packs, Officers, each split into Base/Delving/Gardening/Rising), with Italian folder names through Babele

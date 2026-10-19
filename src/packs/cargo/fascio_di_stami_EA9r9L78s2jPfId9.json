@@ -1,0 +1,20 @@
+{
+  "_id": "EA9r9L78s2jPfId9",
+  "_key": "!items!EA9r9L78s2jPfId9",
+  "name": "Fascio di Stami",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 3000000,
+  "system": {
+    "details": "<p>Stami grandi come pali, carichi di polline. Si ottiene da: <em>L'Orchidea Purpurea</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

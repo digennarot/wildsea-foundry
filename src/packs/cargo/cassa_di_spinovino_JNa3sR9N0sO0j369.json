@@ -1,0 +1,20 @@
+{
+  "_id": "JNa3sR9N0sO0j369",
+  "_key": "!items!JNa3sR9N0sO0j369",
+  "name": "Cassa di Spinovino",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "NMyrN9xDUfkziab8",
+  "sort": 200000,
+  "system": {
+    "details": "<p>Bottiglie di vino aspro e pungente, ben imballate nella paglia.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "5H7wcOaCyodf9pWb",
+  "_key": "!items!5H7wcOaCyodf9pWb",
+  "name": "Barile di Antico Whisky",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "NMyrN9xDUfkziab8",
+  "sort": 900000,
+  "system": {
+    "details": "<p>Liquore invecchiato chissà quanto, dal valore notevole se arriva intatto a destinazione.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

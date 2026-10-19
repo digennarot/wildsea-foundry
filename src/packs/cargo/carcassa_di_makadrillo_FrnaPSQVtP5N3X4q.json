@@ -1,0 +1,20 @@
+{
+  "_id": "FrnaPSQVtP5N3X4q",
+  "_key": "!items!FrnaPSQVtP5N3X4q",
+  "name": "Carcassa di Makadrillo",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "NMyrN9xDUfkziab8",
+  "sort": 300000,
+  "system": {
+    "details": "<p>Il corpo intero di una grossa bestia, da macellare o vendere prima che inizi a guastarsi.</p>",
+    "collapsed": false,
+    "tags": "Carico, Deperibile",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

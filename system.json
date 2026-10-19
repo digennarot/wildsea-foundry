@@ -19,10 +19,10 @@
       "discord": "Mutex"
     }
   ],
-  "version": "0.2.8",
+  "version": "0.2.9",
   "url": "https://github.com/digennarot/wildsea-foundry",
   "manifest": "https://github.com/digennarot/wildsea-foundry/releases/latest/download/system.json",
-  "download": "https://github.com/digennarot/wildsea-foundry/releases/download/v0.2.8/wildsea-foundry-v0.2.8.zip",
+  "download": "https://github.com/digennarot/wildsea-foundry/releases/download/v0.2.9/wildsea-foundry-v0.2.9.zip",
 
   "compatibility": {
     "minimum": "13",
@@ -72,6 +72,13 @@
       "type": "Actor"
     },
     {
+      "name": "cargo",
+      "label": "Cargo",
+      "system": "wildsea",
+      "path": "packs/cargo",
+      "type": "Item"
+    },
+    {
       "name": "journals",
       "label": "Journals",
       "system": "wildsea",
@@ -84,7 +91,7 @@
     {
       "name": "The Wildsea",
       "sorting": "m",
-      "packs": ["character_aspects", "ship_aspects", "hazards", "journals"]
+      "packs": ["character_aspects", "ship_aspects", "hazards", "cargo", "journals"]
     }
   ],
   "languages": [

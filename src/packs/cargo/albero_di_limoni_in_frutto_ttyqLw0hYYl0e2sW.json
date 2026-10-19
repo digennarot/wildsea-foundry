@@ -1,0 +1,20 @@
+{
+  "_id": "ttyqLw0hYYl0e2sW",
+  "_key": "!items!ttyqLw0hYYl0e2sW",
+  "name": "Albero di Limoni in Frutto",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "NMyrN9xDUfkziab8",
+  "sort": 500000,
+  "system": {
+    "details": "<p>Un piccolo albero vivo, con radici e terra, carico di limoni. Va curato durante il viaggio.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

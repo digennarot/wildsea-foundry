@@ -1,0 +1,20 @@
+{
+  "_id": "IO630B7UcjcNOsx1",
+  "_key": "!items!IO630B7UcjcNOsx1",
+  "name": "Colonia di Spore Cantanti",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "NMyrN9xDUfkziab8",
+  "sort": 800000,
+  "system": {
+    "details": "<p>Funghi vivi che emettono un ronzio melodioso. Inquietanti di notte, ma molto richiesti.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

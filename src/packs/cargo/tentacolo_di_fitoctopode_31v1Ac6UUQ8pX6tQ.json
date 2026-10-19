@@ -1,0 +1,20 @@
+{
+  "_id": "31v1Ac6UUQ8pX6tQ",
+  "_key": "!items!31v1Ac6UUQ8pX6tQ",
+  "name": "Tentacolo di Fitoctopode",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "z2P6WMKZsMA7LQGk",
+  "sort": 3500000,
+  "system": {
+    "details": "<p>Un tentacolo vegetale reciso, ancora contorto. Si ottiene da: <em>Fitoctopodi</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

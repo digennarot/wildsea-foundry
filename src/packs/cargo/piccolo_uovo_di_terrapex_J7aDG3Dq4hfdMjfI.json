@@ -1,0 +1,20 @@
+{
+  "_id": "J7aDG3Dq4hfdMjfI",
+  "_key": "!items!J7aDG3Dq4hfdMjfI",
+  "name": "Piccolo Uovo di Terrapex",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 1700000,
+  "system": {
+    "details": "<p>Un uovo grande quanto una botte, forse ancora vivo. Si ottiene da: <em>Il Terrapex</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

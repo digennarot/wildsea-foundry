@@ -1,0 +1,20 @@
+{
+  "_id": "GiKFCE2xsCjdtPqB",
+  "_key": "!items!GiKFCE2xsCjdtPqB",
+  "name": "Ghiandola Mesmerica",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 2600000,
+  "system": {
+    "details": "<p>Una ghiandola dalle proprietà ipnotiche, da maneggiare con cura. Si ottiene da: <em>L'Insidia Canuta</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

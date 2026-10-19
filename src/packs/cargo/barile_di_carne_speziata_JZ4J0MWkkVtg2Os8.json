@@ -1,0 +1,20 @@
+{
+  "_id": "JZ4J0MWkkVtg2Os8",
+  "_key": "!items!JZ4J0MWkkVtg2Os8",
+  "name": "Barile di Carne Speziata",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "NMyrN9xDUfkziab8",
+  "sort": 1000000,
+  "system": {
+    "details": "<p>Carne conservata con spezie delicate. Ottima, ma non dura a lungo.</p>",
+    "collapsed": false,
+    "tags": "Carico, Deperibile",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

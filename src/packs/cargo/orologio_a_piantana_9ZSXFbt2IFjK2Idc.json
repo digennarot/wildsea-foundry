@@ -1,0 +1,20 @@
+{
+  "_id": "9ZSXFbt2IFjK2Idc",
+  "_key": "!items!9ZSXFbt2IFjK2Idc",
+  "name": "Orologio a Piantana",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "NMyrN9xDUfkziab8",
+  "sort": 100000,
+  "system": {
+    "details": "<p>Un alto orologio a pendolo, pesante e delicato da spostare. Ingombra la stiva ma vale parecchio per il collezionista giusto.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

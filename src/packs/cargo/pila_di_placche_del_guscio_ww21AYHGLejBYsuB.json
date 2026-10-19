@@ -1,0 +1,20 @@
+{
+  "_id": "ww21AYHGLejBYsuB",
+  "_key": "!items!ww21AYHGLejBYsuB",
+  "name": "Pila di Placche del Guscio",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 1800000,
+  "system": {
+    "details": "<p>Placche di guscio staccate, dure e pesanti. Si ottiene da: <em>Il Terrapex</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

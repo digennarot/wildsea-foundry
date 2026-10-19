@@ -1,0 +1,20 @@
+{
+  "_id": "ONkb6IqUl4A8CZIY",
+  "_key": "!items!ONkb6IqUl4A8CZIY",
+  "name": "Mucchio di Antiche Ricchezze",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 2100000,
+  "system": {
+    "details": "<p>Monete, gioielli e oggetti preziosi accumulati nel tempo. Si ottiene da: <em>La Regina Di Sotto</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

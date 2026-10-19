@@ -1,0 +1,20 @@
+{
+  "_id": "88gkhzFKR1sViYix",
+  "_key": "!items!88gkhzFKR1sViYix",
+  "name": "Petalo Intero",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 2900000,
+  "system": {
+    "details": "<p>Un petalo gigantesco, intatto e profumato. Si ottiene da: <em>L'Orchidea Purpurea</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

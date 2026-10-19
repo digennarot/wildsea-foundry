@@ -1,0 +1,20 @@
+{
+  "_id": "juX0atFrBA2Qresr",
+  "_key": "!items!juX0atFrBA2Qresr",
+  "name": "Legname Fresco",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 2300000,
+  "system": {
+    "details": "<p>Tronchi appena tagliati, ottimi per riparazioni e costruzioni. Si ottiene da: <em>Lo Spirito dell'Industria</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

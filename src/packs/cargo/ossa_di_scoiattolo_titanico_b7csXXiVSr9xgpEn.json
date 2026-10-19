@@ -1,0 +1,20 @@
+{
+  "_id": "b7csXXiVSr9xgpEn",
+  "_key": "!items!b7csXXiVSr9xgpEn",
+  "name": "Ossa di Scoiattolo Titanico",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 3300000,
+  "system": {
+    "details": "<p>Ossa enormi di uno scoiattolo leviatano. Si ottiene da: <em>Vecchio Ordalio</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

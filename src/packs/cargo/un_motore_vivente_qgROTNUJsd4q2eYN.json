@@ -1,0 +1,20 @@
+{
+  "_id": "qgROTNUJsd4q2eYN",
+  "_key": "!items!qgROTNUJsd4q2eYN",
+  "name": "Un Motore Vivente",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "7u7rfQOvB02U578u",
+  "sort": 1400000,
+  "system": {
+    "details": "<p>Il cuore pulsante di un divoranavi, ancora caldo e inquieto. Si ottiene da: <em>Divoranavi</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

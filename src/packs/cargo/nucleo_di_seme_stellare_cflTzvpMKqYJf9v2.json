@@ -1,0 +1,20 @@
+{
+  "_id": "cflTzvpMKqYJf9v2",
+  "_key": "!items!cflTzvpMKqYJf9v2",
+  "name": "Nucleo di Seme Stellare",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 1900000,
+  "system": {
+    "details": "<p>Un nucleo luminoso dall'origine misteriosa. Si ottiene da: <em>La Regina Di Sotto</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

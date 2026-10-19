@@ -1,0 +1,20 @@
+{
+  "_id": "x12DuObw8qqiRsb7",
+  "_key": "!items!x12DuObw8qqiRsb7",
+  "name": "Legno Lavorato",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 2400000,
+  "system": {
+    "details": "<p>Assi e travi già lavorate, pronte all'uso. Si ottiene da: <em>Lo Spirito dell'Industria</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

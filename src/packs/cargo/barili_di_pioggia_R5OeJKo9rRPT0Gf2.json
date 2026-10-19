@@ -1,0 +1,20 @@
+{
+  "_id": "R5OeJKo9rRPT0Gf2",
+  "_key": "!items!R5OeJKo9rRPT0Gf2",
+  "name": "Barili di Pioggia",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "ltumqx0kIg0pNl4K",
+  "sort": 3100000,
+  "system": {
+    "details": "<p>Barili colmi di acqua piovana raccolta durante la tempesta. Si ottiene da: <em>Tempeste Viventi</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}

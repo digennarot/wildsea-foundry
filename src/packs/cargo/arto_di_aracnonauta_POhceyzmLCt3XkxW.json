@@ -1,0 +1,20 @@
+{
+  "_id": "POhceyzmLCt3XkxW",
+  "_key": "!items!POhceyzmLCt3XkxW",
+  "name": "Arto di Aracnonauta",
+  "type": "resource",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "7u7rfQOvB02U578u",
+  "sort": 1200000,
+  "system": {
+    "details": "<p>Una zampa meccanica smontata da un aracnonauta. Si ottiene da: <em>Aracnonauti</em>.</p>",
+    "collapsed": false,
+    "tags": "Carico",
+    "type": ""
+  },
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  }
+}
