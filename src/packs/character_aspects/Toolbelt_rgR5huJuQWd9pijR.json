@@ -2,7 +2,7 @@
   "name": "Toolbelt",
   "type": "aspect",
   "system": {
-    "details": "<p>Once per scene, swiftly craft a one-track creation without needing to roll.</p>",
+    "details": "<p>Once per scene, swiftly craft a one-track creation without needing to roll. Consumes salvage as normal.</p>",
     "collapsed": false,
     "track": {
       "value": 0,

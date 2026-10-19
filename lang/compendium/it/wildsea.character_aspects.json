@@ -818,7 +818,7 @@
     },
     "rgR5huJuQWd9pijR": {
       "name": "Cintura degli Attrezzi",
-      "details": "<p>Una volta per scena, costruisci rapidamente una creazione con un tracciato da una casella senza bisogno di tirare.</p>",
+      "details": "<p>Una volta per scena, costruisci rapidamente una creazione con un tracciato da una casella senza bisogno di tirare. Consumi materiali di recupero come di consueto.</p>",
       "type": "Attrezzatura"
     },
     "bpXUlnZ0UCkjhqz2": {
@@ -1038,7 +1038,7 @@
     },
     "yaxJjWGOCKmWJLzV": {
       "name": "Cura Frenetica",
-      "details": "<p>Puoi usare un compito per lavorare alla guarigione di un massimo di tre tratti, ferite o famigli alla volta.</p>",
+      "details": "<p>Puoi usare un compito per lavorare alla guarigione di un massimo di tre tratti, ferite o famigli alla volta. Tira una sola volta per farlo.</p>",
       "type": "Tratto"
     },
     "42Sw1MRr2SOL2e4x": {
@@ -2593,7 +2593,7 @@
     },
     "v3ii4HdvvRU5RJru": {
       "name": "Multitasking",
-      "details": "<p>Puoi usare un compito per lavorare alla riparazione di un massimo di tre attrezzature o famigli meccanici alla volta.</p>",
+      "details": "<p>Puoi usare un compito per lavorare alla riparazione di un massimo di tre attrezzature o famigli meccanici alla volta. Tira una sola volta per farlo.</p>",
       "type": "Tratto"
     },
     "Cr1jdT4I5CYfzFGI": {

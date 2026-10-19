@@ -2,7 +2,7 @@
   "name": "Multitasker",
   "type": "aspect",
   "system": {
-    "details": "<p>You can use a task to work on repairing up to three pieces of gear or mechanical companions at a time.</p>",
+    "details": "<p>You can use a task to work on repairing up to three pieces of gear or mechanical companions at a time. Roll once to do so.</p>",
     "collapsed": false,
     "track": {
       "value": 0,
