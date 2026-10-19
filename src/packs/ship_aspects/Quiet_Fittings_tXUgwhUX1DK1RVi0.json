@@ -1,0 +1,18 @@
+{
+  "name": "Quiet Fittings",
+  "type": "Item",
+  "_id": "tXUgwhUX1DK1RVi0",
+  "folder": "sFo5IayXTb9NJ8KJ",
+  "sorting": "a",
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845819,
+    "modifiedTime": 1716641845819,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!tXUgwhUX1DK1RVi0"
+}

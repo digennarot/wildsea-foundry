@@ -1,0 +1,33 @@
+{
+  "name": "Dream-Dredge",
+  "type": "aspect",
+  "system": {
+    "details": "<p>There are impressions of a forest-less world, but grasping them is like holding onto a dream. Use a task to gain a sliver of Pre-V information.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "9lbzmOcmQVACLmbK",
+  "_id": "wl4Gl4JdF5wwGd9p",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366207,
+    "modifiedTime": 1716738366207,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wl4Gl4JdF5wwGd9p"
+}

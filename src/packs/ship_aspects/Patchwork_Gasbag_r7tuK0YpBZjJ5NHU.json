@@ -1,0 +1,34 @@
+{
+  "name": "Patchwork Gasbag",
+  "type": "fitting",
+  "system": {
+    "details": "<p>It's almost criminal you're being charged for this. Ascent with a gasbag of this quality is ponderously slow, and puts massive stress on a ship's internal structures.</p><p>Takeoff Cost: Tilt + Armour\nFlight Style: Float, Hover</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "r7tuK0YpBZjJ5NHU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848376,
+    "modifiedTime": 1716846531602,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!r7tuK0YpBZjJ5NHU"
+}

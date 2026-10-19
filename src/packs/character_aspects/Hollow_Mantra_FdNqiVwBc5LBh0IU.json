@@ -1,0 +1,33 @@
+{
+  "name": "Hollow Mantra",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Nobody's listening, most likely, but words still hold power. Use a task to give one of your whispers the Echoing or Hungry tag.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "xn2LxujzReWaL31I",
+  "_id": "FdNqiVwBc5LBh0IU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385582,
+    "modifiedTime": 1716738385582,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FdNqiVwBc5LBh0IU"
+}

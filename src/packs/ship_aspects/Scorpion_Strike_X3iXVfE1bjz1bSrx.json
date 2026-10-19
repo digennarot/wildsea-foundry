@@ -1,0 +1,34 @@
+{
+  "name": "Scorpion Strike",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A spring-wound weapon that creaks alarmingly with every judder of the ship, packing enough punch that 'firing' it tends to shake a vessel down to the frame. Deals massive CQ Hewing damage. You may mark one of your ratings to hijack focus and attack with this armament (once per scene).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Delving Armament",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "UMFsF6bJXtP2r3um",
+  "_id": "X3iXVfE1bjz1bSrx",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846804,
+    "modifiedTime": 1717440159860,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!X3iXVfE1bjz1bSrx"
+}

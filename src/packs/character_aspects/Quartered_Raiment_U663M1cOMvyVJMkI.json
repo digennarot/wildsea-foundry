@@ -1,0 +1,33 @@
+{
+  "name": "Quartered Raiment",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You have resistance to Toxin and Salt damage, and to any damage taken while aiding a crewmate in an action they're attempting.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "ULcvip218OHWOMLq",
+  "_id": "U663M1cOMvyVJMkI",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367983,
+    "modifiedTime": 1716738367983,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!U663M1cOMvyVJMkI"
+}

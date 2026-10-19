@@ -1,0 +1,34 @@
+{
+  "name": "Mounted Magnet-Rail",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A powerful voltaic charge accelerates explosive projectiles to near-impossible speeds. Deals massive LR Blast damage. Reduce cut when attacking scaled targets.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Airborne Armament",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "imXmFeEg77XRU64v",
+  "_id": "7IBv4xwrb1kRHkZh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846708,
+    "modifiedTime": 1717440155180,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!7IBv4xwrb1kRHkZh"
+}

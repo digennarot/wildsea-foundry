@@ -1,0 +1,33 @@
+{
+  "name": "First Aid",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When a nearby ally takes damage, hijack focus to immediately heal one point of that damage (once per scene).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "GGgDhlNonS9uMSyf",
+  "_id": "ERA4OS5ed8zWsj2B",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372449,
+    "modifiedTime": 1716738372449,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ERA4OS5ed8zWsj2B"
+}

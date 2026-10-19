@@ -1,0 +1,33 @@
+{
+  "name": "Chimeriling",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Rescued from the laboratory cages, this unusual beast revels in freedom. Whenever you take a montage, one member of the crew can clear a mark of mire in addition to their usual task.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "Ub1bj2SBG6lESZ6Y",
+  "_id": "zhYv0DuN3n8xEMkn",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738390768,
+    "modifiedTime": 1716738390768,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zhYv0DuN3n8xEMkn"
+}

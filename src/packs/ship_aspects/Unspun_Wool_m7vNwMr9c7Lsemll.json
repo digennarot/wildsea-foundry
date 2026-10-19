@@ -1,0 +1,45 @@
+{
+  "name": "Unspun Wool",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Taken from surly mountain rams, and smells just as you would expect. Keeps noise low though.</p><p>Ship interior resists bad air</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "yjziwdQczsp8fDgj"
+      },
+      {
+        "rating": "depth",
+        "value": 1,
+        "id": "qka6Jy2A5UsDlKOY"
+      }
+    ],
+    "stakes": 2,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "m7vNwMr9c7Lsemll",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847566,
+    "modifiedTime": 1716846531315,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!m7vNwMr9c7Lsemll"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Floatnut Husk",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Though the ironroots these hail from have never actually been found, their efficacy as a natural route to air travel is beyond question.</p><p>Takeoff Cost: None\nFlight Style: Float, Glide\nOnly allow takeoff from the waves, and sit inert when within the confines of a highport.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "A2jyKOKlPfBSMEXY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848947,
+    "modifiedTime": 1716846529239,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!A2jyKOKlPfBSMEXY"
+}

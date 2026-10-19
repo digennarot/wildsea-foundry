@@ -1,0 +1,33 @@
+{
+  "name": "Steel-Step Dance",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The key to survival is mobility. They can’t hurt you if they can’t hit you.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Trait"
+  },
+  "folder": "x7RXOilMPCSoWA0x",
+  "_id": "hAE4yRMkCGasSkiC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368721,
+    "modifiedTime": 1716738368721,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!hAE4yRMkCGasSkiC"
+}

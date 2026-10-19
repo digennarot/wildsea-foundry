@@ -1,0 +1,33 @@
+{
+  "name": "Amblecotta Pot",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A tottering, stylized pot filled with simple soil. You gain an extra plot, always nearby to you, with 4/4 spaces for growing plants (This companion counts as a full solution, both plot and medium combined).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "w7VoxOIqxTQeuv1M",
+  "_id": "lQoNyevxvHSf7TrQ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738379321,
+    "modifiedTime": 1716738379321,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!lQoNyevxvHSf7TrQ"
+}

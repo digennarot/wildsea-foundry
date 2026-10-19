@@ -1,0 +1,39 @@
+{
+  "name": "Caterpillar Treads",
+  "type": "design",
+  "system": {
+    "details": "<p>Allows you to move again after dropping anchor (in Dimm's Embrace) without cutting or losing impact.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "saws",
+        "value": 1,
+        "id": "I70LvRmHl7qJboBs"
+      }
+    ],
+    "stakes": 3,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "3WMrUP5wI2ff3El0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844141,
+    "modifiedTime": 1717440154424,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!3WMrUP5wI2ff3El0"
+}

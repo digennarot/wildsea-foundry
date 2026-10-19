@@ -1,0 +1,39 @@
+{
+  "name": "Sunscoop",
+  "type": "design",
+  "system": {
+    "details": "<p>A sail-like array that ripples and surges in sunlight.</p><p>Only effective in direct sunlight.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 2,
+        "id": "0owbBCaPEgdp3FQG"
+      }
+    ],
+    "stakes": 2,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "2ZMfnvl3f1kui8uj",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844170,
+    "modifiedTime": 1716846528763,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2ZMfnvl3f1kui8uj"
+}

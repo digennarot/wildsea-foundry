@@ -1,0 +1,34 @@
+{
+  "name": "Medical Bay",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A clean space with tables and soft beds for the wounded and their carers.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Common Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "d1tw3WkmF0uVc18g",
+  "_id": "a2j7KKeAaswTUJb9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844810,
+    "modifiedTime": 1717440160475,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!a2j7KKeAaswTUJb9"
+}

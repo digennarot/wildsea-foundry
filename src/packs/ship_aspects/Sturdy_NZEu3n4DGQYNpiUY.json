@@ -1,0 +1,39 @@
+{
+  "name": "Sturdy",
+  "type": "design",
+  "system": {
+    "details": "<p>Built to last in a place of temporary things, a sturdy frame helps weather the strongest assaults.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "IDpuFyF07oFxXuXE"
+      }
+    ],
+    "stakes": 1,
+    "type": "frame",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Ri6EBpyFIdQvShqY",
+  "_id": "NZEu3n4DGQYNpiUY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843643,
+    "modifiedTime": 1717440158344,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NZEu3n4DGQYNpiUY"
+}

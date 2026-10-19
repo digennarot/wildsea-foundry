@@ -1,0 +1,34 @@
+{
+  "name": "Viper's Tooth",
+  "type": "fitting",
+  "system": {
+    "details": "<p>An unstable weapon that fires corrosive liquid. Deals massive LR Acid damage.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Deck Weapons",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "u1FzBbCuxgn7lnW1",
+  "_id": "S0Q8HiljLP2zKz0C",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846252,
+    "modifiedTime": 1717440158996,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!S0Q8HiljLP2zKz0C"
+}

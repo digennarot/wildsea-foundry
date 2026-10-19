@@ -1,0 +1,39 @@
+{
+  "name": "Muffling Wool",
+  "type": "design",
+  "system": {
+    "details": "<p>Shorn from shaggy drown-dwelling goats, left soft on the ship's interior and lacquered on the outer hull.</p><p>The crew treat conflicts as triumphs when trying to hide, keep quiet or go unnoticed within the ship.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "SOE1MH2ivDfp08rb"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "pwoRMq9kftkuGLtc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843864,
+    "modifiedTime": 1716846531541,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!pwoRMq9kftkuGLtc"
+}

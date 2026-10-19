@@ -1,0 +1,33 @@
+{
+  "name": "Full Reef-Iron Plating",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Whenever you would take massive damage from an attack of some kind aimed against you, you may burn a box on this gear's track to ignore it.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "JUYdF4TaRn2fACGt",
+  "_id": "zqHuzU0VU2xsifgH",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738374800,
+    "modifiedTime": 1716738374800,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zqHuzU0VU2xsifgH"
+}

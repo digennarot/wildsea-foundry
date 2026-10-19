@@ -1,0 +1,34 @@
+{
+  "name": "Cruel Greetings",
+  "type": "fitting",
+  "system": {
+    "details": "<p>There's very rarely a second chance to say hello. Reduce cut on attacks against ships and structures by one.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Torpedo Launcher",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "qyd5GMObp1buDvCC",
+  "_id": "LGA7KQCSaW6YdfhN",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847062,
+    "modifiedTime": 1717440157863,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!LGA7KQCSaW6YdfhN"
+}

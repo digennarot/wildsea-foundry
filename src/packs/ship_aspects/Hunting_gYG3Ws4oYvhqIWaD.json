@@ -1,0 +1,34 @@
+{
+  "name": "Hunting",
+  "type": "fitting",
+  "system": {
+    "details": "<ul><li><p>Trophies of bone, fur, or chitin prominently displayed on the outer hull.</p></li><li><p>A modified cargo area complete with animal pens.</p></li><li><p>An array of hunting and butchery tools, allowing crew fighting on or below decks easy access to CQ Keen or Spike damage.</p></li></ul>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Motif",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Uu14OE32lX7tniVq",
+  "_id": "gYG3Ws4oYvhqIWaD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844452,
+    "modifiedTime": 1717440185347,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gYG3Ws4oYvhqIWaD"
+}

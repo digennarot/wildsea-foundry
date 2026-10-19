@@ -1,0 +1,33 @@
+{
+  "name": "The Joy of Direct Paths",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Whenever your ship rams or cuts through a particularly difficult obstacle using a ratings roll, you gain a piece of salvage or specimen with the Broken tag related to the obstacle.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "ih0uSrXFUqEHFx63",
+  "_id": "U3I48l1e3FQq7WiU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738380003,
+    "modifiedTime": 1716738380003,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!U3I48l1e3FQq7WiU"
+}

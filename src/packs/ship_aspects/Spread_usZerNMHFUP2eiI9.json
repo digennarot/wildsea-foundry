@@ -1,0 +1,39 @@
+{
+  "name": "Spread",
+  "type": "design",
+  "system": {
+    "details": "<p>Distributes the ship's decks and rooms over a wider, flatter area than usual. The ship never has to cut for movement made to traverse thin or brittle branches.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "etvtpLHSKyMRUqRU"
+      }
+    ],
+    "stakes": 2,
+    "type": "frame",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Ri6EBpyFIdQvShqY",
+  "_id": "usZerNMHFUP2eiI9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843703,
+    "modifiedTime": 1717440165167,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!usZerNMHFUP2eiI9"
+}

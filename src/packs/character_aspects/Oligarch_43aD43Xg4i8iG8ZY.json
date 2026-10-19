@@ -1,0 +1,33 @@
+{
+  "name": "Oligarch",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You're regarded with awe by merchants and artisans of all sorts. You ask for and receive no discounts, and they withhold no wares or information from you - you never cut when attempting to deal or bargain.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "VynvrpYe2LPd4sVh",
+  "_id": "43aD43Xg4i8iG8ZY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382278,
+    "modifiedTime": 1716738382278,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!43aD43Xg4i8iG8ZY"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Re-Scrutiniser",
+  "type": "fitting",
+  "system": {
+    "details": "<p>The sky watches, but this ship watches in return. An arrangement of amber lenses and arconautically charged wiring leads to a central screen, creating a simple but accurate radar-like display.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "7DWmDWg2iudj2Nyi",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845539,
+    "modifiedTime": 1717440155172,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!7DWmDWg2iudj2Nyi"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "High Ground",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once per scene, increase impact on any successful action taken whilst you have the high ground.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "tVxkScnKd0lXtTe3",
+  "_id": "fNuvpFn2kWuqTj3y",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367080,
+    "modifiedTime": 1716738367080,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!fNuvpFn2kWuqTj3y"
+}

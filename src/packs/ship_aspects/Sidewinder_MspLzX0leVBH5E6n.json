@@ -1,0 +1,65 @@
+{
+  "name": "Sidewinder",
+  "type": "fitting",
+  "system": {
+    "details": "<p></p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 2,
+        "id": "BdvI7l2PLMo8cigb"
+      },
+      {
+        "rating": "seals",
+        "value": 3,
+        "id": "DqdMf9sR7VICyATB"
+      },
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "N02gEasQV07A2i3s"
+      },
+      {
+        "rating": "saws",
+        "value": 2,
+        "id": "AUaiw9HUEzWddTxT"
+      },
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "0RRw4e387r8cSsQj"
+      },
+      {
+        "rating": "tilt",
+        "value": 3,
+        "id": "BRLIJuUEUNStqwHW"
+      }
+    ],
+    "stakes": 2,
+    "type": "Outrider Chassis",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JMJqGWIUccqpyFdf",
+  "_id": "MspLzX0leVBH5E6n",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.3",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849715,
+    "modifiedTime": 1726064255216,
+    "lastModifiedBy": "TJrAKHDDZFkc3kmM"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!MspLzX0leVBH5E6n"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Mesh Relay",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Deal volt damage to any creature that attacks you with their own body in close quarters (such as with tail or bite attacks).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "vukXwNeZIk3SBQw9",
+  "_id": "dNsRzUIK66fU92fE",
+  "effects": [],
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373052,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!dNsRzUIK66fU92fE"
+}

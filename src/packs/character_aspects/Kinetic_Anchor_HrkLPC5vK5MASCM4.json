@@ -1,0 +1,33 @@
+{
+  "name": "Kinetic Anchor",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A large mass of metal shaped to make it easy to carry, often used to enable ferrokinesis in places otherwise empty of metal. Deals CQ blunt damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "m9dkFD5oyrUuWLE9",
+  "_id": "HrkLPC5vK5MASCM4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738371616,
+    "modifiedTime": 1716738371616,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HrkLPC5vK5MASCM4"
+}

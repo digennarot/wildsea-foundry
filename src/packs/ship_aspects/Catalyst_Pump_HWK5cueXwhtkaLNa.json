@@ -1,0 +1,40 @@
+{
+  "name": "Catalyst Pump",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Increases pressure within the ship to match the pressure on the exterior. Unpleasant, long-term, but effective.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "XpxwjvX74OrfmSDm"
+      }
+    ],
+    "stakes": 2,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "HWK5cueXwhtkaLNa",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847908,
+    "modifiedTime": 1717440156963,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HWK5cueXwhtkaLNa"
+}

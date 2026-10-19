@@ -1,0 +1,34 @@
+{
+  "name": "Ghost Spikes",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A set of spirit anchors sunk into the outer hull, each one tied to the sould of a lost aeronaut. The ghosts are fragile, but they thrill at the open skies.</p><p>Additional Style: Hover</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Auxiliary Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lqpNd7CHhtJV1bqM",
+  "_id": "lGOF7AQXi7zhq9we",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849171,
+    "modifiedTime": 1716846531285,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!lGOF7AQXi7zhq9we"
+}

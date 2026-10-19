@@ -1,0 +1,33 @@
+{
+  "name": "Wrapped in Rippling Words",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Sometimes it's better to confuse. Consume a whisper to briefly disguise your face, voice, and clothes, becoming a chameleonesque ripple to eyes and memory.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "65F2MhhDYaKlXwu6",
+  "_id": "W4L8v9DIFkPz04Zl",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738384365,
+    "modifiedTime": 1716738384365,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!W4L8v9DIFkPz04Zl"
+}

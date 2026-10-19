@@ -1,0 +1,33 @@
+{
+  "name": "Rusting-Leaf Ale",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Becomes more flavourful the more it gets jostled and shaken. Whenever you gain a benefit from a concoction or meal, increase its track by two boxes.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "d9gY3mFBBd8Le2h2",
+  "_id": "xRwRybRHXvop0NZp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369739,
+    "modifiedTime": 1716738369739,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!xRwRybRHXvop0NZp"
+}

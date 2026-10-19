@@ -1,0 +1,33 @@
+{
+  "name": "Anemone Ghast",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A bundle of animated  spine-like tendrils made of rough soil and ragged soul. Allows you to hold or manipulate many objects at once, and can deal CQ Salt damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "54H8Q3Gem7qM5WQx",
+  "_id": "e78Kvr55w2ljgT76",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376272,
+    "modifiedTime": 1716738376272,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!e78Kvr55w2ljgT76"
+}

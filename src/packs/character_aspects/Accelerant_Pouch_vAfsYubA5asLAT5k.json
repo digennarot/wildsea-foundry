@@ -1,0 +1,33 @@
+{
+  "name": "Accelerant Pouch",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Leather dusted with chalk, a satchel with a heavy, complex lock. Use a task to gain a resource, either Liquid Accelerant or Ready Kindling.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "MCDYoCazklmS4SR5",
+  "_id": "vAfsYubA5asLAT5k",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376435,
+    "modifiedTime": 1716738376435,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!vAfsYubA5asLAT5k"
+}

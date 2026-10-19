@@ -1,0 +1,39 @@
+{
+  "name": "Acid Maw",
+  "type": "design",
+  "system": {
+    "details": "<p>An open chemical vat that melts down scrap metal, piping the resulting pressurised slurry around the ship. Potent and almost impossible to interrupt.</p><p>Fuelled with salvage and scrap.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "saws",
+        "value": 2,
+        "id": "gLlGZzKNZObn33IQ"
+      }
+    ],
+    "stakes": 2,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "DF4TCr76OkO1DWaX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844282,
+    "modifiedTime": 1716846529363,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!DF4TCr76OkO1DWaX"
+}

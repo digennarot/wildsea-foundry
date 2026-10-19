@@ -1,0 +1,33 @@
+{
+  "name": "Dilution Agent",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When you create a concoction, the entire crew can gain the benefit it offers as a one-track temporary aspect.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "d0eAANjerm3NpV13",
+  "_id": "2JIkV22KVzZT0Mm6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368290,
+    "modifiedTime": 1716738368290,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2JIkV22KVzZT0Mm6"
+}

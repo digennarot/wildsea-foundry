@@ -1,0 +1,33 @@
+{
+  "name": "Deckside Engineer",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Tiny, incremental adjustments that you make without thinking keep your vessel's hull and superstructure in remarkable shape. Increase your ship's Armour rating by one when you're aboard.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "JxYJsXq1dOPUPvHn",
+  "_id": "oHRN2I7YdImrLy6E",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738371091,
+    "modifiedTime": 1716738371091,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!oHRN2I7YdImrLy6E"
+}

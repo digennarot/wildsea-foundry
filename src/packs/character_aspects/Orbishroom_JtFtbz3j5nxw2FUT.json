@@ -1,0 +1,33 @@
+{
+  "name": "Orbishroom",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A plump little follower that rolls drunkenly around your heels. Mark to gain a specimen, either Virulent Spores or Fungal Sheddings.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "WgHpdPlDUHrbhgP7",
+  "_id": "JtFtbz3j5nxw2FUT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738378167,
+    "modifiedTime": 1716738378167,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!JtFtbz3j5nxw2FUT"
+}

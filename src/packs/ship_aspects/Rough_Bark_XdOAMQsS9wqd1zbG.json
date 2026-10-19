@@ -1,0 +1,39 @@
+{
+  "name": "Rough Bark",
+  "type": "design",
+  "system": {
+    "details": "<p>Harvested from the ironroots. Irregular and tough to maintain, but easy for others to overlook at distance across the waves.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "943JyxYAcp6eWwN0"
+      }
+    ],
+    "stakes": 1,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "XdOAMQsS9wqd1zbG",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843737,
+    "modifiedTime": 1717440160018,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!XdOAMQsS9wqd1zbG"
+}

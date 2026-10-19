@@ -1,0 +1,33 @@
+{
+  "name": "Grave-Roots",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Burn to root yourself where you stand for a short period of time. When you are rooted you are almost entirely immovable [though you cannot move yourself either], and nearby crewmates benefit from your resistances and immunities.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "nzPecbsD2om2BB5x",
+  "_id": "YyE6zGZYIfr9v8kj",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376008,
+    "modifiedTime": 1716738376008,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!YyE6zGZYIfr9v8kj"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Immutable Chitin",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You are resistant to Blunt, Keen, Spike, and Blast damage. When this aspect's track is fully marked, you gain a weakness to Spike damage instead.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "E3EKa5s8S55LEM3a",
+  "_id": "KooIA03QXiItZGUY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738389837,
+    "modifiedTime": 1716738389837,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!KooIA03QXiItZGUY"
+}

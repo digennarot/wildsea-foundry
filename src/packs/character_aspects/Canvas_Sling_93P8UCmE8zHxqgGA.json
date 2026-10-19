@@ -1,0 +1,33 @@
+{
+  "name": "Canvas Sling",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A simple but effective weapon. Deals LR Blunt damage, and increases impact on CQ actions made to trip or restrain a target</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "CL3VRF7TPkNPi7qk",
+  "_id": "93P8UCmE8zHxqgGA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373578,
+    "modifiedTime": 1716738373578,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!93P8UCmE8zHxqgGA"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Underthrash Anchors",
+  "type": "fitting",
+  "system": {
+    "details": "<p>An upgrade to usual wildsea anchor systems so ubiqituous as to be treated as standard.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 0,
+    "type": "Delving Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "YxdjsM89Zp9FEuHO",
+  "_id": "X90P3aguH8CPuWmn",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845117,
+    "modifiedTime": 1717440159903,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!X90P3aguH8CPuWmn"
+}

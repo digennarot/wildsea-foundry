@@ -1,0 +1,18 @@
+{
+  "name": "Xylem Phloers",
+  "type": "Item",
+  "_id": "EHSXEKBCrw4cUrow",
+  "folder": "7ppKYjaQdOiatNIC",
+  "sorting": "a",
+  "sort": 600000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845917,
+    "modifiedTime": 1716641845917,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!EHSXEKBCrw4cUrow"
+}

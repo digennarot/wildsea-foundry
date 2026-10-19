@@ -1,0 +1,33 @@
+{
+  "name": "The Safest Wrapping",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task to convert a spoken or physical message of some kind into a whisper (if the message was a resource, you keep it in addition to gaining the whisper).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "WT8TIwI0cgMfghYX",
+  "_id": "Xes9oRCXA7dbAH8n",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373300,
+    "modifiedTime": 1716738373300,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Xes9oRCXA7dbAH8n"
+}

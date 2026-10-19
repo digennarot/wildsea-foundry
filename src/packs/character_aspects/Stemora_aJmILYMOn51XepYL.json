@@ -1,0 +1,33 @@
+{
+  "name": "Stemora",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A small and wriggly sucker-faced companion that lives on your body and slithers over you with its leafy fins, keeping you clear of parasites. Mark to remove the effects of toxins, poisons, infections, or infestations.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "EbOtcPcRIWTbc4dz",
+  "_id": "aJmILYMOn51XepYL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387128,
+    "modifiedTime": 1716738387128,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!aJmILYMOn51XepYL"
+}

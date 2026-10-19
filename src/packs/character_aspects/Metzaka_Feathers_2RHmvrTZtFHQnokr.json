@@ -1,0 +1,33 @@
+{
+  "name": "Metzaka Feathers",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A feathered charm made from the remains of a spectral crow. When wrapped around the hilt of a CQ weapon, it allows that weapon to deal LR damage instead. It can also deal damage without being physically held, freeing your hands for other tasks.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "iMQKWV96BfJ1gjya",
+  "_id": "2RHmvrTZtFHQnokr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738379928,
+    "modifiedTime": 1716738379928,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2RHmvrTZtFHQnokr"
+}

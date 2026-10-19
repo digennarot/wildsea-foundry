@@ -1,0 +1,34 @@
+{
+  "name": "Underthrash Platform",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A sturdy door leading to an open platform at the base of the ship, usually at the rear, below the riding-line.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "External Structures",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "GXwFU3mNMgP1TZhO",
+  "_id": "NNJEfS4sfXfll354",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844978,
+    "modifiedTime": 1717440158258,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NNJEfS4sfXfll354"
+}

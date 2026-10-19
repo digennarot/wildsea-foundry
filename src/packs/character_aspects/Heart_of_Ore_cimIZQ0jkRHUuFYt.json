@@ -1,0 +1,33 @@
+{
+  "name": "Heart of Ore",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Choose a single type of metal (such as iron or copper). Increase impact when repairing, crafting or using arconautics with your metal of choice.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "xKL6L84MpIq3mnr3",
+  "_id": "cimIZQ0jkRHUuFYt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738371391,
+    "modifiedTime": 1716738371391,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!cimIZQ0jkRHUuFYt"
+}

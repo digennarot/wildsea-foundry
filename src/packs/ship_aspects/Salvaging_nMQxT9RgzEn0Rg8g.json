@@ -1,0 +1,34 @@
+{
+  "name": "Salvaging",
+  "type": "fitting",
+  "system": {
+    "details": "<ul><li><p>A scratched and dented appearance, making you look almost like a wreck yourself.</p></li><li><p>A modified cargo area with work benches and tools for disassembly.</p></li><li><p>A grappling crane built into the ship's structure for attaching to large wreckage, allowing it to be hauled onto the deck or towed behind the ship.</p></li></ul>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Motif",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Uu14OE32lX7tniVq",
+  "_id": "nMQxT9RgzEn0Rg8g",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844461,
+    "modifiedTime": 1717440254701,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!nMQxT9RgzEn0Rg8g"
+}

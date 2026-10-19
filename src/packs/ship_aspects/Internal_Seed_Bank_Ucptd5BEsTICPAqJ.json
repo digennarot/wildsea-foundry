@@ -1,0 +1,34 @@
+{
+  "name": "Internal Seed Bank",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A room not only dedicated to safely storing seeds, but to leaching them of crezzerin contamination through painfully slow but reliable methods used by generations of parasite farmers.</p><p>At the beginning of a journey, choose a single set of seeds with the Wild or Rampant tag. At the end of the journey, those seeds lose their original tag and gain the Parasite tag instead.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Ship Gardens",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "VrEJVkg0g4qiOUrx",
+  "_id": "Ucptd5BEsTICPAqJ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846065,
+    "modifiedTime": 1716846530358,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Ucptd5BEsTICPAqJ"
+}

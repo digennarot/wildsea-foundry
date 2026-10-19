@@ -1,0 +1,33 @@
+{
+  "name": "Evolving Techniques",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Increase impact when healing others in a safe environment.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "GGgDhlNonS9uMSyf",
+  "_id": "RUy8lpvgKXDM2rl7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372475,
+    "modifiedTime": 1716738372475,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!RUy8lpvgKXDM2rl7"
+}

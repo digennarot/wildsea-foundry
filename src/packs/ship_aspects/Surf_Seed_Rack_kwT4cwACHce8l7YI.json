@@ -1,0 +1,34 @@
+{
+  "name": "Surf-Seed Rack",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A collection of flat-topped seeds, each large enough to lie or stand on. Wildsailors can leap out onto the waves with one of these to ride a bloomtide, as long as they can keep their balance.</p><p>A player might use Wavewalk or Vault to balance on a surf-seed as it carries them along, a roll that will be harder to make the more violent the bloomtide is that they choose to ride.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Bloom Surfing",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "EmuhVWTPyQ5MkbjJ",
+  "_id": "kwT4cwACHce8l7YI",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845872,
+    "modifiedTime": 1716846531278,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!kwT4cwACHce8l7YI"
+}

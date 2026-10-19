@@ -1,0 +1,33 @@
+{
+  "name": "Catalyst Growth",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can mark a temporary benefit given by a concoction or meal to grow in size, rather than to activate the usual effects. For the rest of the scene you increase the impact of all CQ attacks you make.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Trait"
+  },
+  "folder": "3olwJVpzwAUJkfpY",
+  "_id": "zTxfFupPKq630pcG",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738389065,
+    "modifiedTime": 1716738389065,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zTxfFupPKq630pcG"
+}

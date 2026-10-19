@@ -1,0 +1,18 @@
+{
+  "name": "Auxiliary Lift Systems",
+  "type": "Item",
+  "_id": "lqpNd7CHhtJV1bqM",
+  "folder": "SIE6jPKoKqGIQ3OA",
+  "sorting": "a",
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849110,
+    "modifiedTime": 1716641849110,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!lqpNd7CHhtJV1bqM"
+}

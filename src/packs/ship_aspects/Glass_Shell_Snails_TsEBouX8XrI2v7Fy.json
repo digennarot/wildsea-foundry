@@ -1,0 +1,35 @@
+{
+  "name": "Glass-Shell Snails",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Crews with glass-shell snails on board learn to tread lightly, especially at night.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Insect Packs"
+  },
+  "folder": "ExpDDuGQEfEmOfOw",
+  "_id": "TsEBouX8XrI2v7Fy",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641947385,
+    "modifiedTime": 1716641947385,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TsEBouX8XrI2v7Fy"
+}

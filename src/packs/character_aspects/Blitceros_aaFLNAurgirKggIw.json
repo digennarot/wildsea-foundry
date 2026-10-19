@@ -1,0 +1,33 @@
+{
+  "name": "Blitceros",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A quadruped large enough to be ridden. Tends to bring down barriers by charging into them horn-first.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "Zf3Bl6to8bfnmOju",
+  "_id": "aaFLNAurgirKggIw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369292,
+    "modifiedTime": 1716738369292,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!aaFLNAurgirKggIw"
+}

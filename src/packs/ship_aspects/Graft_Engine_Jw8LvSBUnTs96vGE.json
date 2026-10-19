@@ -1,0 +1,32 @@
+{
+  "name": "Graft Engine",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A complicated piece of machinery with many amberglass chambers, filled with alchemical growing solutions pumped from place to place through leaf-rubber tubing.</p><p>Duplicate hybridization results each fill a box on the resulting plant's Grow track, kickstarting its journey towards harvesting.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 4,
+    "type": "Hybrid Gardening Plots",
+    "damaged": false,
+    "track": {}
+  },
+  "folder": "GPtTcfV1chspRjwI",
+  "_id": "Jw8LvSBUnTs96vGE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641851076,
+    "modifiedTime": 1716846529811,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Jw8LvSBUnTs96vGE"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Paths in the Dark",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When one of your crew uses a chart to help traverse the tangle (or any deeper area) during a journey, add an extra die to the Watch roll and take the result you prefer.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "11JBDYnc422dvSzH",
+  "_id": "mipTSV0uUac0CJ9e",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375004,
+    "modifiedTime": 1716738375004,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!mipTSV0uUac0CJ9e"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Outrider Fittings",
+  "type": "Item",
+  "_id": "9wMthDFmKg4yWDOZ",
+  "folder": "R1btYhECXmFp1jgU",
+  "sorting": "a",
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849729,
+    "modifiedTime": 1716641849729,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!9wMthDFmKg4yWDOZ"
+}

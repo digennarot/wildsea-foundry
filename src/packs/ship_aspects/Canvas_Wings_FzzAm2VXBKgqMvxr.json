@@ -1,0 +1,34 @@
+{
+  "name": "Canvas Wings",
+  "type": "fitting",
+  "system": {
+    "details": "<p>These use lighter materials and more advanced engineering techniques than other wing attachments. Beating them for lift still takes an incredible amount of power, especially for heavier ships.</p><p>Takeoff Cost: Speed\nFlight Style: Rush, Glide, Flap</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 5,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "FzzAm2VXBKgqMvxr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848519,
+    "modifiedTime": 1716846529542,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FzzAm2VXBKgqMvxr"
+}

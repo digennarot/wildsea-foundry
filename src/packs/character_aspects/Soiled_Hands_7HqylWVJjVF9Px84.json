@@ -1,0 +1,33 @@
+{
+  "name": "Soiled Hands",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You know growth and decay and can utilize both when needed. You carry healing and destructive tangle moss and saps with you from your home in the Ambered Irons. Mark to create a resource, either Medicinal Herbs or Rot.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "BpUTujvYur2UIF2A",
+  "_id": "7HqylWVJjVF9Px84",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365884,
+    "modifiedTime": 1716738365884,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!7HqylWVJjVF9Px84"
+}

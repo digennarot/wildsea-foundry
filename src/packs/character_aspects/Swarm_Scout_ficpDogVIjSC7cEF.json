@@ -1,0 +1,33 @@
+{
+  "name": "Swarm-Scout",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A single spider you can send ahead as a scout, allowing you to see and hear at a distance.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "Hn15kBlKhVbeh1ps",
+  "_id": "ficpDogVIjSC7cEF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365798,
+    "modifiedTime": 1716738365798,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ficpDogVIjSC7cEF"
+}

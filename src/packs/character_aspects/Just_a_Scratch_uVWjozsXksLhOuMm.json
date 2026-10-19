@@ -1,0 +1,33 @@
+{
+  "name": "Just a Scratch",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to produce a resource, Warm Amber Shards or Dripping Resin.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "9lbzmOcmQVACLmbK",
+  "_id": "uVWjozsXksLhOuMm",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366235,
+    "modifiedTime": 1716738366235,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!uVWjozsXksLhOuMm"
+}

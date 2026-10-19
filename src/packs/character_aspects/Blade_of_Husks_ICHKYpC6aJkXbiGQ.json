@@ -1,0 +1,33 @@
+{
+  "name": "Blade of Husks",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A ritual weapon made from the chitin of lost colonymembers. Deals CQ keen or salt damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "MB10OHC2ZPPxX0vb",
+  "_id": "ICHKYpC6aJkXbiGQ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365783,
+    "modifiedTime": 1716738365783,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ICHKYpC6aJkXbiGQ"
+}

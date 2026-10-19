@@ -1,0 +1,33 @@
+{
+  "name": "Honour Braid",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your tresses woven with amber silk can be mny things - some even braid items, like trophies from their travels, into their locks. Lets you make acrobatic leaps or air defying holds among tangled roots.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "LQN3FoXJylEADvE3",
+  "_id": "IgM3TbzfKC56OKo1",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365836,
+    "modifiedTime": 1716738365836,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!IgM3TbzfKC56OKo1"
+}

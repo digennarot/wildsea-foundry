@@ -1,0 +1,33 @@
+{
+  "name": "Malusan Eel",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Toothy and loathsome to all but their owners and the ships they call home. Treat conflicts as triumphs when moving across the outside of a vessel under Pressure.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "ifRQYuaM2ty8xaR9",
+  "_id": "p0VmdtysnbqLL4gB",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376678,
+    "modifiedTime": 1716738376678,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!p0VmdtysnbqLL4gB"
+}

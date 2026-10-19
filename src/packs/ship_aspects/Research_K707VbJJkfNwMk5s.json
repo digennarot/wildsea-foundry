@@ -1,0 +1,34 @@
+{
+  "name": "Research",
+  "type": "fitting",
+  "system": {
+    "details": "<ul><li><p>A higher level of general technology on show than average.</p></li><li><p>A library for recording new findings and delving into secrets and lore.</p></li><li><p>A snapograph arrangement, a complex deck-mounted photography system for catching images of the waves and printing them on light-sensitive paper.</p></li></ul>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Motif",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Uu14OE32lX7tniVq",
+  "_id": "K707VbJJkfNwMk5s",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844497,
+    "modifiedTime": 1717440326222,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!K707VbJJkfNwMk5s"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Memorial Cairn-Garden",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Gravedirt is rare in a world of sea-burials, but some hew to ways older than the waves.</p><p>Increase the track length of plants in the cairn-garden by two boxes. The first time a plant growing or harvested from the cairn-garden would gain a negative tag, ignore it (once per journey).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Full Gardening Solutions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "dL96Er1qSGNykMKv",
+  "_id": "YUT43CQknVIm4NhR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850928,
+    "modifiedTime": 1716846530558,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!YUT43CQknVIm4NhR"
+}

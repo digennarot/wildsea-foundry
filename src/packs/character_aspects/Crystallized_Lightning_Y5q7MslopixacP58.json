@@ -1,0 +1,33 @@
+{
+  "name": "Crystallized Lightning",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Wrapped in leaf-rubber when not in use, this jewel can be shaken to create a shower of sparks or given a light tap to produce a single weak jolt, suitable for lighting a pipe or kindling. Burn a box to deal massive CQ Volt damage to both you and a nearby target.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "ICYPGpOg4uMwLoQi",
+  "_id": "Y5q7MslopixacP58",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386330,
+    "modifiedTime": 1716738386330,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Y5q7MslopixacP58"
+}

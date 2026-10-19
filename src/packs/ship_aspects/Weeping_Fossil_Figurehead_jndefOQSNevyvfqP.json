@@ -1,0 +1,45 @@
+{
+  "name": "Weeping Fossil Figurehead",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A creature turned to something like stone by the passing ages, or by the unpredictable energies of the wilds. Greenery shies away when such a specimen draws close.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "psOWA8JJufDE7GuU"
+      },
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "OIxE9imMy00UwqFW"
+      }
+    ],
+    "stakes": 2,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "jndefOQSNevyvfqP",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848155,
+    "modifiedTime": 1717440162841,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!jndefOQSNevyvfqP"
+}

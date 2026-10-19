@@ -1,0 +1,33 @@
+{
+  "name": "Multi-Hued Moths",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Used to send and interpret messages in signalling at extreme range - the moths are trained to send their messages directionally, and such messages are almost invisible to anyone other than the target.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "h7Tt9FFoRyrDLNQd",
+  "_id": "Tgvyw1RuEFUwyVLm",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738384704,
+    "modifiedTime": 1716738384704,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Tgvyw1RuEFUwyVLm"
+}

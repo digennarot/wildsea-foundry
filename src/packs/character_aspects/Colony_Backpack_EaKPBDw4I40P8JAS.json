@@ -1,0 +1,33 @@
+{
+  "name": "Colony Backpack",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Never quire at rest, but their work is impossible to direct. Whenever an ally gains a specimen or piece of salvage, make a fortune roll using a d6. On a 6, you gain a copy of this resource with the Waxen tag.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "AvBUzGWtKJfm4fym",
+  "_id": "EaKPBDw4I40P8JAS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385341,
+    "modifiedTime": 1716738385341,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!EaKPBDw4I40P8JAS"
+}

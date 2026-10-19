@@ -1,0 +1,33 @@
+{
+  "name": "Symbiote Seed-Bed",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task to give an ally a one-box temporary aspect, Symbiote Seed, that grants them resistance to a single damage type of your choice. When that aspect is lost, gain a plant specimen related to their bloodline.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "ZpenuQS1IvlfJCxL",
+  "_id": "SuHDsfZGMlM1eIRw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376139,
+    "modifiedTime": 1716738376139,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!SuHDsfZGMlM1eIRw"
+}

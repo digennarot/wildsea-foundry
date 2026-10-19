@@ -1,0 +1,33 @@
+{
+  "name": "Tar-Stained Cloak",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When in shadows or areas of limited visibility, mark to shift attention from you to a willing crewmate and be momentarily lost or forgotten to foes. You can see perfectly in darkness.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "8a0kkU5oyvHZg254",
+  "_id": "JsTmayGydcn2OKp2",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381405,
+    "modifiedTime": 1716738381405,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!JsTmayGydcn2OKp2"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "From Bough to Brain",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task to study a tree (of any size) and learn its secrets, age and condition (supplied by the Firefly).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Trait"
+  },
+  "folder": "tVxkScnKd0lXtTe3",
+  "_id": "oQV5Aag5rCydSZEz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367114,
+    "modifiedTime": 1716738367114,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!oQV5Aag5rCydSZEz"
+}

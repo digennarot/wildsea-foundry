@@ -1,0 +1,34 @@
+{
+  "name": "Algae Farm",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Though difficult to maintain, algae farms offer an unprecedented opportunity for tailors and ravellers alike.</p><p>Increase the Grow tracks of plants in this plot by two boxes. Whenever you harvest a plant from an algae farm, gain an additional specimen of coloured dye related to the plant.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Full Gardening Solutions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "dL96Er1qSGNykMKv",
+  "_id": "XN5mh7slEkkp4q8X",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850959,
+    "modifiedTime": 1716846530489,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!XN5mh7slEkkp4q8X"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Volcrez Plating",
+  "type": "design",
+  "system": {
+    "details": "<p>Lithicraft are too valuable to be traded away to even the most intrepid wildsailors, but the opportunistic may be able to harvest and incorporate chunks of their material from wrecked vessels (or through shady deals).</p><p>Your ship is completely immune to damage from flame-based hazards and extreme heat. The crew within it, however, are not.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 3,
+        "id": "hWvLezHF2pn2hWMR"
+      },
+      {
+        "rating": "speed",
+        "value": -1,
+        "id": "iXFLzMEWE1e1Ju1t"
+      }
+    ],
+    "stakes": 4,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "ZJ2ltY9CfckYlEp7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843851,
+    "modifiedTime": 1716846530606,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ZJ2ltY9CfckYlEp7"
+}

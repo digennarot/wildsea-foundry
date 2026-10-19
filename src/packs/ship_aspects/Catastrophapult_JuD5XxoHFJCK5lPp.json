@@ -1,0 +1,34 @@
+{
+  "name": "Catastrophapult",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A forked deck-weapon that fires axehead-shaped projectiles using springs and stored tension. Deals massive LR Hewing damage.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Airborne Armament",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "imXmFeEg77XRU64v",
+  "_id": "JuD5XxoHFJCK5lPp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846667,
+    "modifiedTime": 1717440157526,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!JuD5XxoHFJCK5lPp"
+}

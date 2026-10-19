@@ -1,0 +1,33 @@
+{
+  "name": "Doctor's Trusty Satchel",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to acquire one of three resources, Hungry Leeches, Soporific Draught or Medicinal Herbs.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "oKKWbu4d8zGPZh3a",
+  "_id": "avyzXqe9NIL05PX7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372715,
+    "modifiedTime": 1716738372715,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!avyzXqe9NIL05PX7"
+}

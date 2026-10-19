@@ -1,0 +1,33 @@
+{
+  "name": "The Sudden Orchid",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A tradition of stillness and movement. Once per scene, when you would be forced to react to an opponent's attack, hijack focus and take an action of your own instead. If this action deals damage, increase the impact of it by one step.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Trait"
+  },
+  "folder": "E3EKa5s8S55LEM3a",
+  "_id": "Yy8j4gkDNL5z8pdN",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738389888,
+    "modifiedTime": 1716738389888,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Yy8j4gkDNL5z8pdN"
+}

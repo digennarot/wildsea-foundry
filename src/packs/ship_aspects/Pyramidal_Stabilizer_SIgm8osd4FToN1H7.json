@@ -1,0 +1,34 @@
+{
+  "name": "Pyramidal Stabilizer",
+  "type": "fitting",
+  "system": {
+    "details": "<p>This bulky device detects and corrects unexpected spins and losses of balance. Reduce cut imposed when trying to saw through or ram an aerial obstacle.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Airborne Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "H2w7aTU8r6hK7UUp",
+  "_id": "SIgm8osd4FToN1H7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845631,
+    "modifiedTime": 1717440159041,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!SIgm8osd4FToN1H7"
+}

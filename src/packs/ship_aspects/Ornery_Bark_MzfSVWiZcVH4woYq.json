@@ -1,0 +1,34 @@
+{
+  "name": "Ornery Bark",
+  "type": "fitting",
+  "system": {
+    "details": "<p>When you sow a fruit, berry, or moss in ornery bark, mark one box on its track immediately.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Gardening Mediums",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "ARe4ct5RrbrdmAiZ",
+  "_id": "MzfSVWiZcVH4woYq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850583,
+    "modifiedTime": 1717440158168,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!MzfSVWiZcVH4woYq"
+}

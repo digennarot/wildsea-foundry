@@ -1,0 +1,33 @@
+{
+  "name": "Proliferation",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Burn to grant an ally a copy of any one of your aspects (other than this one) as a temporary benefit. The benefit’s track is equal to the original aspect’s track.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "AJSvCuKqWgIqGu6z",
+  "_id": "KcRZtraIApyUMxrp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365160,
+    "modifiedTime": 1716738365160,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!KcRZtraIApyUMxrp"
+}

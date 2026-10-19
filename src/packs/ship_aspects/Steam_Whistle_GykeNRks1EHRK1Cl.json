@@ -1,0 +1,34 @@
+{
+  "name": "Steam Whistle",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A shrill, piercing whistle used to announce your presence or scare the more skittish denizens of the sea.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "General Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "qLaXUJsA0bG5ENat",
+  "_id": "GykeNRks1EHRK1Cl",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844629,
+    "modifiedTime": 1717440156771,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!GykeNRks1EHRK1Cl"
+}

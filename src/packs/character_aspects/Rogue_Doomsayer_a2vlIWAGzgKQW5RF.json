@@ -1,0 +1,33 @@
+{
+  "name": "Rogue Doomsayer",
+  "type": "aspect",
+  "system": {
+    "details": "<p>An unsettled fragment of personality. Mark to request a dark and unbidden (but likely pertinent) thought from the Firefly.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "Hn15kBlKhVbeh1ps",
+  "_id": "a2vlIWAGzgKQW5RF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365809,
+    "modifiedTime": 1716738365809,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!a2vlIWAGzgKQW5RF"
+}

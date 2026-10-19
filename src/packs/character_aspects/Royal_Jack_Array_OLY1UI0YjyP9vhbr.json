@@ -1,0 +1,33 @@
+{
+  "name": "Royal-Jack Array",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A curious mechanism worn around the throat. Consume a whisper to translate speech in any language to chemical bursts, understandable by most insects.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "AvBUzGWtKJfm4fym",
+  "_id": "OLY1UI0YjyP9vhbr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385170,
+    "modifiedTime": 1716738385170,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!OLY1UI0YjyP9vhbr"
+}

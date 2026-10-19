@@ -1,0 +1,39 @@
+{
+  "name": "Sweat-Sails",
+  "type": "design",
+  "system": {
+    "details": "<p>Held low to the waves, unfurled canvases shaped to catch the rising under-canopy heat.</p><p>Only effective in favourable winds.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "l1nXLhUbYaPyXOrQ"
+      }
+    ],
+    "stakes": 1,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "OZptpq7bOagiIrLw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844047,
+    "modifiedTime": 1716846530079,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!OZptpq7bOagiIrLw"
+}

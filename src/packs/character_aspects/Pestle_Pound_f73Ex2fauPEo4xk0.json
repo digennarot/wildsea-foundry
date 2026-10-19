@@ -1,0 +1,33 @@
+{
+  "name": "Pestle-Pound",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task to grind a specimen into a powder, changing its form to a dust or salt and giving it the ‘Pure’ tag.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "CswbUYqzdgyEP0Ws",
+  "_id": "f73Ex2fauPEo4xk0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368161,
+    "modifiedTime": 1716738368161,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!f73Ex2fauPEo4xk0"
+}

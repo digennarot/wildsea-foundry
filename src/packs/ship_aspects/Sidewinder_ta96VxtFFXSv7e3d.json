@@ -1,0 +1,39 @@
+{
+  "name": "Sidewinder",
+  "type": "design",
+  "system": {
+    "details": "<p>Segmentation taken to the extreme. When dropping anchor the ship can curl around branches or monuments, anchoring itself so thoroughly that even a rootquake can't dislodge it.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "YtpduMnhDwNjyxQa"
+      }
+    ],
+    "stakes": 2,
+    "type": "frame",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Ri6EBpyFIdQvShqY",
+  "_id": "ta96VxtFFXSv7e3d",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843691,
+    "modifiedTime": 1717440164904,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ta96VxtFFXSv7e3d"
+}

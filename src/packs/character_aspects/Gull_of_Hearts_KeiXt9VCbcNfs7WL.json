@@ -1,0 +1,33 @@
+{
+  "name": "Gull of Hearts",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Brave but fragile, a reliable aerial companion. Clear a mark or burn from one of the watchful eyes whenever you sight a wonder or horror while airborne.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "TzGhitXoM97yA5qA",
+  "_id": "KeiXt9VCbcNfs7WL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738378671,
+    "modifiedTime": 1716738378671,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!KeiXt9VCbcNfs7WL"
+}

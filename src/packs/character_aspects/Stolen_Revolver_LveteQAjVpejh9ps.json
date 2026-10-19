@@ -1,0 +1,33 @@
+{
+  "name": "Stolen Revolver",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Filched from a member of the undercrew. Deals low-impact LR Blast damage against targets that are aware of you, high-impact LR Blast damage if you're hidden.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "8a0kkU5oyvHZg254",
+  "_id": "LveteQAjVpejh9ps",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381521,
+    "modifiedTime": 1716738381521,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!LveteQAjVpejh9ps"
+}

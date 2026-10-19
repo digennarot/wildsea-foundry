@@ -1,0 +1,33 @@
+{
+  "name": "Iron-Ring Jacket",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You’re resistant to three damage types, chosen from the following list: Blunt, Spike, Serrated, Toxin, Volt.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "m9dkFD5oyrUuWLE9",
+  "_id": "5oPGnbn9Y0bbnX7X",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738371568,
+    "modifiedTime": 1716738371568,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!5oPGnbn9Y0bbnX7X"
+}

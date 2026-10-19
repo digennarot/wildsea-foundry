@@ -1,0 +1,44 @@
+{
+  "name": "Exile's Copper",
+  "type": "design",
+  "system": {
+    "details": "<p>A rare metal that weighs far, far less than it has any right to, prized for racing-ship hulls.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "4O0SRK2W4SGTR7zB"
+      },
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "Q31PDmxYCntD8Dn5"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "WxeGYEEav5ZCD14g",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843794,
+    "modifiedTime": 1717440159774,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!WxeGYEEav5ZCD14g"
+}

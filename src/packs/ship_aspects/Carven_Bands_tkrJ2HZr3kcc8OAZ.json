@@ -1,0 +1,45 @@
+{
+  "name": "Carven Bands",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Made to slide up from the edges of the ship and interlock above the deck, the broadwood of each band is both flexible and resilient.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "VnKQLVB1agGlLlXG"
+      },
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "867NFasNa0f5JucW"
+      }
+    ],
+    "stakes": 2,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "tkrJ2HZr3kcc8OAZ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848057,
+    "modifiedTime": 1717440165006,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!tkrJ2HZr3kcc8OAZ"
+}

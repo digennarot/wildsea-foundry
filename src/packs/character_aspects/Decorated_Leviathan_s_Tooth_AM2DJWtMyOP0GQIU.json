@@ -1,0 +1,33 @@
+{
+  "name": "Decorated Leviathan's Tooth",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once per scene, burn the leviathan's tooth to ignore an instance of incoming damage. For the remainder of the scene,  the tooth deals high-impact CQ damage of the type it allowed you to ignore.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "ogzQeTAaOAajQsyU",
+  "_id": "AM2DJWtMyOP0GQIU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386018,
+    "modifiedTime": 1716738386018,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!AM2DJWtMyOP0GQIU"
+}

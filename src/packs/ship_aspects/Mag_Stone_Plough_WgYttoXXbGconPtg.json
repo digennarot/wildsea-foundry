@@ -1,0 +1,45 @@
+{
+  "name": "Mag-Stone Plough",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Shards of mountain-stone, heavy with iron ore - they lift into the air at the flip of a switch, forming a floating partial shield at the front end of the deck.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "j1riZYlduRptU0qq"
+      },
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "C3RsNhJ2Qe91VwHe"
+      }
+    ],
+    "stakes": 2,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "WgYttoXXbGconPtg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848128,
+    "modifiedTime": 1717440159711,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!WgYttoXXbGconPtg"
+}

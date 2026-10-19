@@ -1,0 +1,34 @@
+{
+  "name": "Amber Hothouse",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Once per journey, roll a d6. On a 6, all plants within the plot gain a rare tag, 'Flourishing'. On a 5 or 4, mark a box on the Grow track of all plants within the plot. On a 3, 2, or 1, the plot has no additional effect.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "U8ZUnaU16w5X6LRN",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850391,
+    "modifiedTime": 1717440159236,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!U8ZUnaU16w5X6LRN"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Nimbus Tin",
+  "type": "design",
+  "system": {
+    "details": "<p>Though less impressive in terms of defence than iron or steel, nimbus tin is light enough not to interfere too much with aerial movement... Plus the odd mottling colour is a good match for the wild skies.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "HzpyXENYCWmSJO3X"
+      },
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "1vnmx2Ko8NrNSLOP"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "5AQqK31zzCo8sdfW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843902,
+    "modifiedTime": 1717440154880,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!5AQqK31zzCo8sdfW"
+}

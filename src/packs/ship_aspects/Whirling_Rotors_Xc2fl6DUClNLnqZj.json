@@ -1,0 +1,34 @@
+{
+  "name": "Whirling Rotors",
+  "type": "fitting",
+  "system": {
+    "details": "<p>When angled precisely, these allow for complex aerial manoeuvres in even the toughest conditions. You won't be able to hear yourself think, though - many crews on rotor-driven ships learn Old Hand out of necessity.</p><p>Takeoff Cost: Stealth\nFlight Style: Rush, Hover, Flap\nReduce cut by one on aerial stunts performed in dangerous crosswinds or unpredictable gales</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 6,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "Xc2fl6DUClNLnqZj",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848625,
+    "modifiedTime": 1716846530519,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Xc2fl6DUClNLnqZj"
+}

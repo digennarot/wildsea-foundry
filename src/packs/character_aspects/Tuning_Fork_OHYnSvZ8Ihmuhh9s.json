@@ -1,0 +1,33 @@
+{
+  "name": "Tuning Fork",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once per scene increase impact when engaged in a performance of some kind.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "iEg6pro72VqeTqSR",
+  "_id": "OHYnSvZ8Ihmuhh9s",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370121,
+    "modifiedTime": 1716738370121,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!OHYnSvZ8Ihmuhh9s"
+}

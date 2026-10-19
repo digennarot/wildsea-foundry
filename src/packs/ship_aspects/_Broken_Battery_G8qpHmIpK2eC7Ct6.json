@@ -1,0 +1,34 @@
+{
+  "name": "+Broken Battery",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Why repair trashed ceramic batteries when you can recycle them? Deals massive LR Volt damage.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Torpedo Charge",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lzvKcoI4gkOaDxBf",
+  "_id": "G8qpHmIpK2eC7Ct6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847220,
+    "modifiedTime": 1717440156592,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!G8qpHmIpK2eC7Ct6"
+}

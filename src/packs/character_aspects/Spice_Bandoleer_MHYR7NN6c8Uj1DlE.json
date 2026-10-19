@@ -1,0 +1,33 @@
+{
+  "name": "Spice Bandoleer",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A bandoleer containing your own secret blend of spices that never seems to run dry. Mark to create a rare resource, either Wilds Pepper, Hangman's Blend or Smouldergrit.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "7NpV153DQXLQi9jy",
+  "_id": "MHYR7NN6c8Uj1DlE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368573,
+    "modifiedTime": 1716738368573,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!MHYR7NN6c8Uj1DlE"
+}

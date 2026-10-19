@@ -1,0 +1,33 @@
+{
+  "name": "Born for the Skies",
+  "type": "aspect",
+  "system": {
+    "details": "<p>If you would cut on a roll made to manoeuvre or fight due to the Scrutiny track, ignore it and increase the impact of your action instead.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "Cgva9oGpApcQNxVo",
+  "_id": "tw0pI6Hp8r61mwkL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738378275,
+    "modifiedTime": 1716738378275,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!tw0pI6Hp8r61mwkL"
+}

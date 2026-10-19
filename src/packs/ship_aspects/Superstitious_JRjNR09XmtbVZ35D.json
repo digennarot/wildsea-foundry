@@ -1,0 +1,34 @@
+{
+  "name": "Superstitious",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A sonar-like device used for finding reefs, sunken ruins and hidden ships. Effective use while travelling requires a crewmember to monitor it, but they gain murksight for the duration (able to see through sporeclouds and gaseous obstructions).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "General Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "qLaXUJsA0bG5ENat",
+  "_id": "JRjNR09XmtbVZ35D",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844701,
+    "modifiedTime": 1717440157342,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!JRjNR09XmtbVZ35D"
+}

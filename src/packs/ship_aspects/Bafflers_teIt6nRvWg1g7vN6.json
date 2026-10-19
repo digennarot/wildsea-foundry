@@ -1,0 +1,18 @@
+{
+  "name": "Bafflers",
+  "type": "Item",
+  "_id": "teIt6nRvWg1g7vN6",
+  "folder": "sFo5IayXTb9NJ8KJ",
+  "sorting": "a",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849287,
+    "modifiedTime": 1716641849287,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!teIt6nRvWg1g7vN6"
+}

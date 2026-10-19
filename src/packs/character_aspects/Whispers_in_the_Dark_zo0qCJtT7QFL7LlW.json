@@ -1,0 +1,33 @@
+{
+  "name": "Whispers in the Dark",
+  "type": "aspect",
+  "system": {
+    "details": "<p>While in a dimly lit or unlit area, mark to learn a secret from the darkness (once per scene).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "SKyywyuCodoNZt03",
+  "_id": "zo0qCJtT7QFL7LlW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365407,
+    "modifiedTime": 1716738365407,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zo0qCJtT7QFL7LlW"
+}

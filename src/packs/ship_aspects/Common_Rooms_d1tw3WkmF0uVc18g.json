@@ -1,0 +1,18 @@
+{
+  "name": "Common Rooms",
+  "type": "Item",
+  "_id": "d1tw3WkmF0uVc18g",
+  "folder": "5vDvoZSNKbUjqAt8",
+  "sorting": "a",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844781,
+    "modifiedTime": 1716641844781,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!d1tw3WkmF0uVc18g"
+}

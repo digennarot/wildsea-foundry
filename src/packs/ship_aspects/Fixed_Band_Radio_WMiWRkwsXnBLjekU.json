@@ -1,0 +1,34 @@
+{
+  "name": "Fixed-Band Radio",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A short-range radio system capable of sending and receiving static-laden signals, based on recently rediscovered pre-verdant technology. Allows instantaneous communication, but relies on fragile antennae affixed to the uppermost portion of the ship.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "General Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "qLaXUJsA0bG5ENat",
+  "_id": "WMiWRkwsXnBLjekU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844668,
+    "modifiedTime": 1717440159642,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!WMiWRkwsXnBLjekU"
+}

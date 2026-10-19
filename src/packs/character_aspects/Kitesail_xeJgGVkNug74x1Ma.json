@@ -1,0 +1,33 @@
+{
+  "name": "Kitesail",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A folding kite allowing you to explore the skies. You gain the Rush and Glide styles. When you choose the kitesail as an aspect, select 2 of the following benefits:<ul><li><b>Drake</b> - Increase impact and ignore cut on aerial stunts in thermals and updraughts,</li><li><b>Raptor</b> - Increase impact and ignore cut on aerial stunts performed in favourable winds,</li><li><b>Chemjet</b> - Consume a source of fuel to gain the Soar style for a short time,</li><li><b>Hinge Array</b> - Gain the Flap style,</li><li><b>Thundering</b> - Treat storms and electrical disturbances as a positive condition. Your kitesail can deal CQ Volt damage,</li><li><b>Stunt Kite</b> - Treat conflicts as triumphs performing aerial stunts,</li><li><b>Combat Kite</b> - Deals CQ Blunt and Keen damage,</li><li><b>Cometmoth</b> - Your flight and gliding are both far faster than usual,</li><li><b>Feathered</b> - You're weak to Flame, but treat conflicts as triumphs when hunting while airborne or diving in for aggressive action,</li><li><b>Sturdy</b> - Add one box to the kitesail's track.</li></ul></p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Complex Gear"
+  },
+  "folder": "EzrpOnQYauBrRGhI",
+  "_id": "xeJgGVkNug74x1Ma",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738378235,
+    "modifiedTime": 1716738378235,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!xeJgGVkNug74x1Ma"
+}

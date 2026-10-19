@@ -1,0 +1,33 @@
+{
+  "name": "Scent-Marked",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When you've been close to a target during a scene or have obtained an object that holds their scent, treat conflicts as triumphs when trying to locate that target again.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "QuL1NaXTI8XLFKhX",
+  "_id": "eneByOdO96FRMEyz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387038,
+    "modifiedTime": 1716738387038,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!eneByOdO96FRMEyz"
+}

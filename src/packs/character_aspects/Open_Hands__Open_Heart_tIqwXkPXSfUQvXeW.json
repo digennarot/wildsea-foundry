@@ -1,0 +1,33 @@
+{
+  "name": "Open Hands, Open Heart",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Whenever you or your crew successfully defuse a situation that was heading toward a fight, clear a mark of mire.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 3
+    },
+    "type": "Trait"
+  },
+  "folder": "lNvXpT0YH6KCmG5k",
+  "_id": "tIqwXkPXSfUQvXeW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370043,
+    "modifiedTime": 1716803039058,
+    "lastModifiedBy": "aS0Hz7mm2G2rWqqt"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!tIqwXkPXSfUQvXeW"
+}

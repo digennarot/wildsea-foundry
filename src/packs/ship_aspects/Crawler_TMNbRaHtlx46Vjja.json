@@ -1,0 +1,39 @@
+{
+  "name": "Crawler",
+  "type": "design",
+  "system": {
+    "details": "<p>Large finger-like mechanisms spread out around the front of the ship, allowing it to move through the waves with a crawling motion.</p><p>Deals Massive CQ Blunt damage</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "8QC4E1tVpah9LJxa"
+      }
+    ],
+    "stakes": 1,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "TMNbRaHtlx46Vjja",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843941,
+    "modifiedTime": 1716846530281,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TMNbRaHtlx46Vjja"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Librico Silverfish",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to gain information about a nearby room or secret space. Consume a chart to have the silverfish, rather disgustingly, create an entirely new chart based on the information discovered, or fragments of overheard speech.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "XnW2irY0J38BQVsk",
+  "_id": "Xqxt5uTWee5zVYyW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381679,
+    "modifiedTime": 1716738381679,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Xqxt5uTWee5zVYyW"
+}

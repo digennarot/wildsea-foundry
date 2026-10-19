@@ -1,0 +1,39 @@
+{
+  "name": "Chitinous",
+  "type": "design",
+  "system": {
+    "details": "<p>Made from the collected shells of the wildsea’s larger insects. Smooth, offering little in the way of friction or snags.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "6n7CgoCFUB7nrAR9"
+      }
+    ],
+    "stakes": 1,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "uVEJMwKSPauYnL1D",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843745,
+    "modifiedTime": 1717440165058,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!uVEJMwKSPauYnL1D"
+}

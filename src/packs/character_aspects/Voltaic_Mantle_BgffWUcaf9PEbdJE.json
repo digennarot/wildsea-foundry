@@ -1,0 +1,33 @@
+{
+  "name": "Voltaic Mantle",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The tendrils of your mantle crackle with lightning as they strike, dealing CQ volt damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "SKyywyuCodoNZt03",
+  "_id": "BgffWUcaf9PEbdJE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365424,
+    "modifiedTime": 1716738365424,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!BgffWUcaf9PEbdJE"
+}

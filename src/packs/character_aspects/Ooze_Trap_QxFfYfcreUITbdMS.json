@@ -1,0 +1,33 @@
+{
+  "name": "Ooze Trap",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Triumphs rolled while defending yourself against attacks made with CQ weapons pull them out of their owners' hands, absorbing them into your body. You gain a piece of salvage based on each weapon absorbed in this way.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "3olwJVpzwAUJkfpY",
+  "_id": "QxFfYfcreUITbdMS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738389016,
+    "modifiedTime": 1716738389016,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!QxFfYfcreUITbdMS"
+}

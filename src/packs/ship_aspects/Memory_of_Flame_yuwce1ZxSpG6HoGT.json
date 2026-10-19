@@ -1,0 +1,34 @@
+{
+  "name": "Memory of Flame",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A spool wound with the whispers of those that have witnessed the conflagration first-hand. When released, targets split and buckle as if burned without any of the associated risk of spreading fire or searing pain. Deals massive LR Flame damage.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Quiet Armament",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "5UKVrOlchNW6j6De",
+  "_id": "yuwce1ZxSpG6HoGT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846995,
+    "modifiedTime": 1717440165863,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!yuwce1ZxSpG6HoGT"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Spring-Set Decking",
+  "type": "fitting",
+  "system": {
+    "details": "<p>These deck planks have a little give, their absorbent properties reducing the chance of crew injuries when aerial manouevres turn harsh.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "Eh4kHrvqmbd8vg41",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845418,
+    "modifiedTime": 1717440156380,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Eh4kHrvqmbd8vg41"
+}

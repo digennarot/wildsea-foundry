@@ -1,0 +1,33 @@
+{
+  "name": "Corsair's Sabre",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A classic wildsea blade. Deals CQ keen damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "zbGhi1D2lw2nBnws",
+  "_id": "daPxANBqIb1b1nto",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368908,
+    "modifiedTime": 1716738368908,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!daPxANBqIb1b1nto"
+}

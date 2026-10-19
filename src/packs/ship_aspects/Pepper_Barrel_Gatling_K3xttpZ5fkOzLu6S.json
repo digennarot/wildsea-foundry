@@ -1,0 +1,34 @@
+{
+  "name": "Pepper-Barrel Gatling",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Made for laying down a hail of suppressive fire or shredding smaller targets. Deals high-impact LR Spike or Serrated damage to all targets in a small area.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Airborne Armament",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "imXmFeEg77XRU64v",
+  "_id": "K3xttpZ5fkOzLu6S",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846605,
+    "modifiedTime": 1717440157603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!K3xttpZ5fkOzLu6S"
+}

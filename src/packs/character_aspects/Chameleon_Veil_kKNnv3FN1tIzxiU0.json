@@ -1,0 +1,33 @@
+{
+  "name": "Chameleon Veil",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task to hold still and blend in with your surroundings, becoming almost impossible to notice until you move again.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "YxZ95I94FxFqVbgv",
+  "_id": "kKNnv3FN1tIzxiU0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373918,
+    "modifiedTime": 1716738373918,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!kKNnv3FN1tIzxiU0"
+}

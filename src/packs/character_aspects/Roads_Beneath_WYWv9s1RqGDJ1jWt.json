@@ -1,0 +1,33 @@
+{
+  "name": "Roads Beneath",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You move through earth as a bird in air or fish in water. Treat conflicts as triumphs on all movement-related skills when on solid ground or stone. Mark to instantly travel from one patch of ground or stone to any other within visual range.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "GUox13PUsDpsI9F9",
+  "_id": "WYWv9s1RqGDJ1jWt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386550,
+    "modifiedTime": 1716738386550,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!WYWv9s1RqGDJ1jWt"
+}

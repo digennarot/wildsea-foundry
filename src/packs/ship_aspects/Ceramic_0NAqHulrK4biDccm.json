@@ -1,0 +1,44 @@
+{
+  "name": "Ceramic",
+  "type": "design",
+  "system": {
+    "details": "<p>A shell of heavy baked clay. Ostentatious and brittle unless very carefully maintained.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "q1kp7DRH2yLSya4w"
+      },
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "HnOyMtOsNrCtLvEH"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "0NAqHulrK4biDccm",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843766,
+    "modifiedTime": 1717440153589,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!0NAqHulrK4biDccm"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Whirl-Crafted Rabir",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The calming drone of the rabir allows you to meditate rather than sleep, maintaining full awareness of your surroundings. In addition, when you set the instrument spinning, choose either bad air, drifting spores, insect incursions, or wandering spirits. Your vessel resists this threat until the rabir ceases to spin.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "ULcvip218OHWOMLq",
+  "_id": "X9tTeASZX6X8nSGI",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367969,
+    "modifiedTime": 1716738367969,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!X9tTeASZX6X8nSGI"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Coughing Pitcher",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Technically doesn't stop the bugs coming in, just ensures they don't live long enough for an infestation to begin.</p><p>Ship interior resists insect incursions</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 1,
+        "id": "naxytJUSwMYE7aEh"
+      }
+    ],
+    "stakes": 1,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "YQID34nwMdQgWOXg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847488,
+    "modifiedTime": 1716846530550,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!YQID34nwMdQgWOXg"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Inscribed Root",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to reshape nearby exposed wood into a useful obstacle. Mark mire to reshape nearby exposed wood into a winding path.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "ZpenuQS1IvlfJCxL",
+  "_id": "iMWe1DJzn1OR0o7g",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376106,
+    "modifiedTime": 1716738376106,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!iMWe1DJzn1OR0o7g"
+}

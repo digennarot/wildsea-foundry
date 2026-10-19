@@ -1,0 +1,33 @@
+{
+  "name": "Scar of Steps Taken",
+  "type": "aspect",
+  "system": {
+    "details": "<p>During a journey, you can make a discovery without consuming a chart. Instead, choose and consume a whisper as normal and combine it with one of your mires, an injury you've suffered, or a project you've worked on. The discovery will be tied to your choice.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "YPAw8PmZbMvuA4NN",
+  "_id": "U9anC6x5vXHiouHJ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367888,
+    "modifiedTime": 1716738367888,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!U9anC6x5vXHiouHJ"
+}

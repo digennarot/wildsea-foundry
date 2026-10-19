@@ -1,0 +1,33 @@
+{
+  "name": "Resonant Skull",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A cyclopean skull stolen from a deeps-corrupted creature makes up part of your skeleton. Your shouts can deal CQ and LR Blast damage without a physical projectile.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "CvWCu9pyrTE8TAX6",
+  "_id": "dQzyt1gKzGsKOfpz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377029,
+    "modifiedTime": 1716738377029,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!dQzyt1gKzGsKOfpz"
+}

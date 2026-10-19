@@ -1,0 +1,33 @@
+{
+  "name": "Vortex Aerofans",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A logical next step for the classic rattlehand vortex box. You gain the Float and Hover styles, and can attack with sudden bursts of air dealing LR Blast damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "ZSSJhR1Ksf614Edk",
+  "_id": "wDojutpcpBzgZZAI",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738384071,
+    "modifiedTime": 1716738384071,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wDojutpcpBzgZZAI"
+}

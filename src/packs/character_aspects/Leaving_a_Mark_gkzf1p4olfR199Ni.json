@@ -1,0 +1,33 @@
+{
+  "name": "Leaving a Mark",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark mire to gain a whisper based on damage or an injury you've just dealt, supplied by the Firefly.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "aUDiBsJDgpfsZ93t",
+  "_id": "gkzf1p4olfR199Ni",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738374731,
+    "modifiedTime": 1716738374731,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gkzf1p4olfR199Ni"
+}

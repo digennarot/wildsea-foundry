@@ -1,0 +1,33 @@
+{
+  "name": "Years at Sea",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to request an omen of the future (supplied by the Firefly).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "Z6BJC4ANhXMQt75c",
+  "_id": "V34FLv3tHz2okCBg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370644,
+    "modifiedTime": 1716738370644,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!V34FLv3tHz2okCBg"
+}

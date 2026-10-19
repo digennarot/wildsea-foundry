@@ -1,0 +1,33 @@
+{
+  "name": "Tariffigy",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A spirit of greed anchored to a personal object that protects you - for a price. Consume a resource to gain resistance to any instance of damage. If the resource has a valuable tag (such as Heirloom), gain immunity instead.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "8XY8gmFEdJD4drJI",
+  "_id": "cGnq0rGwywDOuss9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382517,
+    "modifiedTime": 1716738382517,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!cGnq0rGwywDOuss9"
+}

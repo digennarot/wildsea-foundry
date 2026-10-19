@@ -1,0 +1,33 @@
+{
+  "name": "Serrospear",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A rotating blade lubricated with sizzling chemicals, safely removed from the wielder by a lengthy haft. Deals CQ Serrated or Acid damage, and increases impact on cutting through branches and vines.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "uYZfiumY3FOSitLu",
+  "_id": "WgXhB5mZwtfFC61X",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375220,
+    "modifiedTime": 1716738375220,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!WgXhB5mZwtfFC61X"
+}

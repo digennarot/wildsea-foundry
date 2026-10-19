@@ -1,0 +1,33 @@
+{
+  "name": "Metabolize",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Consume a specimen to gain a brief burst of sensory information related to the specimen consumed (such as tremorsense by consuming a spider's web, for example).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "CswbUYqzdgyEP0Ws",
+  "_id": "hCfiaXUImN2EYBMf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368222,
+    "modifiedTime": 1716738368222,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!hCfiaXUImN2EYBMf"
+}

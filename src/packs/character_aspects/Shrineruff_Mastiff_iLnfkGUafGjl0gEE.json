@@ -1,0 +1,33 @@
+{
+  "name": "Shrineruff Mastiff",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The shaggy pelt of this hound is shot through with prayer tablets, scraps of hymn-scrawled paper and 'divine' charms. Deals CQ Salt damage, and allows you to mark any of your trait tracks to gain a whisper or chart relevant to your faith.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "QGwyFAJ7UILmOv0B",
+  "_id": "iLnfkGUafGjl0gEE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386150,
+    "modifiedTime": 1716738386150,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!iLnfkGUafGjl0gEE"
+}

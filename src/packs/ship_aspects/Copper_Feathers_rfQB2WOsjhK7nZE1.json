@@ -1,0 +1,34 @@
+{
+  "name": "Copper Feathers",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Whether attached to an existing set of wings or simply welded to the hull, these carefully sculpted feathers allow ships to skim through the clouds for league after league.</p><p>Additional Style: Glide</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Auxiliary Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lqpNd7CHhtJV1bqM",
+  "_id": "rfQB2WOsjhK7nZE1",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849246,
+    "modifiedTime": 1716846531639,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rfQB2WOsjhK7nZE1"
+}

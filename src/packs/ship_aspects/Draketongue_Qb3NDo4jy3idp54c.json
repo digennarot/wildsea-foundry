@@ -1,0 +1,34 @@
+{
+  "name": "Draketongue",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A pressurized flamethrower that breaks all conventions of logic, decency and common sense. Deals massive LR Flame damage. Treat Triumphs as Conflicts when firing - This will cause more problems than it solves</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 4,
+    "type": "Deck Weapons",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "u1FzBbCuxgn7lnW1",
+  "_id": "Qb3NDo4jy3idp54c",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846310,
+    "modifiedTime": 1716642126726,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Qb3NDo4jy3idp54c"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Base",
+  "type": "Item",
+  "_id": "EEQe2NpaNertn0af",
+  "folder": "5vQQ2AKbooTWjMHL",
+  "sorting": "a",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641945394,
+    "modifiedTime": 1716641945394,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!EEQe2NpaNertn0af"
+}

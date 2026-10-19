@@ -1,0 +1,33 @@
+{
+  "name": "Salvage Kit",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Contains salvage useful for crafting. Mark to use the contents in place of a resource when crafting</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "JhrI5AY3u9PoAzeG",
+  "_id": "gHgZUJEX8U3MTWE6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738371176,
+    "modifiedTime": 1716738371176,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gHgZUJEX8U3MTWE6"
+}

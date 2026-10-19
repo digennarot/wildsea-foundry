@@ -1,0 +1,39 @@
+{
+  "name": "Underscales",
+  "type": "design",
+  "system": {
+    "details": "<p>Thousands of flexing scales that worm the ship forward with a sly, sinuous motion.</p><p>Deals Massive CQ Keen Damage</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "suv5ltf29wTDsDtp"
+      }
+    ],
+    "stakes": 1,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "y6wOIRUI5lizh75u",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843948,
+    "modifiedTime": 1716846531931,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!y6wOIRUI5lizh75u"
+}

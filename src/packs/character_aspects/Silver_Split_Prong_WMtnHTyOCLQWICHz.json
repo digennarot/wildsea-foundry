@@ -1,0 +1,33 @@
+{
+  "name": "Silver Split-Prong",
+  "type": "aspect",
+  "system": {
+    "details": "<p>An ordinary-looking fork, by all accounts. Deals CQ Spike damage. You can use a task to swap a tag from any one of your resources to any other resource you own (whether it's logical or not).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "OJBrJPGzw6NpCJO8",
+  "_id": "WMtnHTyOCLQWICHz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738380775,
+    "modifiedTime": 1716738380775,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!WMtnHTyOCLQWICHz"
+}

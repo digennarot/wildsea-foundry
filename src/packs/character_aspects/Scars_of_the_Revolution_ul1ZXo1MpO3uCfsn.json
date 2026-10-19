@@ -1,0 +1,33 @@
+{
+  "name": "Scars of the Revolution",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You've seen tumult and overthrow, are familiar with the emotional gears that drive change. Consume a whisper to stoke or quiet revolutionary fervour in a nearby individual or small group. This change only lasts as long as they're in your presence.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "WkM6SqRNGUDkRaUo",
+  "_id": "ul1ZXo1MpO3uCfsn",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738390664,
+    "modifiedTime": 1716738390664,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ul1ZXo1MpO3uCfsn"
+}

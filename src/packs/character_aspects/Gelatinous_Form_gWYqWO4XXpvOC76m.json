@@ -1,0 +1,33 @@
+{
+  "name": "Gelatinous Form",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You have an inherent weakness to salt damage, but can squeeze and compress your body enough to move through spaces much smaller than expected.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Trait"
+  },
+  "folder": "SKyywyuCodoNZt03",
+  "_id": "gWYqWO4XXpvOC76m",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365376,
+    "modifiedTime": 1716738365376,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gWYqWO4XXpvOC76m"
+}

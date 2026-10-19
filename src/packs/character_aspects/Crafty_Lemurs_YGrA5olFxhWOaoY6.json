@@ -1,0 +1,33 @@
+{
+  "name": "Crafty Lemurs",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once per montage, identify the location of a nearby piece of valuable material that can be taken as cargo (details supplied by the Firefly).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "h7Tt9FFoRyrDLNQd",
+  "_id": "YGrA5olFxhWOaoY6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738384745,
+    "modifiedTime": 1716738384745,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!YGrA5olFxhWOaoY6"
+}

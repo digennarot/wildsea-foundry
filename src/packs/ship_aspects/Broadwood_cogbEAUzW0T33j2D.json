@@ -1,0 +1,39 @@
+{
+  "name": "Broadwood",
+  "type": "design",
+  "system": {
+    "details": "<p>Wooden planks cut from the more reliable trees of the wildsea. Strong and flexible</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "SPIm28VdLSyKw4kA"
+      }
+    ],
+    "stakes": 1,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "cogbEAUzW0T33j2D",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843729,
+    "modifiedTime": 1717440160851,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!cogbEAUzW0T33j2D"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Cargo Bay Extension",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A larger space with cargo webbing, wall racks, and reinforced sections for more dangerous items.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Common Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "d1tw3WkmF0uVc18g",
+  "_id": "3NpN6Zz6u0wpm4OJ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844924,
+    "modifiedTime": 1717440154363,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!3NpN6Zz6u0wpm4OJ"
+}

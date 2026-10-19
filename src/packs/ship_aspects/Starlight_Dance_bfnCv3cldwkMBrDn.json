@@ -1,0 +1,34 @@
+{
+  "name": "Starlight Dance",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Crews that have been taught the starlight dance know the secret ways of distracting the hungry light above, using shape and rhythm to cancel out gnawing need.</p><p>Optimal Use: Perform the dance at night with an additional light source to clear a burn from the Hungry Stars.\nAlternate Use: Instead of clearing an eye, all crewmates who dance can clear a box of mire.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Bafflers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "teIt6nRvWg1g7vN6",
+  "_id": "bfnCv3cldwkMBrDn",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849405,
+    "modifiedTime": 1716846530714,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!bfnCv3cldwkMBrDn"
+}

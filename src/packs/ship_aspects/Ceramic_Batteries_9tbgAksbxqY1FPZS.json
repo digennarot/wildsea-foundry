@@ -1,0 +1,44 @@
+{
+  "name": "Ceramic Batteries",
+  "type": "design",
+  "system": {
+    "details": "<p>Volt-storing batteries rigged up to regulate and distribute power. Their crackling hum makes nearby insects (and superstitious undercrew) uneasy.</p><p>Fuelled with lightning strikes.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "q8foOWxIpCjBCDLQ"
+      },
+      {
+        "rating": "saws",
+        "value": 1,
+        "id": "OXNczFUbUxt5oonw"
+      }
+    ],
+    "stakes": 2,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "9tbgAksbxqY1FPZS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844275,
+    "modifiedTime": 1716846529214,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!9tbgAksbxqY1FPZS"
+}

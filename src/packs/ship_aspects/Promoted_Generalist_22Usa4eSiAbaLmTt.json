@@ -1,0 +1,35 @@
+{
+  "name": "Promoted Generalist",
+  "type": "undercrew",
+  "system": {
+    "details": "<ul><li><p>1 rank in any three skills or languages.</p></li></ul>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 3
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Rising Officer"
+  },
+  "folder": "RbQC5HnbZ5BPR119",
+  "_id": "22Usa4eSiAbaLmTt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641945750,
+    "modifiedTime": 1717440355704,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!22Usa4eSiAbaLmTt"
+}

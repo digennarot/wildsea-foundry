@@ -1,0 +1,33 @@
+{
+  "name": "Scout Falcon",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once per journey allows a crewmember to roll 2d6 when on watch, then pick the preferred result. Also deals LR keen damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "0sBgrKag4gBVrd4O",
+  "_id": "P3KMiK2e8MYlnsHX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370949,
+    "modifiedTime": 1716738370949,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!P3KMiK2e8MYlnsHX"
+}

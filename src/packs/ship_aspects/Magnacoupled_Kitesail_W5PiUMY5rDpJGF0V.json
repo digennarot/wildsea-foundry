@@ -1,0 +1,34 @@
+{
+  "name": "Magnacoupled Kitesail",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A kitesail that has no obvious tether to the ship, allowing for complete freedom of movement at extreme range on windy days. When the kitesailor needs a quick return to the ship, the release of a spring activates an electromagnet, yanking it violently but effectively back toward the deck it launched from.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "W5PiUMY5rDpJGF0V",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845555,
+    "modifiedTime": 1717440159574,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!W5PiUMY5rDpJGF0V"
+}

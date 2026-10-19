@@ -1,0 +1,33 @@
+{
+  "name": "Unshakeable",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your belief in the cycle of reincarnation and the truth in chaos grant you conviction and resolve in the face of imminent peril.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Trait"
+  },
+  "folder": "04UdqKDlPFv4obRh",
+  "_id": "Fc4L6ERT1b2MMShE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365922,
+    "modifiedTime": 1716738365922,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Fc4L6ERT1b2MMShE"
+}

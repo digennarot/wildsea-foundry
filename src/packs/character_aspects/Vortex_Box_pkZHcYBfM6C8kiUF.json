@@ -1,0 +1,33 @@
+{
+  "folder": "JhrI5AY3u9PoAzeG",
+  "name": "Vortex Box",
+  "type": "aspect",
+  "_id": "pkZHcYBfM6C8kiUF",
+  "system": {
+    "details": "<p>A concertina-like weapon that compresses and fires air. Deals LR Blast damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 4
+    },
+    "type": "Gear"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "aS0Hz7mm2G2rWqqt": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716803579793,
+    "modifiedTime": 1716803594519,
+    "lastModifiedBy": "aS0Hz7mm2G2rWqqt"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!pkZHcYBfM6C8kiUF"
+}

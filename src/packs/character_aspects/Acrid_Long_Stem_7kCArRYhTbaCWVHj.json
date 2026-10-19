@@ -1,0 +1,33 @@
+{
+  "name": "Acrid Long-Stem",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A spice-filled pipe made to burn its contents with acid rather than flame. Injury tracks you become subject to are one box shorter than normal.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "mSJWTH0Wr63GXfKc",
+  "_id": "7kCArRYhTbaCWVHj",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367418,
+    "modifiedTime": 1716738367418,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!7kCArRYhTbaCWVHj"
+}

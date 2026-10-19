@@ -1,0 +1,33 @@
+{
+  "name": "Attenuate",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your animating spark can leave your body for a short time, becoming ghost-like and insubstantial but still capable of movement.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "Sx9FIifm4anpj3Ak",
+  "_id": "HOkOOKdJpgQq3310",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365259,
+    "modifiedTime": 1716738365259,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HOkOOKdJpgQq3310"
+}

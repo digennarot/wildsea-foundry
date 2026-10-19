@@ -1,0 +1,44 @@
+{
+  "name": "Rope Golem",
+  "type": "design",
+  "system": {
+    "details": "<p>A semi-sentient mass of animated ropes running through the rooms and corridors of the ship.</p><p>Takes no fuel, but the ropes must be replaced when they begin to fray.\n\r\nRope golems have an unpredictable will of their own that may manifest at unexpected moments.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "fYJppgMpjCZnFJ5X"
+      },
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "sUyW4fzv8M07HsV5"
+      }
+    ],
+    "stakes": 2,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "2iXaqMBa1SnDHzQk",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844308,
+    "modifiedTime": 1716846528783,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2iXaqMBa1SnDHzQk"
+}

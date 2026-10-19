@@ -1,0 +1,34 @@
+{
+  "name": "Cooling Facility",
+  "type": "fitting",
+  "system": {
+    "details": "<p>An insulated room where breath mists in the air, perfect for storing perishables and escaping the sun's glare.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Common Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "d1tw3WkmF0uVc18g",
+  "_id": "7zMJgIYdfutn5SQW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844879,
+    "modifiedTime": 1717440155356,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!7zMJgIYdfutn5SQW"
+}

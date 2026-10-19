@@ -1,0 +1,35 @@
+{
+  "name": "Skillful Officer",
+  "type": "undercrew",
+  "system": {
+    "details": "<ul><li><p>2 ranks in any skill</p></li><li><p>1 rank in any other skill</p></li></ul>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 3
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Officer"
+  },
+  "folder": "EEQe2NpaNertn0af",
+  "_id": "5XnVwhHZ08Dt3fGI",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641945429,
+    "modifiedTime": 1717440349485,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!5XnVwhHZ08Dt3fGI"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Ragged Dive-Clothes",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You're resistant to the hazardous effects of crezzerin exposure. Mark to become immune to crezzerin for the duration of a scene.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "uYZfiumY3FOSitLu",
+  "_id": "Blk9EAlGHezmygBw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375147,
+    "modifiedTime": 1716738375147,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Blk9EAlGHezmygBw"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Hydroponics Nook",
+  "type": "fitting",
+  "system": {
+    "details": "<p>When you sow a plant in a hydroponics nook, mark the first box on its track immediately.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "f5us2ojOa3TOm6Ad",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850418,
+    "modifiedTime": 1717440161335,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!f5us2ojOa3TOm6Ad"
+}

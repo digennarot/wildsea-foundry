@@ -1,0 +1,33 @@
+{
+  "name": "Wide-Arms Ritual",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task and mark mire to allow every member of the crew to consume a specimen if they wish. Those that do can either clear a mark of their own mire, take an additional task, or clear a mark of damage on a trait or companion aspect.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Trait"
+  },
+  "folder": "S0GW0AQyRWWflGt4",
+  "_id": "fDalyFOnxloxD3iR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377239,
+    "modifiedTime": 1716738377239,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!fDalyFOnxloxD3iR"
+}

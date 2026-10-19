@@ -1,0 +1,33 @@
+{
+  "name": "The Threads That Bind",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The ragged edges of your clothing unravel into fluttering tendrils of cloth. Treat Conflicts as Triumphs when climbing or brachiating and increase Impact when attempting to tangle, trip or ensnare a nearby foe.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "GcqbxIBTyh7L1dQi",
+  "_id": "zm2pbj5573001X9T",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375479,
+    "modifiedTime": 1716738375479,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zm2pbj5573001X9T"
+}

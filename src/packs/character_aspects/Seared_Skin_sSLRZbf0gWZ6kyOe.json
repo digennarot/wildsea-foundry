@@ -1,0 +1,33 @@
+{
+  "name": "Seared Skin",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Resist the hazardous effects of crezzerin exposure (searing, hallucinations, mutation).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "4A3oIdcOLM2PZbN3",
+  "_id": "sSLRZbf0gWZ6kyOe",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369308,
+    "modifiedTime": 1716738369308,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!sSLRZbf0gWZ6kyOe"
+}

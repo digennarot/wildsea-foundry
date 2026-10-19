@@ -1,0 +1,34 @@
+{
+  "name": "Ambered Cylinder",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Usually found running the length of the deck, a gyroscope soaked with cloudward dreams.</p><p>Takeoff Cost: Tilt\nFlight Style: Rush, Hover</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "enGME69TDU8p1QDo",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848727,
+    "modifiedTime": 1716846530818,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!enGME69TDU8p1QDo"
+}

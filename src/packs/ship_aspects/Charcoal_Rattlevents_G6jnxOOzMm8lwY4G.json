@@ -1,0 +1,40 @@
+{
+  "name": "Charcoal Rattlevents",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A system of air vents and mechanical filters, powered by the engine. Finally, a use for charcoal!</p><p>Ship interior resists bad air and drifting spores</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 1,
+        "id": "477mHyFS3O9EcZpB"
+      }
+    ],
+    "stakes": 2,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "G6jnxOOzMm8lwY4G",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847860,
+    "modifiedTime": 1716846529550,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!G6jnxOOzMm8lwY4G"
+}

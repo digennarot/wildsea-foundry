@@ -1,0 +1,34 @@
+{
+  "name": "Hollow Beast Skull",
+  "type": "fitting",
+  "system": {
+    "details": "<p>All plants grown within a beast skull are immune to predation from beasts (but not insects).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "GpkOIfadirSp0maY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850136,
+    "modifiedTime": 1717440156762,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!GpkOIfadirSp0maY"
+}

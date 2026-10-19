@@ -1,0 +1,33 @@
+{
+  "name": "Memorial Fur",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A stark reminder of death and beauty, a fur taken from a once-great beast that now blankets and protects you. It gains two of the following benefits:<ul><li><b>Leftover Eyes</b> - You have 360 degree vision, and reduce the impact of any effect that makes it more difficult for you to see,</li><li><b>Feral Memory</b> - Mark to gain a temporary two ranks in a skill related to the animal your fur was taken from. These ranks last until the end of the scene,</li><li><b>Leathern</b> - You're resistant to Keen and Frost damage,</li><li><b>Jaws and Claws</b> - Deals CQ Spike or Serrated damage (chosesn when you gain this aspect),</li><li><b>Sinewed</b> - Treat Conflicts as Triumphs when leaping,</li><li><b>The Beast Without</b> - When you mark the last box on this aspect's track, instantly hijack focus. An attack made with this focus has increased impact.</li></ul></p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Complex Companion"
+  },
+  "folder": "wCwUweeQGfzhDnc7",
+  "_id": "3qYO6XUgIHMSfdmM",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375779,
+    "modifiedTime": 1716738375779,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!3qYO6XUgIHMSfdmM"
+}

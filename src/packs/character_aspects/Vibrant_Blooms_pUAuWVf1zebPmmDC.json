@@ -1,0 +1,33 @@
+{
+  "name": "Vibrant Blooms",
+  "type": "aspect",
+  "system": {
+    "details": "<p>All the hues of the jungle, old and new. Increase impact OR treat conflicts as triumphs when trying to dazzle, stun, or impress with actions or words (choose which effect to benefit from before you roll).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "f7veyJiDekAmsa5o",
+  "_id": "pUAuWVf1zebPmmDC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738388359,
+    "modifiedTime": 1716738388359,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!pUAuWVf1zebPmmDC"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Irrigation Array",
+  "type": "fitting",
+  "system": {
+    "details": "<p>The observant might suggest that this is little more than a series of buckets and pipes jumbled together with leaf-rubber seals. And they'd be right.</p><p>Arid conditions don't negatively affect plant growth within the ship-garden (unless they last for multiple journeys in a row without access to water).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Ship Gardens",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "VrEJVkg0g4qiOUrx",
+  "_id": "FY2EaKoyLtWYerFE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846011,
+    "modifiedTime": 1716846529511,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FY2EaKoyLtWYerFE"
+}

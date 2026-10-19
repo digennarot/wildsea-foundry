@@ -1,0 +1,33 @@
+{
+  "name": "Potion of Youth",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your body doesn’t look it but you are far older than you seem. You have learned many tricks to keep it so.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Trait"
+  },
+  "folder": "dxyeOQl1U22DYz0w",
+  "_id": "UAhn7AzvP4NtYJcO",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372150,
+    "modifiedTime": 1716738372150,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!UAhn7AzvP4NtYJcO"
+}

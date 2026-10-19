@@ -1,0 +1,33 @@
+{
+  "name": "Tremorsense",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can feel even the smallest vibrations in the air and ground around you.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "tiriStt2yPr75BBm",
+  "_id": "ptLWCR6SXpCrISL3",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365699,
+    "modifiedTime": 1716738365699,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ptLWCR6SXpCrISL3"
+}

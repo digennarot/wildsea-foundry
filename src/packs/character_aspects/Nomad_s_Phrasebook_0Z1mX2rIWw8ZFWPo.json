@@ -1,0 +1,33 @@
+{
+  "name": "Nomad's Phrasebook",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Whenever you take a montage you can study your phrasebook (in addition to your usual task), gaining a smattering of any one language until your next montage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "DaklPHLvwqCSoXZK",
+  "_id": "0Z1mX2rIWw8ZFWPo",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366893,
+    "modifiedTime": 1716738366893,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!0Z1mX2rIWw8ZFWPo"
+}

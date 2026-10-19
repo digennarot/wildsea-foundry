@@ -1,0 +1,40 @@
+{
+  "name": "Salt Signs",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Invisible except under direct moonlight, impossibly complex sigils cover every inch of the ship's structure, forbidding entry to any spectral entity that the ship doesn't recognise as crew.</p><p>Ship interior is immune to wandering spirits</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "5rCgWuKBCzYXklrW"
+      }
+    ],
+    "stakes": 2,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "oDGV8t5NZjYlqde7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847676,
+    "modifiedTime": 1716846531431,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!oDGV8t5NZjYlqde7"
+}

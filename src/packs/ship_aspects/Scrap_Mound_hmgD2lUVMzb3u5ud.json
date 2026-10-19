@@ -1,0 +1,34 @@
+{
+  "name": "Scrap-Mound",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Cut 1 when attempting to harvest plants from this plot.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 0,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "hmgD2lUVMzb3u5ud",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850079,
+    "modifiedTime": 1717440162179,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!hmgD2lUVMzb3u5ud"
+}

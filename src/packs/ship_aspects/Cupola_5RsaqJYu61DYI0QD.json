@@ -1,0 +1,34 @@
+{
+  "name": "Cupola",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A blister of glass or amber, usually at the side or rear of the ship, with a small seat inside.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "External Structures",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "GXwFU3mNMgP1TZhO",
+  "_id": "5RsaqJYu61DYI0QD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844988,
+    "modifiedTime": 1717440154893,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!5RsaqJYu61DYI0QD"
+}

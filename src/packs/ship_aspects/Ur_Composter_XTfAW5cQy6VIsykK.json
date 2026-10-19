@@ -1,0 +1,39 @@
+{
+  "name": "Ur-Composter",
+  "type": "design",
+  "system": {
+    "details": "<p>A grumbling series of compression bins and leaf rubber hoses. Attracts insects, but never for long.</p><p>Fuelled with woodrot, offcuts and spiderwebs</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "DpJMVm9tQ3NBnENk"
+      }
+    ],
+    "stakes": 1,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "XTfAW5cQy6VIsykK",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844338,
+    "modifiedTime": 1716846530504,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!XTfAW5cQy6VIsykK"
+}

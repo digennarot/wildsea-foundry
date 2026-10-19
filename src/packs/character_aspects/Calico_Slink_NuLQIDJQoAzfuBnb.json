@@ -1,0 +1,33 @@
+{
+  "name": "Calico Slink",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A semi-spectral cat winds its way around your legs. You have the ability to see clearly without light.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "kkzkwQjntuBlMSYq",
+  "_id": "NuLQIDJQoAzfuBnb",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367520,
+    "modifiedTime": 1716738367520,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NuLQIDJQoAzfuBnb"
+}

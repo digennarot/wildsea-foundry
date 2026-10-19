@@ -1,0 +1,34 @@
+{
+  "name": "Crezzimenea",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Bulbous constructions of metal and clay with stovepipe tops and multiple hatches, filled with crezzer-soaked mulch and specially bred beetles.</p><p>Duplicate hybridization results add a new tag to the plant, copied from any existing resource on any member of the crew.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 4,
+    "type": "Hybrid Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "GPtTcfV1chspRjwI",
+  "_id": "adaK9MSKejc7daOq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641851047,
+    "modifiedTime": 1716846530690,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!adaK9MSKejc7daOq"
+}

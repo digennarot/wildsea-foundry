@@ -1,0 +1,33 @@
+{
+  "name": "Gyrewing Moths",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A trained swarm of ragged insects. Burn to neutralize the effects of bad air and airborne spores for your crew for the rest of a scene.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Companion"
+  },
+  "folder": "kT63dNjKoK750ual",
+  "_id": "YWnYjby3vRdcfrOf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369870,
+    "modifiedTime": 1716738369870,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!YWnYjby3vRdcfrOf"
+}

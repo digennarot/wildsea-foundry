@@ -1,0 +1,33 @@
+{
+  "name": "Kosmeri Mask",
+  "type": "aspect",
+  "system": {
+    "details": "<p>NOTE: Because this complex aspect has a variable track length, you will have to enter your mask's name, track length and benefits as a custom aspect in the green fields of the 'Wild Words' tab.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Complex Gear"
+  },
+  "folder": "4TMX7VPZOXpPjmkx",
+  "_id": "aIoiL6Pzipokt0xN",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377524,
+    "modifiedTime": 1716738377524,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!aIoiL6Pzipokt0xN"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Butchery",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A clean space for rendering and preserving specimens.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Common Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "d1tw3WkmF0uVc18g",
+  "_id": "kMbhK4mewZ6vgdPd",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844844,
+    "modifiedTime": 1717440162986,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!kMbhK4mewZ6vgdPd"
+}

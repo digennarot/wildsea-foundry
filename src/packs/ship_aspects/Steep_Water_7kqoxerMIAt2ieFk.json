@@ -1,0 +1,34 @@
+{
+  "name": "Steep-Water",
+  "type": "fitting",
+  "system": {
+    "details": "<p>When you sow plants in steep-water, they don't gain a mark upon finishing a journey. However, all specimens gained from plants grown this way gain the 'Delicious' tag.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gardening Mediums",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "ARe4ct5RrbrdmAiZ",
+  "_id": "7kqoxerMIAt2ieFk",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850787,
+    "modifiedTime": 1717440155283,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!7kqoxerMIAt2ieFk"
+}

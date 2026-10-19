@@ -1,0 +1,34 @@
+{
+  "name": "Ballast Tanks",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Filled with wood chips, spoiled liquids and rusted salvage. These tanks can be opened remotely and their contents dumped for a burst of height while aloft.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "ZQOIdo6CaKjV4CGr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845376,
+    "modifiedTime": 1717440160287,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ZQOIdo6CaKjV4CGr"
+}

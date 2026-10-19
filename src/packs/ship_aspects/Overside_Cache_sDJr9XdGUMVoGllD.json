@@ -1,0 +1,34 @@
+{
+  "name": "Overside Cache",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A collection of mostly useless junk in a rather fancy cargo crate, specifically designed to catch the eye of looters and marauders after being pushed over the edge of your ship.</p><p>Optimal Use: Push over the side to clear a burn from any marauder-based eye.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Bafflers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "teIt6nRvWg1g7vN6",
+  "_id": "sDJr9XdGUMVoGllD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849347,
+    "modifiedTime": 1716846531684,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!sDJr9XdGUMVoGllD"
+}

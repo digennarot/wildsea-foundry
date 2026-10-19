@@ -1,0 +1,44 @@
+{
+  "name": "Talongrove Tendrils",
+  "type": "design",
+  "system": {
+    "details": "<p>Traditionally carved from sinuous talongrove trees, known to grow, flex, and grasp for decades after harvest.</p><p>Deals massive CQ Spike damage.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "eJmiNg05HMKLlme2"
+      },
+      {
+        "rating": "tilt",
+        "value": 2,
+        "id": "LCUeieJftiCYvgcq"
+      }
+    ],
+    "stakes": 3,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "qhBqKoWlL64Za2fO",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844178,
+    "modifiedTime": 1716846531587,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!qhBqKoWlL64Za2fO"
+}

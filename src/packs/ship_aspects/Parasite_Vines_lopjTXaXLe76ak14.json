@@ -1,0 +1,40 @@
+{
+  "name": "Parasite Vines",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Winding throughout the ship, the leaves of these vines tend to absorb unusual elements as they grow</p><p>Ship interior resists bad air</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 1,
+        "id": "i8dItewCE1OBwjWm"
+      }
+    ],
+    "stakes": 1,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "lopjTXaXLe76ak14",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847514,
+    "modifiedTime": 1716846531308,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!lopjTXaXLe76ak14"
+}

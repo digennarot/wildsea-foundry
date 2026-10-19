@@ -1,0 +1,33 @@
+{
+  "name": "Salamini",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Like a Salamax, just smaller. Their boiling spit is just the perfect temperature for a mull. Their scalding saliva deals CQ flame damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "n7iQMNLeKMdANx0N",
+  "_id": "kZa8XLQc6Jm0daYX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372310,
+    "modifiedTime": 1716738372310,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!kZa8XLQc6Jm0daYX"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Rescue",
+  "type": "fitting",
+  "system": {
+    "details": "<ul><li><p>Emergency medicine for some of the more common maladies of the waves.</p></li><li><p>A photoscope for picking out glints of wreckage or distress flares at a great distance.</p></li><li><p>An isolation room packed with soft amber resin, for keeping the crew insulated from and slowing the progress of illnesses during a journey.</p></li></ul>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Motif",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Uu14OE32lX7tniVq",
+  "_id": "f82llqmU8fz3YOZJ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844487,
+    "modifiedTime": 1717440268350,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!f82llqmU8fz3YOZJ"
+}

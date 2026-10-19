@@ -1,0 +1,33 @@
+{
+  "name": "Seven-Eye Scrawl",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Eyes are daubed across your body, each of them able to perceive the world in a different way. Mark to gain a specialized form of sight for a brief time (such as the ability to see ghosts, heat, or magnetism).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "YxZ95I94FxFqVbgv",
+  "_id": "wk5QSWtzcu441xKE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738374369,
+    "modifiedTime": 1716738374369,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wk5QSWtzcu441xKE"
+}

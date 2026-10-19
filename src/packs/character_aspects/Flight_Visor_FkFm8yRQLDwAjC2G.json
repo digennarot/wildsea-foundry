@@ -1,0 +1,33 @@
+{
+  "name": "Flight Visor",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can see clearly through rain, storms, and clouds, and can see detail at a far greater distance than usual.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "EzrpOnQYauBrRGhI",
+  "_id": "FkFm8yRQLDwAjC2G",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738378456,
+    "modifiedTime": 1716738378456,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FkFm8yRQLDwAjC2G"
+}

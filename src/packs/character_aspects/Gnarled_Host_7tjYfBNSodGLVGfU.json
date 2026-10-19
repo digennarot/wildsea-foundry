@@ -1,0 +1,33 @@
+{
+  "name": "Gnarled Host",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You're a host to a spreading, fibrous infection that hardens your flesh into bark-like plates. You are weak to Flame and either Hewing or Serrated damage, but immune to Blunt and either Keen or Toxin damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "nzPecbsD2om2BB5x",
+  "_id": "7tjYfBNSodGLVGfU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375842,
+    "modifiedTime": 1716738375842,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!7tjYfBNSodGLVGfU"
+}

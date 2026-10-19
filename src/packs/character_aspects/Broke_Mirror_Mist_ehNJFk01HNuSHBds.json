@@ -1,0 +1,33 @@
+{
+  "name": "Broke-Mirror Mist",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Burn to spread a perception-altering clous through your current area for the duration of a scene that prevents cut results being counted for Scrutiny. Individuals in this cloud also gain resistance against precise incoming attacks, but cut when targeting their own attacks.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "d0eAANjerm3NpV13",
+  "_id": "ehNJFk01HNuSHBds",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738379853,
+    "modifiedTime": 1716738379853,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ehNJFk01HNuSHBds"
+}

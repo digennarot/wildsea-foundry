@@ -1,0 +1,33 @@
+{
+  "name": "Tough as Nails",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You’re a natural survivor. Rolls made to treat or heal an injury you're suffering from treat conflicts as triumphs.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "5KrjLohFytAQKalh",
+  "_id": "uhiEkWRSWcnpNs6Y",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738364813,
+    "modifiedTime": 1716738364813,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!uhiEkWRSWcnpNs6Y"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Drag Barge",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A barge's distance from the main ship means that hazards or adverse conditions affecting the deck don't necessarily affect the barge, and vice versa.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "i6Fwd4Jv5xAwxeAn",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850363,
+    "modifiedTime": 1717440162271,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!i6Fwd4Jv5xAwxeAn"
+}

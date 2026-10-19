@@ -1,0 +1,33 @@
+{
+  "name": "Thunder's Tone",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can raise your voice to an ear-splitting shout, dealing CQ blast damage and being easily heard over long distances.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "WdXuyagYKHEnCxqF",
+  "_id": "HcjBRyRNR1wmidag",
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372961,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HcjBRyRNR1wmidag"
+}

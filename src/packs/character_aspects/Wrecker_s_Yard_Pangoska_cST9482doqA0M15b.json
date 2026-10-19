@@ -1,0 +1,33 @@
+{
+  "name": "Wrecker's-Yard Pangoska",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You're protected by a layer of haphazardly arranged scrap metal and stolen bones, giving you resistance to Keen and Serrated damage. Cut when attempting deft movement, but increase impact on all rolls to turn aside or counter incoming CQ attacks.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "3olwJVpzwAUJkfpY",
+  "_id": "cST9482doqA0M15b",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738389114,
+    "modifiedTime": 1716738389114,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!cST9482doqA0M15b"
+}

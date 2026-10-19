@@ -1,0 +1,33 @@
+{
+  "name": "Crawling Jar",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to add a resource to the crawling jar. This resource is impossible to find for any individual other than you, as to them the jar will appear empty. The crawling jar can hold any number of resources. Burn to pull a random resource from the jar that you never put in there (determined by the Firefly).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "YIyNOv2O9S2uvjnp",
+  "_id": "6IIHzyqldgXgti1r",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381011,
+    "modifiedTime": 1716738381011,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!6IIHzyqldgXgti1r"
+}

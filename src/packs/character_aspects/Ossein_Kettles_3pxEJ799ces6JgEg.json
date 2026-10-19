@@ -1,0 +1,33 @@
+{
+  "name": "Ossein Kettles",
+  "type": "aspect",
+  "system": {
+    "details": "<p>This heirloom, eternities old, is used to create beverages that warm more than your body. Triumphs on rolls to concoct grant a Whisper.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "OJBrJPGzw6NpCJO8",
+  "_id": "3pxEJ799ces6JgEg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372286,
+    "modifiedTime": 1716738372286,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!3pxEJ799ces6JgEg"
+}

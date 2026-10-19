@@ -1,0 +1,45 @@
+{
+  "name": "Mucoid Rub",
+  "type": "fitting",
+  "system": {
+    "details": "<p></p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "rIHdlH9rvui0mDfa"
+      },
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "4sbKr0ZMVBNmZnbr"
+      }
+    ],
+    "stakes": 1,
+    "type": "Outrider Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "9wMthDFmKg4yWDOZ",
+  "_id": "QWeZeBBJ30ZWDYQP",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849826,
+    "modifiedTime": 1717440158678,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!QWeZeBBJ30ZWDYQP"
+}

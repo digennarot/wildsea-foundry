@@ -1,0 +1,33 @@
+{
+  "name": "The Winning Wishbone",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Given the proper time and equipment, a steep can brew a hearty stock using this arm-length wishbone chunk. Triumphs on rolls made to brew heal one mark of damage for all crewmates who share in the result.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "OJBrJPGzw6NpCJO8",
+  "_id": "bhMnaJbzXSGrcV4w",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372381,
+    "modifiedTime": 1716738372381,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!bhMnaJbzXSGrcV4w"
+}

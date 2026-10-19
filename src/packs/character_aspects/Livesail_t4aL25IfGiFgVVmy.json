@@ -1,0 +1,33 @@
+{
+  "name": "Livesail",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A biological companion that tolerates being used as a kitesail. Consume a specimen to gain the Rush and Soar styles  until end of scene.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "TzGhitXoM97yA5qA",
+  "_id": "t4aL25IfGiFgVVmy",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738378634,
+    "modifiedTime": 1716738378634,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!t4aL25IfGiFgVVmy"
+}

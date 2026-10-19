@@ -1,0 +1,33 @@
+{
+  "name": "Leviathan Ambergris",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You have a small sample of leviathan musk, but the effect is potent - you never smell like prey.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "4GGVAomlz4sqxZr0",
+  "_id": "yeUX0Qeg73Yv0plf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367724,
+    "modifiedTime": 1716738367724,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!yeUX0Qeg73Yv0plf"
+}

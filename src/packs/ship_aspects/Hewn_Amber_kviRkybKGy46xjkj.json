@@ -1,0 +1,49 @@
+{
+  "name": "Hewn Amber",
+  "type": "design",
+  "system": {
+    "details": "<p>Cut and shaped from massive chunks of hardened ironroot resin, this hull material is prized for its golden glow but is an absolute bastard to repair without the aid of a lowport drydock.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "T3hLNjOlpfNF9Dls"
+      },
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "AFTnqtQdvUhFNgz6"
+      },
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "t9PamDNpsb7k8gHD"
+      }
+    ],
+    "stakes": 3,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "kviRkybKGy46xjkj",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843874,
+    "modifiedTime": 1717440163136,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!kviRkybKGy46xjkj"
+}

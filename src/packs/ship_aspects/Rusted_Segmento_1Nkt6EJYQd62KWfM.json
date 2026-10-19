@@ -1,0 +1,50 @@
+{
+  "name": "Rusted Segmento",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Plates of interlocking iron that can be pulled into place to cover the deck. Low quality in material terms, but good at shouldering incoming damage aside.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 2,
+        "id": "I29Pvu5zxmG4nNM7"
+      },
+      {
+        "rating": "speed",
+        "value": -1,
+        "id": "JEkj98JDqcynMxoK"
+      },
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "mN9pwYbygprIoPl8"
+      }
+    ],
+    "stakes": 2,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "1Nkt6EJYQd62KWfM",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848029,
+    "modifiedTime": 1717440153930,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!1Nkt6EJYQd62KWfM"
+}

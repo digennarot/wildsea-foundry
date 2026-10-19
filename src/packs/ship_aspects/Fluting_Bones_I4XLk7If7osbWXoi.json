@@ -1,0 +1,34 @@
+{
+  "name": "Fluting-Bones",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Adapted from the aerodynamic structures displayed by countless wildsea sky-beasts. Ignore the negative effects of strong or unpredictable winds while flying or gliding (positive effects still benefit you as normal).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "I4XLk7If7osbWXoi",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845445,
+    "modifiedTime": 1717440157204,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!I4XLk7If7osbWXoi"
+}

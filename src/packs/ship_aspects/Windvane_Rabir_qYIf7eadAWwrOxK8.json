@@ -1,0 +1,34 @@
+{
+  "name": "Windvane Rabir",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Tailor-made to spin with the winds, producing a musical drone that keeps all but the most unusual garden pests at bay.</p><p>All plants within your plots have a resistance to insect predation and insect-borne diseases.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Ship Gardens",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "VrEJVkg0g4qiOUrx",
+  "_id": "qYIf7eadAWwrOxK8",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846029,
+    "modifiedTime": 1716846531571,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!qYIf7eadAWwrOxK8"
+}

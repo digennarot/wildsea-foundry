@@ -1,0 +1,33 @@
+{
+  "name": "A Fragment of an Old Friend",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Anchored to something small but valuable on your person, this spirit fades restlessly in and out of existence. Never cut when handling dangerous cargo, and you have resistance to all damage dealt by such items.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "h7Tt9FFoRyrDLNQd",
+  "_id": "2VlD73viVsp2VDLc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738384832,
+    "modifiedTime": 1716738384832,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2VlD73viVsp2VDLc"
+}

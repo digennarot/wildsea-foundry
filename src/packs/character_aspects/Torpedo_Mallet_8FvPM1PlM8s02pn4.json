@@ -1,0 +1,33 @@
+{
+  "name": "Torpedo Mallet",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Yes, this was once an armament for a submersible. No, there really aren't many safety precautions in place. Deals CQ Blunt or Blast damage, or burn to deal Massive CQ Blast damage to multiple nearby targets (including yourself).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "AT49lU2fjt58K4WB",
+  "_id": "8FvPM1PlM8s02pn4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738380041,
+    "modifiedTime": 1716738380041,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!8FvPM1PlM8s02pn4"
+}

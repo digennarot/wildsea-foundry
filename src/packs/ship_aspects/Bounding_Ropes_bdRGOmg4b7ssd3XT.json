@@ -1,0 +1,34 @@
+{
+  "name": "Bounding-Ropes",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Used for pulling the ship across areas with wide gaps between their branches, slowly and laboriously. Capable of carrying great weights, but need to be secured to trunks and distant branches by hand.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "General Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "qLaXUJsA0bG5ENat",
+  "_id": "bdRGOmg4b7ssd3XT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844687,
+    "modifiedTime": 1717440160610,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!bdRGOmg4b7ssd3XT"
+}

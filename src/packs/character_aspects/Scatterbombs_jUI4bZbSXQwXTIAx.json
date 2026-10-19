@@ -1,0 +1,33 @@
+{
+  "name": "Scatterbombs",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Deal LR Blast or Frost damage, and can hit multiple nearby targets when used from an elevated position.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "EzrpOnQYauBrRGhI",
+  "_id": "jUI4bZbSXQwXTIAx",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738378598,
+    "modifiedTime": 1716738378598,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!jUI4bZbSXQwXTIAx"
+}

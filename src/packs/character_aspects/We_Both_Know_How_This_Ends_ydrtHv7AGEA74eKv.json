@@ -1,0 +1,33 @@
+{
+  "name": "We Both Know How This Ends",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Burn to allow a crewmember of your choice to ignore cut while attacking and defending against a hazard you've encountered before (for the duration of a scene).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "S2j3zknPecUo4EsP",
+  "_id": "ydrtHv7AGEA74eKv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738379581,
+    "modifiedTime": 1716738379581,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ydrtHv7AGEA74eKv"
+}

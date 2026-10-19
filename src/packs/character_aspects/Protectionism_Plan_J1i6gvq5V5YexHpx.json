@@ -1,0 +1,33 @@
+{
+  "name": "Protectionism Plan",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A strict budget scrawled across a ledger in crimson, proving that resourcefulness and austerity can sometimes be painful. Once per scene you may mark one of your aspects, or your crewmates' with their permission, to acquire a resource related to that aspect.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "8XY8gmFEdJD4drJI",
+  "_id": "J1i6gvq5V5YexHpx",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382559,
+    "modifiedTime": 1716738382559,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!J1i6gvq5V5YexHpx"
+}

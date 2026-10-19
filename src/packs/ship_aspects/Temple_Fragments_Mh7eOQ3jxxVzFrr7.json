@@ -1,0 +1,34 @@
+{
+  "name": "Temple Fragments",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Plants with the rampant tag don't take up an extra quarter when sown in temple fragments.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gardening Mediums",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "ARe4ct5RrbrdmAiZ",
+  "_id": "Mh7eOQ3jxxVzFrr7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850725,
+    "modifiedTime": 1717440158076,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Mh7eOQ3jxxVzFrr7"
+}

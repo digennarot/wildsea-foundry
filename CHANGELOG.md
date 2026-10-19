@@ -1,5 +1,13 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.8
+
+- Ship Aspects compendium: group the 58 flat folders into Design, Fittings (Motif, Additions, Rooms, Armaments, Outriders, Airborne, Delving, Gardens, Quiet) and Undercrew (Gangs, Beast Packs, Insect Packs, Officers, each split into Base/Delving/Gardening/Rising), with Italian folder names through Babele
+- Character Aspects compendium: folders ordered Bloodline, Origin, Post, Extra; supplement folders moved under Extra and non-standard bloodlines under Bloodline; each bloodline, origin and post split into Traits, Gear and Companions
+- Hazards compendium: each category split into Complex and Basic hazards (Complessi/Base); the compendium label is now "Hazards", translated to "Pericoli" through Babele
+- Group the system's compendiums in a "The Wildsea" folder in the Compendium sidebar
+- Rebuild all compendium packs so they include their LevelDB manifest again, and keep their JSON sources in `src/packs`
+
 ## v0.2.7
 
 - Add a "Pericoli" (Hazards) compendium in Italian with the hazards from chapter 10 of the rulebook: 56 complex hazards (with drives, presence, resources, aspects and quirks) and 89 basic hazards, organised by category. Names follow the official Italian rulebook; descriptions are summaries, so keep the book at hand for the full text

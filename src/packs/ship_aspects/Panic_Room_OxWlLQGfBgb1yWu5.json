@@ -1,0 +1,34 @@
+{
+  "name": "Panic Room",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A small room stocked with salted supplies and bedrolls, able to be triple-locked from the inside and extremely hard to break into.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Common Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "d1tw3WkmF0uVc18g",
+  "_id": "OxWlLQGfBgb1yWu5",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844866,
+    "modifiedTime": 1717440158554,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!OxWlLQGfBgb1yWu5"
+}

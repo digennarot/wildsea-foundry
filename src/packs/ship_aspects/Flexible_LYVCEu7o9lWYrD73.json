@@ -1,0 +1,39 @@
+{
+  "name": "Flexible",
+  "type": "design",
+  "system": {
+    "details": "<p>Built for adjustability and responsiveness, flexible frames are often multi-segmented or jointed in some way.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "XSQpFuXJspCgNE5x"
+      }
+    ],
+    "stakes": 1,
+    "type": "frame",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Ri6EBpyFIdQvShqY",
+  "_id": "LYVCEu7o9lWYrD73",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843676,
+    "modifiedTime": 1717440157912,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!LYVCEu7o9lWYrD73"
+}

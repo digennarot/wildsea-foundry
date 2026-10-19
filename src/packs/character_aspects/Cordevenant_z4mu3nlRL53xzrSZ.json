@@ -1,0 +1,33 @@
+{
+  "name": "Cordevenant",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task to breathe life into any once-living specimen, giving it the Fungal tag.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "ps0nszusyaU4DBYA",
+  "_id": "z4mu3nlRL53xzrSZ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377777,
+    "modifiedTime": 1716738377777,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!z4mu3nlRL53xzrSZ"
+}

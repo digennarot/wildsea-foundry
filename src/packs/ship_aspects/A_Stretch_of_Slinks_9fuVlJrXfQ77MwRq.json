@@ -1,0 +1,35 @@
+{
+  "name": "A Stretch of Slinks",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Semi-spectral cats usually found in dockyards and spitcity alleyways, ship-born slinks spend most of their time hunting down rats and finding ways to get into the most absurdly awkward spaces.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Beast Packs"
+  },
+  "folder": "JN56PjnoJjg1GBtz",
+  "_id": "9fuVlJrXfQ77MwRq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946825,
+    "modifiedTime": 1716641946825,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!9fuVlJrXfQ77MwRq"
+}

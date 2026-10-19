@@ -1,0 +1,39 @@
+{
+  "name": "Sleek",
+  "type": "design",
+  "system": {
+    "details": "<p>Quiet is hard to come by on the wildsea, but a sleek frame ensures that no matter how noisy your bite and engine might be, you’ll always be low to the waves.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "jl53b4wCWhEgnPCj"
+      }
+    ],
+    "stakes": 1,
+    "type": "frame",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Ri6EBpyFIdQvShqY",
+  "_id": "NWYhBmAU1ggs2300",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843667,
+    "modifiedTime": 1717440158300,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NWYhBmAU1ggs2300"
+}

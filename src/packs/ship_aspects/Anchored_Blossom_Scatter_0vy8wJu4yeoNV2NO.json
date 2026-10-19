@@ -1,0 +1,34 @@
+{
+  "name": "Anchored Blossom-Scatter",
+  "type": "fitting",
+  "system": {
+    "details": "<p>When you harvest a plant grown in anchored blossom-scatter, roll a d6. On a 6, the resulting specimen gains the 'Pre-Verdant' tag. On a 5 or 4, the resulting specimen gains the 'Spirited' tag. On a 3, 2, or 1 the specimen gains the 'Mournful' tag.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Gardening Mediums",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "ARe4ct5RrbrdmAiZ",
+  "_id": "0vy8wJu4yeoNV2NO",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850844,
+    "modifiedTime": 1717440153818,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!0vy8wJu4yeoNV2NO"
+}

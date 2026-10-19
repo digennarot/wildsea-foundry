@@ -1,0 +1,44 @@
+{
+  "name": "Willowpeel",
+  "type": "design",
+  "system": {
+    "details": "<p>Light and flexible, but extremely fragile, even by the standards of the weakest hulls.</p><p>Increase impact when performing aerial manoeuvres</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": -1,
+        "id": "J4ZabLPWyffjrTp1"
+      },
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "Rd2kahLgUUZossxC"
+      }
+    ],
+    "stakes": 1,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "DyDHn8PWBom0RV65",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843889,
+    "modifiedTime": 1716846529398,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!DyDHn8PWBom0RV65"
+}

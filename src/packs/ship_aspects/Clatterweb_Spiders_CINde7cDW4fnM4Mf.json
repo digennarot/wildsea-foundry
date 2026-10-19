@@ -1,0 +1,35 @@
+{
+  "name": "Clatterweb Spiders",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>When at anchor (or otherwise still) the spiders spin webs around the ship, giving early warning if hazards approach.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Insect Packs"
+  },
+  "folder": "ExpDDuGQEfEmOfOw",
+  "_id": "CINde7cDW4fnM4Mf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641947678,
+    "modifiedTime": 1716641947678,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!CINde7cDW4fnM4Mf"
+}

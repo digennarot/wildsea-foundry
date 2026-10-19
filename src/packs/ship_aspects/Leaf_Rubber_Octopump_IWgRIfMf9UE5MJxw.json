@@ -1,0 +1,40 @@
+{
+  "name": "Leaf-Rubber Octopump",
+  "type": "fitting",
+  "system": {
+    "details": "<p>It's not alive. It's just a machine after all. But the way those tubes writhe, and those bellows wheeze like lungs... Suffice it to say that if it were alive, it would most probably be very unhappy.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 6,
+        "id": "ldfH6Rwfri9wssr4"
+      }
+    ],
+    "stakes": 3,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "IWgRIfMf9UE5MJxw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847793,
+    "modifiedTime": 1717440157290,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!IWgRIfMf9UE5MJxw"
+}

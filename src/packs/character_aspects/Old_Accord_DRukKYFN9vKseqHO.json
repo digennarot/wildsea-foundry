@@ -1,0 +1,33 @@
+{
+  "name": "Old Accord",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task and mark to quiet or banish a storm, or use a task and burn to summon one.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "WdXuyagYKHEnCxqF",
+  "_id": "DRukKYFN9vKseqHO",
+  "effects": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372904,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!DRukKYFN9vKseqHO"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Whisper-Spin Gyro",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A pinwheel of barely-visible whispers, each a suggestion of flight or freedom. They offer a smoother flight, but linguistic radiation risks infecting the crew if the apparatus is damaged.</p><p>Additional Style: Soar</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 5,
+    "type": "Auxiliary Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lqpNd7CHhtJV1bqM",
+  "_id": "34rDcBIJAVAjtkIF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849196,
+    "modifiedTime": 1716846528816,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!34rDcBIJAVAjtkIF"
+}

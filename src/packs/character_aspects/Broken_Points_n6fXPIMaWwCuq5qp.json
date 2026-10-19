@@ -1,0 +1,33 @@
+{
+  "name": "Broken Points",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Increase impact when you break something as a show of strength or intimidation.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "ih0uSrXFUqEHFx63",
+  "_id": "n6fXPIMaWwCuq5qp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369129,
+    "modifiedTime": 1716738369129,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!n6fXPIMaWwCuq5qp"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Ratwork Refugees",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Saved from a broken cluster and trained to help more than they hinder. Consume a specimen to reduce one of your ship's ratings by one and boost another by two. This change lasts until you consume another specimen in this way, or until the end of a journey.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "5XV8lOtLCUjP0Z34",
+  "_id": "DCdAVJiTOqRjiliU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383530,
+    "modifiedTime": 1716738383530,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!DCdAVJiTOqRjiliU"
+}

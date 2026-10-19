@@ -1,0 +1,39 @@
+{
+  "name": "Husk-Scale",
+  "type": "design",
+  "system": {
+    "details": "<p>A flexible, organic hull material made from alchemically altered fruits and mushrooms.</p><p>Damage to a ship's Armour and Seals ratings can be repaired using garden-grown specimens, rather than the usual salvage required.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "Hf7mqZ4PEMxX7yxv"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "ydaSn1CQKvbApZtZ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843837,
+    "modifiedTime": 1716846531953,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ydaSn1CQKvbApZtZ"
+}

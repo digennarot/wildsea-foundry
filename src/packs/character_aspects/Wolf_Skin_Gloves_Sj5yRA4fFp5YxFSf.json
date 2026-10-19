@@ -1,0 +1,33 @@
+{
+  "name": "Wolf-Skin Gloves",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You never cut for difficulty when including specimens in your crafting, no matter how grisly or unpalatable the process is.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "JhrI5AY3u9PoAzeG",
+  "_id": "Sj5yRA4fFp5YxFSf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738371219,
+    "modifiedTime": 1716738371219,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Sj5yRA4fFp5YxFSf"
+}

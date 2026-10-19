@@ -1,0 +1,33 @@
+{
+  "name": "Worth Telling Twice",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When a crewmate or opponent uses a whisper, take a single word from it and start a 3-box Project track, marking the first box. If you already have an existing project track from this trait, add the chosen word and mark another box. When all three boxes are marked, gain the three collected words as a new whisper.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "lNvXpT0YH6KCmG5k",
+  "_id": "XFvD0IFxSzDQ2E8I",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738380197,
+    "modifiedTime": 1716738380197,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!XFvD0IFxSzDQ2E8I"
+}

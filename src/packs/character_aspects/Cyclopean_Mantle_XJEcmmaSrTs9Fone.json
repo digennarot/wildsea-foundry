@@ -1,0 +1,33 @@
+{
+  "name": "Cyclopean Mantle",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The single eye set into this mantle is traditionally taken from a hunting beast of the wild blue. Mark to see through a usually opaque surface (such as a wall or a cloudbank) with perfect clarity for a short time.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "4TMX7VPZOXpPjmkx",
+  "_id": "XJEcmmaSrTs9Fone",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377485,
+    "modifiedTime": 1716738377485,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!XJEcmmaSrTs9Fone"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Amberglass Spectacles",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Treat conflicts as triumphs when investigating mysteries or discerning truths while at least one watchful eye is marked or burned. If both watchful eyes are marked or burned, increase impact on therse actions as well.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "YxZ95I94FxFqVbgv",
+  "_id": "H33fqNJYRRl9HR5Y",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738380349,
+    "modifiedTime": 1716738380349,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!H33fqNJYRRl9HR5Y"
+}

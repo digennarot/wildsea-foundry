@@ -1,0 +1,34 @@
+{
+  "name": "Limited Armoury Rack",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A rack stocked with simple weapons. When leaving or defending the ship, crewmembers can take a temporary piece of gear with the LR or CQ tag and a single damage type (either Blunt, Keen or Spike). This temporary weapon comes with a two track and can’t be repaired.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Boarding Equipment",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "DGq9dnL4TcdDt5Wg",
+  "_id": "WyEdQb1w9I1Zwu1R",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846544,
+    "modifiedTime": 1717440159817,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!WyEdQb1w9I1Zwu1R"
+}

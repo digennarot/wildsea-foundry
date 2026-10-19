@@ -1,0 +1,40 @@
+{
+  "name": "Full Nautilization",
+  "type": "fitting",
+  "system": {
+    "details": "<p>This is a complete refit of every system, every inch of frame, every plank of wood and piece of stolen scrap to make the ship's interior a fortress against the dangers of the depths.</p><p>Ship interior is immune to bad air, drifting spores, insect incursions, and wandering spirits</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 6,
+        "id": "SYfE80w7hhlcPDeQ"
+      }
+    ],
+    "stakes": 7,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "ewBfbFITjQrKo7Gq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847827,
+    "modifiedTime": 1716846530841,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ewBfbFITjQrKo7Gq"
+}

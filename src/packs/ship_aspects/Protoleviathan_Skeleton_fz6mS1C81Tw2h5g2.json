@@ -1,0 +1,40 @@
+{
+  "name": "Protoleviathan Skeleton",
+  "type": "fitting",
+  "system": {
+    "details": "<p>The pyramids of predator and prey beneath the waves are malleable and ever-changing, but leviathans and protoleviathans almost inevitably sit upon their capstones.</p><p>Ship interior resists bad air, drifting spores, insect incursions, and wandering spirits</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "cF7H8W2K4SFIto29"
+      }
+    ],
+    "stakes": 3,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "fz6mS1C81Tw2h5g2",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847759,
+    "modifiedTime": 1716846530894,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!fz6mS1C81Tw2h5g2"
+}

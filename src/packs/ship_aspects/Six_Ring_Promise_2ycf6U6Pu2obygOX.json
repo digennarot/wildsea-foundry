@@ -1,0 +1,39 @@
+{
+  "name": "Six-Ring Promise",
+  "type": "design",
+  "system": {
+    "details": "<p>A bank of chemically-driven turbines working in tandem, the subject of many airyard arguments.</p><p>Tilt +2 (Only when airborne)\nFlight Styles: Rush, Soar</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "tilt",
+        "value": 2,
+        "id": "hZtmkNlWQ9IR8NP5"
+      }
+    ],
+    "stakes": 5,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "2ycf6U6Pu2obygOX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844410,
+    "modifiedTime": 1716846528808,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2ycf6U6Pu2obygOX"
+}

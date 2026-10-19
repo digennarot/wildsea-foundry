@@ -1,0 +1,33 @@
+{
+  "name": "Abyssal Age",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Carcharbora never stop growing, and you are a particularly venerable example of the bloodline. Massive and imposing, you are a force to be reckoned with.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Trait"
+  },
+  "folder": "QuL1NaXTI8XLFKhX",
+  "_id": "tiOv8DSy2giUpEHv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386813,
+    "modifiedTime": 1716738386813,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!tiOv8DSy2giUpEHv"
+}

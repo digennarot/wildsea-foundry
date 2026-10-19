@@ -1,0 +1,33 @@
+{
+  "name": "Religious Robes",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The light blue robes of a sage grant respect and devotion from many in the reach. Increase impact when interacting with the faithful.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "CANJvMsfiEotR1AN",
+  "_id": "XkTn3mfiI64mDVuf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365983,
+    "modifiedTime": 1716738365983,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!XkTn3mfiI64mDVuf"
+}

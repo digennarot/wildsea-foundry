@@ -1,0 +1,34 @@
+{
+  "name": "Personal Modification",
+  "type": "fitting",
+  "system": {
+    "details": "<p>What exactly have you done to the thing? Portside engineers would weep. \n\n1. Increase any three rating by \n2. Decrease any one rating by 1.\n</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Outrider Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "9wMthDFmKg4yWDOZ",
+  "_id": "qgg2Lw8nibdmiHmn",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849858,
+    "modifiedTime": 1717440164306,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!qgg2Lw8nibdmiHmn"
+}

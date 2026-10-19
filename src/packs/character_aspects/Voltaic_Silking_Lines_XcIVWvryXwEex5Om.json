@@ -1,0 +1,33 @@
+{
+  "name": "Voltaic Silking-Lines",
+  "type": "aspect",
+  "system": {
+    "details": "<p>An array of electrically charged webbing that drifts around you. Deals CQ Volt damage, and you gain the Float and Glide styles, but your flight is only effective in short bursts.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "tiriStt2yPr75BBm",
+  "_id": "XcIVWvryXwEex5Om",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377100,
+    "modifiedTime": 1716738377100,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!XcIVWvryXwEex5Om"
+}

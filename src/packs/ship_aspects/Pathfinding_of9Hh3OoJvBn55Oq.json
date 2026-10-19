@@ -1,0 +1,34 @@
+{
+  "name": "Pathfinding",
+  "type": "fitting",
+  "system": {
+    "details": "<ul><li><p>Trinkets and gewgaws from various contacted cultures affixed to the hull.</p></li><li><p>A reinforced engine room with a secondary set of seals or bulkheads protecting it.</p></li><li><p>An array of wilds-clearing tools, allowing crew fighting on or below decks easy access to Hewing or Serrated damage.</p></li></ul>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Motif",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Uu14OE32lX7tniVq",
+  "_id": "of9Hh3OoJvBn55Oq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844468,
+    "modifiedTime": 1717440239834,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!of9Hh3OoJvBn55Oq"
+}

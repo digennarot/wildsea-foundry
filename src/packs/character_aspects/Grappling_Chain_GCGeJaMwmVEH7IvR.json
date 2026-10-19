@@ -1,0 +1,33 @@
+{
+  "name": "Grappling Chain",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Designed to find quick purchase in bark and boughs. treat conflicts as triumphs when traversing the sea.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "d9gY3mFBBd8Le2h2",
+  "_id": "GCGeJaMwmVEH7IvR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369759,
+    "modifiedTime": 1716738369759,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!GCGeJaMwmVEH7IvR"
+}

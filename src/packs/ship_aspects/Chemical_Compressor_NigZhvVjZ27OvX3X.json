@@ -1,0 +1,39 @@
+{
+  "name": "Chemical Compressor",
+  "type": "design",
+  "system": {
+    "details": "<p>The most common engine on the rustling waves, reliably unreliable but extremely easy to fuel.</p><p>Fuelled with crushed fruit and insect husks.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "g4v4Jwv7u3p27zwH"
+      }
+    ],
+    "stakes": 1,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "NigZhvVjZ27OvX3X",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844199,
+    "modifiedTime": 1716846530032,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NigZhvVjZ27OvX3X"
+}

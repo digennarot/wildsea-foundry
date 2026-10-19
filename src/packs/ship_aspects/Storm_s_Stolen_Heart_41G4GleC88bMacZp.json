@@ -1,0 +1,34 @@
+{
+  "name": "Storm's Stolen Heart",
+  "type": "fitting",
+  "system": {
+    "details": "<p>There's a non-zero chance you'll be doggedly pursued until your crew is fried and your ship rendered into nothing but a charred memory. But, until then, this is a hell of a find.</p><p>Takeoff Cost: Seals\nFlight Style: Float, Hover, Soar\nReduce cut by one on aerial stunts performed in storms, living or otherwise.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 7,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "41G4GleC88bMacZp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849053,
+    "modifiedTime": 1716846528889,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!41G4GleC88bMacZp"
+}

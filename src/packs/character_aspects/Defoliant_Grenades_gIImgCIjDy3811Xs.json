@@ -1,0 +1,33 @@
+{
+  "name": "Defoliant Grenades",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Explosive packets that burst when lobbed with force. Deals LR acid or salt damage</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "d9gY3mFBBd8Le2h2",
+  "_id": "gIImgCIjDy3811Xs",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369851,
+    "modifiedTime": 1716738369851,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gIImgCIjDy3811Xs"
+}

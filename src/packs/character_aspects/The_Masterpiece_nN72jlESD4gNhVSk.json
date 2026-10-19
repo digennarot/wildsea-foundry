@@ -1,0 +1,33 @@
+{
+  "name": "The Masterpiece",
+  "type": "aspect",
+  "system": {
+    "details": "<p>More than a journal or a book... This is a living history of yourself, your ship, and your crewmates. When you choose the Masterpiece as an aspect, it gains two benefits of your choice from the following list:<ul><li><b>Notes in the Margin</b> - You can read (but not speak) all scripts of the rustling waves, as if you had a smattering of every language,</li><li><b>Remember That One</b> - Choose either beasts, plants, insects, constructs or marauders. You're immune to damage (but not effects) from the first attack made by your chosen source in any given scene,</li><li><b>The Spiel</b> - You know your stories. Treat conflicts as triumphs when convincing or befriending an individual by telling a tale of events you were involved in,</li><li><b>Adding Detail to the Tome</b> - Any time a crewmate gains a whisper, mark the Masterpiece to gain a chart related to that whisper.</li></ul></p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Complex Gear"
+  },
+  "folder": "FjSSpEX3yWb8fMMq",
+  "_id": "nN72jlESD4gNhVSk",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738379777,
+    "modifiedTime": 1716738379777,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!nN72jlESD4gNhVSk"
+}

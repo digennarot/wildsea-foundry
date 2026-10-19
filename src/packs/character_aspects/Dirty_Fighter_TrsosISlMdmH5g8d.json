@@ -1,0 +1,33 @@
+{
+  "name": "Dirty Fighter",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Treat conflicts as triumphs when attempting to trip, knock down, blind or stun opponents.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "x7RXOilMPCSoWA0x",
+  "_id": "TrsosISlMdmH5g8d",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368760,
+    "modifiedTime": 1716738368760,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TrsosISlMdmH5g8d"
+}

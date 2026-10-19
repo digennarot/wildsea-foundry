@@ -1,0 +1,33 @@
+{
+  "name": "Air of Competency",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When you take this trait, choose two ratings from the following six: Armour, Seals, Speed, Saws, Stealth, and Tilt. Increase both of these ratings by one while you're aboard your own ship.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Trait"
+  },
+  "folder": "Qfq42BSrNjZq1Eq8",
+  "_id": "8wheYPw2Fe1Yfjly",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382944,
+    "modifiedTime": 1716738382944,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!8wheYPw2Fe1Yfjly"
+}

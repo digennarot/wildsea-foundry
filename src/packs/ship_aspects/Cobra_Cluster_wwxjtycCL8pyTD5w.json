@@ -1,0 +1,34 @@
+{
+  "name": "Cobra Cluster",
+  "type": "fitting",
+  "system": {
+    "details": "<p>The scattering of high-velocity explosives may lack the punch to injure leviathans, but can put pain to just about anything else. Deals high-impact LR Blast or Acid damage to all targets in a small area.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Airborne Armament",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "imXmFeEg77XRU64v",
+  "_id": "wwxjtycCL8pyTD5w",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846644,
+    "modifiedTime": 1717440165482,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wwxjtycCL8pyTD5w"
+}

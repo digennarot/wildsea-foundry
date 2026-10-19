@@ -1,0 +1,33 @@
+{
+  "name": "More Than Maintenance",
+  "type": "aspect",
+  "system": {
+    "details": "<p>No ship of yours is safe from continual improvement. Choose a takeoff or flight style from the following list: Rush, Float, Hover, Glide, Flap, or Soar. Any ship you crew that already has lift systems gains this chosen style in addition to any existing styles.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "xEpBRsEDz8BfiZ7N",
+  "_id": "0j6G1Jj7SYvi4AZI",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383704,
+    "modifiedTime": 1716738383704,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!0j6G1Jj7SYvi4AZI"
+}

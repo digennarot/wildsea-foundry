@@ -1,0 +1,33 @@
+{
+  "name": "Padded Gauntlet",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Used to help train the wild creatures of the sea. You’re resistant to bite attacks, no matter the damage type.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "iEg6pro72VqeTqSR",
+  "_id": "NWmHMIWEpexdyFea",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370139,
+    "modifiedTime": 1716738370139,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NWmHMIWEpexdyFea"
+}

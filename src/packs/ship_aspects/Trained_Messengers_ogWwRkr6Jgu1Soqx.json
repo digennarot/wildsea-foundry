@@ -1,0 +1,34 @@
+{
+  "name": "Trained Messengers",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Flying creatures trained to seek out distant landmasses (or nearby ships), deliver messages to them, and return with replies. When choosing trained messengers, specify the type of creature you’re using (such as dragonflies or crows).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "General Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "qLaXUJsA0bG5ENat",
+  "_id": "ogWwRkr6Jgu1Soqx",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844657,
+    "modifiedTime": 1717440163794,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ogWwRkr6Jgu1Soqx"
+}

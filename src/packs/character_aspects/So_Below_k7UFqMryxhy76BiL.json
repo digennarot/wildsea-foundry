@@ -1,0 +1,33 @@
+{
+  "name": "So Below",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When you take this trait, choose either 'Above' or 'Below'. When the watchful eye related to your choice is marked or burned, treat conflicts as triumphs when engaging with the danger it represents in any way.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "S0GW0AQyRWWflGt4",
+  "_id": "k7UFqMryxhy76BiL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377297,
+    "modifiedTime": 1716738377297,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!k7UFqMryxhy76BiL"
+}

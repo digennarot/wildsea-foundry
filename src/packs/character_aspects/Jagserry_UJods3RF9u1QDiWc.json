@@ -1,0 +1,33 @@
+{
+  "name": "Jagserry",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The archetypal hacker weapon, a sawtooth sabre that deals CQ hewing or serrated damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "d9gY3mFBBd8Le2h2",
+  "_id": "UJods3RF9u1QDiWc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369815,
+    "modifiedTime": 1716738369815,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!UJods3RF9u1QDiWc"
+}

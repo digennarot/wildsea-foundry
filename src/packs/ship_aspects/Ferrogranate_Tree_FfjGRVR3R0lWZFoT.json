@@ -1,0 +1,34 @@
+{
+  "name": "Ferrogranate Tree",
+  "type": "fitting",
+  "system": {
+    "details": "<p>One of the most popular on-deck arborist choices, the fruits produced by a ferrogranate tree are almost entirely inedible, but their plentiful seeds are naturally magnetically charged. Once per journey, gain 'Handful of Ferrogranate Seeds' or 'Ferrogranate Iron-Rind' as a specimen.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "FfjGRVR3R0lWZFoT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845601,
+    "modifiedTime": 1717440156513,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FfjGRVR3R0lWZFoT"
+}

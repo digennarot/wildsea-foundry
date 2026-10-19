@@ -1,0 +1,33 @@
+{
+  "name": "Mobile Scrapbox",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A hovering iron chest that follows you closely, occasionally knocking into your ankles. Use a task to make a 1d6 fortune roll. On a 1, 2, or 3, you gain no benefit. On a 4 or 5, you gain one piece of salvage. On a 6, you gain two pieces of salvage. The resources you gain are provided by the Firefly.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Companion"
+  },
+  "folder": "ni7PIHJTUZIdZzrf",
+  "_id": "aq4hGuwJ8mhpmFoJ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738384112,
+    "modifiedTime": 1716738384112,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!aq4hGuwJ8mhpmFoJ"
+}

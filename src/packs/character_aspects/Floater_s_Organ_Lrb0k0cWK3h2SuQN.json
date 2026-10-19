@@ -1,0 +1,33 @@
+{
+  "name": "Floater's Organ",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The parts of your body once used for buoyancy in water have adapted to life among leaves and air. You may always land safely when falling from any distance, and have access to short bursts of the Float and Hover styles.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "QuL1NaXTI8XLFKhX",
+  "_id": "Lrb0k0cWK3h2SuQN",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386994,
+    "modifiedTime": 1716738386994,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Lrb0k0cWK3h2SuQN"
+}

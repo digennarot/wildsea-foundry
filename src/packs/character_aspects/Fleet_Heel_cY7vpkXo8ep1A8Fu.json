@@ -1,0 +1,33 @@
+{
+  "name": "Fleet-Heel",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once per scene, when the final box is marked on a secret or hidden track, hijack focus to act in the last moment possible before the change it brings.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "65F2MhhDYaKlXwu6",
+  "_id": "cY7vpkXo8ep1A8Fu",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738384451,
+    "modifiedTime": 1716738384451,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!cY7vpkXo8ep1A8Fu"
+}

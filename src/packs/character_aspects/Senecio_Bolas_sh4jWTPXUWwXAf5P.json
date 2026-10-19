@@ -1,0 +1,33 @@
+{
+  "name": "Senecio Bolas",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You have long flexible limbs with clusters of pearl-like buds at the tip. These can be used as a weapon, dealing LR Blunt damage, but double as an aid to swinging through the treetops. When wavewalking with a cut, remove any result you choose (not necessarily the highest).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "f7veyJiDekAmsa5o",
+  "_id": "sh4jWTPXUWwXAf5P",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738388410,
+    "modifiedTime": 1716738388410,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!sh4jWTPXUWwXAf5P"
+}

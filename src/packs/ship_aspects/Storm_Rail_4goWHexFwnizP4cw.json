@@ -1,0 +1,34 @@
+{
+  "name": "Storm-Rail",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Two huge brass rods wrapped with poorly shielded cables, attached to a voltaic generator. Deals massive LR Volt damage.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Deck Weapons",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "u1FzBbCuxgn7lnW1",
+  "_id": "4goWHexFwnizP4cw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846289,
+    "modifiedTime": 1717440154577,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!4goWHexFwnizP4cw"
+}

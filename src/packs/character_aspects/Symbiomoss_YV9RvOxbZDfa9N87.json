@@ -1,0 +1,33 @@
+{
+  "name": "Symbiomoss",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You are in symbiosis with a moss that fills and hardens to replace the damaged parts of your body. Use a task and immerse yourself in water to heal a mark of damage on each of your traits.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "04UdqKDlPFv4obRh",
+  "_id": "YV9RvOxbZDfa9N87",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365965,
+    "modifiedTime": 1716738365965,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!YV9RvOxbZDfa9N87"
+}

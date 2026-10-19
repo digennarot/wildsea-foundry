@@ -1,0 +1,39 @@
+{
+  "name": "Razorscale",
+  "type": "design",
+  "system": {
+    "details": "<p>An exterior of interlocking scales sloughed or harvested from a wildsea beast, sharpened for effectiveness.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "saws",
+        "value": 1,
+        "id": "bzwO7aSMWD5Sd832"
+      }
+    ],
+    "stakes": 1,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "0NoLYwC4Dti18thI",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843752,
+    "modifiedTime": 1717440153638,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!0NoLYwC4Dti18thI"
+}

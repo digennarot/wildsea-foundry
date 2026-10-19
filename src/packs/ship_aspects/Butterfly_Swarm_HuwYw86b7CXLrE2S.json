@@ -1,0 +1,34 @@
+{
+  "name": "Butterfly Swarm",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A horde of large butterflies attached by slim threads to a tether or handle, designed to be held while riding a surf-seed to allow travel without a bloomtide.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Bloom Surfing",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "EmuhVWTPyQ5MkbjJ",
+  "_id": "HuwYw86b7CXLrE2S",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845889,
+    "modifiedTime": 1717440157153,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HuwYw86b7CXLrE2S"
+}

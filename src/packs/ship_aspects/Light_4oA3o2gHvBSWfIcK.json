@@ -1,0 +1,39 @@
+{
+  "name": "Light",
+  "type": "design",
+  "system": {
+    "details": "<p>Made with the lightest possible materials in the smallest possible amounts.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "ea3OjpihmrDRQwpB"
+      }
+    ],
+    "stakes": 1,
+    "type": "frame",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Ri6EBpyFIdQvShqY",
+  "_id": "4oA3o2gHvBSWfIcK",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843655,
+    "modifiedTime": 1717440154725,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!4oA3o2gHvBSWfIcK"
+}

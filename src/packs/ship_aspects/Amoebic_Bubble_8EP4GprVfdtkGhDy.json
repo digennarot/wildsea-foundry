@@ -1,0 +1,45 @@
+{
+  "name": "Amoebic Bubble",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A slick alchemical bubble covering any exposed deck area, shimmering like oil.</p><p>Deck area benefits from ship's interior resistances</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "zrPqLXpaN35eNCfD"
+      },
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "x2mdQPl5Mn4kTASB"
+      }
+    ],
+    "stakes": 3,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "8EP4GprVfdtkGhDy",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848276,
+    "modifiedTime": 1716846529141,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!8EP4GprVfdtkGhDy"
+}

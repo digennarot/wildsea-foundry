@@ -1,0 +1,39 @@
+{
+  "name": "Pulsing Cocoon",
+  "type": "design",
+  "system": {
+    "details": "<p>An unknown insect shifts inside, glutting on dreams and spinning them into an ebb of arconautic force. Crews report intensely vivid dreams.</p><p>Fuelled with the dreams of the crew.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "iPxrswMWLN4kfsIs"
+      }
+    ],
+    "stakes": 1,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "iSCpPuMRCMuDvZK9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844241,
+    "modifiedTime": 1716846531068,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!iSCpPuMRCMuDvZK9"
+}

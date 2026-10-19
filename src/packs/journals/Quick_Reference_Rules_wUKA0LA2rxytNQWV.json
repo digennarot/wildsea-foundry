@@ -1,0 +1,235 @@
+{
+  "name": "Quick Reference Rules",
+  "_id": "wUKA0LA2rxytNQWV",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Edges, Skills, Languages",
+      "type": "text",
+      "_id": "Twuj3MCcmiUuoVzn",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"flexrow\"><div><h1 class=\"text-purple\">Edges</h1><h4>Grace</h4><p>Elegance, precision, agility</p><h4>Iron</h4><p>Force, determination, willpower</p><h4>Instinct</h4><p>Sense, intuition, reaction</p><h4>Sharps</h4><p>Logic, wit, planning</p><h4>Teeth</h4><p>Savagery, passion, destruction</p><h4>Tides</h4><p>Exploration, learning, lore</p><h4>Veils</h4><p>Shadows, ciphers, secrecy</p></div><div><h1 class=\"text-purple\">Skills</h1><ul><li><p><strong>Brace:</strong> Defend, determination, immobility.</p></li><li><p><strong>Break:</strong> Break, smash, demolish.</p></li><li><p><strong>Concoct:</strong> Chemical reactions, essence extraction, crezzerin.</p></li><li><p><strong>Cook:</strong> Spices, sustenance, meats, fruits, heat.</p></li><li><p><strong>Delve:</strong> Explore ruins, bypass locks/traps, identify the past.</p></li><li><p><strong>Flourish:</strong> Showmanship, performance, art.</p></li><li><p><strong>Hack:</strong> Chop, identify unknown plant hazards, spin tales.</p></li><li><p><strong>Harvest:</strong> Forage, identify plants, nurture plants and insects.</p></li><li><p><strong>Hunt:</strong> Observe, track, shoot, render specimens.</p></li><li><p><strong>Outwit:</strong> Sneak, infiltrate, deceive.</p></li><li><p><strong>Rattle:</strong> Mend, maintain, invent.</p></li><li><p><strong>Scavenge:</strong> Locate, collect, identify properties and value.</p></li><li><p><strong>Sense:</strong> Detect, intuit, react.</p></li><li><p><strong>Study:</strong> Discover, record, interpret, decipher, determine patterns and flaws.</p></li><li><p><strong>Sway:</strong> Convince, argue, threaten.</p></li><li><p><strong>Tend:</strong> Heal, calm, communicate with beasts, grow fruits/herbs, spices.</p></li><li><p><strong>Vault:</strong> Climb, leap, dodge, tumble.</p></li><li><p><strong>Wavewalk:</strong> Brachiate, swing, navigate the wilds.</p></li></ul></div><div><h1 class=\"text-purple\">Languages</h1><p><em>Use to make friends, impress others, gain extra info.</em></p><p><strong>Ranks:</strong> 1 Smattering, 2 Knowledge, 3 Fluency</p><ul><li><p><strong>Low Sour:</strong> Mongrel (common).</p></li><li><p><strong>Chthonic:</strong> Ancient (human).</p></li><li><p><strong>Saprekk:</strong> Thick, rolling (ektus).</p></li><li><p><strong>Gaudimm:</strong> Clicks, twitches, pheromones (gau).</p></li><li><p><strong>Knock:</strong> Hissing, chittering (tzelicrae).</p></li><li><p><strong>Brasstongue:</strong> Clipped, precise (trader).</p></li><li><p><strong>Raka Spit:</strong> Rapid patter (hunters, leviathaneers).</p></li><li><p><strong>Lyre-Bite:</strong> Lilting (poets, songwriters).</p></li><li><p><strong>Old Hand:</strong> Sign language.</p></li><li><p><strong>Signalling:</strong> Flags, flares, signal lamps (code).</p></li><li><p><strong>Highvin:</strong> Primarily written (pre-verdant ruins).</p></li></ul></div></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "JSirdvNj5fBNsixe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "wildsea",
+        "systemVersion": "0.0.14",
+        "coreVersion": "11.315",
+        "createdTime": 1716848946612,
+        "modifiedTime": 1716853342914,
+        "lastModifiedBy": "JSirdvNj5fBNsixe"
+      },
+      "_key": "!journal.pages!wUKA0LA2rxytNQWV.Twuj3MCcmiUuoVzn"
+    },
+    {
+      "sort": 200000,
+      "name": "Cut, Impact, Mires, Drives",
+      "type": "text",
+      "_id": "giXLX4JNHtOW10pp",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"flexrow\"><div><h1 class=\"text-red\">Cut</h1><p><em>A Cut removes results after the roll, starting with the highest. Used for…</em></p><ul><li><p><strong>Cut for Difficulty:</strong> Firefly lets you know if a roll is particularly difficult.</p></li><li><p><strong>Cut for Precision:</strong> Cut 1 result to aim at a location/part. Declare before roll.</p></li><li><p><strong>Cut for Impact:</strong> Cut for extra Impact. Declare intent before rolling.</p></li></ul><h1 class=\"text-red\">Impact</h1><ul><li><p><strong>Low:</strong> Action is weaker/has less effect, marks less boxes, downgrades power.</p></li><li><p><strong>Normal:</strong> Most actions. Marks one box.</p></li><li><p><strong>High:</strong> More effect/power. Marks an extra box.</p></li><li><p><strong>Massive:</strong> Hugely potent, e.g. ship-scale armament. Marks all boxes in a track.</p></li></ul></div><div><h1 class=\"text-red\">Mires</h1><p><em>Marked in response to events caught in, something forced to do against judgement, or in truly disturbing encounters.</em></p><p>Acting contrary to a Mire automatically Cuts dice equal to the marks on its track.</p><h1 class=\"text-red\">Drives</h1><p><em>Advancing or satisfying a Drive gives a choice of one of…</em></p><ul><li><p>Gain a Whisper</p></li><li><p>Clear a mark of Mire</p></li><li><p>Gain a minor Milestone (once per session only)</p></li><li><p>Gain a major Milestone, remove and replace it (once per session only)</p></li></ul></div></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "JSirdvNj5fBNsixe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "wildsea",
+        "systemVersion": "0.0.14",
+        "coreVersion": "11.315",
+        "createdTime": 1716850913015,
+        "modifiedTime": 1716853383255,
+        "lastModifiedBy": "JSirdvNj5fBNsixe"
+      },
+      "_key": "!journal.pages!wUKA0LA2rxytNQWV.giXLX4JNHtOW10pp"
+    },
+    {
+      "sort": 300000,
+      "name": "Injuries, Damage",
+      "type": "text",
+      "_id": "Do3oGuyJqQYXO95W",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1>Injuries</h1><p><em>Caused by hazards (such as monsters), disease, large amounts of damage, etc. They might:</em></p><ul><li><p>Force a Cut on some actions.</p></li><li><p>Take away a Skill or sense.</p></li><li><p>Add negative effects to actions.</p></li></ul><h2 class=\"text-red\">Track length guidance</h2><ul><li><p><strong>Default:</strong> 3-track. unlikely filled by single action/roll. Short enough that a couple actions will finish it.</p></li><li><p><strong>Reminder:</strong> 1 or 2-track. Likely filled with a single roll/action. An immediate, short term goal/effect.</p></li><li><p><strong>Challenge:</strong> 4+ track. Dominates narrative/focus. Can be difficult or longer-term.</p></li></ul><h1>Damage</h1><h2 class=\"text-red\">Damage Types</h2><ul><li><p><strong>Blunt:</strong> Crushing - stun and break</p></li><li><p><strong>Keen:</strong> Cutting - slice and bleed</p></li><li><p><strong>Spike:</strong> Piercing - penetrate and impale</p></li><li><p><strong>Hewing:</strong> Chopping - split and break</p></li><li><p><strong>Serrated:</strong> Sawing - rip and tear</p></li><li><p><strong>Toxin:</strong> Poison - sicken and confuse</p></li><li><p><strong>Acid:</strong> Corrosive - melt and sear</p></li><li><p><strong>Blast:</strong> Explosive - stun and shatter</p></li><li><p><strong>Volt:</strong> Electrical - shock and paralyze</p></li><li><p><strong>Frost:</strong> Cold - slow and freeze</p></li><li><p><strong>Salt:</strong> Crystalline - dry and banish</p></li><li><p><strong>Flame:</strong> Burning - melt and inspire fear</p></li></ul><h2 class=\"text-red\">Resistance</h2><p>Reduces damage by one mark. Can reduce or eliminate injury.</p><h2 class=\"text-red\">Immunity</h2><p>Is full protection</p><h2 class=\"text-red\">Weakness</h2><p>Increases damage by one mark. Injuries may be more detrimental or last longer.</p><h2 class=\"text-red\">Stacking</h2><ul><li><p>Two <strong>Resistances</strong> to a certain type of damage, count as an <strong>Immunity</strong>.</p></li><li><p><strong>Immunity</strong> and <strong>Weakness</strong> combine as <strong>Resistance</strong>.</p></li><li><p><strong>Weakness</strong> and <strong>Resistance</strong> cancel each other out.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "JSirdvNj5fBNsixe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "wildsea",
+        "systemVersion": "0.1.1",
+        "coreVersion": "11.315",
+        "createdTime": 1716851258045,
+        "modifiedTime": 1717018946248,
+        "lastModifiedBy": "aS0Hz7mm2G2rWqqt"
+      },
+      "_key": "!journal.pages!wUKA0LA2rxytNQWV.Do3oGuyJqQYXO95W"
+    },
+    {
+      "sort": 400000,
+      "name": "Action Rolls",
+      "type": "text",
+      "_id": "dDVp9Zp3iMNp03JQ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table class=\"center middle\"><thead><tr><th><h3 class=\"text-white upcase\">Edge</h3></th><th><h3 class=\"text-white upcase\">Skill/Language</h3></th><th><h3 class=\"text-white upcase\">Advantage</h3></th><th class=\"left\"><p><em>Pieces of the environment, resources, aspects, favourable situations, and helpful assistance.</em></p></th></tr></thead><tbody><tr><td><h3 class=\"text-green\">1d6</h3></td><td><p>Up to</p><h3 class=\"text-green\">3d6</h3></td><td><p>Up to</p><h3 class=\"text-green\">2d6</h3></td><td class=\"left\" rowspan=\"2\"><h4 class=\"text-green\">Reading the Dice</h4><p>Use the highest single die and note if you have Doubles. Triples or above only count as Doubles.</p><h4 class=\"text-green\">Helping Hands</h4><p>Two crewmembers working together on the same task choose which provide the edges, advantages or skill ranks. Both are affected by any negatives that result.</p></td></tr><tr><td colspan=\"3\"><p><em>If you have nothing to draw from, roll 1d6 and count Triumph results as Conflicts instead.</em></p></td></tr></tbody></table><p></p><table class=\"center\"><thead><tr><td><h2>Action Results</h2></td><td><h2>6</h2><h3>Triumph</h3></td><td><h2>5 or 4</h2><h3>Conflict</h3></td><td><h2>3, 2 or 1</h2><h3>Disaster</h3></td><td><h2 class=\"upcase\">Doubles</h2><h3>Twist</h3></td></tr></thead><tbody><tr><td><p></p></td><td><p>Complete success, no drawbacks. Mark/clear a box on a track.</p></td><td><p>Success with a drawback. Usually marks/clears a box.</p></td><td><p>Failure and narrative complication or drawback. Usually doesn't mark/clear a box.</p></td><td><p>Adds a small, potentially useful twist, suggested by any player. Firefly has final say.</p></td></tr><tr><td><h2 class=\"text-green left\">Attack</h2></td><td><p>Does damage plus possible effect</p></td><td><p>Does damage plus maybe effect Also suffers some damage, an effect, loses a resource, or ends in worse position.</p></td><td><p>Misses/does no damage. Also suffers downside like Conflict results.</p></td><td><p>Critical hit which increases impact.</p></td></tr><tr><td><h2 class=\"text-green left\">Defense</h2></td><td><p>Avoids threat completely</p></td><td><p>Avoids the worst. Also suffers downside like Attack above.</p></td><td><p>Takes damage plus likely downside as per Conflict results.</p></td><td><p>Counter does mark of damage to foe (if in range).</p></td></tr><tr><td><h2 class=\"text-green left\">Acquisition</h2></td><td><p>Gains solid untainted resource</p></td><td><p>Gain resource with a negative tag.</p></td><td><p>Resource not found/ruined during collection.</p></td><td><p>Gain resource with unique/positive tag.</p></td></tr><tr><td><h2 class=\"text-green left\">Creation</h2></td><td><p>Recipient gains temporary related benefit</p></td><td><p>Provides temp. 2-track aspect with downsides or one with no downside that doesn't quite work as intended.</p></td><td><p>Creation has no benefits but might be ornament/culinary curiosity.</p></td><td><p>Has an additional small, unexpected benefit.</p></td></tr><tr><td><h2 class=\"text-green left\">Recovery</h2></td><td><p>Heal two marks of aspect, ship rating, injury track, mire.</p></td><td><p>Heal one mark of aspect, ship rating, injury track, mire.</p></td><td><p>Add extra mark of damage to aspect, ship rating, injury track, mire.</p></td><td><p>Don't consume resource used in recovery.</p></td></tr><tr><td><h2 class=\"text-green left\">Ratings</h2></td><td><p>Bypass obstacle safely.</p></td><td><p>Bypass obstacle but mark 1 Rating damage.</p></td><td><p>Fail to bypass obstacle and mark 1 Rating damage.</p></td><td><p>Unexpected event.</p></td></tr><tr><td><h2 class=\"text-green left\">Watch</h2></td><td><h4>Peace</h4><p>Montage, Meeting, Tall Tale (gain a Whisper), Tree Shanty, Undercrew Issue, Reflection (heal Mire)</p></td><td><h4>Order</h4><p>Nearby Ship, Outpost, Survivor Needing Rescue, Wreck or Ruin, Cache of Cargo/Supplies, Conspiracy.</p></td><td><h4>Nature</h4><p>Weather, Natural Feature, Wonder (heal Mire), Horror, Unsettled Landfall, True Wilds.</p></td><td><p></p></td></tr><tr><td><h2 class=\"text-green left\">Weather-Watching</h2></td><td><h4>Clear Skies</h4><p>Weather clears</p></td><td><h4>Continuation</h4><p>Weather continues as it is.</p></td><td><h4>A Change For the Worse</h4><p>Driving rain/hail (lowers visibility), blazing sunshine (potential heatstroke), living storm or bizarre weather phenomenon.</p></td><td><p style=\"text-align:center\"></p></td></tr></tbody></table>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "JSirdvNj5fBNsixe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "wildsea",
+        "systemVersion": "0.1.1",
+        "coreVersion": "11.315",
+        "createdTime": 1716851735807,
+        "modifiedTime": 1717440563967,
+        "lastModifiedBy": "JSirdvNj5fBNsixe"
+      },
+      "_key": "!journal.pages!wUKA0LA2rxytNQWV.dDVp9Zp3iMNp03JQ"
+    },
+    {
+      "sort": 500000,
+      "name": "Montages",
+      "type": "text",
+      "_id": "76Iw9zb381Pi4m5W",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2 class=\"text-yellow\">Acquisition</h2><p><em>Acquires Resources in appropriate areas with three approaches. Use the </em><strong>Acquisition Results</strong><em> table.</em></p><ul><li><p><strong>Savenging:</strong> Salvage</p></li><li><p><strong>Hunting:</strong> Specimens</p></li><li><p><strong>Gathering:</strong> Specimens</p></li></ul><h3 class=\"text-yellow\">Resource Types and Tags</h3><h4>Specimen</h4><ul><li><p><strong>Pure/Medicinal:</strong> Heals extra mark.</p></li><li><p><strong>Heirloom:</strong> Has far more worth.</p></li><li><p><strong>Rotten:</strong> Makes you sick if you eat it.</p></li></ul><h4>Salvage</h4><ul><li><p><strong>Sturdy:</strong> Repairs extra damage mark.</p></li><li><p><strong>Ornate:</strong> Has far more worth</p></li><li><p><strong>Broken:</strong> Almost useless.</p></li></ul><h4>Whisper</h4><ul><li><p><strong>Echoing:</strong> Use twice before fading.</p></li><li><p><strong>Hungry:</strong> Removes an element of the world, rather than adding one.</p></li></ul><h4>Chart</h4><ul><li><p><strong>Faded:</strong> Almost impossible to read</p></li></ul><h4>Any</h4><ul><li><p><strong>Pre-Verdant:</strong> Ancient.</p></li></ul><h2 class=\"text-yellow\">Recovery</h2><p><em>Each option requires a resource of appropriate environment (the Resource can be spent and automatically take the Conflict result if desired). Uses the </em><strong>Recovery</strong><em> table.</em></p><ul><li><p><strong>Healing:</strong> Requires an appropriate Specimen. Clears marks from Traits or animals.</p></li><li><p><strong>Repairing:</strong> Requires appropriate Salvage. Clears marks from Gear or mechanicals.</p></li><li><p><strong>Relaxing:</strong> Requires an appropriate Whisper. Clears marks from Mires.</p></li></ul><h2 class=\"text-yellow\">Creation</h2><p><em>Combines Resources to create temporary Aspects. Each temporary Aspect has a name, track, useful ability and is used up forever when filled. Uses the </em><strong>Creation Roll Results</strong><em> table.</em></p><ul><li><p><strong>Concocting:</strong> Requires 2 resources of any type. Makes a related potion.</p></li><li><p><strong>Cooking:</strong> Requires 2 Specimens. Makes a full meal with related property.</p></li><li><p><strong>Crafting:</strong> Requires 2 Salvage. Makes a piece of useful temporary Gear.</p></li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "JSirdvNj5fBNsixe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "wildsea",
+        "systemVersion": "0.1.1",
+        "coreVersion": "11.315",
+        "createdTime": 1716852555668,
+        "modifiedTime": 1717442705863,
+        "lastModifiedBy": "JSirdvNj5fBNsixe"
+      },
+      "_key": "!journal.pages!wUKA0LA2rxytNQWV.76Iw9zb381Pi4m5W"
+    },
+    {
+      "sort": 600000,
+      "name": "Journeys",
+      "type": "text",
+      "_id": "4LSesKg8xIAnl2JE",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2 class=\"text-sky\">I. Departure</h2><p>Set destination. <em>Choose an option to run:</em></p><ul><li><p>Montage</p></li><li><p>Scene</p></li><li><p>Checklist of preparations</p></li></ul><h2 class=\"text-sky\">II. Progress &amp; Encounters</h2><p>Crewmembers can take turns <strong>At the Helm</strong> and <strong>On Watch</strong>.</p><p>Boxes marked on Firefly's secret tracks for <strong>Progress</strong>, <strong>Risk</strong>, <strong>Pathfinding</strong> (if someone is @UUID[.4LSesKg8xIAnl2JE#cartographizing]{Cartographizing}) and <strong>Riot</strong> (if poor leadership, treatment or danger risks mutiny).</p><ul><li><p>Filling <strong>Progress</strong> track ends journey.</p></li><li><p>Filling <strong>Risk</strong> track means encountering powerful foe/threat</p></li><li><p>Filling <strong>Pathfinding</strong> track provides the cartographer with relevant Chart</p></li><li><p>Filling <strong>Riot</strong> track results in potential mutiny.</p></li></ul><h3 class=\"text-sky\">At the Helm</h3><p><em>Choose an option:</em></p><p><strong>Cut a Path:</strong> Travel at decent speed, safely. mark a single Progress box. When Watch Roll is made, choose to Encounter or steer clear easily.</p><p><strong>Forge Ahead:</strong> Swift but rough passage. Mark 2 Progress boxes. When Watch Roll is made, ship usually blunders into encounter or avoids it with damage.</p><p><strong>Drop Anchor:</strong> Stop to rest, no Progress, little fear of interruption. Undercrew take watch, crew can take a @UUID[.76Iw9zb381Pi4m5W]{Montage}.</p><p><strong>Challenging Terrain:</strong> Can force a Ratings Roll to progress.</p><h3 class=\"text-sky\">On Watch</h3><p><em>Choose an option:</em></p><p><strong>Make a Discovery:</strong> Choose a Chart, add a Whisper, interpret. Both are then lost.</p><p><strong>Make a random roll</strong> on Watch Roll Results.</p><h4>Threat</h4><p>Firefly secretly rolls 1d6 (2d6, take highest if crew has Chart of area) to determine Threat level of Encounters:</p><ul><li><p><strong>6:</strong> danger-free opportunity;</p></li><li><p><strong>5 or 4:</strong> hazardous encounter with useful pay-off;</p></li><li><p><strong>3, 2 or 1:</strong> immediate danger with little pay=off.</p></li></ul><p>Firefly usually gives clues to the level of any threat.</p><h3 class=\"text-sky\">Tending the Engine</h3><p><em>Choose an option:</em></p><p><strong>Tend to the Engine:</strong> Immediately hijack focus if there are any problems relating to the engine to attempt an instant fix/bypass.</p><p><strong>Overload the Engine:</strong> Uses a resource suitable for fuel. Increase impact on a roll to take advantage of the ship's temporary power/speed, or mark additional box on journey track.</p><p><strong>Muffle the Engine:</strong> Uses a soft, muffling resource. Increase impact on a roll taking advantage of the ships quieter profile, or stealthily leave an area without making a roll (if not already spotted).</p><h3 class=\"text-sky\">Cartographizing</h3><p>Slowly create chart of the area being travelled - mark the Firefly's Pathfinding track every time an important landmark is found. When the track is fully marked, gain a chart.</p><h3 class=\"text-sky\">Engaging an Encounter</h3><p><strong>Choice:</strong> The crew chooses from options provided by the Firefly.</p><p><strong>Challenge:</strong> A thread to the ship. Player At the Helm may need to make Ratings Rolls.</p><p><strong>Scene Encounter:</strong> Usually when the players leave the ship.</p><h3 class=\"text-sky\">Watching the Weather</h3><p>Roll 1d6 on Weather-Watching Results.</p><h2 class=\"text-sky\">III. Arrival</h2><p>Arrival at the final destination when the Progress track is complete.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "JSirdvNj5fBNsixe": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "wildsea",
+        "systemVersion": "0.1.1",
+        "coreVersion": "11.315",
+        "createdTime": 1717441999633,
+        "modifiedTime": 1717442792872,
+        "lastModifiedBy": "JSirdvNj5fBNsixe"
+      },
+      "_key": "!journal.pages!wUKA0LA2rxytNQWV.4LSesKg8xIAnl2JE"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716848934611,
+    "modifiedTime": 1717442792872,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "categories": [],
+  "_key": "!journal!wUKA0LA2rxytNQWV"
+}

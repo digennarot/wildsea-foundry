@@ -1,0 +1,33 @@
+{
+  "name": "Padded Boilersuit",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You’re resistant to three damage types, chosen from the following list: Blunt, Spike, Hewing, Blast, Volt.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "ih0uSrXFUqEHFx63",
+  "_id": "PgMpGBC02DNd88xp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369113,
+    "modifiedTime": 1716738369113,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!PgMpGBC02DNd88xp"
+}

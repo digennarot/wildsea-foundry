@@ -1,0 +1,18 @@
+{
+  "name": "Garden Armament",
+  "type": "Item",
+  "_id": "LOIaoA77cezP6784",
+  "folder": "ONZ3rI1PNwrvlTdE",
+  "sorting": "a",
+  "sort": 500000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846921,
+    "modifiedTime": 1716641846921,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!LOIaoA77cezP6784"
+}

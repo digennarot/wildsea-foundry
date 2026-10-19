@@ -1,0 +1,34 @@
+{
+  "name": "Catalyst Jets",
+  "type": "fitting",
+  "system": {
+    "details": "<p>The mechanics behind these are simple, but the chemicals and hull reinforcements required are anything but. Known for venting scalding exhaust in their wake.</p><p>Takeoff Cost: Seals\nFlight Style: Rush, Soar\nCan deal massive CQ Flame or Acid damage, but without the chance of fire spreading.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 7,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "GdSeDxUzGvoScDTF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849083,
+    "modifiedTime": 1716846529606,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!GdSeDxUzGvoScDTF"
+}

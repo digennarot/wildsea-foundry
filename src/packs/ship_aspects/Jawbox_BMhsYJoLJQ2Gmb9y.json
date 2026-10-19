@@ -1,0 +1,49 @@
+{
+  "name": "Jawbox",
+  "type": "design",
+  "system": {
+    "details": "<p>Noisy, wood-fuelled engines that create huge clouds of smoke and dust but with minimum chance of flame.</p><p>Fuelled with wildsea wood.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "Y0MwTFoo2ICPPbuc"
+      },
+      {
+        "rating": "saws",
+        "value": 1,
+        "id": "kwUPgzb13vaf82aX"
+      },
+      {
+        "rating": "stealth",
+        "value": -1,
+        "id": "U71u6x0Bte0aneLd"
+      }
+    ],
+    "stakes": 1,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "BMhsYJoLJQ2Gmb9y",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844248,
+    "modifiedTime": 1716846529279,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!BMhsYJoLJQ2Gmb9y"
+}

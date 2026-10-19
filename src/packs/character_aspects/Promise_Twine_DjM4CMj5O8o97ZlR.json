@@ -1,0 +1,33 @@
+{
+  "name": "Promise-Twine",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When a resource you're trying to deliver would be destroyed or lost it degrades instead, gaining a negative tag (if it already has a negative tag, it is consumed as normal).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "CL3VRF7TPkNPi7qk",
+  "_id": "DjM4CMj5O8o97ZlR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373439,
+    "modifiedTime": 1716738373439,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!DjM4CMj5O8o97ZlR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Rust-Roaches",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Automatically acquire one normal piece of salvage when you dock at port.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Insect Packs"
+  },
+  "folder": "ExpDDuGQEfEmOfOw",
+  "_id": "Oz8vPOYburMZlsYV",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641947577,
+    "modifiedTime": 1716641947577,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Oz8vPOYburMZlsYV"
+}

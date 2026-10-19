@@ -1,0 +1,34 @@
+{
+  "name": "Tinted Lounge",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Tinted amber-glass windows allow occupents to see out, but expensive mirrored finish prevents anyone from seeing in. Perfect for clandestine meetings, and for avoiding prying eyes.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Airborne Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "H2w7aTU8r6hK7UUp",
+  "_id": "JFNFKS5PKoYNszoS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845664,
+    "modifiedTime": 1717440157298,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!JFNFKS5PKoYNszoS"
+}

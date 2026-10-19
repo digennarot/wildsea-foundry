@@ -1,0 +1,39 @@
+{
+  "name": "Square Sail",
+  "type": "design",
+  "system": {
+    "details": "<p>Taut canvas that relies on a strong breeze, this design harks back to an age of calm, clear waters.</p><p>Only effective in favourable winds.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "yTCjtlg3rbuvcjjR"
+      }
+    ],
+    "stakes": 1,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "UHr2PTFQBDOtL7pu",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844032,
+    "modifiedTime": 1716846530342,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!UHr2PTFQBDOtL7pu"
+}

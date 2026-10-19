@@ -1,0 +1,33 @@
+{
+  "name": "Hekamek Tentacles",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Seem to act on a will that's almost entirely their own. Mark to activate the tentacles for the duration of a scene, allowing the manipulation of multiple objects at once, granting CQ Spike damage, and conferring the Float, Hover, and Flap styles within the vicinity of the thrash and tangle.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "NdFfQSHOSwV1dTQq",
+  "_id": "NKQYYShRpmHRq0dD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738390244,
+    "modifiedTime": 1716738390244,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NKQYYShRpmHRq0dD"
+}

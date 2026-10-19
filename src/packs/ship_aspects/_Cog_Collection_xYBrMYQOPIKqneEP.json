@@ -1,0 +1,34 @@
+{
+  "name": "+Cog Collection",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Though not particularly sharp, the speed at which they travel lends an unexpected edge. Deals massive LR Serrated damage.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Torpedo Charge",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lzvKcoI4gkOaDxBf",
+  "_id": "xYBrMYQOPIKqneEP",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847174,
+    "modifiedTime": 1717440165584,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!xYBrMYQOPIKqneEP"
+}

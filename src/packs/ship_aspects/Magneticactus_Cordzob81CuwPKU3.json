@@ -1,0 +1,34 @@
+{
+  "name": "Magneticactus",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Technically it's only the spines that are used, drilled into the outer sections of a ship where they can resonate with magnetic fields. Attaching them to the outer hull correctly is a challenge in and of itself.</p><p>Takeoff Cost: Speed\nFlight Style: Float, Hover, Soar</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 6,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "Cordzob81CuwPKU3",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848882,
+    "modifiedTime": 1716846529337,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Cordzob81CuwPKU3"
+}

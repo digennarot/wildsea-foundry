@@ -1,0 +1,33 @@
+{
+  "name": "Flash of Insight",
+  "type": "aspect",
+  "system": {
+    "details": "<p>In moments of crisis, you see what happens a fraction of a second before it takes place. Mark mire to ignore the results of a roll. Take a new approach and re-roll.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "NBi5spDJ0DCWYyAI",
+  "_id": "wtfVsltDm9v5Xplx",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381795,
+    "modifiedTime": 1716738381795,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wtfVsltDm9v5Xplx"
+}

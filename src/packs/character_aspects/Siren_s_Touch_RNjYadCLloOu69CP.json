@@ -1,0 +1,33 @@
+{
+  "name": "Siren's Touch",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You've come back from the brink, but are forever changed by the depths. When you gain this aspect choose two benefits:<ul><li><b>New Maw</b> - You sport a new mouth with gnashing teeth, in an unusual place. You can deal CQ Spike damage and are immune to the effects of ingested crezzerin,</li><li><b>Flesh Petals</b> - Not the most wholesome form of defence, but effective. You gain resistance to all types of damage dealt by hazards native to the sink and drown,</li><li><b>One With The Suit</b> - The diving suit you wore has melded with the rest of your body. You are immune to Blast damage, and resist the effects of bad air,</li><li><b>Overgrowth</b> - Your body has split, bulked out, and lengthened in unusual ways. Ignore cut on actions taken to move through the underthrash, and treat all CQ damage types you can deal as if they were CQ or LR.</li></ul><br>Choose one drawback:<ul><li><b>Sun-Shy</b> - You're weak to all types of damage when in direct sunlight,</li><li><b>Bulked Up</b> - Cut when attempting movement-based actions requiring stealth or precision,</li><li><b>Drawn to the Dark</b> - Whenever you or a member of your crew gets the Nature result from a watch roll, the Firefly makes two threat rolls and takes the worse outcome as the result.</li></ul></p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Complex Trait"
+  },
+  "folder": "gQkTzhtvitSoMKNH",
+  "_id": "RNjYadCLloOu69CP",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738390457,
+    "modifiedTime": 1716738390457,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!RNjYadCLloOu69CP"
+}

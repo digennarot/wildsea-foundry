@@ -1,0 +1,33 @@
+{
+  "name": "Fungal Filaments",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can see perfectly in darkness or dim light, and in utter darkness you increase impact on any actions taken to discern the properties of your surroundings.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "ps0nszusyaU4DBYA",
+  "_id": "Bx3bgJqmxcae6avo",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377846,
+    "modifiedTime": 1716738377846,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Bx3bgJqmxcae6avo"
+}

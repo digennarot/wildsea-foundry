@@ -1,0 +1,34 @@
+{
+  "name": "Scraps of Cloth",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Really? That's what you're going with?</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 0,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "yIq4XoLAhMs6Frgd",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847407,
+    "modifiedTime": 1717440165755,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!yIq4XoLAhMs6Frgd"
+}

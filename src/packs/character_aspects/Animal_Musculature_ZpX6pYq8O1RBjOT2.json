@@ -1,0 +1,33 @@
+{
+  "name": "Animal Musculature",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You're build for speed, a rarity among bipeds on the waves. Treat conflicts as triumphs when attempting to flee, chase, or outspeed while on foot, and ignore cut in these situations as well.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "Ta57ZcWtgS1Ap6LV",
+  "_id": "ZpX6pYq8O1RBjOT2",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738388215,
+    "modifiedTime": 1716738388215,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ZpX6pYq8O1RBjOT2"
+}

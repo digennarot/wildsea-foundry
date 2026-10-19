@@ -1,0 +1,39 @@
+{
+  "name": "Beast-Reins",
+  "type": "design",
+  "system": {
+    "details": "<p>An arrangement similar to a leash or yoke, allowing well-trained beasts to pull the ship like a chariot.</p><p>When you choose beast-reins, decide what kind of beasts they hold (giant centipedes are a\nsolid choice).\n\nA ship with beast-reins doesn’t require an engine choice from the next section, but the beasts\nthemselves do require care, feeding, and sleep.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "Se8mQWd0ig4XoeqR"
+      }
+    ],
+    "stakes": 1,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "x7eUZffhYSpXDXIr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844078,
+    "modifiedTime": 1716846531872,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!x7eUZffhYSpXDXIr"
+}

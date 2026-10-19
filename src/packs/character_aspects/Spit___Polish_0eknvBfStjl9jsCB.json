@@ -1,0 +1,33 @@
+{
+  "name": "Spit & Polish",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task to remove a negative tag (such as rusted or broken) from any piece of salvage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 3
+    },
+    "type": "Trait"
+  },
+  "folder": "3egAjc7v4NcSQXsV",
+  "_id": "0eknvBfStjl9jsCB",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367378,
+    "modifiedTime": 1716739954168,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!0eknvBfStjl9jsCB"
+}

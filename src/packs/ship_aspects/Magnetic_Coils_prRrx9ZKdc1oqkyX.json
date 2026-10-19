@@ -1,0 +1,44 @@
+{
+  "name": "Magnetic Coils",
+  "type": "design",
+  "system": {
+    "details": "<p>Spinning cylinders that, ideally, maintain a state of almost perpetual motion.</p><p>Fuelled with magnetic scrap.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "KXQhCyWaWqMG9J19"
+      },
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "wL0bAbcCxPLjTl2v"
+      }
+    ],
+    "stakes": 2,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "prRrx9ZKdc1oqkyX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844266,
+    "modifiedTime": 1716846531534,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!prRrx9ZKdc1oqkyX"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Singed Coat",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You’re resistant to three damage types, chosen from the following list: Frost, Flame, Salt, Blast, Volt.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "vukXwNeZIk3SBQw9",
+  "_id": "TCtRPEKNFMy7rlic",
+  "effects": [],
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373122,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TCtRPEKNFMy7rlic"
+}

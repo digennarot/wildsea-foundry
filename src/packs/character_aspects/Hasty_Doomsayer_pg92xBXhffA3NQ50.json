@@ -1,0 +1,33 @@
+{
+  "name": "Hasty Doomsayer",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once per scene, you may mark mire to hijack focus. Treat triumphs as conflicts for any action taken with this hijacked focus.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "xn2LxujzReWaL31I",
+  "_id": "pg92xBXhffA3NQ50",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385798,
+    "modifiedTime": 1716738385798,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!pg92xBXhffA3NQ50"
+}

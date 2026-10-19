@@ -1,0 +1,34 @@
+{
+  "name": "Signal Mirrors",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A method of long-distance communication using an array of spinning mirrors attached to a refurbished ordinator. Can be controlled from the pilot's station or the mirrors themselves.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "lfc7ERcvmgFIb6xI",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845390,
+    "modifiedTime": 1717440163242,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!lfc7ERcvmgFIb6xI"
+}

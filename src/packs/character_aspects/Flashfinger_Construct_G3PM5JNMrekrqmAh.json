@@ -1,0 +1,33 @@
+{
+  "name": "Flashfinger Construct",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A mobile hand pieced together from old roster sheets, engine bolts and secrecy. Treat disasters as conflicts when pickpocketing, stealing, or using sleight of hand.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "XnW2irY0J38BQVsk",
+  "_id": "G3PM5JNMrekrqmAh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381560,
+    "modifiedTime": 1716738381560,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!G3PM5JNMrekrqmAh"
+}

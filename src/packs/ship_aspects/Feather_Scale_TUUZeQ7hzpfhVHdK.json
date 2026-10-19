@@ -1,0 +1,39 @@
+{
+  "name": "Feather-Scale",
+  "type": "design",
+  "system": {
+    "details": "<p>Interlocking feathers tightly thatched together, capable of flexing with and adapting to the wind but still sturdy and resistant to outer damage.</p><p>Increase impact when performing aerial manoeuvres</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "XoSEtN5w3dC1rdKN"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "TUUZeQ7hzpfhVHdK",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843896,
+    "modifiedTime": 1716846530288,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TUUZeQ7hzpfhVHdK"
+}

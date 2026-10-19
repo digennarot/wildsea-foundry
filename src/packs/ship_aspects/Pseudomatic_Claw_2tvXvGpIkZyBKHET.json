@@ -1,0 +1,35 @@
+{
+  "name": "Pseudomatic Claw",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>An ensouled machine, similar to an ironbound. It acts as a floating cargo crane, able to drift from place to place with spiritual energy.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Rising Beast Packs"
+  },
+  "folder": "6PnLSvXQmqXadRum",
+  "_id": "2tvXvGpIkZyBKHET",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641948177,
+    "modifiedTime": 1716641948177,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2tvXvGpIkZyBKHET"
+}

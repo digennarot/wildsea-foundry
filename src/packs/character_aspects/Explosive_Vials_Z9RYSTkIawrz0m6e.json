@@ -1,0 +1,33 @@
+{
+  "name": "Explosive Vials",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Not an endless supply, but potent and disorienting. Mark to deal LR blast, salt, acid or toxin damage to multiple nearby foes.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "d0eAANjerm3NpV13",
+  "_id": "Z9RYSTkIawrz0m6e",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368269,
+    "modifiedTime": 1716738368269,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Z9RYSTkIawrz0m6e"
+}

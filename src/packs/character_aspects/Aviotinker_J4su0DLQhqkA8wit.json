@@ -1,0 +1,33 @@
+{
+  "name": "Aviotinker",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task to add a takeoff or flight style of your choice to any aspect, belonging to your or a companion, that already has a style of some kind. This addition lasts until replaced by another using Aviotinker, but a character can only benefit from one of these additions at a time.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Trait"
+  },
+  "folder": "xEpBRsEDz8BfiZ7N",
+  "_id": "J4su0DLQhqkA8wit",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383573,
+    "modifiedTime": 1716738383573,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!J4su0DLQhqkA8wit"
+}

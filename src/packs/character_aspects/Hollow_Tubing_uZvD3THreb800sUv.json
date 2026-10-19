@@ -1,0 +1,33 @@
+{
+  "name": "Hollow Tubing",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Part of your form is crafted from hollow tubing filled with pressurized lighter-than-air gas, making you far less heavy than usual. Increase impact on actions taken to leap, and to move deftly or perform aerial stunts while flying.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "Sx9FIifm4anpj3Ak",
+  "_id": "uZvD3THreb800sUv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376995,
+    "modifiedTime": 1716738376995,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!uZvD3THreb800sUv"
+}

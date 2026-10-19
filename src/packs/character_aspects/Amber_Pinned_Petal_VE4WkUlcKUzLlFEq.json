@@ -1,0 +1,33 @@
+{
+  "name": "Amber-Pinned Petal",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your sight is reliable, even under the greatest stresses. Ignore mesmeric and perception-altering effects from Pressure or Scrutiny.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 4
+    },
+    "type": "Gear"
+  },
+  "folder": "e0gIvFMHONQKfDae",
+  "_id": "VE4WkUlcKUzLlFEq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376924,
+    "modifiedTime": 1716738675509,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!VE4WkUlcKUzLlFEq"
+}

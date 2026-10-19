@@ -1,0 +1,34 @@
+{
+  "name": "Ground Whispers",
+  "type": "fitting",
+  "system": {
+    "details": "<p>When any member of the crew furthers or satisfies a drive, mark the tracks of all plants sown in ground whispers. That is the only way to mark the tracks of such plants.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gardening Mediums",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "ARe4ct5RrbrdmAiZ",
+  "_id": "HikOh0qWMtqzgdXg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850815,
+    "modifiedTime": 1717440157020,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HikOh0qWMtqzgdXg"
+}

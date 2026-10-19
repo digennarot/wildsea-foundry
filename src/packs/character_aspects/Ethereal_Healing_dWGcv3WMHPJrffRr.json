@@ -1,0 +1,33 @@
+{
+  "name": "Ethereal Healing",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When being healed or having your gear repaired, resources used are not consumed as normal - instead they degrade, giving them a negative tag (if they already have a negative tag, they’re consumed as normal).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "o5mIWo8rTndfxvDf",
+  "_id": "dWGcv3WMHPJrffRr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366375,
+    "modifiedTime": 1716738366375,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!dWGcv3WMHPJrffRr"
+}

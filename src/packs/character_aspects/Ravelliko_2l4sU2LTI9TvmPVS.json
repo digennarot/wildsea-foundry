@@ -1,0 +1,33 @@
+{
+  "name": "Ravelliko",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A writhing bundle of living fabric that wears you as much as you wear it. It gains two of the following benefits:<ul><li><b>Words in Thread</b> - The Ravelliko can rapidly stitch writing across itself to communicate in any language you speak,</li><li><b>Crawlscarf</b> - The Ravelliko holds you just above the ground, moving you around with a silent, silken step,</li><li><b>Unpick</b> - Use a task to gain a resource, Fine Thread or Coarse Fabric,</li><li><b>Spirit of Silk</b> - Deals CQ or LR Salt damage,</li><li><b> Sewed Edging</b> - Deals CQ or LR Keen damage,</li><li><b>Living Dye</b> - The Ravelliko's colours swirl in vibrant, mesmeric, or camouflaging patterns,</li><li><b>Catchsail</b> - Your Ravelliko can catch the winds - mark to gain the Rush and Glide styles until end of scene.</li></ul></p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Complex Companion"
+  },
+  "folder": "wCwUweeQGfzhDnc7",
+  "_id": "2l4sU2LTI9TvmPVS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375747,
+    "modifiedTime": 1716738375747,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2l4sU2LTI9TvmPVS"
+}

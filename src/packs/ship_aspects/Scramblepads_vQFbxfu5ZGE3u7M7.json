@@ -1,0 +1,39 @@
+{
+  "name": "Scramblepads",
+  "type": "design",
+  "system": {
+    "details": "<p>Modeled after an ionjaw ray's flippers, these paddle-shaped pinions work as oars on the treetop sea and directional fins when a ship is airborne.</p><p>Deals massive CQ Blunt damage.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "tilt",
+        "value": 2,
+        "id": "3NeusFmklC0sP0Ly"
+      }
+    ],
+    "stakes": 2,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "vQFbxfu5ZGE3u7M7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844185,
+    "modifiedTime": 1716846531828,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!vQFbxfu5ZGE3u7M7"
+}

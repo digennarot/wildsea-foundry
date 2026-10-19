@@ -1,0 +1,33 @@
+{
+  "name": "Ireful Pitchfork",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Deals CQ Spike damage, and increase impact on actions taken to defend against or fend off hazards that would threaten the integrity of ship-borne plants.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "FF53pOPhLJLWvOWq",
+  "_id": "Dm9os8cmM0NkGWNt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738379212,
+    "modifiedTime": 1716738379212,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Dm9os8cmM0NkGWNt"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Mangrove Cutting",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Grisly remains harvested from a particular underthrash tree, avoided by undercrew whenever they can help it.  Whenever the Pressure Level increases, make a d6 fortune roll. On a 4, 5, or 6, gain a whisper.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Delving Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "YxdjsM89Zp9FEuHO",
+  "_id": "5ZnZXifoCbw8p9e6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845105,
+    "modifiedTime": 1717440155001,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!5ZnZXifoCbw8p9e6"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Flexing Canvas",
+  "type": "design",
+  "system": {
+    "details": "<p>A sheet of old airship canvas mingled with restless whispers, tied to springs and pulleys to take advantage of its constant but erratic movement.</p><p>Fuelled with the dropped syllables of the crew's mumbled secrets</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "rDgXz9lh71YjN481"
+      },
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "EZHT8L14rQ1V7pv3"
+      }
+    ],
+    "stakes": 2,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "B0oXo2pTfdOvfjcn",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844357,
+    "modifiedTime": 1716846529263,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!B0oXo2pTfdOvfjcn"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Climbing Hooks",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Attached to a harness or embedded in your gelatinous flesh. Ignore cut while climbing, as long as you're moving with care.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "CvWCu9pyrTE8TAX6",
+  "_id": "wJAL4vz3k8u2dygq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365449,
+    "modifiedTime": 1716738365449,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wJAL4vz3k8u2dygq"
+}

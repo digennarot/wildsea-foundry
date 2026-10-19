@@ -1,0 +1,34 @@
+{
+  "name": "Winch-Claws",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A bank of short-range grappling claws on the sides of your ship, used to draw enemy vessels close for boarding. A tool to aid in close-range encounters rather than a weapon in its own right.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Hull Weapons",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FZID3L8foJSIBFSo",
+  "_id": "ZgHrUz2KiX4MJndT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846347,
+    "modifiedTime": 1717440160335,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ZgHrUz2KiX4MJndT"
+}

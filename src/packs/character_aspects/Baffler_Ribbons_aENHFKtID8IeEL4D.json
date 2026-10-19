@@ -1,0 +1,33 @@
+{
+  "name": "Baffler Ribbons",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When you make a roll that's cut for Scrutiny, you treat cut results of 3, 2, or 1 as a 4.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "4TMX7VPZOXpPjmkx",
+  "_id": "aENHFKtID8IeEL4D",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377402,
+    "modifiedTime": 1716738377402,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!aENHFKtID8IeEL4D"
+}

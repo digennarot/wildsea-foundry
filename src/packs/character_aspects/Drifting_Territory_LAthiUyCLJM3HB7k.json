@@ -1,0 +1,33 @@
+{
+  "name": "Drifting Territory",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your own spores drift wide, acting as a benevolent barrier to more invasive types. The interior of any ship you crew resists drifting spores while you're on board.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "AJSvCuKqWgIqGu6z",
+  "_id": "LAthiUyCLJM3HB7k",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376958,
+    "modifiedTime": 1716738376958,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!LAthiUyCLJM3HB7k"
+}

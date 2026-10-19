@@ -1,0 +1,35 @@
+{
+  "name": "Tinker Troupe",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>A single crewmember can repair a mark from any gear when you drop anchor.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gangs"
+  },
+  "folder": "bohur6nToV4YCbl2",
+  "_id": "4JYvtQXxtjEKt4W2",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946040,
+    "modifiedTime": 1716641946040,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!4JYvtQXxtjEKt4W2"
+}

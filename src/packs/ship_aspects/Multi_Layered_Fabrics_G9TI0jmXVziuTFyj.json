@@ -1,0 +1,40 @@
+{
+  "name": "Multi-Layered Fabrics",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A huge step up from just jamming rags into corners</p><p>Ship interior resists drifting spores</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 1,
+        "id": "4cidmQBVpAsRvuL6"
+      }
+    ],
+    "stakes": 1,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "G9TI0jmXVziuTFyj",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847438,
+    "modifiedTime": 1716846529574,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!G9TI0jmXVziuTFyj"
+}

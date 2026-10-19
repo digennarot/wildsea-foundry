@@ -1,0 +1,34 @@
+{
+  "name": "Hollowtooth Array",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Ringing the ship's deck like they would a leviathan's lower jaw, the gas-filled nature of these fangs does little to quiet the discomforted murmurs of the undercrew.</p><p>Takeoff Cost: Saws\nFlight Style: Float, Rush, Hover, Glide\nReduce cut by one on aerial stunts performed while harried or pursued by an aerial threat.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 6,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "6jGiKG1OOURALp2W",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849021,
+    "modifiedTime": 1716846529041,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!6jGiKG1OOURALp2W"
+}

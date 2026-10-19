@@ -1,0 +1,33 @@
+{
+  "name": "Mutterdust",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your wings vibrate softly, the air around you shimmering with natural dust. This cloud doesn't impede vision, but does allow any individuals within it to communicate silently in any language they know.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "NDAIOnoi7FjztU6H",
+  "_id": "nwpdaxwQxE0c6JKn",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365641,
+    "modifiedTime": 1716738365641,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!nwpdaxwQxE0c6JKn"
+}

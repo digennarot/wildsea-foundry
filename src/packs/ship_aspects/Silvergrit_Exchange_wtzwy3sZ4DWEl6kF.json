@@ -1,0 +1,40 @@
+{
+  "name": "Silvergrit Exchange",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Silvergrit is a tiny particulate substance made from dried sundew stalks, pumped through corridors and out of vents to distract invading insects.</p><p>Ship interior is immune to insect incursions</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "wc0dB8BDgaNVDn7S"
+      }
+    ],
+    "stakes": 2,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "wtzwy3sZ4DWEl6kF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847613,
+    "modifiedTime": 1716846531858,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wtzwy3sZ4DWEl6kF"
+}

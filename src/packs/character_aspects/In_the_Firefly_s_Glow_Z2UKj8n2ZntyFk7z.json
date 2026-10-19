@@ -1,0 +1,33 @@
+{
+  "name": "In the Firefly's Glow",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You know the secret paths of the fireflies. Mark to discover a location without using a chart (once per scene).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "Z6BJC4ANhXMQt75c",
+  "_id": "Z2UKj8n2ZntyFk7z",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370622,
+    "modifiedTime": 1716738370622,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Z2UKj8n2ZntyFk7z"
+}

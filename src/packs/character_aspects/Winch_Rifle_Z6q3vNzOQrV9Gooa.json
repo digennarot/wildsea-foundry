@@ -1,0 +1,33 @@
+{
+  "name": "Winch-Rifle",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A more powerful and direct form of the usual grappling hook. Deals LR Spike damage, and the tethered projectiles can be used to aid in climbing or swinging after being successfully anchored.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "uYZfiumY3FOSitLu",
+  "_id": "Z6q3vNzOQrV9Gooa",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375252,
+    "modifiedTime": 1716738375252,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Z6q3vNzOQrV9Gooa"
+}

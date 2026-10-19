@@ -1,0 +1,45 @@
+{
+  "name": "Seven-Tooth Cogs",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Something about the way these cogs mesh and turn is antithetical to spectral entities, and even anchored and ironbound wildsailors tend to feel queasy around them.</p><p>Ship interior resists wandering spirits</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "V6Dsf5mdvnryPWRr"
+      },
+      {
+        "rating": "depth",
+        "value": 1,
+        "id": "gVYMg9W7edspvKuD"
+      }
+    ],
+    "stakes": 2,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "Cuzb3LXDgsB10HKz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847591,
+    "modifiedTime": 1716846529345,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Cuzb3LXDgsB10HKz"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Stone Eye",
+  "type": "design",
+  "system": {
+    "details": "<p>Is this arconautic, or spiritual? A vessel for whispers, or for something far more ancient? Is this the work of some maddened sculptor, or an artefact from before the verdant world, or perhaps a leftover from an age before even then? And, most critically, did this thing just blink?</p><p>Fuelled with uncomfortable attention.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "Oo8YPNeQJOZODo8R"
+      },
+      {
+        "rating": "saws",
+        "value": 1,
+        "id": "0R0nxKAfeWllwA1K"
+      },
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "LVGW8cKygOSTuHtE"
+      }
+    ],
+    "stakes": 3,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "n8j45BUwBxuRppnv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844374,
+    "modifiedTime": 1716846531366,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!n8j45BUwBxuRppnv"
+}

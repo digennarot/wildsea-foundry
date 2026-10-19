@@ -1,0 +1,34 @@
+{
+  "name": "Helioweaver",
+  "type": "fitting",
+  "system": {
+    "details": "<p>An arconautic marvel that briefly braids and crystallizes sunlight, riding the resulting shimmer like a rail.</p><p>Takeoff Cost: Saws\nFlight Style: Rush, Soar\nOnly functions when the ship is in direct sunlight</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 4,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "rMcdfRA7urrvm6Xe",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848832,
+    "modifiedTime": 1716846531609,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rMcdfRA7urrvm6Xe"
+}

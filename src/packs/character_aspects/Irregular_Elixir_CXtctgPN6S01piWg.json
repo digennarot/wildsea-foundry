@@ -1,0 +1,33 @@
+{
+  "name": "Irregular Elixir",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The search for perfection is a fool's errand. Consuming a specimen and marking mire allows you or a nearby ally to gain a temporary two-track trait from the list below:<ul><li><b>Mutagenic Weapon</b> - Whenever you roll doubles while making a CQ attack, gain the effects of both a combat-based critical and the usual twist,</li><li><b>Wild Form</b> - Choose Stealth, Vault, or Wavewalk. You count as having three ranks in this skill,</li><li><b>Splitting the Iris</b> - Gain the ability to see heat, detect electrical fields, or gain vision covering 360 degrees,</li><li><b>Coarse Covering</b> - Through emerging plates, thick fur, or new-grown spines, this temporary trait gains four boxes rather than the usual two,</li><li><b>Rampancy</b> - You grow a natural weapon that deals CQ Keen damage. You may mark mire to increase your impact when dealing CQ damage.</li></ul></p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Complex Gear"
+  },
+  "folder": "FRBazR9fyxygtup9",
+  "_id": "CXtctgPN6S01piWg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387643,
+    "modifiedTime": 1716738387643,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!CXtctgPN6S01piWg"
+}

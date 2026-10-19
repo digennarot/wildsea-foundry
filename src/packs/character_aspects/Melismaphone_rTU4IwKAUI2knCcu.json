@@ -1,0 +1,33 @@
+{
+  "name": "Melismaphone",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A rickety sound-producing devie with a scratched wax cylinder spinning within it. Whenever a member of the crew rolls peace while on watch, you and your crewmates can each clear a mark of mire.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "ogzQeTAaOAajQsyU",
+  "_id": "rTU4IwKAUI2knCcu",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385973,
+    "modifiedTime": 1716738385973,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rTU4IwKAUI2knCcu"
+}

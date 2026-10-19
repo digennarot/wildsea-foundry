@@ -1,0 +1,34 @@
+{
+  "name": "Dandelion Cluster",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Large, fluffy seed clusters that catch the wind, their roots coaxed into latching around the strongest sections of a ship. While not reliable in terms of timing, these massive dandelion clusters lift a ship with worrying ease.</p><p>Takeoff Cost: None\nFlight Style:: Float, Hover\nYou can only take to the air in favourable wind conditions, or with the aid of thermals.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "9lRKgRZnVLZy8tAz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848909,
+    "modifiedTime": 1716846529206,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!9lRKgRZnVLZy8tAz"
+}

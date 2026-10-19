@@ -1,0 +1,33 @@
+{
+  "name": "Pangoshroom",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A slow-moving but well-armoured fungal companion that wants nothing more than to keep you safe.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Companion"
+  },
+  "folder": "ik9uudnUyfiD6wCv",
+  "_id": "v91QqzwOoI9N5k7I",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365197,
+    "modifiedTime": 1716738365197,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!v91QqzwOoI9N5k7I"
+}

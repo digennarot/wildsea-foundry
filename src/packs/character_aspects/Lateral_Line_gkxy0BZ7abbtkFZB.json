@@ -1,0 +1,33 @@
+{
+  "name": "Lateral Line",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A series of liquid-filled canals beneath your skin allow you to sense even the most minute vibrations. Darkness has no effect on your ability to perceive your surroundings. Mark to hone in on a specific vibration and learn both its location and what it's likely to be.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "QuL1NaXTI8XLFKhX",
+  "_id": "gkxy0BZ7abbtkFZB",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386904,
+    "modifiedTime": 1716738386904,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gkxy0BZ7abbtkFZB"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Emergency Tool Rack",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Jagserries and sabres are all very well, but the challenges of the underthrash are varied and rarely expected.</p><p>When preparing for a delve, each member of the crew can take a temporary 3-track benefit, Depth Tool. The tool deals either CQ Serrated, Hewing, Acid, or Volt damage, chosen when it is gained.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Delving Equipment",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "36cXg4oznIQIe0ue",
+  "_id": "MASrq2uXevHpgc8V",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845318,
+    "modifiedTime": 1716846529923,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!MASrq2uXevHpgc8V"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "The Gathering Storm",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You gain the Float, Rush, Hover, and Soar styles, and treat disasters as conflicts when attacking with Volt damage, during stormy weather. Storms don't count as a negative atmospheric condition for you during flight.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "WdXuyagYKHEnCxqF",
+  "_id": "xND6MD53iaMoTd00",
+  "effects": [],
+  "sort": 1800000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738380894,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!xND6MD53iaMoTd00"
+}

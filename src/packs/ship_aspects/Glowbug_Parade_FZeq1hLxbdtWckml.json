@@ -1,0 +1,35 @@
+{
+  "name": "Glowbug Parade",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Gives all crew members their own dim lantern-like light while they're on the ship (unless shooed away).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Insect Packs"
+  },
+  "folder": "ExpDDuGQEfEmOfOw",
+  "_id": "FZeq1hLxbdtWckml",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641947491,
+    "modifiedTime": 1716641947491,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FZeq1hLxbdtWckml"
+}

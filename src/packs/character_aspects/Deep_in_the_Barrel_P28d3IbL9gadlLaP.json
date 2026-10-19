@@ -1,0 +1,33 @@
+{
+  "name": "Deep in the Barrel",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Increase impact when cooking with rotten or otherwise tainted ingredients. Meals made with these ingredients won’t sicken your crew.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "APgW8cI5uxGLjiVr",
+  "_id": "P28d3IbL9gadlLaP",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368472,
+    "modifiedTime": 1716738368472,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!P28d3IbL9gadlLaP"
+}

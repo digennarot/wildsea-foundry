@@ -1,0 +1,33 @@
+{
+  "name": "Loading Assistant",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A lemur trained to crank handles and ready ammunition. Burn when firing a weapon that deals high impact or massive damage to immediately fire a second shot using the same roll result.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "FCcUbqpbkeVkBGpr",
+  "_id": "xMdfMtRtGWLgjLGl",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738374868,
+    "modifiedTime": 1716738374868,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!xMdfMtRtGWLgjLGl"
+}

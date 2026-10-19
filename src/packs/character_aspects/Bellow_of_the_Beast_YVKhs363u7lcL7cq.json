@@ -1,0 +1,33 @@
+{
+  "name": "Bellow of the Beast",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When you use a whisper to shout (creating a high-impact change that's out of your control), you are immune to damage or negative effects that result from that change.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "xn2LxujzReWaL31I",
+  "_id": "YVKhs363u7lcL7cq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385624,
+    "modifiedTime": 1716738385624,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!YVKhs363u7lcL7cq"
+}

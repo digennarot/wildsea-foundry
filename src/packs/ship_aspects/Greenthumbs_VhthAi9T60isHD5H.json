@@ -1,0 +1,35 @@
+{
+  "name": "Greenthumbs",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Adding seeds to a ship-garden plot doesn't use a task.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gardening Gangs"
+  },
+  "folder": "laARtrbd8W0KcF1D",
+  "_id": "VhthAi9T60isHD5H",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946673,
+    "modifiedTime": 1716641946673,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!VhthAi9T60isHD5H"
+}

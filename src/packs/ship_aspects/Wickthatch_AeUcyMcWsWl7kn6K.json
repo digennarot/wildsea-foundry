@@ -1,0 +1,45 @@
+{
+  "name": "Wickthatch",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A mat of wildsea grasses and vines woven between reinforced poles, more for blending in than keeping the crew safe on deck.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "XdZPfxp8X5TlqplG"
+      },
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "il0f6Wa2ebUltaw6"
+      }
+    ],
+    "stakes": 2,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "AeUcyMcWsWl7kn6K",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848082,
+    "modifiedTime": 1717440155766,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!AeUcyMcWsWl7kn6K"
+}

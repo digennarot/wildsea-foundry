@@ -1,0 +1,33 @@
+{
+  "name": "Spread the Swarm",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Burn to scatter your charges in all directions, finding any secret crevices and hidden things nearby (and doubtless causing chaos while doing it).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "dWFmSgm3bYSiSGJn",
+  "_id": "j2ZfYpZJ8guFQFey",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738384961,
+    "modifiedTime": 1716738384961,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!j2ZfYpZJ8guFQFey"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Chimeric Reveal",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Choose three traits from bloodlines other than your own to hold as reveals. During play you may consume a specimen to instantly manifest the benefits of one of these reveals (tying their special abilities and narrative benefits to this trait). These benefits only last until end of scene, but you can gain access to multiple reveals at the same time by consuming a specimen for each.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Complex Trait"
+  },
+  "folder": "ZQogFiRDmsIqDTqi",
+  "_id": "CpAq0EA7IFi3Uldu",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387269,
+    "modifiedTime": 1716738387269,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!CpAq0EA7IFi3Uldu"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Ghost-Oak",
+  "type": "design",
+  "system": {
+    "details": "<p>Pale as death and remarkably flexible, ghost-oak is rarely found growing outside the lightless depths of the drown.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "AUQejUJwy8wdUFW5"
+      },
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "mA5nNr3UOg926Hl0"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "MLeRKBlIPP1ruLZq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843780,
+    "modifiedTime": 1717440158069,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!MLeRKBlIPP1ruLZq"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Arcotechnology",
+  "type": "Item",
+  "_id": "YGwdBvNhIAeYZCdd",
+  "folder": "nHuDusmrx5aJy3jm",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738390116,
+    "modifiedTime": 1716738390116,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!YGwdBvNhIAeYZCdd"
+}

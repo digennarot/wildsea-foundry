@@ -1,0 +1,34 @@
+{
+  "name": "Shrapnel Cannon",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Fires clouds of tearing metal, usually just armfuls of scrap offcuts tossed into the barrel. Deals massive LR Serrated damage.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Deck Weapons",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "u1FzBbCuxgn7lnW1",
+  "_id": "1uSghHZK4Su4bnKW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846231,
+    "modifiedTime": 1717440154028,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!1uSghHZK4Su4bnKW"
+}

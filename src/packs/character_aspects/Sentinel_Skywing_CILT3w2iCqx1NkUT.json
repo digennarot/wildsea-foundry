@@ -1,0 +1,33 @@
+{
+  "name": "Sentinel Skywing",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A watchful bird, often used for scouting remote areas. Mark to learn a secret of the surrounding waves.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "PQjk0zzQuN1IpvyG",
+  "_id": "CILT3w2iCqx1NkUT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367211,
+    "modifiedTime": 1716738367211,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!CILT3w2iCqx1NkUT"
+}

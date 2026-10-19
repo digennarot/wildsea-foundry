@@ -1,0 +1,33 @@
+{
+  "name": "Fragmented Limb",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Cracked and floating just free of your body. When you take this gear, decide whether it deals CQ Blunt, Keen, or Spike damage (you can change this damage type by using a task).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "l9kENFVUFmgP2RlA",
+  "_id": "2OULnRyklN8KMcq9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366265,
+    "modifiedTime": 1716738366265,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2OULnRyklN8KMcq9"
+}

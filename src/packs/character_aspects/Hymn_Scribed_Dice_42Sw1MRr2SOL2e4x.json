@@ -1,0 +1,33 @@
+{
+  "name": "Hymn-Scribed Dice",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Whenever you make a fortune roll, or would be directly affected by one, roll an additional d6 and choose the result you prefer.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "ogzQeTAaOAajQsyU",
+  "_id": "42Sw1MRr2SOL2e4x",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385930,
+    "modifiedTime": 1716738385930,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!42Sw1MRr2SOL2e4x"
+}

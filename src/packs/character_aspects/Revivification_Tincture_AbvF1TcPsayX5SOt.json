@@ -1,0 +1,33 @@
+{
+  "name": "Revivification Tincture",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A mixture more advanced than most alchemical practitioners could even dream of. Burn and use a task to return a nearby creature to life - the longer it has been dead, the less of its memories, spirit, and instincts remain.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Gear"
+  },
+  "folder": "UCQm9FhSQVj1kkzr",
+  "_id": "AbvF1TcPsayX5SOt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738390716,
+    "modifiedTime": 1716738390716,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!AbvF1TcPsayX5SOt"
+}

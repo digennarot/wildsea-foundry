@@ -1,0 +1,35 @@
+{
+  "name": "Geist Octopus",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Once per journey, the geist octopus allows a single crewmember to roll 6d6 in place of their usual dice pool on any task it could conceivably help with.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Beast Packs"
+  },
+  "folder": "JN56PjnoJjg1GBtz",
+  "_id": "Ggl02M9jxS7gKEo4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641947078,
+    "modifiedTime": 1716641947078,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Ggl02M9jxS7gKEo4"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Collapsible Recliner",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A portable chair offering extreme comfort and an excellent viewing angle. Also deals CQ Blunt damage!</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "jdX50wWrh0uMvRbG",
+  "_id": "rUGylH4uxLR0dnlw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381872,
+    "modifiedTime": 1716738381872,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rUGylH4uxLR0dnlw"
+}

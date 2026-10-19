@@ -1,0 +1,39 @@
+{
+  "name": "Impellers",
+  "type": "design",
+  "system": {
+    "details": "<p>Large jet-like outboard engines that push the ship through the waves with brute force.</p><p>Deals Massive CQ Serrated damage</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "IqzC69fMPvEHHWZ8"
+      }
+    ],
+    "stakes": 1,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "iUtFmadqq4stygnt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843931,
+    "modifiedTime": 1716846531083,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!iUtFmadqq4stygnt"
+}

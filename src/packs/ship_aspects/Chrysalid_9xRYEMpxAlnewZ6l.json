@@ -1,0 +1,44 @@
+{
+  "name": "Chrysalid",
+  "type": "design",
+  "system": {
+    "details": "<p>A hull adapted from the cast-off chrysalis of a massive insect, excellent protection against the sea’s incursion.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "APs1nT3n1XEGO2s1"
+      },
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "0AH0XFnT1GNyUAmc"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "9xRYEMpxAlnewZ6l",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843775,
+    "modifiedTime": 1717440155670,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!9xRYEMpxAlnewZ6l"
+}

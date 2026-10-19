@@ -1,0 +1,33 @@
+{
+  "name": "Battering Ram",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Though not famed for your melee prowess, there's a lot to be said for precise applications of weight. Increase impact on CQ attacks when you have a running start.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "aUDiBsJDgpfsZ93t",
+  "_id": "2FaX4ktcpTxLIA9g",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738374596,
+    "modifiedTime": 1716738374596,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2FaX4ktcpTxLIA9g"
+}

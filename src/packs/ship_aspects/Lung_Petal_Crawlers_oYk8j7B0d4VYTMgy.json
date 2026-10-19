@@ -1,0 +1,35 @@
+{
+  "name": "Lung-Petal Crawlers",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Orchid-like ambulatory plants that naturally filter the air around them. Mark to increase impact on an action dealing with bad air or drifting spores while on your ship.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Delving Packs"
+  },
+  "folder": "sQSmWjjBl3MWAMCE",
+  "_id": "oYk8j7B0d4VYTMgy",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641947233,
+    "modifiedTime": 1716641947233,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!oYk8j7B0d4VYTMgy"
+}

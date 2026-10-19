@@ -1,0 +1,33 @@
+{
+  "name": "Salvaged Cannon",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once a deck-mounted weapon, now handheld though equally potent. Deals high-impact LR Blast damage as standard. When you choose this aspect it gains a base frame:<ul><li><b>Hullbreaker</b> - Increase impact when targeting ships and structures,</li><li><b>Mazengara</b> - Increase impact when targeting leviathans and protoleviathans,</li><li><b>Scattering Storm</b> - Your shots affect multiple nearby targets.</li></ul><br>a sketchy alteration:<ul><li><b>Hazardcrank</b> - Mark while attacking to increase the cannon's impact against any target,</li><li><b>Adaptive Loader</b> - Consume a resource to temporarily change the cannon's damage type to one tied to the resource until the end of the scene,</li><li><b>Explosive Exhaust</b> - The cannon's exhaust ports can increase the impact of leaps and dashes.</li></ul><br>and a serious flaw:<ul><li><b>Dead Weight</b> - You take a cut on all actions made to jump, climb, or move at speed,</li><li><b>Ammunition Jam</b> - A disaster while firing jams the weapon until end of scene, making LR attacks impossible. Burn to unjam early,</li><li><b>Wild Thunder</b> - You can't use whispers in any way until end of scene after firing the cannon,</li><li><b>Barrel-Parasite</b> - Consume a piece of salvage at the end of any scene in which the cannon is fired. If you can't, burn a box.</li></ul></p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Complex Gear"
+  },
+  "folder": "JUYdF4TaRn2fACGt",
+  "_id": "RUEZ7xQlJqFwAmlS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738374833,
+    "modifiedTime": 1716738374833,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!RUEZ7xQlJqFwAmlS"
+}

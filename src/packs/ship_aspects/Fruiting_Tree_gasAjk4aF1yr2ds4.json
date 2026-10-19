@@ -1,0 +1,34 @@
+{
+  "name": "Fruiting Tree",
+  "type": "fitting",
+  "system": {
+    "details": "<p>An ancient tree rooted to your deck, laden with fast growing fruit. \nAutomatically acquire a fruit-based specimen when you use a task to tend to the fruiting tree.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Bounteous Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "rruh3CK4B7is7Mej",
+  "_id": "gasAjk4aF1yr2ds4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844731,
+    "modifiedTime": 1717440161901,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gasAjk4aF1yr2ds4"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Kinsquid",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Affectionate tentacular beasties that always seem to be around when you need them.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Delving Packs"
+  },
+  "folder": "sQSmWjjBl3MWAMCE",
+  "_id": "yhzWPLQVD4f2YgXy",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641947202,
+    "modifiedTime": 1716641947202,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!yhzWPLQVD4f2YgXy"
+}

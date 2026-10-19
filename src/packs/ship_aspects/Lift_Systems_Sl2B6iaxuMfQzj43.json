@@ -1,0 +1,18 @@
+{
+  "name": "Lift Systems",
+  "type": "Item",
+  "_id": "Sl2B6iaxuMfQzj43",
+  "folder": "SIE6jPKoKqGIQ3OA",
+  "sorting": "a",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848342,
+    "modifiedTime": 1716641848342,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!Sl2B6iaxuMfQzj43"
+}

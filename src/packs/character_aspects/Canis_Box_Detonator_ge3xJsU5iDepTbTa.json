@@ -1,0 +1,33 @@
+{
+  "name": "Canis Box Detonator",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A simple detonator used to set off explosives from a (presumably) safe distance.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "AT49lU2fjt58K4WB",
+  "_id": "ge3xJsU5iDepTbTa",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369169,
+    "modifiedTime": 1716738369169,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ge3xJsU5iDepTbTa"
+}

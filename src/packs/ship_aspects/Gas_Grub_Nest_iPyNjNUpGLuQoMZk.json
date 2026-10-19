@@ -1,0 +1,34 @@
+{
+  "name": "Gas-Grub Nest",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Portly and squeaking, these grubs produce a lighter-than-air gas as a natural byproduct of their digestion. Once per journey (if you have an appropriate container for it), gain 'Canister of Lifting Gas' as a piece of salvage.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "iPyNjNUpGLuQoMZk",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845570,
+    "modifiedTime": 1717440162343,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!iPyNjNUpGLuQoMZk"
+}

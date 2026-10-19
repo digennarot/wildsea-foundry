@@ -1,0 +1,34 @@
+{
+  "name": "Wicker Baskets",
+  "type": "fitting",
+  "system": {
+    "details": "<p>All plants grown within the wicker baskets are immune to damage taken by the wider ship (but can still suffer negative effects aimed directly at them).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "YIEHIlfAX6VgwDuy",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850179,
+    "modifiedTime": 1717440160068,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!YIEHIlfAX6VgwDuy"
+}

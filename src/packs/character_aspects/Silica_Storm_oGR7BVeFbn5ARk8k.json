@@ -1,0 +1,33 @@
+{
+  "name": "Silica Storm",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once per scene, create a brief sandstorm around yourself and nearby crewmates that deals Serrated damage to anything trying to pass through it. You also resist the effects of drifting spores and bad air while the storm is active.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "GUox13PUsDpsI9F9",
+  "_id": "oGR7BVeFbn5ARk8k",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386638,
+    "modifiedTime": 1716738386638,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!oGR7BVeFbn5ARk8k"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Tar-Canvas Layering",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Stiffened fabric painted with layers upon layers of protective sealant, covering the deck like a rigid tent.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "2hj5pDmMHl71gQQj"
+      }
+    ],
+    "stakes": 1,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "EYNk0PwhryISGlep",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848006,
+    "modifiedTime": 1717440156277,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!EYNk0PwhryISGlep"
+}

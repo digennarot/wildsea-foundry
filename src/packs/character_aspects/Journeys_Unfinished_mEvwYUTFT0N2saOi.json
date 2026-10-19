@@ -1,0 +1,33 @@
+{
+  "name": "Journeys Unfinished",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to learn the never-reached destination or port of origin for any wreck you come across. Burn to learn it for a ship still travelling.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "Z6BJC4ANhXMQt75c",
+  "_id": "mEvwYUTFT0N2saOi",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370780,
+    "modifiedTime": 1716738370780,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!mEvwYUTFT0N2saOi"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Myconic Struts",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Does nothing to protect the ship from other spores (or any other depth-specific dangers), but a fungal reinforcement to the ship's frame helps it withstand the physical aspects of increasing pressure.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "bPgy6cvbhF59RJxm"
+      }
+    ],
+    "stakes": 1,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "Ym8y5Y65S1R42F3E",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847541,
+    "modifiedTime": 1717440160174,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Ym8y5Y65S1R42F3E"
+}

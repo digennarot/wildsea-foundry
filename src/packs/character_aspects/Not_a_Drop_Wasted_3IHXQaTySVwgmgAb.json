@@ -1,0 +1,33 @@
+{
+  "name": "Not a Drop Wasted",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A steep never spills. Once per journey, a crewmate may suffer your disaster to add a box and a word to a benefit you brewed. If there was no twist you may both alter a word in a whisper.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "dxyeOQl1U22DYz0w",
+  "_id": "3IHXQaTySVwgmgAb",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372195,
+    "modifiedTime": 1716738372195,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!3IHXQaTySVwgmgAb"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Sweet Like Honey",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can filter sour or toxic fluids to become sweet and palatable. Use a task to give a liquid resource the 'Sweetened' tag.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "LQN3FoXJylEADvE3",
+  "_id": "MoFEmhfLl7x6kKRe",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365863,
+    "modifiedTime": 1716738365863,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!MoFEmhfLl7x6kKRe"
+}

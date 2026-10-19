@@ -1,0 +1,40 @@
+{
+  "name": "Sliding Panels",
+  "type": "fitting",
+  "system": {
+    "details": "<p>While useless as a pressure shell, they make a handy set of movable shields in times of need.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "X43puc0CrolkqdJx"
+      }
+    ],
+    "stakes": 1,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "z4r08op166gAUTni",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847984,
+    "modifiedTime": 1717440165920,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!z4r08op166gAUTni"
+}

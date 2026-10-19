@@ -1,0 +1,44 @@
+{
+  "name": "Storm-Scrap",
+  "type": "design",
+  "system": {
+    "details": "<p>Sealed inside of a triple-locked chamber, ringed with rubber seals and safety cages. If a fragment of storm, even one this small and mindless, ever escaped, it would wreak havoc on the vessel that imprisoned it.</p><p>Fuelled with electro-conductive salvage</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "lJk9kykMUkbp4hYV"
+      },
+      {
+        "rating": "tilt",
+        "value": 2,
+        "id": "8PH6CDR8CDv91Yux"
+      }
+    ],
+    "stakes": 3,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "zHhYMSOrw17RC3yx",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844364,
+    "modifiedTime": 1716846532004,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zHhYMSOrw17RC3yx"
+}

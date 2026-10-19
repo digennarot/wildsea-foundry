@@ -1,0 +1,33 @@
+{
+  "name": "Breath of Eaves",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task and mark to banish or redirect a sporewind, or use a task and burn to summon one.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "ps0nszusyaU4DBYA",
+  "_id": "A7p3D8GFwfQ6Aeac",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738378095,
+    "modifiedTime": 1716738378095,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!A7p3D8GFwfQ6Aeac"
+}

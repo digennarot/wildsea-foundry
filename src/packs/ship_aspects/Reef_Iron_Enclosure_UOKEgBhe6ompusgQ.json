@@ -1,0 +1,50 @@
+{
+  "name": "Reef-Iron Enclosure",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Studded with portholes and rubberized seals, this canopizing contraption affords a superb level of protection for the serious submariner crew.</p><p>Deck area benefits from ship's interior resistances</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "ILbsDoBYsIooilXb"
+      },
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "WZ9yCWvKsdiRDUcm"
+      },
+      {
+        "rating": "depth",
+        "value": 4,
+        "id": "GJDCwW2msJLol15s"
+      }
+    ],
+    "stakes": 5,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "UOKEgBhe6ompusgQ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848299,
+    "modifiedTime": 1716846530350,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!UOKEgBhe6ompusgQ"
+}

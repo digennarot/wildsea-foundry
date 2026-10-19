@@ -1,0 +1,33 @@
+{
+  "name": "Engine's Toll",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You survived an accident that should probably have killed you, and you did it alone. Gain immunity to one damage type of your choice, and resistance to all damage and effects that would result from hazards and malfunctions on your own ship.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "AmCG4oWvibZl5PVA",
+  "_id": "90pwEjgxgt5R9Dh0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381173,
+    "modifiedTime": 1716738381173,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!90pwEjgxgt5R9Dh0"
+}

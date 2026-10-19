@@ -1,0 +1,35 @@
+{
+  "name": "Hawks-Eye Moth",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>A moth the size of a large dog, whose wing patterning stare outward to confuse and intimidate potential predators... including the ever-hungry sky. Reduce cut by one when trying to resist the effects of Scrutiny while near a ship's hawks-eye moth.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Rising Insect Packs"
+  },
+  "folder": "v12dgUKmuGeUNdFC",
+  "_id": "OA34VBw5OBwz5f26",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641948040,
+    "modifiedTime": 1716641948040,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!OA34VBw5OBwz5f26"
+}

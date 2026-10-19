@@ -1,0 +1,34 @@
+{
+  "name": "Navigational Ordinator",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Though the machine is large enough to require its own room on the ship, technicians swear that withing fifty years it'll be the size of a compass. Ignore any negative effects of Pressure or Scrutiny when rolling to manoeuvre the ship.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Light, Power, & Sound",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "SBYUEEe5Pq79efXH",
+  "_id": "cUmZtfZsLWLyAfol",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846122,
+    "modifiedTime": 1717440160809,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!cUmZtfZsLWLyAfol"
+}

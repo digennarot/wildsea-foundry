@@ -1,0 +1,33 @@
+{
+  "name": "Pheromone Glandgraft",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You are completely invisible to predators that track by scent or pheromones.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "11JBDYnc422dvSzH",
+  "_id": "FfOmbTVEKTW4mnMh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375075,
+    "modifiedTime": 1716738375075,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FfOmbTVEKTW4mnMh"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Sawprow",
+  "type": "design",
+  "system": {
+    "details": "<p>A wildsea favourite, the sawprow is a chainsaw edge that runs down the curve of the prow. Capable of cutting through most obstructions with ease.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "saws",
+        "value": 1,
+        "id": "SNRiETbDOOZLc5nW"
+      }
+    ],
+    "stakes": 1,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "kvNC3FC4WmFrvGZ2",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843925,
+    "modifiedTime": 1717440163090,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!kvNC3FC4WmFrvGZ2"
+}

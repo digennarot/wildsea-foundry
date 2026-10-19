@@ -1,0 +1,33 @@
+{
+  "name": "Advanced Adaptation",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Pain is the first step to immunity. Mark to gain resistance to a damage type of your choice until end of scene, or burn to gain immunity until end of scene instead.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "ZQogFiRDmsIqDTqi",
+  "_id": "kinaWj1zjGf8L52H",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387377,
+    "modifiedTime": 1716738387377,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!kinaWj1zjGf8L52H"
+}

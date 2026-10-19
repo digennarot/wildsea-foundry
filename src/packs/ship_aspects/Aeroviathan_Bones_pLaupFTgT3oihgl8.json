@@ -1,0 +1,49 @@
+{
+  "name": "Aeroviathan Bones",
+  "type": "design",
+  "system": {
+    "details": "<p>Hollow bones taken from huge aerial creatures, resistant to damage but naturally light.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 2,
+        "id": "c2LLOIZwosHuXfq7"
+      },
+      {
+        "rating": "stealth",
+        "value": -1,
+        "id": "wZHsAPSnJY8BCg2P"
+      },
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "ievo7qxwzCVSka2n"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "pLaupFTgT3oihgl8",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843910,
+    "modifiedTime": 1717440163942,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!pLaupFTgT3oihgl8"
+}

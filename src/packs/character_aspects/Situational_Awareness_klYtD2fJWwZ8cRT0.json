@@ -1,0 +1,33 @@
+{
+  "name": "Situational Awareness",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A mixture of gut feeling and pattern recognition tells you more than most when approaching the unknown. The Firefly makes threat rolls out in the open when determining the level of danger during a journey.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "Qfq42BSrNjZq1Eq8",
+  "_id": "klYtD2fJWwZ8cRT0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383028,
+    "modifiedTime": 1716738383028,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!klYtD2fJWwZ8cRT0"
+}

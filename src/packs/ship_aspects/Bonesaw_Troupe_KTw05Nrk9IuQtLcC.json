@@ -1,0 +1,35 @@
+{
+  "name": "Bonesaw Troupe",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>A single crewmember can heal a mark from any damaged trait or injury when you drop anchor.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gangs"
+  },
+  "folder": "bohur6nToV4YCbl2",
+  "_id": "KTw05Nrk9IuQtLcC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946010,
+    "modifiedTime": 1716641946010,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!KTw05Nrk9IuQtLcC"
+}

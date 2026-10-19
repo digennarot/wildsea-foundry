@@ -1,0 +1,34 @@
+{
+  "name": "Periscope Mirrors",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Arranged throughout the ship, a set of mirroring channels to give the pilot a more complete view of their surroundings even when submerged.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "General Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "qLaXUJsA0bG5ENat",
+  "_id": "E5L7v6upqZxdCu1a",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844677,
+    "modifiedTime": 1717440156188,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!E5L7v6upqZxdCu1a"
+}

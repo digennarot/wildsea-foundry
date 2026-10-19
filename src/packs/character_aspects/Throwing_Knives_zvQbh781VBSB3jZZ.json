@@ -1,0 +1,33 @@
+{
+  "name": "Throwing Knives",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Perfectly weighted. Deals LR keen or spike damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "zbGhi1D2lw2nBnws",
+  "_id": "zvQbh781VBSB3jZZ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368959,
+    "modifiedTime": 1716738368959,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zvQbh781VBSB3jZZ"
+}

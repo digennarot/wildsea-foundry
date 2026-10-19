@@ -1,0 +1,33 @@
+{
+  "name": "One With All",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When you touch a living thing, mark to gain a 2-track temporary trait based on that creature. You can only have one of these temporary traits at a time.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "ZQogFiRDmsIqDTqi",
+  "_id": "D8IkrAlu9REqvv5l",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387595,
+    "modifiedTime": 1716738387595,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!D8IkrAlu9REqvv5l"
+}

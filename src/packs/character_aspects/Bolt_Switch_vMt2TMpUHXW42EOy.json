@@ -1,0 +1,33 @@
+{
+  "name": "Bolt-Switch",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to instantly switch places with a willing crewmate within sight, or burn to switch with them and hijack focus at the same time.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "WdXuyagYKHEnCxqF",
+  "_id": "vMt2TMpUHXW42EOy",
+  "effects": [],
+  "sort": 1600000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372883,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!vMt2TMpUHXW42EOy"
+}

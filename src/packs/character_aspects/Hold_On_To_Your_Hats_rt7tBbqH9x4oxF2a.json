@@ -1,0 +1,33 @@
+{
+  "name": "Hold On To Your Hats",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You may mark this aspect while near or at the helm of a ship to perform a difficult manoeuvre or aerial stunt enerringly, without making a ratings roll. Burning this aspect allows you to hijack focus for this action.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "Qfq42BSrNjZq1Eq8",
+  "_id": "rt7tBbqH9x4oxF2a",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382902,
+    "modifiedTime": 1716738382902,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rt7tBbqH9x4oxF2a"
+}

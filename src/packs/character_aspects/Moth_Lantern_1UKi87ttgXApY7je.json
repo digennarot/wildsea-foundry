@@ -1,0 +1,33 @@
+{
+  "name": "Moth Lantern",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Uses luminous moths to illuminate a small area around you.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "06R1JGuAFRiag266",
+  "_id": "1UKi87ttgXApY7je",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369484,
+    "modifiedTime": 1716738369484,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!1UKi87ttgXApY7je"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Natural Salter",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can mark or use a task to give any specimen the Salted tag. Salted specimens increase the track length of temporary benefits by one when used as an ingredient.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "pjb50YSVpNU38vcI",
+  "_id": "UptCD2wys48RGncx",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738388609,
+    "modifiedTime": 1716738388609,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!UptCD2wys48RGncx"
+}

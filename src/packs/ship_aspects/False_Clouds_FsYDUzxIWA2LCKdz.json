@@ -1,0 +1,34 @@
+{
+  "name": "False Clouds",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Usually produced alchemically, a false cloud wreathes the ship in atmospheric vapours to make it far harder to visually track. Real clouds can tell the difference though.</p><p>Optimal Use: Deploy to clear a burn from any Eye tracking the ship from below the clouds.\nAlternate Use: Changing the chemical mixtures used can have unusual, and harmful, results. Instead of clearing an Eye, the false clouds can create a patch of bad air on deck that lasts for the duration of a scene.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Bafflers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "teIt6nRvWg1g7vN6",
+  "_id": "FsYDUzxIWA2LCKdz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849551,
+    "modifiedTime": 1716846529534,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FsYDUzxIWA2LCKdz"
+}

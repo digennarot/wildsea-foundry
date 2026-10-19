@@ -1,0 +1,34 @@
+{
+  "name": "Shard Chambers",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Pieces of a sailing stone are placed at strategic points within a vessel's structure. They abhor the skies, but excel at scudding through the depths and across the yawning spaces offered by rifts.</p><p>Takeoff Cost: Speed\nFlight Styles: Float, Hover, Glide\nOnly functions when the ship is within or below the level of the thrash</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "s9v5J3oCcyOXXI03",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848649,
+    "modifiedTime": 1716846531669,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!s9v5J3oCcyOXXI03"
+}

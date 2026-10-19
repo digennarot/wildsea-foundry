@@ -1,0 +1,18 @@
+{
+  "name": "Aeronaut Equipment",
+  "type": "Item",
+  "_id": "NBCpB1pekqg5j0mW",
+  "folder": "SIE6jPKoKqGIQ3OA",
+  "sorting": "a",
+  "sort": 300000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845738,
+    "modifiedTime": 1716641845738,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!NBCpB1pekqg5j0mW"
+}

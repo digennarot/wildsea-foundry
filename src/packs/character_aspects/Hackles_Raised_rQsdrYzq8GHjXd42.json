@@ -1,0 +1,33 @@
+{
+  "name": "Hackles Raised",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You've learned to listen to your instincts. Consume a whisper to determine whether or not an approaching individual has harmful intentions towards you, your ship, or the rest of your crew.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "Ta57ZcWtgS1Ap6LV",
+  "_id": "rQsdrYzq8GHjXd42",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738388066,
+    "modifiedTime": 1716738388066,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rQsdrYzq8GHjXd42"
+}

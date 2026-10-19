@@ -1,0 +1,34 @@
+{
+  "name": "Brace of Kites",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Swifter, but far more dangerous than other low-tech methods. The brace of kites is a complex series of sails, ropes, and canvas that can be deployed for a sudden surge of lift.</p><p>Takeoff Cost: Saws\nFlight Style: Rush, Glide</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "kfs8sFFNxy5LcaYR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848469,
+    "modifiedTime": 1716846531240,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!kfs8sFFNxy5LcaYR"
+}

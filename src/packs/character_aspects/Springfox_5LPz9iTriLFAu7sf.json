@@ -1,0 +1,33 @@
+{
+  "name": "Springfox",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A nimble wildsea vulpine known to dance in the wake of larger ships. Once per journey you may treat the outcome of a watch roll as Peace, no matter the result.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "Qzd91QmAuHzFL6cd",
+  "_id": "5LPz9iTriLFAu7sf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366994,
+    "modifiedTime": 1716738366994,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!5LPz9iTriLFAu7sf"
+}

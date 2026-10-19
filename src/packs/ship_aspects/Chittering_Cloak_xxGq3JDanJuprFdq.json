@@ -1,0 +1,34 @@
+{
+  "name": "Chittering Cloak",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Your hull is a hotbed of insectile symbiosis, thousands of chitinous bodies and translucent wings sprouting from wood and iron.</p><p>Takeoff Cost: None\nFlight Style: Float, Flap\nReduce cut by one on aerial stunts performed while within mist, fog, or sporeclouds.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 4,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "xxGq3JDanJuprFdq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848987,
+    "modifiedTime": 1716846531917,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!xxGq3JDanJuprFdq"
+}

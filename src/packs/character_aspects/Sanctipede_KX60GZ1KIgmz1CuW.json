@@ -1,0 +1,33 @@
+{
+  "name": "Sanctipede",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Drawn to history and forgotten things. Consume a chart to identify and retrieve a piece of ancient and valuable salvage in your vicinity if possible.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "59FIO9183rrC4yLE",
+  "_id": "KX60GZ1KIgmz1CuW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369557,
+    "modifiedTime": 1716738369557,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!KX60GZ1KIgmz1CuW"
+}

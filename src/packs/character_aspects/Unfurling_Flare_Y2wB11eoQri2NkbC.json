@@ -1,0 +1,33 @@
+{
+  "name": "Unfurling Flare",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A flexing mantle of myconic flesh that unfurls to increase your physical size. Treat conflicts as triumphs when intimidating smaller targets.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "AJSvCuKqWgIqGu6z",
+  "_id": "Y2wB11eoQri2NkbC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365094,
+    "modifiedTime": 1716738365094,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Y2wB11eoQri2NkbC"
+}

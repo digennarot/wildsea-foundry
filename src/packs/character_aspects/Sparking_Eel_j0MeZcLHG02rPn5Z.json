@@ -1,0 +1,33 @@
+{
+  "name": "Sparking-Eel",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Winds around limbs and under clothes, always moving. Mark to identify the nearest source of potent electricity, no matter the distance.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Companion"
+  },
+  "folder": "hRhvmBDoKC1YZjom",
+  "_id": "j0MeZcLHG02rPn5Z",
+  "effects": [],
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373191,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!j0MeZcLHG02rPn5Z"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Jet-Throat Pitcher",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A delicate pitcher plant with an unexpectedly robust system of root-like exhaust vents. The pitcher's bulb produces flotational gas, and the roots can be angled to give a ship a modicum of directional thrust.</p><p>Takeoff Cost: Seals\nFlight Style: Float, Glide</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "3eVrHT080BUfzm7O",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848494,
+    "modifiedTime": 1716846528865,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!3eVrHT080BUfzm7O"
+}

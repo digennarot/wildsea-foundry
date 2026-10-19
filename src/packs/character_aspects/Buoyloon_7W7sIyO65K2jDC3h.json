@@ -1,0 +1,33 @@
+{
+  "name": "Buoyloon",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A chemical compression chamber and attached gasbag that can send you rocketing skyward. Burn to gain the Float and Hover styles, and immediately ascend at a rapid pace if you wish.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "EzrpOnQYauBrRGhI",
+  "_id": "7W7sIyO65K2jDC3h",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738378492,
+    "modifiedTime": 1716738378492,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!7W7sIyO65K2jDC3h"
+}

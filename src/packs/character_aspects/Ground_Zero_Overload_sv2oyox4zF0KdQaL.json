@@ -1,0 +1,33 @@
+{
+  "name": "Ground Zero Overload",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to deal volt damage to all nearby foes, or burn to increase it to massive volt damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Trait"
+  },
+  "folder": "WdXuyagYKHEnCxqF",
+  "_id": "sv2oyox4zF0KdQaL",
+  "effects": [],
+  "sort": 1500000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373006,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!sv2oyox4zF0KdQaL"
+}

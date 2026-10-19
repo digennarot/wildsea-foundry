@@ -1,0 +1,33 @@
+{
+  "name": "Warebear",
+  "type": "aspect",
+  "system": {
+    "details": "<p>An entrepreneurial raccoon-dog, exiled by its pack for gathering greenery rather than food. Consume any two resources to gain a leaf-based specimen with the Medicinal, Spectral, Poisonous, or Mesmeric tag.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Companion"
+  },
+  "folder": "BeeCkLPE0DKuDpeh",
+  "_id": "5yeVgClatHMgwsr8",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382689,
+    "modifiedTime": 1716738382689,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!5yeVgClatHMgwsr8"
+}

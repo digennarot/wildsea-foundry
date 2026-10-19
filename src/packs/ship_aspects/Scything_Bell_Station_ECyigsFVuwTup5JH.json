@@ -1,0 +1,34 @@
+{
+  "name": "Scything-Bell Station",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A more advanced version of the caging bell, this 'room' acts almost as a tethered outrider when detached from the main vessel. The scything-bell can be raised and lowered with internal controls, and comes equipped with a serrated sawblade capable of cutting through obstructions and effecting lateral movement.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Delving Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "3j8SqroThRbugEPH",
+  "_id": "ECyigsFVuwTup5JH",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845032,
+    "modifiedTime": 1717440156234,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ECyigsFVuwTup5JH"
+}

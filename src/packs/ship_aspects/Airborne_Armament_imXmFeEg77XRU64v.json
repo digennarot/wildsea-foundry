@@ -1,0 +1,18 @@
+{
+  "name": "Airborne Armament",
+  "type": "Item",
+  "_id": "imXmFeEg77XRU64v",
+  "folder": "ONZ3rI1PNwrvlTdE",
+  "sorting": "a",
+  "sort": 300000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846576,
+    "modifiedTime": 1716641846576,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!imXmFeEg77XRU64v"
+}

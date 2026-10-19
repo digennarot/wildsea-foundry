@@ -1,0 +1,44 @@
+{
+  "name": "Vapour Intakes",
+  "type": "design",
+  "system": {
+    "details": "<p>Funnel-like collectors leading to an internal compression engine. Operates in near-silence.</p><p>Fuelled with cloudstuff and water vapour, but easily clogged by sporeclouds.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "chOQPeKZA5jaUeyb"
+      },
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "KqfqPLQaTv8LKfQC"
+      }
+    ],
+    "stakes": 2,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "KrZsEGSuAwoj191q",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844382,
+    "modifiedTime": 1716846529866,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!KrZsEGSuAwoj191q"
+}

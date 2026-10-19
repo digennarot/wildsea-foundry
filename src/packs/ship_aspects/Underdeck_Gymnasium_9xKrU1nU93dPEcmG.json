@@ -1,0 +1,34 @@
+{
+  "name": "Underdeck Gymnasium",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A set of weights, ropes, and fitness equipment for keeping yourself in shape without braving the treetops.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Common Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "d1tw3WkmF0uVc18g",
+  "_id": "9xKrU1nU93dPEcmG",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844936,
+    "modifiedTime": 1717440155662,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!9xKrU1nU93dPEcmG"
+}

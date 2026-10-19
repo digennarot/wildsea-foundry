@@ -1,0 +1,34 @@
+{
+  "name": "Boarded Bed",
+  "type": "fitting",
+  "system": {
+    "details": "<p>If you roll to harvest plants growing within the boarded bed, treat Disasters as Conflicts instead.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "jM3ecKmfc1uuexcA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850293,
+    "modifiedTime": 1717440162718,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!jM3ecKmfc1uuexcA"
+}

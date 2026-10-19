@@ -1,0 +1,33 @@
+{
+  "name": "Hooded Crow",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A loyal bird trained to distract opponents in close-range combat. Mark to hijack focus from a nearby enemy as they attempt to attack, once per scene.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "iMQKWV96BfJ1gjya",
+  "_id": "LPDNidNXZXnAzI6J",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368992,
+    "modifiedTime": 1716738368992,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!LPDNidNXZXnAzI6J"
+}

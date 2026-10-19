@@ -1,0 +1,33 @@
+{
+  "name": "Autohypnosis",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You've learned to meditate rather than sleep, allowing you to stay far more aware while resting than most.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Trait"
+  },
+  "folder": "Ty08WQ0o8soOKZDK",
+  "_id": "wREhAogh7cYevexZ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373675,
+    "modifiedTime": 1716738373675,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wREhAogh7cYevexZ"
+}

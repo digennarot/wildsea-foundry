@@ -1,0 +1,33 @@
+{
+  "name": "Shrewd Marketeer",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Treat conflict as triumphs when haggling over an exchange of cargo or resources.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "3egAjc7v4NcSQXsV",
+  "_id": "FlJ9icAOlMZeAJvh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367365,
+    "modifiedTime": 1716738367365,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FlJ9icAOlMZeAJvh"
+}

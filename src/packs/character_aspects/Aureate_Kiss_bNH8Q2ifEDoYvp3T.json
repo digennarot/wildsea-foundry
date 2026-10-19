@@ -1,0 +1,33 @@
+{
+  "name": "Aureate Kiss",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your bites deal CQ Salt damage You can also use a task to swallow a resource and recover it with the Golden tag, but imbibing food and drink always inflicts mire.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "VynvrpYe2LPd4sVh",
+  "_id": "bNH8Q2ifEDoYvp3T",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382238,
+    "modifiedTime": 1716738382238,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!bNH8Q2ifEDoYvp3T"
+}

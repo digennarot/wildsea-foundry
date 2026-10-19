@@ -1,0 +1,33 @@
+{
+  "name": "Mechanical Grinder",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Consume an additional specimen to create a lasting meal as an action (rather than the usual task).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "7NpV153DQXLQi9jy",
+  "_id": "GheNxnB6Gx7jhjIl",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368537,
+    "modifiedTime": 1716738368537,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!GheNxnB6Gx7jhjIl"
+}

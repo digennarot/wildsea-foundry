@@ -1,0 +1,39 @@
+{
+  "name": "Mycovent Exchange",
+  "type": "design",
+  "system": {
+    "details": "<p>A funnel system that extracts and redirects energy from spore-thick air</p><p>Fuelled by travelling through sporeclouds</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "6RzNKJxhIb5mPBvg"
+      }
+    ],
+    "stakes": 1,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "DUrZR8LQWj6tXmyd",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844330,
+    "modifiedTime": 1716846529371,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!DUrZR8LQWj6tXmyd"
+}

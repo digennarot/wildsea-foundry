@@ -1,0 +1,33 @@
+{
+  "name": "Scrawltooth Kit",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You have mastered Scrawl, the ancient art of scrimshawing teeth to transfer knowledge. Use a task to inscribe a tooth with one memory from another, embedding it in your mouth to receive the information.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "U9ByxpMw6cNTGEBp",
+  "_id": "M7WiT6FRNSJecZ5P",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387083,
+    "modifiedTime": 1716738387083,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!M7WiT6FRNSJecZ5P"
+}

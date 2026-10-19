@@ -1,0 +1,34 @@
+{
+  "name": "Tether-Lines",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Coils of reinforced leaf-rubber and twine, designed to unspool slowly and retract at speed.</p><p>Crew that have time to attach a tether-line before leaving the ship at depth gain a temporary 3-track benefit, Tether-Line. The tether-line track can be marked to briefly swing on the line, or to be yanked toward the ship's deck.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Delving Equipment",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "36cXg4oznIQIe0ue",
+  "_id": "0mZkSW9uE6Z9kO0i",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845291,
+    "modifiedTime": 1716846528662,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!0mZkSW9uE6Z9kO0i"
+}

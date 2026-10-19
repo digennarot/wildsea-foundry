@@ -1,0 +1,18 @@
+{
+  "name": "Frame",
+  "type": "Item",
+  "_id": "Ri6EBpyFIdQvShqY",
+  "folder": "KeMUmpBzWGyAxQLI",
+  "sorting": "a",
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843634,
+    "modifiedTime": 1716641843634,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!Ri6EBpyFIdQvShqY"
+}

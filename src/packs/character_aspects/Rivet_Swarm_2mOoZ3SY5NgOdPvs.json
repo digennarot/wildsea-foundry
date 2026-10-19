@@ -1,0 +1,33 @@
+{
+  "name": "Rivet Swarm",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A cloud of floating debris you can direct with a flick of the wrist. Deals LR spike or keen damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "vdetU6b2ZHbMF57y",
+  "_id": "2mOoZ3SY5NgOdPvs",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738371636,
+    "modifiedTime": 1716738371636,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2mOoZ3SY5NgOdPvs"
+}

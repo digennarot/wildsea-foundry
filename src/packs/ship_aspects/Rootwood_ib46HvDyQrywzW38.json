@@ -1,0 +1,39 @@
+{
+  "name": "Rootwood",
+  "type": "design",
+  "system": {
+    "details": "<p>Hull planks cut from the base of the ironroots, drenched in three hundred years of verdant history and incalculable aeons of lost time.</p><p>Once per journey, your ship ignores incoming damage from a leviathan-sized source.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "P48xil7lDBWVmyHv"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "ib46HvDyQrywzW38",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843858,
+    "modifiedTime": 1716846531098,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ib46HvDyQrywzW38"
+}

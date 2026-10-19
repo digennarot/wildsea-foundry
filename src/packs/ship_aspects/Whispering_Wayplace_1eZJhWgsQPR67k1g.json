@@ -1,0 +1,34 @@
+{
+  "name": "Whispering Wayplace",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A sensory deprivation room filled to waist-height with sense-deadening alchemical slurry and equipped with a piloting console, designed to let whispers guide one's hands. The Whispering Wayplace is almost useless unless one has a whisper related to travel or discovery.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Quiet Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "tXUgwhUX1DK1RVi0",
+  "_id": "1eZJhWgsQPR67k1g",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845839,
+    "modifiedTime": 1717440153938,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!1eZJhWgsQPR67k1g"
+}

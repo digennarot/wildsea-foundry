@@ -1,0 +1,33 @@
+{
+  "name": "Garam Dog",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A ferocious dog-like creature with hardened mineral scales. Playful when fed, otherwise more than willing to deal CQ Serrated damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "F9Yr8g5qFiGaXiT6",
+  "_id": "jBhA8XyfULgC0utM",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366001,
+    "modifiedTime": 1716738366001,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!jBhA8XyfULgC0utM"
+}

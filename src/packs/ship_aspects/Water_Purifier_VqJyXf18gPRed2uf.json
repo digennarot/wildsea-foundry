@@ -1,0 +1,34 @@
+{
+  "name": "Water Purifier",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A funnel filtration system. Automatically acquire a barrel of fresh water with the\r\n'Pure' tag whenever you drop anchor or cut a path in rainy conditions.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Bounteous Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "rruh3CK4B7is7Mej",
+  "_id": "VqJyXf18gPRed2uf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844766,
+    "modifiedTime": 1717440159456,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!VqJyXf18gPRed2uf"
+}

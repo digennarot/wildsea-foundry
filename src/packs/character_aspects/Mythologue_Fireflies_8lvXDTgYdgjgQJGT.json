@@ -1,0 +1,33 @@
+{
+  "name": "Mythologue Fireflies",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Fireflies which trace the paths of constellations. Useful for navigation, and pathfinding in dark places.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Companion"
+  },
+  "folder": "FqjKIw1tLKP42kIT",
+  "_id": "8lvXDTgYdgjgQJGT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381996,
+    "modifiedTime": 1716738381996,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!8lvXDTgYdgjgQJGT"
+}

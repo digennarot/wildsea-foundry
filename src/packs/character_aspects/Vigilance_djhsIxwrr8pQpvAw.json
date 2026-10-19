@@ -1,0 +1,33 @@
+{
+  "name": "Vigilance",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You scrub, clean and de-spore surfaces with regularity. Whenever you or one of your crew takes an injury, reduce the injury track by one box.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "GGgDhlNonS9uMSyf",
+  "_id": "djhsIxwrr8pQpvAw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372594,
+    "modifiedTime": 1716738372594,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!djhsIxwrr8pQpvAw"
+}

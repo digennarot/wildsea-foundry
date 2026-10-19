@@ -1,0 +1,34 @@
+{
+  "name": "Observation Platform",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A strut-like protuberance giving an unparalleled view of the surrounding waves, usually with some kind of line of communication to the pilot's cabin.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "External Structures",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "GXwFU3mNMgP1TZhO",
+  "_id": "NL9RwuR0SJLzEfUK",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844967,
+    "modifiedTime": 1717440158212,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NL9RwuR0SJLzEfUK"
+}

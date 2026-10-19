@@ -1,0 +1,33 @@
+{
+  "name": "Paradox Slug-Box",
+  "type": "aspect",
+  "system": {
+    "details": "<p>These slugs exude crezzer-neutralizing slime and resist all forms of alchemical experimentation. All of your plots are resistant to crezzerin-based damage or effects. Use a task to create a resource, Paradox Slime.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "FF53pOPhLJLWvOWq",
+  "_id": "XxWgx7IhzmHI28CT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738378965,
+    "modifiedTime": 1716738378965,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!XxWgx7IhzmHI28CT"
+}

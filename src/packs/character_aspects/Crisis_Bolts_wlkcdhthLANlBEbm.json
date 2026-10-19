@@ -1,0 +1,33 @@
+{
+  "name": "Crisis Bolts",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Deal Blast damage to any creature that attacks you with their own body in close quarters (such as with tail or bite attacks).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "m9dkFD5oyrUuWLE9",
+  "_id": "wlkcdhthLANlBEbm",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738380616,
+    "modifiedTime": 1716738380616,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wlkcdhthLANlBEbm"
+}

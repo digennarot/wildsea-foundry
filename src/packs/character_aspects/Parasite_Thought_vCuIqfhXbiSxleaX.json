@@ -1,0 +1,33 @@
+{
+  "name": "Parasite Thought",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A living thought that's taken root in your mind, invisible but able to interact with the world. Allows you to hold and manipulate more objects than usual.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "Ty08WQ0o8soOKZDK",
+  "_id": "vCuIqfhXbiSxleaX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373836,
+    "modifiedTime": 1716738373836,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!vCuIqfhXbiSxleaX"
+}

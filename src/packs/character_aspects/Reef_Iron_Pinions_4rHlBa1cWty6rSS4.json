@@ -1,0 +1,33 @@
+{
+  "name": "Reef-Iron Pinions",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Jagged, noisy, and spectacular. You gain the Rush and Flap styles, and can deal CQ Serrated damage, but cut whenever you attempt stealthy or quiet activities.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "ZSSJhR1Ksf614Edk",
+  "_id": "4rHlBa1cWty6rSS4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383983,
+    "modifiedTime": 1716738383983,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!4rHlBa1cWty6rSS4"
+}

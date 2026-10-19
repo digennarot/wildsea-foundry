@@ -1,0 +1,33 @@
+{
+  "name": "Earworm Network",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Don't ask how it's done. You, and all members of your crew, can communicate at great distances. This communication is silent to those outside the network.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "FRBazR9fyxygtup9",
+  "_id": "NeogZkMfMHl7Kf1s",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387736,
+    "modifiedTime": 1716738387736,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NeogZkMfMHl7Kf1s"
+}

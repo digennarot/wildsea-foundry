@@ -1,0 +1,18 @@
+{
+  "name": "Hulls",
+  "type": "Item",
+  "_id": "JatMulgwmCJpn9UH",
+  "folder": "KeMUmpBzWGyAxQLI",
+  "sorting": "a",
+  "sort": 300000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843707,
+    "modifiedTime": 1716641843707,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!JatMulgwmCJpn9UH"
+}

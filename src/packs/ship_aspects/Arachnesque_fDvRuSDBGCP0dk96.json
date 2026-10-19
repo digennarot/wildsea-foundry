@@ -1,0 +1,44 @@
+{
+  "name": "Arachnesque",
+  "type": "design",
+  "system": {
+    "details": "<p>Less of a hull and more of a giant insect grown to fit the specifications of your frame, usually something spider-like.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "3cx0p5Kcri2Td6Ts"
+      },
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "FUl6FyMpxaSRW72Y"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "fDvRuSDBGCP0dk96",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843787,
+    "modifiedTime": 1717440161408,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!fDvRuSDBGCP0dk96"
+}

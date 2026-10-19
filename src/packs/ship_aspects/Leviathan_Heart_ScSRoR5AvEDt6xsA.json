@@ -1,0 +1,44 @@
+{
+  "name": "Leviathan Heart",
+  "type": "design",
+  "system": {
+    "details": "<p>An actual leviathan heart, still beating reflexively, hooked up to the ship. Pumps viscous black fuel through pipes and valves.</p><p>Requires no fuel, but in a particularly ominous way.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "eqXfOqLxZ15eezuD"
+      },
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "ulaiBpMm4o4upNap"
+      }
+    ],
+    "stakes": 2,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "ScSRoR5AvEDt6xsA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844315,
+    "modifiedTime": 1716846530258,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ScSRoR5AvEDt6xsA"
+}

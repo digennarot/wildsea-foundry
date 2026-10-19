@@ -1,0 +1,44 @@
+{
+  "name": "Monument",
+  "type": "design",
+  "system": {
+    "details": "<p>An absurd affectation in a world of flexible branches and endless depth, monument hulls are made of appallingly heavy mountain-stone.</p><p>A ship with a monument hull can’t Forge Ahead during a journey.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 2,
+        "id": "RepajbbRdn7aYMKF"
+      },
+      {
+        "rating": "seals",
+        "value": 2,
+        "id": "5Ww8fFr9yvMiNzuV"
+      }
+    ],
+    "stakes": 3,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "O9JY8XnEPwXuJLHe",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843830,
+    "modifiedTime": 1716846530056,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!O9JY8XnEPwXuJLHe"
+}

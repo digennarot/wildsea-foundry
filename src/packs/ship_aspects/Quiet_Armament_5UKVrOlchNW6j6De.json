@@ -1,0 +1,18 @@
+{
+  "name": "Quiet Armament",
+  "type": "Item",
+  "_id": "5UKVrOlchNW6j6De",
+  "folder": "ONZ3rI1PNwrvlTdE",
+  "sorting": "a",
+  "sort": 600000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846964,
+    "modifiedTime": 1716641846964,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!5UKVrOlchNW6j6De"
+}

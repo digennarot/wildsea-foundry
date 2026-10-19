@@ -1,0 +1,34 @@
+{
+  "name": "Bilgecroft",
+  "type": "fitting",
+  "system": {
+    "details": "<p>What could be more natural than linking a ship's sewage systems to its food production systems? There's a lot to be said for recycling, after all.</p><p>Reduce the Grow tracks of the plants in this plot by one box. Anyone attempting to harvest a plant from the bilgecroft takes two marks of Toxin damage.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Full Gardening Solutions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "dL96Er1qSGNykMKv",
+  "_id": "Nn8oQECmc1delVgh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850901,
+    "modifiedTime": 1716846530039,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Nn8oQECmc1delVgh"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Antiballast",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Multiple canvas balloons placed strategically within the ship, pipes running between them. The gas they fill with doesn't stay lighter-than-air for long, but it's enough to get some distance from the wavetops.</p><p>Additional Style: Float</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Auxiliary Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lqpNd7CHhtJV1bqM",
+  "_id": "k5Xsv66oZmH29RRh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849222,
+    "modifiedTime": 1716846531211,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!k5Xsv66oZmH29RRh"
+}

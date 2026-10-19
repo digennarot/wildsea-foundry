@@ -1,0 +1,18 @@
+{
+  "name": "Launching and Docking",
+  "type": "Item",
+  "_id": "dc2JDU1l4xUmQAj6",
+  "folder": "R1btYhECXmFp1jgU",
+  "sorting": "a",
+  "sort": 300000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847231,
+    "modifiedTime": 1716641847231,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!dc2JDU1l4xUmQAj6"
+}

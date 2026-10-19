@@ -1,0 +1,33 @@
+{
+  "name": "Fungal Tendril",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You have an additional tendril-like limb, allowing you to hold and manipulate more objects than usual.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "AJSvCuKqWgIqGu6z",
+  "_id": "wLwLugjLKdnpqJE6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365107,
+    "modifiedTime": 1716738365107,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wLwLugjLKdnpqJE6"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Breakdown Specialist",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When a crafted benefit's track is fully marked, gain a piece of salvage related to it before removing the benefit</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "JhrI5AY3u9PoAzeG",
+  "_id": "jcs2UACqzxJzdq7d",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738371114,
+    "modifiedTime": 1716738371114,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!jcs2UACqzxJzdq7d"
+}

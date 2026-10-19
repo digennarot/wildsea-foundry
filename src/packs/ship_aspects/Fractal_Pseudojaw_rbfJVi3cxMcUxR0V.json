@@ -1,0 +1,34 @@
+{
+  "name": "Fractal Pseudojaw",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Taken from an inherently arconautic beast of considerable size, the teeth of the fractal pseudojaw dig into more than flesh and wood when they bite down. Deals massive CQ Spike damage. You may mark one of your ratings on a successful attack to reduce a bitten target's immunity or resistance to a single type of damage by one step.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Delving Armament",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "UMFsF6bJXtP2r3um",
+  "_id": "rbfJVi3cxMcUxR0V",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846824,
+    "modifiedTime": 1717440164393,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rbfJVi3cxMcUxR0V"
+}

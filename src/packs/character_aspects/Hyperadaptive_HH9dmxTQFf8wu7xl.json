@@ -1,0 +1,33 @@
+{
+  "name": "Hyperadaptive",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to learn a smattering of any language you hear and have no ranks in. This knowledge remains until you choose to mark and replace it with a new language.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "lNvXpT0YH6KCmG5k",
+  "_id": "HH9dmxTQFf8wu7xl",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369966,
+    "modifiedTime": 1716738369966,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HH9dmxTQFf8wu7xl"
+}

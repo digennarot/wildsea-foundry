@@ -1,0 +1,34 @@
+{
+  "name": "Channeling Sail",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Known for providing a burst of lift on takeoff and little more besides that, the bones of the kite-like sail's frame needs frequent repairs.</p><p>Takeoff Cost: Speed +Armour\nFlight Style: Rush, Glide</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "ysyspwcuACbYg6Kw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848443,
+    "modifiedTime": 1716846531975,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ysyspwcuACbYg6Kw"
+}

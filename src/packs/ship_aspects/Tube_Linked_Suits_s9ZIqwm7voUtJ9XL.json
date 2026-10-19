@@ -1,0 +1,34 @@
+{
+  "name": "Tube-Linked Suits",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Crew that have time to suit up before leaving the ship at depth gain a temporary 3-track benefit (Pressure Suit). They are immune to bad air, but may have negative effects on their ability to move freely.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "General Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "qLaXUJsA0bG5ENat",
+  "_id": "s9ZIqwm7voUtJ9XL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844710,
+    "modifiedTime": 1717440164520,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!s9ZIqwm7voUtJ9XL"
+}

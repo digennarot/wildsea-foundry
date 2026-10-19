@@ -1,0 +1,33 @@
+{
+  "name": "Rewiring Reality",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Consume a whisper to fundamentally change the function of a single mechanism you can see to directly benefit you (with the aid of the Firefly for specifics).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Trait"
+  },
+  "folder": "JxYJsXq1dOPUPvHn",
+  "_id": "hvOMmjrhAVzCVMd9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738380539,
+    "modifiedTime": 1716738380539,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!hvOMmjrhAVzCVMd9"
+}

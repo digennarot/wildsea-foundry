@@ -1,0 +1,18 @@
+{
+  "name": "Pressure Shells",
+  "type": "Item",
+  "_id": "FVAzX0OuAisfQsZm",
+  "folder": "7ppKYjaQdOiatNIC",
+  "sorting": "a",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847922,
+    "modifiedTime": 1716641847922,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!FVAzX0OuAisfQsZm"
+}

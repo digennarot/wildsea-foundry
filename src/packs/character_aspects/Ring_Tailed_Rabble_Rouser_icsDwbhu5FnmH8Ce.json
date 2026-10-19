@@ -1,0 +1,33 @@
+{
+  "name": "Ring-Tailed Rabble-Rouser",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A pugnacious lemur companion with a natural curiosity when it comes to the running of a wildsea vessel.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Companion"
+  },
+  "folder": "Qzd91QmAuHzFL6cd",
+  "_id": "icsDwbhu5FnmH8Ce",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367009,
+    "modifiedTime": 1716738367009,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!icsDwbhu5FnmH8Ce"
+}

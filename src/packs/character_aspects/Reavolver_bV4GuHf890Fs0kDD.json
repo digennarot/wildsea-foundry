@@ -1,0 +1,33 @@
+{
+  "name": "Reavolver",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A six-shooter with permanently empty chambers, smelling of darkness and wandering ghosts. Deals LR Salt damage, and any spirit struck by this weapon is dragged into complete corporeality for a short time.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "CbJoVZwvFV4Jlhx8",
+  "_id": "bV4GuHf890Fs0kDD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366522,
+    "modifiedTime": 1716738366522,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!bV4GuHf890Fs0kDD"
+}

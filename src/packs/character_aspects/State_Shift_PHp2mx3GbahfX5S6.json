@@ -1,0 +1,33 @@
+{
+  "name": "State Shift",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can change the composition of land you're in contact with. Mark to shift soil to clay, clay to stone, stone to magma or vice versa. Burn to change any of the previous substances to any other.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "GUox13PUsDpsI9F9",
+  "_id": "PHp2mx3GbahfX5S6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386505,
+    "modifiedTime": 1716738386505,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!PHp2mx3GbahfX5S6"
+}

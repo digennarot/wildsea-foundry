@@ -1,0 +1,33 @@
+{
+  "name": "Dedicated Swarm",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Perhaps centipedes, bees, or scorpions - the crawling, droning creatures that swarm around you are yours to define. Choose two benefits: <ul><li><b>Swarmalanquin</b> - You are carried on a million tiny legs. Increase impact when climbing or scrambling through tight spaces,</li><li><b>Countless Wings</b> - Mark to gain the Float and Hover styles for the duration of a scene,</li><li><b>Used to It</b> - You're resistant to Toxin damage, and any damage dealt by swarm or insect-based hazards,</li><li><b>Releasing the Horde</b> - Deals Spike, Toxin, or Acid damage at CQ or LR (choose the type and range when you gain this benefit),</li><li><b>Jealous Charges</b> - Both you and your ship are immune to the effects of insect incursions,</li><li><b>Undulating Movement</b> - Ignore cut when attempting to defend against incoming attacks.</li></ul></p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Complex Companion"
+  },
+  "folder": "tww1Me3SQ8BgzcPL",
+  "_id": "EVp4EEzePBPLY7PE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385497,
+    "modifiedTime": 1716738385497,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!EVp4EEzePBPLY7PE"
+}

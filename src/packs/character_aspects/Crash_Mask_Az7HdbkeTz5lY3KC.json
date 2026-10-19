@@ -1,0 +1,33 @@
+{
+  "name": "Crash Mask",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A mask favoured by those who work in dusty environments. You can see clearly through dust and smoke, and resist the effects of spores and bad air.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "AT49lU2fjt58K4WB",
+  "_id": "Az7HdbkeTz5lY3KC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369186,
+    "modifiedTime": 1716738369186,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Az7HdbkeTz5lY3KC"
+}

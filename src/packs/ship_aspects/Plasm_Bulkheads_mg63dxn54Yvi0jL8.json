@@ -1,0 +1,40 @@
+{
+  "name": "Plasm Bulkheads",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Thin organic membranes stretched over every vent and doorway that open and close on instinct as crew and companions pass through them.</p><p>Ship interior is immune to bad air</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "NmsCYpZjyaA0ZMd6"
+      }
+    ],
+    "stakes": 2,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "mg63dxn54Yvi0jL8",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847638,
+    "modifiedTime": 1716846531344,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!mg63dxn54Yvi0jL8"
+}

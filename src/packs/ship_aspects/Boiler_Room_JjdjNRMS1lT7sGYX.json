@@ -1,0 +1,34 @@
+{
+  "name": "Boiler Room",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Uses alchemical reactions to heat water, which is piped around the walls of the vessel to keep it warm in the cold of the heavens.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Airborne Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "H2w7aTU8r6hK7UUp",
+  "_id": "JjdjNRMS1lT7sGYX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845730,
+    "modifiedTime": 1717440157432,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!JjdjNRMS1lT7sGYX"
+}

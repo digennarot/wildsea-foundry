@@ -1,0 +1,33 @@
+{
+  "name": "Shard-Cloak",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You’re resistant to three damage types, chosen from the following list: Keen, Spike, Serrated, Hewing, Salt.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Gear"
+  },
+  "folder": "l9kENFVUFmgP2RlA",
+  "_id": "P0pAiujUCXLJdNJV",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366303,
+    "modifiedTime": 1716738366303,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!P0pAiujUCXLJdNJV"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Wayfarer's Compass",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once per journey, you may tie a new discovery to one of your drives. The precise nature of the connection is up to the Firefly.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "ULcvip218OHWOMLq",
+  "_id": "xb1cclwXVsbJk2Om",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367953,
+    "modifiedTime": 1716738367953,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!xb1cclwXVsbJk2Om"
+}

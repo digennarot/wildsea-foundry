@@ -1,0 +1,33 @@
+{
+  "name": "To The Bone",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task to direct your swarm to consume a fallen foe. When this task is completed, gain one of all possible non-edible resources that looting or butchering the foe might have offered (for example, bones and metals would be left behind, but meats and fruits would not).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Trait"
+  },
+  "folder": "dWFmSgm3bYSiSGJn",
+  "_id": "OJPnnDWg1LCwG3uh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385099,
+    "modifiedTime": 1716738385099,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!OJPnnDWg1LCwG3uh"
+}

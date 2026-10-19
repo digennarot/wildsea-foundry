@@ -1,0 +1,34 @@
+{
+  "name": "Electric Trailblazer",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Stored lightning is released slowly as the ship travels, in just enough volume to set branches crackling and snaps of power arcing between leaves in your wake. Ignore cut on ratings rolls imposed by the ship being harried or pursued.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Light, Power, & Sound",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "SBYUEEe5Pq79efXH",
+  "_id": "4nmHk8XogJHn8rrv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846105,
+    "modifiedTime": 1717440154675,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!4nmHk8XogJHn8rrv"
+}

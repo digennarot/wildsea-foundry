@@ -1,0 +1,35 @@
+{
+  "name": "A Brace of Hounds",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Perhaps not best friend material, these dogs are at least fiercely protective of their ship (despite having few other uses than comfort and the ability to play a great\r\ngame of fetch).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 3
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Beast Packs"
+  },
+  "folder": "JN56PjnoJjg1GBtz",
+  "_id": "h0EaeNv3RY2yC1uh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946859,
+    "modifiedTime": 1716641954681,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!h0EaeNv3RY2yC1uh"
+}

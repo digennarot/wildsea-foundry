@@ -1,0 +1,33 @@
+{
+  "name": "Grappling Hook",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When the hook is thrown and anchored it allows you to swing over chasms and climb sheer surfaces. Treat conflicts as triumphs when climbing or swinging.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "tVxkScnKd0lXtTe3",
+  "_id": "LUxsY2sPJZFhWATc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367138,
+    "modifiedTime": 1716738367138,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!LUxsY2sPJZFhWATc"
+}

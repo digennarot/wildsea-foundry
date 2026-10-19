@@ -1,0 +1,33 @@
+{
+  "name": "Retired Courier Dragonfly",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Still swift, but lacking stamina. Mark to gain a resource from your surroundings with some kind of text as a component, such as a chart or painted sign.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Companion"
+  },
+  "folder": "YIyNOv2O9S2uvjnp",
+  "_id": "z71lamo3z9wCBO6W",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373629,
+    "modifiedTime": 1716738373629,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!z71lamo3z9wCBO6W"
+}

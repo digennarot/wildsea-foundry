@@ -1,0 +1,33 @@
+{
+  "name": "Needle-Point",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You may fire LR weapons at extreme distances that wouldn't normally be possible without cutting for difficulty. In addition,  you never cut for precision or accuracy when targeting larger opponents or structures.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "aUDiBsJDgpfsZ93t",
+  "_id": "BLFlMYAfFutZ7sXP",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738374664,
+    "modifiedTime": 1716738374664,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!BLFlMYAfFutZ7sXP"
+}

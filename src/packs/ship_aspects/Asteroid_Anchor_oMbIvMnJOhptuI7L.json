@@ -1,0 +1,34 @@
+{
+  "name": "Asteroid Anchor",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A chunk of fallen star with unusual properties of spirit attraction. The main mass is almost too heavy to move, but fragments cut from it retain some of its most useful properties for a time.</p><p>Optimal Use: Launch a fragment from the deck to clear a burn on any spirit-based Eye.\nAlternate Use: The asteroid metal produces a low boom when run, which wakes nearby intangibles into true corporeality for a short time.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Bafflers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "teIt6nRvWg1g7vN6",
+  "_id": "oMbIvMnJOhptuI7L",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849522,
+    "modifiedTime": 1716846531439,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!oMbIvMnJOhptuI7L"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Standard",
+  "type": "design",
+  "system": {
+    "details": "<p>Comfortable for 5-10 people, but can hold double that number if necessary. The majority of ships out on the Wildsea are of standard size, hence the name.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "DUxCUuLp5p0h3CBi"
+      }
+    ],
+    "stakes": 1,
+    "type": "size",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "6jSjC0UcaPy3AFaz",
+  "_id": "ovNd3BlhtRUfYNQI",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843620,
+    "modifiedTime": 1717440163935,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ovNd3BlhtRUfYNQI"
+}

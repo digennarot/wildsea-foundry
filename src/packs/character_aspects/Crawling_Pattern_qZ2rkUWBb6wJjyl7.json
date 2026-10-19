@@ -1,0 +1,33 @@
+{
+  "name": "Crawling Pattern",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The glowing patches on your flesh crawl at your command, even onto others nearby. Mark this track to create a dim but lasting light on you or a nearby target.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "SKyywyuCodoNZt03",
+  "_id": "qZ2rkUWBb6wJjyl7",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365392,
+    "modifiedTime": 1716738365392,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!qZ2rkUWBb6wJjyl7"
+}

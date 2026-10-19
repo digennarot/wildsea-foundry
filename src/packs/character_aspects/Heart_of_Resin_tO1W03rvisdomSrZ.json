@@ -1,0 +1,33 @@
+{
+  "name": "Heart of Resin",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Burn to create a perfect copy of yourself in living amber and drift into a deep sleep. You control the copy until it dies or you choose to destroy it, upon which time you wake with its memories and experiences as dreams.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Gear"
+  },
+  "folder": "l9kENFVUFmgP2RlA",
+  "_id": "tO1W03rvisdomSrZ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366276,
+    "modifiedTime": 1716738366276,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!tO1W03rvisdomSrZ"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Viridian Viper",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A wily serpent that's as cunning as you are. Deals CQ Toxin damage. Mark to gain a specimen, Snake-Oil</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "BeeCkLPE0DKuDpeh",
+  "_id": "rttMtWfumEp3cOr5",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382778,
+    "modifiedTime": 1716738382778,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rttMtWfumEp3cOr5"
+}

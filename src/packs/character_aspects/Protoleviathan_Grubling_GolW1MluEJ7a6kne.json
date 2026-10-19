@@ -1,0 +1,33 @@
+{
+  "name": "Protoleviathan Grubling",
+  "type": "aspect",
+  "system": {
+    "details": "<p>This companion can only be marked by mire. When fully marked, you and your crew are immune to Pressure increases caused by leviathan and protoleviathan signs, effects, or encounters.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "QGwyFAJ7UILmOv0B",
+  "_id": "GolW1MluEJ7a6kne",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386193,
+    "modifiedTime": 1716738386193,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!GolW1MluEJ7a6kne"
+}

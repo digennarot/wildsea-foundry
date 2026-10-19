@@ -1,0 +1,34 @@
+{
+  "name": "Cargo Crane",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A sturdy crane for loading and unloading cargo, capable of carrying extremely heavy objects without overbalancing the ship.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "General Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "qLaXUJsA0bG5ENat",
+  "_id": "iLgMGdb2s95t00It",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844588,
+    "modifiedTime": 1717440162335,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!iLgMGdb2s95t00It"
+}

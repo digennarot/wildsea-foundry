@@ -1,0 +1,34 @@
+{
+  "name": "Trawler Nets",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Reinforced nets meant to be draped over the sides of the ship during relaxed journeys, catching larger insects and small mammals before they’re hauled back in.\nAutomatically acquire one normal specimen when you cut a path.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Bounteous Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "rruh3CK4B7is7Mej",
+  "_id": "QPCQNlGRI2gh3Y6G",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844776,
+    "modifiedTime": 1717440158631,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!QPCQNlGRI2gh3Y6G"
+}

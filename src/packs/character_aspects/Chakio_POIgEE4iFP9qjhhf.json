@@ -1,0 +1,33 @@
+{
+  "name": "Chakio",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A weasel-like mammal bred to find handholds and safe routes. When you would cut for manouevring under the effects of Pressure, ignore it and increase impact instead.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "uCk7DeXRis4b6A8I",
+  "_id": "POIgEE4iFP9qjhhf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375286,
+    "modifiedTime": 1716738375286,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!POIgEE4iFP9qjhhf"
+}

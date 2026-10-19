@@ -1,0 +1,33 @@
+{
+  "name": "Copper-Knot Scarf",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Threaded with a filigree of engine wiring. Deals CQ Volt damage, and you're resistant to Volt damage yourself. When under Pressure, you're also resistant to the harmful effects of crezzerin.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "bttVueRExlN05tFC",
+  "_id": "tu6mtYauYKJs9Oex",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383281,
+    "modifiedTime": 1716738383281,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!tu6mtYauYKJs9Oex"
+}

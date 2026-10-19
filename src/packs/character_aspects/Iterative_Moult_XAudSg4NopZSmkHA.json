@@ -1,0 +1,33 @@
+{
+  "name": "Iterative Moult",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task to moult, gaining two benefits of your choice from the following list that last until you moult with this aspect again:<ul><li><b>Recurve Claw</b> - You deal CQ Keen or Hewing damage,</li><li><b>Spined Scissor</b> - You deal CQ Spike damage and treat Conflicts as Triumphs when restraining a target,</li><li><b>Fluting</b> - You are immune to Keen damage,</li><li><b>Bulwark Shell</b> - You resist Blunt and Blast damage,</li><li><b>Tetrantid</b> - You've sculpted additional limbs, allowing you to hold more than usual,</li><li><b>Refine</b> - Add one temporary rank to any two of your existing skills,</li><li><b>Reconstruct</b> - Add one temporary box to any two of your aspects which are lost when burned or marked.</li></ul></p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Complex Trait"
+  },
+  "folder": "iwYbveOuZc1lC0qj",
+  "_id": "XAudSg4NopZSmkHA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366027,
+    "modifiedTime": 1716738366027,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!XAudSg4NopZSmkHA"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Hunter's Anchor",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Each massive bolt launched from this crossbow is attached to a chain wound around the ship's frame. Deals massive LR Spike damage. You may mark one of your ratings to tether a target hit by the hunter's anchor to your ship, forcing it to break free before it can flee (or pull you with it as it moves, if it's strong enough).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Delving Armament",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "UMFsF6bJXtP2r3um",
+  "_id": "bjaq7GU4lKWyRvqp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846910,
+    "modifiedTime": 1717440160705,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!bjaq7GU4lKWyRvqp"
+}

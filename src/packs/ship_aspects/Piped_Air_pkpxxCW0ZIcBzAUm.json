@@ -1,0 +1,34 @@
+{
+  "name": "Piped Air",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A pipe system that carries air from the interior of a ship to nozzles on the deckside, allowing those working outside to breathe easy even when high in the atmosphere.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "pkpxxCW0ZIcBzAUm",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845524,
+    "modifiedTime": 1717440164096,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!pkpxxCW0ZIcBzAUm"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Feathered Raptor",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A beautifully-feathered lizard, the result of generations of careful breeding to engender a modicum of sociability (still not quite there yet). Deals CQ hewing damage, and is large enough to ride.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "PQjk0zzQuN1IpvyG",
+  "_id": "I2Lhn0OAUJbYyA47",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367251,
+    "modifiedTime": 1716738367251,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!I2Lhn0OAUJbYyA47"
+}

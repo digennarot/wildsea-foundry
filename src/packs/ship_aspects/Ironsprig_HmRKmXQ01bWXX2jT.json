@@ -1,0 +1,34 @@
+{
+  "name": "Ironsprig",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Finishing a journey marks two boxes on plants grafted to an ironsprig (rather than the usual one).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gardening Mediums",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "ARe4ct5RrbrdmAiZ",
+  "_id": "HmRKmXQ01bWXX2jT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850758,
+    "modifiedTime": 1717440157064,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HmRKmXQ01bWXX2jT"
+}

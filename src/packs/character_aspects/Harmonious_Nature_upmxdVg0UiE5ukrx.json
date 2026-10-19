@@ -1,0 +1,33 @@
+{
+  "name": "Harmonious Nature",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You have seen and lived in places that many think of as mere firefly tales. Use a task to ask a question of the nature around you, and receive an answer.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "LQN3FoXJylEADvE3",
+  "_id": "upmxdVg0UiE5ukrx",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365845,
+    "modifiedTime": 1716738365845,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!upmxdVg0UiE5ukrx"
+}

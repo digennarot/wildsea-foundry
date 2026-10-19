@@ -1,0 +1,33 @@
+{
+  "name": "Hazardous Goods",
+  "type": "aspect",
+  "system": {
+    "details": "<p>It's the merchant of death that chooses who suffers, and how. You can deal two types of LR damage from the following list: Blunt, Spike, Blast, Toxin, or Salt. Mark this gear while in port to acquire a dangerous resource.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "8XY8gmFEdJD4drJI",
+  "_id": "Bgt2NxIRvH3HJhlz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382642,
+    "modifiedTime": 1716738382642,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Bgt2NxIRvH3HJhlz"
+}

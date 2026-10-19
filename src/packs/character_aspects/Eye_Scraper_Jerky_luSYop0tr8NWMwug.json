@@ -1,0 +1,33 @@
+{
+  "name": "Eye-Scraper Jerky",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Laced with mild psychoactive chemicals to heighten alertness. Mark to gain a burst of detailed information about something in the distance (supplied by the Firefly), and you never need to rest or sleep on journeys.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "bttVueRExlN05tFC",
+  "_id": "luSYop0tr8NWMwug",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383390,
+    "modifiedTime": 1716738383390,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!luSYop0tr8NWMwug"
+}

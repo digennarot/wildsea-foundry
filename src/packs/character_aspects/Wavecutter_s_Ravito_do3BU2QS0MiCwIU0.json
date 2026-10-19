@@ -1,0 +1,33 @@
+{
+  "name": "Wavecutter's Ravito",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A beautiful long-necked instrument, the tones of which bring to mind calming memories of the rustling waves. Burn to reduce the Pressure level by one, or to clear a mark or burn from a watchful eye.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Gear"
+  },
+  "folder": "iEg6pro72VqeTqSR",
+  "_id": "do3BU2QS0MiCwIU0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738380235,
+    "modifiedTime": 1716738380235,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!do3BU2QS0MiCwIU0"
+}

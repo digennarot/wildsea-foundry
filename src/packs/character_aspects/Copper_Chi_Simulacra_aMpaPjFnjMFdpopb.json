@@ -1,0 +1,33 @@
+{
+  "name": "Copper-Chi Simulacra",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Sculpting metal isn't as easy as sculpting chitin, but sometimes a trial run is needed before you commit to an idea. Salvage can be used to heal your traits and injuries, and for you also counts as a chitin-based resource.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "0bY1gOK2MXMZmsgS",
+  "_id": "aMpaPjFnjMFdpopb",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366129,
+    "modifiedTime": 1716738366129,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!aMpaPjFnjMFdpopb"
+}

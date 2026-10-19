@@ -1,0 +1,33 @@
+{
+  "name": "Voltaic Lantern",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A simple light source that runs off of your own internal charge. Mark to deplete a nearby source of electricity, absorbing it into the lantern for a brighter glow.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "vukXwNeZIk3SBQw9",
+  "_id": "BclJrPPBxYHNNKaN",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373096,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!BclJrPPBxYHNNKaN"
+}

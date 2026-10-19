@@ -1,0 +1,35 @@
+{
+  "name": "Frenzy-Parrot",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Possessed of a shrill and annoying squawk, but tolerated as an early warning system for dangerous predators roaming nearby.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Beast Packs"
+  },
+  "folder": "JN56PjnoJjg1GBtz",
+  "_id": "oCb4JV0JEWQyYbCR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946977,
+    "modifiedTime": 1716641946977,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!oCb4JV0JEWQyYbCR"
+}

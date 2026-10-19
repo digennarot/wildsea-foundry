@@ -1,0 +1,34 @@
+{
+  "name": "Flatbed",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Allows you carry a small number of crew or pieces of cargo.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Outrider Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "9wMthDFmKg4yWDOZ",
+  "_id": "gNmm6aq4GGegrNPt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849913,
+    "modifiedTime": 1717440161774,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gNmm6aq4GGegrNPt"
+}

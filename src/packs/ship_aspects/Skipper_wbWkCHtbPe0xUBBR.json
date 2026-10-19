@@ -1,0 +1,65 @@
+{
+  "name": "Skipper",
+  "type": "fitting",
+  "system": {
+    "details": "<p></p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "egHRwEdVwH1xeHaG"
+      },
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "zE4kMF2wx7IoBLKJ"
+      },
+      {
+        "rating": "speed",
+        "value": 3,
+        "id": "CPsXdM2UMIm7hDtO"
+      },
+      {
+        "rating": "saws",
+        "value": 2,
+        "id": "t9cNm4W8GCyzcx76"
+      },
+      {
+        "rating": "stealth",
+        "value": 3,
+        "id": "DLEOyDYkCwufnLe8"
+      },
+      {
+        "rating": "tilt",
+        "value": 2,
+        "id": "WCP0MKOZpCcecW1d"
+      }
+    ],
+    "stakes": 2,
+    "type": "Outrider Chassis",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JMJqGWIUccqpyFdf",
+  "_id": "wbWkCHtbPe0xUBBR",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.3",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849661,
+    "modifiedTime": 1726064255216,
+    "lastModifiedBy": "TJrAKHDDZFkc3kmM"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wbWkCHtbPe0xUBBR"
+}

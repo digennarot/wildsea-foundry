@@ -1,0 +1,33 @@
+{
+  "name": "Closer to the Past",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Choose a skill you have zero ranks in. When under the effects of Pressure, this skill has ranks equal to the current Pressure Level (maximum three).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "9lbzmOcmQVACLmbK",
+  "_id": "C0DzwqtLDy7yXFFb",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366326,
+    "modifiedTime": 1716738366326,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!C0DzwqtLDy7yXFFb"
+}

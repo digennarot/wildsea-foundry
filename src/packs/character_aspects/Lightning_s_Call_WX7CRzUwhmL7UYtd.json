@@ -1,0 +1,33 @@
+{
+  "name": "Lightning's Call",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can direct bursts of voltaic energy through your palms or fingers, dealing LR volt damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "WdXuyagYKHEnCxqF",
+  "_id": "WX7CRzUwhmL7UYtd",
+  "effects": [],
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372984,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!WX7CRzUwhmL7UYtd"
+}

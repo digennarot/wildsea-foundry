@@ -1,0 +1,33 @@
+{
+  "name": "Gnashing Sawskull",
+  "type": "aspect",
+  "system": {
+    "details": "<p>For the hands-off hacker, this grisly spectral relic of some unnamed undercanopy predator has teeth strong enough to turn wood to splinters. Deals CQ Hewing damage, with increased impact while under Pressure.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "kT63dNjKoK750ual",
+  "_id": "MA5YMbmkNI4GhErQ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738380156,
+    "modifiedTime": 1716738380156,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!MA5YMbmkNI4GhErQ"
+}

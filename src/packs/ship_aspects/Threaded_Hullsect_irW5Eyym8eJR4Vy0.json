@@ -1,0 +1,34 @@
+{
+  "name": "Threaded Hullsect",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A parasitic protoleviathan that grows as part of a ship rather than being tied to it in some way, resulting in a pair of massive but functional insect wings.</p><p>Takeoff Cost: None\nFlight Style: Float, Hover, Soar\nHullsects absolutely refuse to fly in wet weather.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 6,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "irW5Eyym8eJR4Vy0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848599,
+    "modifiedTime": 1716846531128,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!irW5Eyym8eJR4Vy0"
+}

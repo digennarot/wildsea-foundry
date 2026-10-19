@@ -1,0 +1,33 @@
+{
+  "name": "Hull Hearted",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once per scene, increase impact on any successful action taken whilst aboard a ship you own or crew.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "SqtWmJLxPziTUwlG",
+  "_id": "g5IkC1wQYkGIsBdF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366816,
+    "modifiedTime": 1716738366816,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!g5IkC1wQYkGIsBdF"
+}

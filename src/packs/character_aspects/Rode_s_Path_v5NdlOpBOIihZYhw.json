@@ -1,0 +1,33 @@
+{
+  "name": "Rode's Path",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Unanchored spirits find you, or at least one has, to serve as a point of connection until they find their lasting anchor or decide to sail past the veil. You may mark mire to learn a secret they can share from their restless past life.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Companion"
+  },
+  "folder": "g1wYdJBYxGHQ23ZU",
+  "_id": "v5NdlOpBOIihZYhw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367799,
+    "modifiedTime": 1716738367799,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!v5NdlOpBOIihZYhw"
+}

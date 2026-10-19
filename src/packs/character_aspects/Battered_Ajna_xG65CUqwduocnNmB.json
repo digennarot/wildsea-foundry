@@ -1,0 +1,33 @@
+{
+  "name": "Battered Ajna",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A stringed instrument meant to be played in tandem by the living and the dead, but you can play both parts. Empowers nearby spirits when played.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "CbJoVZwvFV4Jlhx8",
+  "_id": "xG65CUqwduocnNmB",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366486,
+    "modifiedTime": 1716738366486,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!xG65CUqwduocnNmB"
+}

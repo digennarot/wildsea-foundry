@@ -1,0 +1,45 @@
+{
+  "name": "Pamu",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Parasite leaves that grow directly from a ship's upper hull, and that naturally curl around the exposed deck when their vessel dips below the canopy.</p><p>Deck area benefits from ship's interior resistances</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "4xuzDP3MMTGUeE7n"
+      },
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "yshbvFP41EbuwH70"
+      }
+    ],
+    "stakes": 3,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "yxEiBeRcc8V3gQJv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848324,
+    "modifiedTime": 1716846531989,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!yxEiBeRcc8V3gQJv"
+}

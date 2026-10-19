@@ -1,0 +1,33 @@
+{
+  "name": "Fallen Pillars",
+  "type": "aspect",
+  "system": {
+    "details": "<p>When you make a discovery, you may combine two whispers rather than a whisper and a chart. Treat disasters as conflicts when rolling to explore or discern the history of locations discovered in this way.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "xn2LxujzReWaL31I",
+  "_id": "UOafGA2dZfocYPpx",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385843,
+    "modifiedTime": 1716738385843,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!UOafGA2dZfocYPpx"
+}

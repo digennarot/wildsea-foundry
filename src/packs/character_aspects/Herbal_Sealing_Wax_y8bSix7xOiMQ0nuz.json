@@ -1,0 +1,33 @@
+{
+  "name": "Herbal Sealing-Wax",
+  "type": "aspect",
+  "system": {
+    "details": "<p>An odd-smelling unguent for spreading on a vessel's doorways, dispensed liberally as a matter of course. Increase your ship's Seals rating by one when you're aboard.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "oKKWbu4d8zGPZh3a",
+  "_id": "y8bSix7xOiMQ0nuz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372666,
+    "modifiedTime": 1716738372666,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!y8bSix7xOiMQ0nuz"
+}

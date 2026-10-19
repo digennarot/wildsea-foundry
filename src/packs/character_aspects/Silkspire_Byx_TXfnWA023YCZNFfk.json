@@ -1,0 +1,33 @@
+{
+  "name": "Silkspire Byx",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A living golem of beautifully spun silks, usually in vaguely lupine shape.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Companion"
+  },
+  "folder": "RD9X6NkICLFfCNj6",
+  "_id": "TXfnWA023YCZNFfk",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365624,
+    "modifiedTime": 1716738365624,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TXfnWA023YCZNFfk"
+}

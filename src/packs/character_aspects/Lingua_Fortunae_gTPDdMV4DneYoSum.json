@@ -1,0 +1,33 @@
+{
+  "name": "Lingua Fortunae",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Fluency and cultural understanding can mean the difference between trading for a jagserry and trading for a stag berry. Treat conflicts as triumphs whenever you acquire a resource using a language other than Low Sour.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "VynvrpYe2LPd4sVh",
+  "_id": "gTPDdMV4DneYoSum",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382438,
+    "modifiedTime": 1716738382438,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gTPDdMV4DneYoSum"
+}

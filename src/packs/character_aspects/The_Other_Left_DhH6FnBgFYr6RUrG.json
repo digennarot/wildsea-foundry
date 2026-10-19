@@ -1,0 +1,33 @@
+{
+  "name": "The Other Left",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to allow you, or a crewmate, to treat a disaster on a ratings roll as a conflict instead.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "Qfq42BSrNjZq1Eq8",
+  "_id": "DhH6FnBgFYr6RUrG",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382988,
+    "modifiedTime": 1716738382988,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!DhH6FnBgFYr6RUrG"
+}

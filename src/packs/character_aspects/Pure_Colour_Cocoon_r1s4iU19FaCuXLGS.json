@@ -1,0 +1,33 @@
+{
+  "name": "Pure-Colour Cocoon",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Would this have been a mothryn, if not dipped in pure colour? Burn to reveal the cocoon for a few moments, dealing massive LR Salt damage to everyone that can see it (including you and your crewmates).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Companion"
+  },
+  "folder": "RD9X6NkICLFfCNj6",
+  "_id": "r1s4iU19FaCuXLGS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377064,
+    "modifiedTime": 1716738377064,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!r1s4iU19FaCuXLGS"
+}

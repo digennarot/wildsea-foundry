@@ -1,0 +1,34 @@
+{
+  "name": "Wild-Bay Doors",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A set of bay doors built into the hull that open directly to the waves from the interior of the ship, allowing outriders to launch and dock on their own or be 'scooped up' by the parent ship as it moves.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Launching and Docking",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "dc2JDU1l4xUmQAj6",
+  "_id": "j6pglbeMA3nhkXQD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847312,
+    "modifiedTime": 1717440162617,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!j6pglbeMA3nhkXQD"
+}

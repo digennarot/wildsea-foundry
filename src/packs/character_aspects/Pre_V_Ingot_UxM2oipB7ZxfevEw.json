@@ -1,0 +1,33 @@
+{
+  "name": "Pre-V Ingot",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Worn as a simple decoration, but holds incredible magnetic potential. Burn to briefly move a massive amount of metal, up to the size of a ship</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "m9dkFD5oyrUuWLE9",
+  "_id": "UxM2oipB7ZxfevEw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738371526,
+    "modifiedTime": 1716738371526,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!UxM2oipB7ZxfevEw"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Bark Buffers",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Used in conjunction with xylem wheel-saws for more comfortable transitions.</p><p>When entering or exiting an ironroot's internal structure (such as when using a Xylem Wheel-Saw), make an Armour ratings roll. On a triumph, the usual mark of damage isn't applied.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "GzM0DNSoayB1BHZo"
+      }
+    ],
+    "stakes": 2,
+    "type": "Xylem Phloers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "EHSXEKBCrw4cUrow",
+  "_id": "55lSsXheA7yyWa1G",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845940,
+    "modifiedTime": 1716846528959,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!55lSsXheA7yyWa1G"
+}

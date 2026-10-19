@@ -1,0 +1,33 @@
+{
+  "name": "Lightning Lash",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Deals LR Blunt or Volt damage, and increaases impact on attempts to restrain or tangle a target. If a target affected by the lash tries to escape, hijack focus (once per scene).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "4TMX7VPZOXpPjmkx",
+  "_id": "1z2gu3yzhfMmqBXG",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377440,
+    "modifiedTime": 1716738377440,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!1z2gu3yzhfMmqBXG"
+}

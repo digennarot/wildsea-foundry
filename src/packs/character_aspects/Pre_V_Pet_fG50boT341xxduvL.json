@@ -1,0 +1,33 @@
+{
+  "name": "Pre-V Pet",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A faithful friend from the old times that was trapped, and freed, alongside you. Not particularly suited to the wild world, but most likely revelling in it.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Companion"
+  },
+  "folder": "bI8usiI6O0vpodfV",
+  "_id": "fG50boT341xxduvL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366313,
+    "modifiedTime": 1716738366313,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!fG50boT341xxduvL"
+}

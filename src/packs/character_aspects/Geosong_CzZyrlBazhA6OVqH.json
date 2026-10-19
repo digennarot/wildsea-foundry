@@ -1,0 +1,33 @@
+{
+  "name": "Geosong",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The arconautic power flowing through you has attuned your senses to the slightest shifts in the skin of the planet. When on solid ground or stone, treat conflicts as triumphs when searching for irregularities or discerning impending actions.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "GUox13PUsDpsI9F9",
+  "_id": "CzZyrlBazhA6OVqH",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386594,
+    "modifiedTime": 1716738386594,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!CzZyrlBazhA6OVqH"
+}

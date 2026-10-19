@@ -1,0 +1,33 @@
+{
+  "name": "Slugger",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You favour strength over speed, destructive potential over accuracy. You naturally cut one on all CQ attacks, but treat conflicts as triumphs on those same actions.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "3olwJVpzwAUJkfpY",
+  "_id": "oDwKfXH4xk27o0jz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738389164,
+    "modifiedTime": 1716738389164,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!oDwKfXH4xk27o0jz"
+}

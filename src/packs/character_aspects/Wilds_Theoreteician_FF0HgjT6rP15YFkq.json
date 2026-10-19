@@ -1,0 +1,33 @@
+{
+  "name": "Wilds Theoreteician",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Sacrifice a whisper to discern the properties of a mysterious illness or injury.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "GGgDhlNonS9uMSyf",
+  "_id": "FF0HgjT6rP15YFkq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372570,
+    "modifiedTime": 1716738372570,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FF0HgjT6rP15YFkq"
+}

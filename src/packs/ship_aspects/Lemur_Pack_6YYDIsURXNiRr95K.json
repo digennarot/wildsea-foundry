@@ -1,0 +1,35 @@
+{
+  "name": "Lemur Pack",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>A group of nimble helpers that keep the ship clear of smaller insects.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Beast Packs"
+  },
+  "folder": "JN56PjnoJjg1GBtz",
+  "_id": "6YYDIsURXNiRr95K",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946760,
+    "modifiedTime": 1716641946760,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!6YYDIsURXNiRr95K"
+}

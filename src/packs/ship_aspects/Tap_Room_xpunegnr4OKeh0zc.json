@@ -1,0 +1,34 @@
+{
+  "name": "Tap-Room",
+  "type": "fitting",
+  "system": {
+    "details": "<p>For the creation, storage, and consumption of ales, mead, and spirits (the alcoholic kind). Usually furnished with comfortable seating, and maybe card tables.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Common Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "d1tw3WkmF0uVc18g",
+  "_id": "xpunegnr4OKeh0zc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844854,
+    "modifiedTime": 1717440165673,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!xpunegnr4OKeh0zc"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Born to Sail",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You always know true North, and ignore cut on movement-related actions caused by adverse seas or damage to your ship.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "SqtWmJLxPziTUwlG",
+  "_id": "61SADtLZBmTwt6AL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366856,
+    "modifiedTime": 1716738366856,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!61SADtLZBmTwt6AL"
+}

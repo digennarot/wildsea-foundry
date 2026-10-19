@@ -1,0 +1,40 @@
+{
+  "name": "Hood-Willow",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A tree growing from the deck itself, some quirk of plant biology leaves the hood-willow extremely protective of the space beneath its branches.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 4,
+        "id": "DpuNXHQpxGYOKB4q"
+      }
+    ],
+    "stakes": 2,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "ol1FMOGxAHdNQcOY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848105,
+    "modifiedTime": 1717440163842,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ol1FMOGxAHdNQcOY"
+}

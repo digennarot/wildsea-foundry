@@ -1,0 +1,34 @@
+{
+  "name": "Focusing Amber",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A screen of delicate amber placed in front of the pilot's controls, with various bubbles and magnifying lenses built into it. Allows the pilot at the controls  to benefit from Hawksight, the ability to see further than most and in much greater detail.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "GFNmXVfF81Y1gyXq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845457,
+    "modifiedTime": 1717440156651,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!GFNmXVfF81Y1gyXq"
+}

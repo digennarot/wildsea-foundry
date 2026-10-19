@@ -1,0 +1,39 @@
+{
+  "name": "Scything",
+  "type": "design",
+  "system": {
+    "details": "<p>Often wedge or blade-shaped, scything frames are constructed specifically to cut as efficiently as possible through the waves.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "saws",
+        "value": 1,
+        "id": "vrlSY73GfOYBFg6p"
+      }
+    ],
+    "stakes": 1,
+    "type": "frame",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Ri6EBpyFIdQvShqY",
+  "_id": "QKIssBGdkAkL0LvV",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843662,
+    "modifiedTime": 1717440158621,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!QKIssBGdkAkL0LvV"
+}

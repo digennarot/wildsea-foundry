@@ -1,0 +1,33 @@
+{
+  "name": "Rope-Strung Tablets",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Promises were made to be broken. Burn to gain a whisper related to either your faith or the current situation.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "ogzQeTAaOAajQsyU",
+  "_id": "v8F6mWYtTqIrIxCq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386061,
+    "modifiedTime": 1716738386061,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!v8F6mWYtTqIrIxCq"
+}

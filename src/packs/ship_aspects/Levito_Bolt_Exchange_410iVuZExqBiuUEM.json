@@ -1,0 +1,34 @@
+{
+  "name": "Levito Bolt Exchange",
+  "type": "fitting",
+  "system": {
+    "details": "<p>While it may seem little more than a confusion of hissing pistons and thumping hammers, the external section - a series of bolts attached to the hull - allow a ship to surf magnetic fields normally too weak to detect.</p><p>Takeoff Cost: Stealth + Saws\nFlight Style: Float, Hover, Glide</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "410iVuZExqBiuUEM",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848675,
+    "modifiedTime": 1716846528881,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!410iVuZExqBiuUEM"
+}

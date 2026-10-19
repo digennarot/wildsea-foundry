@@ -1,0 +1,33 @@
+{
+  "name": "Wicked Claw",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You have a recurved claw on the end of at least one of your limbs. It deals CQ Keen or Serrated damage (chosen when you gain this trait), and you treat conflicts as triumphs when grappling with or restraining targets.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "E3EKa5s8S55LEM3a",
+  "_id": "qwW1RplZ2Y133knM",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738389783,
+    "modifiedTime": 1716738389783,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!qwW1RplZ2Y133knM"
+}

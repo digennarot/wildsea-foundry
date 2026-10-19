@@ -1,0 +1,33 @@
+{
+  "name": "Guide My Hands",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Burn to borrow a measure of an ancestor’s competency, gaining two ranks in any skill for the duration of a scene.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 3
+    },
+    "type": "Trait"
+  },
+  "folder": "5KrjLohFytAQKalh",
+  "_id": "dM1HgOF0LsSZpjFk",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738364843,
+    "modifiedTime": 1716844010397,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!dM1HgOF0LsSZpjFk"
+}

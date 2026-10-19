@@ -1,0 +1,33 @@
+{
+  "name": "Howl of the Veil",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The echo of this terrible call in your mind dulls natural fear responses. Seeing leviathans and other bestial horrors offers whispers instead of mire.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "pLB4jzk3LXsOWwq9",
+  "_id": "QBTQOL7F96sAhlmt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367606,
+    "modifiedTime": 1716738367606,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!QBTQOL7F96sAhlmt"
+}

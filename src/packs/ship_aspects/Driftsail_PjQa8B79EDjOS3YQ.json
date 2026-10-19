@@ -1,0 +1,39 @@
+{
+  "name": "Driftsail",
+  "type": "design",
+  "system": {
+    "details": "<p>A near-invisible sail woven from the ghosts of old canvas. Ripples and billows in the presence of spirits.</p><p>Only effective in areas of dense spiritual presence</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "Ix9WtxMvaW07af4y"
+      }
+    ],
+    "stakes": 1,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "PjQa8B79EDjOS3YQ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844093,
+    "modifiedTime": 1716846530125,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!PjQa8B79EDjOS3YQ"
+}

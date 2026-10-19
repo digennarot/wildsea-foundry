@@ -1,0 +1,44 @@
+{
+  "name": "Navapede Limbs",
+  "type": "design",
+  "system": {
+    "details": "<p>Centipedal limbs lining the hull, letting a ship scuttle through the thrash. If such a vessel could truly now be called a ship, of course.</p><p>Deals massive CQ Spike damage</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "IKrVT3Kgq9QygFQX"
+      },
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "QioyLdLQskHV8zHH"
+      }
+    ],
+    "stakes": 2,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "TBCbfvhYN7zCdsKt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843988,
+    "modifiedTime": 1716846530273,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TBCbfvhYN7zCdsKt"
+}

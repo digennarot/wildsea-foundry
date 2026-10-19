@@ -1,0 +1,33 @@
+{
+  "name": "Rigid Kite",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A less complex version of the kitesailor's unique apparatus, constructed from painted fabrics and an inflexible frame. Mark to gain the Rush and Glide flight styles until end of scene.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "S8BWqDd2eBlRhPXc",
+  "_id": "NMK4JUXNRhcHGR9D",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376784,
+    "modifiedTime": 1716738376784,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NMK4JUXNRhcHGR9D"
+}

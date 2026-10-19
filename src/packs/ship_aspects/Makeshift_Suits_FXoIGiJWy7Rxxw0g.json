@@ -1,0 +1,34 @@
+{
+  "name": "Makeshift Suits",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Uncomfortable to wear for long periods, these suits provide a modicum of protection against depth-related hazards the crew might encounter outside of the ship.</p><p>Crew that have time to suit up before leaving the ship gain a temporary 4-track benefit, Makeshift Suit (which may have negative effects on movement). The number of boxes on this track is reduced whenever the Pressure Level increases, unmarked boxes first.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Delving Equipment",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "36cXg4oznIQIe0ue",
+  "_id": "FXoIGiJWy7Rxxw0g",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845304,
+    "modifiedTime": 1716846529503,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FXoIGiJWy7Rxxw0g"
+}

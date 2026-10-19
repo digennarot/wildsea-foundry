@@ -1,0 +1,33 @@
+{
+  "name": "Syringiosquito",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A diminutive alchemical construct designed to hold and drain fluids without being detected.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Companion"
+  },
+  "folder": "XDoj7hmcgAPWKcEi",
+  "_id": "Eqx6cjVAfV7YZli4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368359,
+    "modifiedTime": 1716738368359,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Eqx6cjVAfV7YZli4"
+}

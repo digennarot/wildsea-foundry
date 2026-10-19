@@ -1,0 +1,33 @@
+{
+  "name": "Nothing Stays Buried",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to identify a hidden or forgotten space in your vicinity by gut feeling alone.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 4
+    },
+    "type": "Trait"
+  },
+  "folder": "lNvXpT0YH6KCmG5k",
+  "_id": "glJdKe7MTEdBwFhB",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370004,
+    "modifiedTime": 1716803146171,
+    "lastModifiedBy": "aS0Hz7mm2G2rWqqt"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!glJdKe7MTEdBwFhB"
+}

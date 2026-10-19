@@ -1,0 +1,33 @@
+{
+  "name": "Trade Winds",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A spirited zephyr at your back that delights in deals. Consume a resource to increase impact on movement related actions for the duration of a scene. Increase your ship's speed rating by 1 while it has cargo aboard.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Companion"
+  },
+  "folder": "BeeCkLPE0DKuDpeh",
+  "_id": "BDkyUGrLImvjxsEj",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382735,
+    "modifiedTime": 1716738382735,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!BDkyUGrLImvjxsEj"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Crezzerbloom",
+  "type": "aspect",
+  "system": {
+    "details": "<p>For good or ill, crezzerin takes hold. This aspect can only be marked by crezzerin exposure - when fully marked, roll for a mutation (S&R p.287) and then clear the aspect's track. If you have crezzerin resistance, add two boxes to this aspect's track. If you have crezzerin immunity, add four boxes (This trait's track has a maximum of seven boxes).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Mutatative Trait"
+  },
+  "folder": "VQzx0UUpPbKoIRcc",
+  "_id": "XJe1ZhwoAX0hcOek",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738390089,
+    "modifiedTime": 1716738390089,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!XJe1ZhwoAX0hcOek"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "The Purr and the Claw",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Any ship you crew ignores the usual damage dealt by a lift system's takeoff cost in all but the most terrible atmospheric or environmental conditions.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "xEpBRsEDz8BfiZ7N",
+  "_id": "8Bv194tCdJqOGXes",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383748,
+    "modifiedTime": 1716738383748,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!8Bv194tCdJqOGXes"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Ritual Mask",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can clearly see spirits and the spectral realm.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "ejAk8nDayP2rQKh2",
+  "_id": "OkvmOKAkAZugOYce",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366673,
+    "modifiedTime": 1716738366673,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!OkvmOKAkAZugOYce"
+}

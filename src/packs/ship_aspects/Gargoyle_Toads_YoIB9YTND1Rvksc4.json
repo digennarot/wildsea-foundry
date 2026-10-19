@@ -1,0 +1,40 @@
+{
+  "name": "Gargoyle Toads",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Clay baked and shaped with arconautic puissance, the unseen tongues of these immobile open-mouthed decorations snake through the air to gather and neutralize drifting spores.</p><p>Ship interior is immune to drifting spores</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "jSMiHg6edF1FN4HH"
+      }
+    ],
+    "stakes": 2,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "YoIB9YTND1Rvksc4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847724,
+    "modifiedTime": 1716846530590,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!YoIB9YTND1Rvksc4"
+}

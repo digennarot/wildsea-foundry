@@ -1,0 +1,34 @@
+{
+  "name": "Wrecker's Magnet",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A curious electromagnetic crane, often used by salvagers. Controls on the crane can increase, decrease, or cut the magnetism entirely.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "General Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "qLaXUJsA0bG5ENat",
+  "_id": "8Y2hVsFyVN9qWOBB",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844600,
+    "modifiedTime": 1717440155451,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!8Y2hVsFyVN9qWOBB"
+}

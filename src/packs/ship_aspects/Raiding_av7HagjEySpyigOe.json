@@ -1,0 +1,34 @@
+{
+  "name": "Raiding",
+  "type": "fitting",
+  "system": {
+    "details": "<ul><li><p>Fortified deck-rails to give the crew cover while shooting (or being shot at).</p></li><li><p>Bulkhead doors that can be closed and locked to isolate boarding parties.</p></li><li><p>An armoury lockbox containing weapons taken as spoils from previous encounters, allowing crew fighting on or below decks easy access to Blunt or Blast damage.</p></li></ul>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Motif",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Uu14OE32lX7tniVq",
+  "_id": "av7HagjEySpyigOe",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844478,
+    "modifiedTime": 1717440285270,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!av7HagjEySpyigOe"
+}

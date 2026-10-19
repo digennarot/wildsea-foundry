@@ -1,0 +1,18 @@
+{
+  "name": "Motif",
+  "type": "Item",
+  "_id": "Uu14OE32lX7tniVq",
+  "folder": "iS2vYhcsS8evOlRY",
+  "sorting": "a",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844414,
+    "modifiedTime": 1716641844414,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!Uu14OE32lX7tniVq"
+}

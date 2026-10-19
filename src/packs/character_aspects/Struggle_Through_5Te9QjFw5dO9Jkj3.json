@@ -1,0 +1,33 @@
+{
+  "name": "Struggle Through",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Whenever you would be affected by crezzerin, bad air, or drifting spores, you may mark mire to ignore the effect.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "AmCG4oWvibZl5PVA",
+  "_id": "5Te9QjFw5dO9Jkj3",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381221,
+    "modifiedTime": 1716738381221,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!5Te9QjFw5dO9Jkj3"
+}

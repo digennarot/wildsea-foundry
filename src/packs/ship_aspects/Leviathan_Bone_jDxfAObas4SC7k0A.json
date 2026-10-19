@@ -1,0 +1,39 @@
+{
+  "name": "Leviathan Bone",
+  "type": "design",
+  "system": {
+    "details": "<p>A hull crafted from one or more pieces of leviathan skeleton. Solid, if a little morbid.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "H4KQQCAy2PM24tV4"
+      }
+    ],
+    "stakes": 1,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "jDxfAObas4SC7k0A",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843723,
+    "modifiedTime": 1717440162627,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!jDxfAObas4SC7k0A"
+}

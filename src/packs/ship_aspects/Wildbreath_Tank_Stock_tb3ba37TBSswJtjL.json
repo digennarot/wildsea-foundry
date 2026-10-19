@@ -1,0 +1,34 @@
+{
+  "name": "Wildbreath Tank Stock",
+  "type": "fitting",
+  "system": {
+    "details": "<p>These pressurized tanks are filled with canopy-level air, allowing for easy breathing even when a ship is high enough that the atmosphere begins to thin.</p><p>Crew that have time to shoulder a wildbreath tank before leaving the ship at heights gain a temporary 3-track benefit, Clean Air.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Aeronaut Equipment",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NBCpB1pekqg5j0mW",
+  "_id": "tb3ba37TBSswJtjL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845809,
+    "modifiedTime": 1716846531757,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!tb3ba37TBSswJtjL"
+}

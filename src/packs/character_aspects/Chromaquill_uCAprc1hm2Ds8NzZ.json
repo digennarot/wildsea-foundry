@@ -1,0 +1,33 @@
+{
+  "name": "Chromaquill",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A hedgehog with transparent quills. Each easily-shed quill is filled with coloured ink, giving the Chromaquill a rainbow appearance. Use a task to create two specimens, Coloured Ink and Hollow Quill.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "MJUTBFRG9vXsKG4V",
+  "_id": "uCAprc1hm2Ds8NzZ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387781,
+    "modifiedTime": 1716738387781,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!uCAprc1hm2Ds8NzZ"
+}

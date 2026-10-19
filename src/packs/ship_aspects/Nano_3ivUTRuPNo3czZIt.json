@@ -1,0 +1,39 @@
+{
+  "name": "Nano",
+  "type": "design",
+  "system": {
+    "details": "<p>Suited for a single sailor and maybe a passenger or two. Perfect for the lone wildsailor, possessed of excess bravery (or a deathwish).</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "stealth",
+        "value": 1,
+        "id": "WPBsqyoVF8lyLZm9"
+      }
+    ],
+    "stakes": 1,
+    "type": "size",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "6jSjC0UcaPy3AFaz",
+  "_id": "3ivUTRuPNo3czZIt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843592,
+    "modifiedTime": 1717440154483,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!3ivUTRuPNo3czZIt"
+}

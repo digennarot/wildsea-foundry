@@ -1,0 +1,18 @@
+{
+  "name": "Bloom Surfing",
+  "type": "Item",
+  "_id": "EmuhVWTPyQ5MkbjJ",
+  "folder": "fZq0CtJ8DOnIgn41",
+  "sorting": "a",
+  "sort": 500000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845849,
+    "modifiedTime": 1716641845849,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!EmuhVWTPyQ5MkbjJ"
+}

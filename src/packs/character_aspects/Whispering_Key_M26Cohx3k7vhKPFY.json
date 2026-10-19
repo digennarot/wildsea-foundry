@@ -1,0 +1,33 @@
+{
+  "name": "Whispering Key",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Consume a whisper to open (or jam) any mundane lock. Consume a chart to discover hidden locations or crawlspaces nearby.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "8a0kkU5oyvHZg254",
+  "_id": "M26Cohx3k7vhKPFY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381359,
+    "modifiedTime": 1716738381359,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!M26Cohx3k7vhKPFY"
+}

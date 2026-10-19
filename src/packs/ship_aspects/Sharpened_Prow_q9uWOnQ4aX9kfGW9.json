@@ -1,0 +1,33 @@
+{
+  "name": "Sharpened Prow",
+  "type": "design",
+  "system": {
+    "details": "<p>Simple and straightforward, a honed blade running the\r\nlength of the ship’s prow to cut through vegetation.</p><p>Provides a basic cutting edge, but no motive force.Just about works when paired with oars, but you\nreally should choose something better.\n\nDeals massive CQ Keen damage... or it would, if you could get up enough speed.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 0,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "q9uWOnQ4aX9kfGW9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844070,
+    "modifiedTime": 1716846531556,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!q9uWOnQ4aX9kfGW9"
+}

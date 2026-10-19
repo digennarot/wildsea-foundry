@@ -1,0 +1,34 @@
+{
+  "name": "Entertainment",
+  "type": "fitting",
+  "system": {
+    "details": "<ul><li><p>A gaudy appearance that catches the eye.</p></li><li><p>A theatrical stage built into the main deck.</p></li><li><p>Costuming supplies for the representation of various creeds and characters.</p></li></ul>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Motif",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Uu14OE32lX7tniVq",
+  "_id": "O9lrLtYpOHZVO6PE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844505,
+    "modifiedTime": 1717440310942,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!O9lrLtYpOHZVO6PE"
+}

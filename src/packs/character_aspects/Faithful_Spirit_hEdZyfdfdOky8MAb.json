@@ -1,0 +1,33 @@
+{
+  "name": "Faithful Spirit",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Loyal to the grave, and beyond. Mark to ignore the effects of an active mire for the rest of the scene.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Companion"
+  },
+  "folder": "iCNDPqfVfJItYiVZ",
+  "_id": "hEdZyfdfdOky8MAb",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366510,
+    "modifiedTime": 1716738366510,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!hEdZyfdfdOky8MAb"
+}

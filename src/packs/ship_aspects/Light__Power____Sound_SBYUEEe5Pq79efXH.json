@@ -1,0 +1,18 @@
+{
+  "name": "Light, Power, & Sound",
+  "type": "Item",
+  "_id": "SBYUEEe5Pq79efXH",
+  "folder": "fZq0CtJ8DOnIgn41",
+  "sorting": "a",
+  "sort": 400000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846078,
+    "modifiedTime": 1716641846078,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!SBYUEEe5Pq79efXH"
+}

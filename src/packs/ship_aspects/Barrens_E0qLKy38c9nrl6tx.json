@@ -1,0 +1,34 @@
+{
+  "name": "Barrens",
+  "type": "fitting",
+  "system": {
+    "details": "<p>When you sow a plant in barrens, add three extra boxes to the plant's track.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 0,
+    "type": "Gardening Mediums",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "ARe4ct5RrbrdmAiZ",
+  "_id": "E0qLKy38c9nrl6tx",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850501,
+    "modifiedTime": 1717440156180,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!E0qLKy38c9nrl6tx"
+}

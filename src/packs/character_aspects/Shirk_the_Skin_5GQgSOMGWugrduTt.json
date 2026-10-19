@@ -1,0 +1,33 @@
+{
+  "name": "Shirk the Skin",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Burn to leave your skin for a short period. When outside your skin you are a mass of moving spiders, and can easily move through small spaces and climb any surface.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Trait"
+  },
+  "folder": "tiriStt2yPr75BBm",
+  "_id": "5GQgSOMGWugrduTt",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365734,
+    "modifiedTime": 1716738365734,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!5GQgSOMGWugrduTt"
+}

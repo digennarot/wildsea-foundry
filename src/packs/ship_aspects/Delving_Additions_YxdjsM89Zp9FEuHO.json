@@ -1,0 +1,18 @@
+{
+  "name": "Delving Additions",
+  "type": "Item",
+  "_id": "YxdjsM89Zp9FEuHO",
+  "folder": "7ppKYjaQdOiatNIC",
+  "sorting": "a",
+  "sort": 300000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845039,
+    "modifiedTime": 1716641845039,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!YxdjsM89Zp9FEuHO"
+}

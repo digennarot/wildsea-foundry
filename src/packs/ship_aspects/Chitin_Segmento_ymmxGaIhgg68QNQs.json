@@ -1,0 +1,40 @@
+{
+  "name": "Chitin Segmento",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Nowhere near as effective as its iron counterpart at resisting damage, the chitin segmento is still popular among submariners thanks to the innate ability of its semi-living plating to push back against the depths.</p><p>Deck area benefits from ship's interior resistances</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 4,
+        "id": "g0U0d6iH0TMF1vyk"
+      }
+    ],
+    "stakes": 3,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "ymmxGaIhgg68QNQs",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848179,
+    "modifiedTime": 1716846531967,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ymmxGaIhgg68QNQs"
+}

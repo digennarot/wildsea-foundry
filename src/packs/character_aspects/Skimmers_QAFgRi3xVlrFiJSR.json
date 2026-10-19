@@ -1,0 +1,33 @@
+{
+  "name": "Skimmers",
+  "type": "aspect",
+  "system": {
+    "details": "<p>For some it's the thrill of speed that draws them to invention, whether airborne or not. Increase impact on actions taken to sprint, slide, or chase, and you gain the Rush takeoff style (but no additional flight style).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "ZSSJhR1Ksf614Edk",
+  "_id": "QAFgRi3xVlrFiJSR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383941,
+    "modifiedTime": 1716738383941,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!QAFgRi3xVlrFiJSR"
+}

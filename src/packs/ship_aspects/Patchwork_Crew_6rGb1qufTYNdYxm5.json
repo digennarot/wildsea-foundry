@@ -1,0 +1,34 @@
+{
+  "name": "Patchwork Crew",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Unnerving though their presence may be, these whisper-animated sacks of dried leaves and wave-level offcuts can be pushed over the side of a ship to bait hungry pursuers with a nose for the crew.</p><p>Optimal Use: Throw overboard to clear a burn from any Eye tracking the crew rather than the ship.\nAlternate Use: They rarely get much done, but you might as well put those whispers to work. Instead of clearing an Eye, clear a mark on any two of your ship's ratings.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Bafflers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "teIt6nRvWg1g7vN6",
+  "_id": "6rGb1qufTYNdYxm5",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849493,
+    "modifiedTime": 1716846529075,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!6rGb1qufTYNdYxm5"
+}

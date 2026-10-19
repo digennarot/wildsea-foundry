@@ -1,0 +1,33 @@
+{
+  "name": "This Looks Interesting",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The most difficult question: to catalogue, or to incorporate? When you gain a specimen, you may either add the Preserved tag, or add a negative tag and clear a mark of damage on any one of your traits instead.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "ZQogFiRDmsIqDTqi",
+  "_id": "L6SB1jdNVpIOQe5q",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387488,
+    "modifiedTime": 1716738387488,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!L6SB1jdNVpIOQe5q"
+}

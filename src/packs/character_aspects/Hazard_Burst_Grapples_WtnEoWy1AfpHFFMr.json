@@ -1,0 +1,33 @@
+{
+  "name": "Hazard Burst-Grapples",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Once per scene, when targeted by an attack or effect while delving that might cause you to fall, burn to hijack focus and release the burst-grapples, yanking you to a nearby point of interest and out of harm's way.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "KdeuNDAM1FsgykNR",
+  "_id": "WtnEoWy1AfpHFFMr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376577,
+    "modifiedTime": 1716738376577,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!WtnEoWy1AfpHFFMr"
+}

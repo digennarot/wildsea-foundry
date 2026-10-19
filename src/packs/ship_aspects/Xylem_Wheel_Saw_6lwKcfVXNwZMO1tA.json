@@ -1,0 +1,44 @@
+{
+  "name": "Xylem Wheel-Saw",
+  "type": "design",
+  "system": {
+    "details": "<p>An angled grinding wheel designed not only to tear through an ironroot's bark, but to grip slippery internal wood with maximum traction.</p><p>Deals massive CQ Serrated damage.\nAllows for travel within larger ironroot branches, but accessing and exiting such areas mark either the ship's Armour or Seals ratings.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": -1,
+        "id": "IOas6cfuxcBG1nuA"
+      },
+      {
+        "rating": "saws",
+        "value": 2,
+        "id": "s1YqFRVe5Ko2CBzZ"
+      }
+    ],
+    "stakes": 2,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "6lwKcfVXNwZMO1tA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844132,
+    "modifiedTime": 1716846529050,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!6lwKcfVXNwZMO1tA"
+}

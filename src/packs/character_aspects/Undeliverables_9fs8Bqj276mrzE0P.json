@@ -1,0 +1,33 @@
+{
+  "name": "Undeliverables",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Sometimes the oath is broken by the death of a receiver. You carry those undelivered letters and parcels around as a memorial, or possibly a penance.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Gear"
+  },
+  "folder": "CL3VRF7TPkNPi7qk",
+  "_id": "9fs8Bqj276mrzE0P",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373553,
+    "modifiedTime": 1716738373553,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!9fs8Bqj276mrzE0P"
+}

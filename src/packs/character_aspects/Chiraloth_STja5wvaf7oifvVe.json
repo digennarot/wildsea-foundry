@@ -1,0 +1,33 @@
+{
+  "name": "Chiraloth",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to have clothes re-stitch themselves to mimic a uniform or piece of unique attire from a wildsea group or faction. Burn for a perfect visual recreation.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "1eY1zTujzz4pqwOu",
+  "_id": "STja5wvaf7oifvVe",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375566,
+    "modifiedTime": 1716738375566,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!STja5wvaf7oifvVe"
+}

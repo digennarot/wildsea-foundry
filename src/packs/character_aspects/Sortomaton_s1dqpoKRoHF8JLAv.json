@@ -1,0 +1,33 @@
+{
+  "name": "Sortomaton",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A wheezing machine used for the sorting and categorizing of mail. You count as fluent in all languages, but only when reading addresses, listening to directions, or commiting a sender's message to memory.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "YIyNOv2O9S2uvjnp",
+  "_id": "s1dqpoKRoHF8JLAv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373604,
+    "modifiedTime": 1716738373604,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!s1dqpoKRoHF8JLAv"
+}

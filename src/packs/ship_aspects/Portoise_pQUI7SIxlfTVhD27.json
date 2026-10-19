@@ -1,0 +1,34 @@
+{
+  "name": "Portoise",
+  "type": "fitting",
+  "system": {
+    "details": "<p>The portoise can move slowly around the ship, avoiding bad growing conditions (such as adverse weather) by heading belowdecks. If it is caught up in a fight, it can negate one instance of damage to a nearby crewmember once per scene.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "pQUI7SIxlfTVhD27",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850446,
+    "modifiedTime": 1717440164031,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!pQUI7SIxlfTVhD27"
+}

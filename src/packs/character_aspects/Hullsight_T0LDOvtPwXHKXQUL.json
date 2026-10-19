@@ -1,0 +1,33 @@
+{
+  "name": "Hullsight",
+  "type": "aspect",
+  "system": {
+    "details": "<p>While aboard your ship you can see as though you had eyes at any point across the outer hull.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "Z6BJC4ANhXMQt75c",
+  "_id": "T0LDOvtPwXHKXQUL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370727,
+    "modifiedTime": 1716738370727,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!T0LDOvtPwXHKXQUL"
+}

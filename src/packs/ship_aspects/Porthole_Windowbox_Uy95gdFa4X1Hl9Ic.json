@@ -1,0 +1,34 @@
+{
+  "name": "Porthole Windowbox",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Whenever your ship travels deeper than the thrash, your plot is at risk. Roll a d6 - on a 6 it's fine, on a 5 or 4 the plants within are damaged, on a 3, 2 or 1 the entire plot is destroyed.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 0,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "Uy95gdFa4X1Hl9Ic",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850054,
+    "modifiedTime": 1717440159361,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Uy95gdFa4X1Hl9Ic"
+}

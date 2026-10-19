@@ -1,0 +1,33 @@
+{
+  "name": "Record of Accounting",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your list of receipts and lines of credit fill multiple volumes, allowing you to collect dividends almost anywhere. Whenever you dock at port, gain either two common local resources, or a single rare local resource.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "8XY8gmFEdJD4drJI",
+  "_id": "5JKb5XGDFEqXGhpK",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382478,
+    "modifiedTime": 1716738382478,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!5JKb5XGDFEqXGhpK"
+}

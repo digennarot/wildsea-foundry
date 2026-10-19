@@ -1,0 +1,33 @@
+{
+  "name": "Reading the Remains",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Whether leaves, grounds, draff or bones, all concoctions leave remnants. Consume a specimen to ask a question and read an omen in your remnants.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "dxyeOQl1U22DYz0w",
+  "_id": "zK7TiJiqJbeyXhax",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372216,
+    "modifiedTime": 1716738372216,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zK7TiJiqJbeyXhax"
+}

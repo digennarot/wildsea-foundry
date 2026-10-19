@@ -1,0 +1,35 @@
+{
+  "name": "Owl-Arms",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Mark the owl-arms' track to gain a resource, 'Freshly-Caught Prey'.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Rising Gangs"
+  },
+  "folder": "jkENfQgl9gKPqBEQ",
+  "_id": "EqauR8ksxshxqFSE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946366,
+    "modifiedTime": 1716641946366,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!EqauR8ksxshxqFSE"
+}

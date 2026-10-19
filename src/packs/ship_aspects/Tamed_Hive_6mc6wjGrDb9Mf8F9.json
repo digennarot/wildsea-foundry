@@ -1,0 +1,44 @@
+{
+  "name": "Tamed Hive",
+  "type": "design",
+  "system": {
+    "details": "<p>A buzzing organic engine of honeycombs and crawling workers, their movements a complex dance.</p><p>Fuelled with stolen flowers and unprocessed pollen.\nCrew can use a task while at sea to gain a resource, 'Fresh Engine-Honey', once per journey.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "A4a9qOzmp2iDTJKQ"
+      },
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "4neHTf1iSE33keri"
+      }
+    ],
+    "stakes": 2,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "6mc6wjGrDb9Mf8F9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844291,
+    "modifiedTime": 1716846529057,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!6mc6wjGrDb9Mf8F9"
+}

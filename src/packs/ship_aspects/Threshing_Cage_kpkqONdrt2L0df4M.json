@@ -1,0 +1,50 @@
+{
+  "name": "Threshing-Cage",
+  "type": "fitting",
+  "system": {
+    "details": "<p>An ever-moving arrangement of poles, chains, and blades, the entire rattling assemblage plugged straight into by the ship's engine.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "my5ofo5KYObEZpfc"
+      },
+      {
+        "rating": "saws",
+        "value": 1,
+        "id": "2KzINfkpmz4ho2og"
+      },
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "oCPabNkKFjdOXxlx"
+      }
+    ],
+    "stakes": 3,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "kpkqONdrt2L0df4M",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848202,
+    "modifiedTime": 1717440163044,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!kpkqONdrt2L0df4M"
+}

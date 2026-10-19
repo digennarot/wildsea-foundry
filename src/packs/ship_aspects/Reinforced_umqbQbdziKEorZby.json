@@ -1,0 +1,39 @@
+{
+  "name": "Reinforced",
+  "type": "design",
+  "system": {
+    "details": "<p>A simple frame, augmented with a multitude of cycling locks, pressure exchangers, and built-in ordinators.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "ckOrnYpB7mAVuECH"
+      }
+    ],
+    "stakes": 1,
+    "type": "frame",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Ri6EBpyFIdQvShqY",
+  "_id": "umqbQbdziKEorZby",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843684,
+    "modifiedTime": 1717440165106,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!umqbQbdziKEorZby"
+}

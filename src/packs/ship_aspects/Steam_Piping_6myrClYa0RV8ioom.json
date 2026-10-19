@@ -1,0 +1,39 @@
+{
+  "name": "Steam Piping",
+  "type": "design",
+  "system": {
+    "details": "<p>Hellish contraptions of tangled piping, rare chemicals, and scalding steam.</p><p>Fuelled with water (the cleaner the better).</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "dIGrtxxsKhFyhj3F"
+      }
+    ],
+    "stakes": 1,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "6myrClYa0RV8ioom",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844225,
+    "modifiedTime": 1716846529067,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!6myrClYa0RV8ioom"
+}

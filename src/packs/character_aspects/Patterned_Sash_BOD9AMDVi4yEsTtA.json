@@ -1,0 +1,33 @@
+{
+  "name": "Patterned Sash",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Treat conflicts as triumphs when using social skills to affect animals.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "DaklPHLvwqCSoXZK",
+  "_id": "BOD9AMDVi4yEsTtA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366943,
+    "modifiedTime": 1716738366943,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!BOD9AMDVi4yEsTtA"
+}

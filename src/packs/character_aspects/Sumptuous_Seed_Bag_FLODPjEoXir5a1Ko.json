@@ -1,0 +1,33 @@
+{
+  "name": "Sumptuous Seed-Bag",
+  "type": "aspect",
+  "system": {
+    "details": "<p>For a combination of hard graft and showing off. Use a task to create a seed-based specimen based on any plant currently growing within a plot (on your ship or person).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "FF53pOPhLJLWvOWq",
+  "_id": "FLODPjEoXir5a1Ko",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738379005,
+    "modifiedTime": 1716738379005,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!FLODPjEoXir5a1Ko"
+}

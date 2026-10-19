@@ -1,0 +1,33 @@
+{
+  "name": "Signal Spikes",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Clusters of chemical-drenched burrs that stick to clothes and hair, dealing LR Toxin damage. Once a target has been hit with a signal spike, mark to draw a swarm of stinging insects to them for a brief time, or consume a specimen to discern their exact location.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "AvBUzGWtKJfm4fym",
+  "_id": "WMDMWzhIehxzqPPg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385391,
+    "modifiedTime": 1716738385391,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!WMDMWzhIehxzqPPg"
+}

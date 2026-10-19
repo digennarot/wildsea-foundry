@@ -1,0 +1,33 @@
+{
+  "name": "Resonant Tether",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Spirits and the spectral realm become more visible and tangible to your entire crew in your presence.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "CbJoVZwvFV4Jlhx8",
+  "_id": "G55BvphQtabfTiN6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366474,
+    "modifiedTime": 1716738366474,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!G55BvphQtabfTiN6"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Lightning Rod",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A multi-pronged metal array for attracting lightning and storing it in ceramic batteries.  \nAutomatically acquire a charged ceramic battery whenever your ship enters a lightning storm.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Bounteous Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "rruh3CK4B7is7Mej",
+  "_id": "gs0xfGdgBHJS6xrg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844754,
+    "modifiedTime": 1717440162003,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gs0xfGdgBHJS6xrg"
+}

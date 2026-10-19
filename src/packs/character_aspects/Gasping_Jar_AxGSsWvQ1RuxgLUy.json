@@ -1,0 +1,33 @@
+{
+  "name": "Gasping Jar",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Burn to temporarily silence a single individual in your immediate vicinity (everything from their voice to their footsteps).  You can target yourself with this aspect, but cannot target a crewmate unless they're willing.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "8a0kkU5oyvHZg254",
+  "_id": "AxGSsWvQ1RuxgLUy",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381481,
+    "modifiedTime": 1716738381481,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!AxGSsWvQ1RuxgLUy"
+}

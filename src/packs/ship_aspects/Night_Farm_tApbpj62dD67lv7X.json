@@ -1,0 +1,34 @@
+{
+  "name": "Night Farm",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A dark, covered soilpit for growing mushrooms.\r\nAutomatically acquire a mushroom-based specimen when you use a task to tend to the night farm.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Bounteous Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "rruh3CK4B7is7Mej",
+  "_id": "tApbpj62dD67lv7X",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844744,
+    "modifiedTime": 1717440164789,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!tApbpj62dD67lv7X"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Nurturing Pitch-Jar",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A blackened glass jar that holds an eager colony of ironroot mold. Use a task to create a specimen copy of any piece of salvage you own, with the ‘fungal’ tag.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "RFjbYP2Pe8YRQqKD",
+  "_id": "HiTuzzjA4eWY09Qd",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365176,
+    "modifiedTime": 1716738365176,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HiTuzzjA4eWY09Qd"
+}

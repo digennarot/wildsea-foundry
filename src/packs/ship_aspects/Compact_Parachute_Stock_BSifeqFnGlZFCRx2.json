@@ -1,0 +1,34 @@
+{
+  "name": "Compact Parachute Stock",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A less flexible but more reliable version of the wingsuit, allowing a crewmember to safely drift down towards the waves after a jump or fall.</p><p>Crew that have time to don a compact parachute before leaving the ship at heights gain a temporary 3-track benefit, Parachute (this can turn a lethal fall into a controlled descent). The parachute must be re-packed with a task before being used again.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Aeronaut Equipment",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NBCpB1pekqg5j0mW",
+  "_id": "BSifeqFnGlZFCRx2",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845794,
+    "modifiedTime": 1716846529287,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!BSifeqFnGlZFCRx2"
+}

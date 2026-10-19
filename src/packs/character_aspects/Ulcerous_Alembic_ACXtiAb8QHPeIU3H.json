@@ -1,0 +1,33 @@
+{
+  "name": "Ulcerous Alembic",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can swallow two alchemical components, keeping them safely in your stomach. You can concoct them internally when you choose, benefitting immediately from the results or spitting the resulting solution out.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "CswbUYqzdgyEP0Ws",
+  "_id": "ACXtiAb8QHPeIU3H",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368132,
+    "modifiedTime": 1716738368132,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ACXtiAb8QHPeIU3H"
+}

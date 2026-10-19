@@ -1,0 +1,39 @@
+{
+  "name": "Reef-Iron",
+  "type": "design",
+  "system": {
+    "details": "<p>Metal plating from decommissioned ships, reshaped for your frame. Durable and rust-resistant.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "OTX3648MSxWmRMrc"
+      }
+    ],
+    "stakes": 1,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "HOH0GiDJyoqclO2d",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843714,
+    "modifiedTime": 1717440156919,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HOH0GiDJyoqclO2d"
+}

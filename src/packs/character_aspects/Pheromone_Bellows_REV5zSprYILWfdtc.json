@@ -1,0 +1,33 @@
+{
+  "name": "Pheromone Bellows",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Pump hard for maximum effect. Burn to thoroughly confuse a swarm, or drive them into an intense instinctual behavior (such as fear, hunger, or frenzy).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "AvBUzGWtKJfm4fym",
+  "_id": "REV5zSprYILWfdtc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385243,
+    "modifiedTime": 1716738385243,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!REV5zSprYILWfdtc"
+}

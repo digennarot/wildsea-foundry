@@ -1,0 +1,33 @@
+{
+  "name": "Storm-Stride",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to float for a brief time, electricity crackling around you as you do so.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "WdXuyagYKHEnCxqF",
+  "_id": "ATFPDNSLNDUCQtw0",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372829,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ATFPDNSLNDUCQtw0"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Elaborate Beard-Braids",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your beard is a rich, intertwining mass of fur and braids, perfect for concealing small objects. Burn to gain a new piece of salvage or specimen from within it (that you might conceivably have stashed there).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "NDAIOnoi7FjztU6H",
+  "_id": "yckTlrzU7g0BnOIV",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365560,
+    "modifiedTime": 1716738365560,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!yckTlrzU7g0BnOIV"
+}

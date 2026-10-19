@@ -1,0 +1,34 @@
+{
+  "name": "Aerial Anchor",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A deployable chemical balloon that holds lighter-than-air gas, and a weighted pendulum-style chain below. Ships with aerial anchors may Drift while at height, even if it can't usually Float or Hover.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "ejbcupDqnsrSRIkU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845344,
+    "modifiedTime": 1717440161135,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ejbcupDqnsrSRIkU"
+}

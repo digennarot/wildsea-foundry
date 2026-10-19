@@ -1,0 +1,34 @@
+{
+  "name": "Ironshard Sail",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A shard of old-world iron, usually split into two side-mounted runners. Channeled voltaic current causes them to react to distant metals to lift the ship.</p><p>Takeoff Cost: Tilt\nFlight Style: Float, Hover, Soar\nReduce cut by one on aerial stunts performed in strong or known magnetic fields</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 7,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "HK5qxyohiX71efwb",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848703,
+    "modifiedTime": 1716846529654,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HK5qxyohiX71efwb"
+}

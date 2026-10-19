@@ -1,0 +1,39 @@
+{
+  "name": "Spinch",
+  "type": "design",
+  "system": {
+    "details": "<p>Submersible Pneumatic Inching Frame'. The ship's extending frame allows it to bridge gaps several times longer than the length of the ship.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 2,
+        "id": "nbP7gfaPmq65m6Mn"
+      }
+    ],
+    "stakes": 2,
+    "type": "frame",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Ri6EBpyFIdQvShqY",
+  "_id": "8R32xxNvBGnWJNuk",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843696,
+    "modifiedTime": 1717440155443,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!8R32xxNvBGnWJNuk"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Floraflage",
+  "type": "design",
+  "system": {
+    "details": "<p>A hull of living vegetation grown purposefully around your frame. Blends easily into the seascape.</p><p>Increase Impact when using Stealth motionless.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": -1,
+        "id": "AdkE1Eovw9gq27Rx"
+      },
+      {
+        "rating": "stealth",
+        "value": 2,
+        "id": "3WJ3yVVNDLxEPGZu"
+      }
+    ],
+    "stakes": 2,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "NeqRoH9ETvqPntIa",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843817,
+    "modifiedTime": 1716846530024,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NeqRoH9ETvqPntIa"
+}

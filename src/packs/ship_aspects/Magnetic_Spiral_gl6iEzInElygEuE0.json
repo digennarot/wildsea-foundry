@@ -1,0 +1,34 @@
+{
+  "name": "Magnetic Spiral",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Used to accelerate torbedoes to such ridiculous speeds that they shatter on impact. Charges fired deal their damage to all targets in a small area.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Torpedo Launcher",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "qyd5GMObp1buDvCC",
+  "_id": "gl6iEzInElygEuE0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847084,
+    "modifiedTime": 1717440161953,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gl6iEzInElygEuE0"
+}

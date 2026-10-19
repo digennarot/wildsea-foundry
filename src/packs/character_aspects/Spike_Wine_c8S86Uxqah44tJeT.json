@@ -1,0 +1,33 @@
+{
+  "name": "Spike Wine",
+  "type": "aspect",
+  "system": {
+    "details": "<p>An ektus delicacy that sharpens the palette. Whenever you or a crewmate gains a benefit from a meal or beverage, increase the track for tha benefit by one box.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "iEg6pro72VqeTqSR",
+  "_id": "c8S86Uxqah44tJeT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370103,
+    "modifiedTime": 1716738370103,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!c8S86Uxqah44tJeT"
+}

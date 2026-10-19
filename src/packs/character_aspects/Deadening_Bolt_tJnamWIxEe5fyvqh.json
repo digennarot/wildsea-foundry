@@ -1,0 +1,33 @@
+{
+  "name": "Deadening Bolt",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to render flight, by any means, impossible in your vicinity for a short time. Burn to do the same, but excluding you and your companions from the effect.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "ZSSJhR1Ksf614Edk",
+  "_id": "tJnamWIxEe5fyvqh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383851,
+    "modifiedTime": 1716738383851,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!tJnamWIxEe5fyvqh"
+}

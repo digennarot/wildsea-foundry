@@ -1,0 +1,33 @@
+{
+  "name": "Living Liquid",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Winds its way around your form, studded with broken glass. Deals CQ acid or keen damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "XDoj7hmcgAPWKcEi",
+  "_id": "6MRBF6zXvhtYMDfH",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368344,
+    "modifiedTime": 1716738368344,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!6MRBF6zXvhtYMDfH"
+}

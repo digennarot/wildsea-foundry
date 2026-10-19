@@ -1,0 +1,34 @@
+{
+  "name": "Chemicowork Rockets",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Both baffler an makeshift weapon, these carefully packed rockets burst with colourful chemical spray.</p><p>Optimal Use: Fire at night to clear a burn from any predator-based eye.\nAlternate Use: Fire for a single burst of Massive LR Acid damage.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Bafflers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "teIt6nRvWg1g7vN6",
+  "_id": "EwiycGccmDT5emcd",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849433,
+    "modifiedTime": 1716846529487,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!EwiycGccmDT5emcd"
+}

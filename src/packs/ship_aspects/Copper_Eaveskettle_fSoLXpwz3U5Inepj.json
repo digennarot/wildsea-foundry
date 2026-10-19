@@ -1,0 +1,34 @@
+{
+  "name": "Copper Eaveskettle",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Containing a constantly boiling mixture of herbs, spices, and searing alchemical liquids, the oversized kettle can be tilted to release pressurized jets of scalding steam. Deals massive LR Flame damage. The steam never sets things aflame, despite the intense temperatures.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Delving Armament",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "UMFsF6bJXtP2r3um",
+  "_id": "fSoLXpwz3U5Inepj",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846889,
+    "modifiedTime": 1717440161481,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!fSoLXpwz3U5Inepj"
+}

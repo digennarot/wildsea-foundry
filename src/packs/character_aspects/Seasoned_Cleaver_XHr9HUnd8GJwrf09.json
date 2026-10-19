@@ -1,0 +1,33 @@
+{
+  "name": "Seasoned Cleaver",
+  "type": "aspect",
+  "system": {
+    "details": "<p>As useful on the battlefield as it is in the galley. Deals CQ hewing damage. Increase impact when acquiring dangerous or disruptive specimens.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "7NpV153DQXLQi9jy",
+  "_id": "XHr9HUnd8GJwrf09",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368606,
+    "modifiedTime": 1716738368606,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!XHr9HUnd8GJwrf09"
+}

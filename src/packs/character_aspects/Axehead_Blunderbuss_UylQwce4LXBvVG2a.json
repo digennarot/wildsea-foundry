@@ -1,0 +1,33 @@
+{
+  "name": "Axehead Blunderbuss",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Deals CQ Blunt or Hewing damage to multiple nearby targets at once.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "hjPKCFx4lmNGSf2f",
+  "_id": "UylQwce4LXBvVG2a",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738384619,
+    "modifiedTime": 1716738384619,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!UylQwce4LXBvVG2a"
+}

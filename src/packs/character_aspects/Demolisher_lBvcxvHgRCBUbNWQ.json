@@ -1,0 +1,33 @@
+{
+  "name": "Demolisher",
+  "type": "aspect",
+  "system": {
+    "details": "<p>An over-sized weapon, usually a hammer or pickaxe. Deals CQ Blunt or Spike damage. Increase impact when destroying architecture.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "AT49lU2fjt58K4WB",
+  "_id": "lBvcxvHgRCBUbNWQ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369220,
+    "modifiedTime": 1716738369220,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!lBvcxvHgRCBUbNWQ"
+}

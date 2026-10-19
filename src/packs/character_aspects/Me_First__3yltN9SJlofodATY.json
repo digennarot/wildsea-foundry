@@ -1,0 +1,33 @@
+{
+  "name": "Me First!",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to hijack focus from a leviathan as it attacks your ship or a member of your crew (once per scene). Burn instead of marking to ignore the 'once per scene' limitation of this aspect for that hijacking.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "aUDiBsJDgpfsZ93t",
+  "_id": "3yltN9SJlofodATY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738374695,
+    "modifiedTime": 1716738374695,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!3yltN9SJlofodATY"
+}

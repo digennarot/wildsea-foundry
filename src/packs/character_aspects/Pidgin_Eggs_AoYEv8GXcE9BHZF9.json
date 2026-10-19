@@ -1,0 +1,33 @@
+{
+  "name": "Pidgin Eggs",
+  "type": "aspect",
+  "system": {
+    "details": "<p>An ample supply of protein gathered from fowl mimics. Use a task to eat one, gaining two temporary ranks in a language of your choice until you use this aspect again.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "8XY8gmFEdJD4drJI",
+  "_id": "AoYEv8GXcE9BHZF9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382600,
+    "modifiedTime": 1716738382600,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!AoYEv8GXcE9BHZF9"
+}

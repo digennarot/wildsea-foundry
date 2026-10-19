@@ -1,0 +1,33 @@
+{
+  "name": "Ceremonial Patterning",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your wings are a riot of colour and style. Mark to increase impact when trying to impress or convince.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "FsPhbhYTvg8mKSVy",
+  "_id": "VeT7bhyu8sjjnaWF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365592,
+    "modifiedTime": 1716738365592,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!VeT7bhyu8sjjnaWF"
+}

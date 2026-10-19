@@ -1,0 +1,33 @@
+{
+  "name": "Portable Plot",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You just have too many ideas for one deck to handle. You gain an extra plot, always attached to you, wtih 4/4 spaces for growing plants (You must add a growing medium for this plot to be effective).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "FF53pOPhLJLWvOWq",
+  "_id": "1Hwxj7WIk38smZOq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738379117,
+    "modifiedTime": 1716738379117,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!1Hwxj7WIk38smZOq"
+}

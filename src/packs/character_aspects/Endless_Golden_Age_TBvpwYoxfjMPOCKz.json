@@ -1,0 +1,33 @@
+{
+  "name": "Endless Golden Age",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You didn't age throughout your imprisonment, and you don't seem to be aging now you're free either. A blessing, but a curious one.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Trait"
+  },
+  "folder": "9lbzmOcmQVACLmbK",
+  "_id": "TBvpwYoxfjMPOCKz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366166,
+    "modifiedTime": 1716738366166,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TBvpwYoxfjMPOCKz"
+}

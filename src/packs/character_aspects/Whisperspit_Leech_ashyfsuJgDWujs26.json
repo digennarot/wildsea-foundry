@@ -1,0 +1,33 @@
+{
+  "name": "Whisperspit Leech",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark mire to drain the falsehood out of a statement, hearing the truth behind it. You gain a whisper based on the excised lies.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "K7wNmoBoQSI60Kxz",
+  "_id": "ashyfsuJgDWujs26",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372783,
+    "modifiedTime": 1716738372783,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ashyfsuJgDWujs26"
+}

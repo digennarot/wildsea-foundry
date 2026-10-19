@@ -1,0 +1,33 @@
+{
+  "name": "Accidental Anchor",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The spirit of a crewmember lost to the waves has tenuously attached itself to you, unseen and unheard by the rest of the world. Mark mire to gain a secret about the ship, or a location the ship has visited before, or burn mire to make your companion tangible for a brief time.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "XnW2irY0J38BQVsk",
+  "_id": "SEAlfHZaL58yxQBV",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738381600,
+    "modifiedTime": 1716738381600,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!SEAlfHZaL58yxQBV"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "You Make Your Own Path",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Whenever you would receive a chart you may convert it to a piece of salvage and a whisper instead. Once per scene, treat a conflict as a triumph when rolling without the benefit of a skill.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "YPAw8PmZbMvuA4NN",
+  "_id": "r8nxZWzfcwEKgcDF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367841,
+    "modifiedTime": 1716738367841,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!r8nxZWzfcwEKgcDF"
+}

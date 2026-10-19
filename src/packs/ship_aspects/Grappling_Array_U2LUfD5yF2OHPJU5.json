@@ -1,0 +1,44 @@
+{
+  "name": "Grappling Array",
+  "type": "design",
+  "system": {
+    "details": "<p>Prow-mounted grappling hooks that are fired out to catch on branches and then laboriously wound back in for slow, inexorable progress.</p><p>A ship running solely on a grappling array can’t Forge Ahead during a journey.\n\nDeals massive LR Spike damage.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": -1,
+        "id": "IxFS1D9TxVZLuqFu"
+      },
+      {
+        "rating": "tilt",
+        "value": 2,
+        "id": "nO5ENJ3dlW5a6udt"
+      }
+    ],
+    "stakes": 1,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "U2LUfD5yF2OHPJU5",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844086,
+    "modifiedTime": 1716846530319,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!U2LUfD5yF2OHPJU5"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Pattern-Reader",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A miniature gramophone for playing scribed cylinders of wax, ceramics, or cured bark. Mark to record a fragment of conversation or sound you can hear, to be played back at a later time.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "CL3VRF7TPkNPi7qk",
+  "_id": "NGYs5TQrom6DFvgR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373531,
+    "modifiedTime": 1716738373531,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NGYs5TQrom6DFvgR"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Ascetic's Waltz",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Somewhere between a dance, a martial art and an expression of arrogance. Deals CQ Blunt damage and, once per scene, allows you to hijack an incoming attack and choose a new target for it.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "YPAw8PmZbMvuA4NN",
+  "_id": "iQHw28A6w6vDexBE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367924,
+    "modifiedTime": 1716738367924,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!iQHw28A6w6vDexBE"
+}

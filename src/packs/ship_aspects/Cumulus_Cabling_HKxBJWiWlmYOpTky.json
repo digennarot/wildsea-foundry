@@ -1,0 +1,34 @@
+{
+  "name": "Cumulus Cabling",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Operating on the same alchemical principles as cloudwire, firing slim filaments high into the air that pull the ship along for the ride as they seek out water vapour.</p><p>Takeoff Cost: Tilt\nFlight Style: Float, Hover, Soar\nOnly functions when the ship has a direct sightline to the clouds</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 5,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "HKxBJWiWlmYOpTky",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848856,
+    "modifiedTime": 1716846529661,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!HKxBJWiWlmYOpTky"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Experienced Officer",
+  "type": "undercrew",
+  "system": {
+    "details": "<ul><li><p>Any one aspect</p></li><li><p>An experienced officer's track is equal to the track of the aspect they have access to</p></li></ul>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 1
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Officer"
+  },
+  "folder": "EEQe2NpaNertn0af",
+  "_id": "aQ3uHqUacyKmPZTU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641945503,
+    "modifiedTime": 1717440293924,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!aQ3uHqUacyKmPZTU"
+}

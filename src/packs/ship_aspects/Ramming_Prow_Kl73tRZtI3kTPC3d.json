@@ -1,0 +1,34 @@
+{
+  "name": "Ramming Prow",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Allows you to ram creatures (and ships) without danger to your own hull. Deals massive CQ Blunt damage.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Hull Weapons",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FZID3L8foJSIBFSo",
+  "_id": "Kl73tRZtI3kTPC3d",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846402,
+    "modifiedTime": 1717440157788,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Kl73tRZtI3kTPC3d"
+}

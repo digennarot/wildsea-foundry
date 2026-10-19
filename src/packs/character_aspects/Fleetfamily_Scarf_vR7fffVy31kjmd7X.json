@@ -1,0 +1,33 @@
+{
+  "name": "Fleetfamily Scarf",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A beautifully made sporescarf passed from traveller to seasoned traveller. You're immune to the effects of bad air and airborne spores.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "DaklPHLvwqCSoXZK",
+  "_id": "vR7fffVy31kjmd7X",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366881,
+    "modifiedTime": 1716738366881,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!vR7fffVy31kjmd7X"
+}

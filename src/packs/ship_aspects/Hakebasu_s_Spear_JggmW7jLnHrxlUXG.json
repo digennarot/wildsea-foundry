@@ -1,0 +1,34 @@
+{
+  "name": "Hakebasu's Spear",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A glowing conductive wire attached to a tiny grasping hook, shots with the spear seem to do little damage until the built-in ceramic batteries are fully activated. Deals massive LR Volt damage. Reduce cut if fired in pitch darkness.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Delving Armament",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "UMFsF6bJXtP2r3um",
+  "_id": "JggmW7jLnHrxlUXG",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846868,
+    "modifiedTime": 1717440157386,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!JggmW7jLnHrxlUXG"
+}

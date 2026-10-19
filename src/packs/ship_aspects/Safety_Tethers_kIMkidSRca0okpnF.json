@@ -1,0 +1,34 @@
+{
+  "name": "Safety Tethers",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Running from a ring sunk into the deck to a wildsailor's belt or harness, these turn a dangerous tumble into an embarrassing mid-air hang.</p><p>Working with a tether attached is safer, but also clumsier - cut on actions taken with other tethered crewmates around is common.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Aeronaut Equipment",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NBCpB1pekqg5j0mW",
+  "_id": "kIMkidSRca0okpnF",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845760,
+    "modifiedTime": 1716846531225,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!kIMkidSRca0okpnF"
+}

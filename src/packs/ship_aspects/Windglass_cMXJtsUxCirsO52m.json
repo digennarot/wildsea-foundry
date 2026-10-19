@@ -1,0 +1,45 @@
+{
+  "name": "Windglass",
+  "type": "fitting",
+  "system": {
+    "details": "<p></p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "ZeQbZnLqI0myrk2n"
+      },
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "iRFVYOcWQmrbp1AT"
+      }
+    ],
+    "stakes": 1,
+    "type": "Outrider Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "9wMthDFmKg4yWDOZ",
+  "_id": "cMXJtsUxCirsO52m",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849770,
+    "modifiedTime": 1717440160766,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!cMXJtsUxCirsO52m"
+}

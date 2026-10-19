@@ -1,0 +1,33 @@
+{
+  "name": "Counterweight Ferret",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Scampers from place to place on your body to aid uncertain movements. You are immune to vertigo, and treat disasters as conflicts when trying to balance, leap, or prevent falls at great heights.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Companion"
+  },
+  "folder": "PWQ5ntZk6S5bRtVL",
+  "_id": "kbrJYUSgSlR9aLzi",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377607,
+    "modifiedTime": 1716738377607,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!kbrJYUSgSlR9aLzi"
+}

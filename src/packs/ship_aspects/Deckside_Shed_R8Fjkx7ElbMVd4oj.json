@@ -1,0 +1,34 @@
+{
+  "name": "Deckside Shed",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Even more cluttered than the average workshop, sheds come stocked with a variety of simple tools for the maintenance and preparation of ship-garden plots.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Ship Gardens",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "VrEJVkg0g4qiOUrx",
+  "_id": "R8Fjkx7ElbMVd4oj",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846047,
+    "modifiedTime": 1717440158839,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!R8Fjkx7ElbMVd4oj"
+}

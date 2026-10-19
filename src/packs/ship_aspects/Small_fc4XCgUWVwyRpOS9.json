@@ -1,0 +1,39 @@
+{
+  "name": "Small",
+  "type": "design",
+  "system": {
+    "details": "<p>Suited for 2-4 people, cramped but serviceable for double that. Ideal for a first ship.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "VS4KtRhE1y6psovz"
+      }
+    ],
+    "stakes": 1,
+    "type": "size",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "6jSjC0UcaPy3AFaz",
+  "_id": "fc4XCgUWVwyRpOS9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843607,
+    "modifiedTime": 1717440161588,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!fc4XCgUWVwyRpOS9"
+}

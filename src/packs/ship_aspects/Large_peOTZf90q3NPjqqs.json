@@ -1,0 +1,44 @@
+{
+  "name": "Large",
+  "type": "design",
+  "system": {
+    "details": "<p>Can house 10-20 crew with room to spare, many more if necessary, depending on the internal designs and additional fittings. Large ships are most often used to patrol trade-routes around more lawful areas, or to transport settlers and research teams for large factions.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "lAezNj4V3KnAvcXE"
+      },
+      {
+        "rating": "stealth",
+        "value": -1,
+        "id": "jv8TUtpwtb0rgJdQ"
+      }
+    ],
+    "stakes": 1,
+    "type": "size",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "6jSjC0UcaPy3AFaz",
+  "_id": "peOTZf90q3NPjqqs",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843628,
+    "modifiedTime": 1717440164089,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!peOTZf90q3NPjqqs"
+}

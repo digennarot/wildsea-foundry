@@ -1,0 +1,39 @@
+{
+  "name": "Steam Exchange",
+  "type": "design",
+  "system": {
+    "details": "<p>There's little fear of fire on the endless snow flats... just remember to turn it off before you hit true seas again.</p><p>Keeps the ship interior livably warm.\nRuns on coal and snowmelt.\nProduces the specimen, Clean Water, every time the ship drops anchor.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "eOTYS6ewWABqBhr9"
+      }
+    ],
+    "stakes": 2,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "tREC136FncWaDwMA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844323,
+    "modifiedTime": 1716846531736,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!tREC136FncWaDwMA"
+}

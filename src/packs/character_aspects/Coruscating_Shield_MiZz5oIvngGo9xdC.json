@@ -1,0 +1,33 @@
+{
+  "name": "Coruscating Shield",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A glittering, scuttling sacrifice. When you or a nearby ally would take more than one mark of damage, reduce that damage to a single mark on this aspect and ignore any additional effects it would cause (once per scene).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "dWFmSgm3bYSiSGJn",
+  "_id": "MiZz5oIvngGo9xdC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738385048,
+    "modifiedTime": 1716738385048,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!MiZz5oIvngGo9xdC"
+}

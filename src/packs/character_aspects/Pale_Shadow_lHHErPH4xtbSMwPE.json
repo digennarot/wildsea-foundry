@@ -1,0 +1,33 @@
+{
+  "name": "Pale Shadow",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your almost translucent skin appears disadvantageous to many, but when melding into the background is needed, you are nowhere to be found. Increase impact when hunting or scouting.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "LQN3FoXJylEADvE3",
+  "_id": "lHHErPH4xtbSMwPE",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365854,
+    "modifiedTime": 1716738365854,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!lHHErPH4xtbSMwPE"
+}

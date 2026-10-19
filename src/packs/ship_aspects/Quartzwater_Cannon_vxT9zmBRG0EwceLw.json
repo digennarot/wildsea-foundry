@@ -1,0 +1,34 @@
+{
+  "name": "Quartzwater Cannon",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Each shot a kiss from the deepest winter. Deals massive LR Frost damage. Reduce cut when attacking feathered targets.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Airborne Armament",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "imXmFeEg77XRU64v",
+  "_id": "vxT9zmBRG0EwceLw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846736,
+    "modifiedTime": 1717440165327,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!vxT9zmBRG0EwceLw"
+}

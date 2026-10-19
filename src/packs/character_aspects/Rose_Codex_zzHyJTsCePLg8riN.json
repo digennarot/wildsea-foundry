@@ -1,0 +1,33 @@
+{
+  "name": "Rose Codex",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A beautiful stone, scribed in multiple languages. Use a task to study the codex, gaining a temporary rank in two languages of your choice until you use this aspect again. If you mark the codex during this task, your crewmates also gain a temporary rank in one of those languages for the same duration.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "FjSSpEX3yWb8fMMq",
+  "_id": "zzHyJTsCePLg8riN",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738379654,
+    "modifiedTime": 1716738379654,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zzHyJTsCePLg8riN"
+}

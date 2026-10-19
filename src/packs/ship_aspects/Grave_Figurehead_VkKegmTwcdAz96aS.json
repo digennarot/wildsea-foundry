@@ -1,0 +1,34 @@
+{
+  "name": "Grave Figurehead",
+  "type": "fitting",
+  "system": {
+    "details": "<p>The figurehead's carvings are carefully designed to have a mesmeric effect on the nearly-lost. Automatically acquire a spirit-based resource when you move through an area of dense phantasmal presence or encounter wandering spirits.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Delving Additions",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "YxdjsM89Zp9FEuHO",
+  "_id": "VkKegmTwcdAz96aS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845068,
+    "modifiedTime": 1717440159448,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!VkKegmTwcdAz96aS"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Icteric Shale",
+  "type": "fitting",
+  "system": {
+    "details": "<p>When you sow a herb, spice, or succulent in icteric shale, mark one box on its track immediately.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Gardening Mediums",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "ARe4ct5RrbrdmAiZ",
+  "_id": "fZvTXWbi0PYCOye4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850611,
+    "modifiedTime": 1717440161538,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!fZvTXWbi0PYCOye4"
+}

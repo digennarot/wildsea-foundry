@@ -1,0 +1,18 @@
+{
+  "name": "Bounteous Additions",
+  "type": "Item",
+  "_id": "rruh3CK4B7is7Mej",
+  "folder": "fZq0CtJ8DOnIgn41",
+  "sorting": "a",
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844715,
+    "modifiedTime": 1716641844715,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!rruh3CK4B7is7Mej"
+}

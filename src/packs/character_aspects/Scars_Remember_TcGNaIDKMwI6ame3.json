@@ -1,0 +1,33 @@
+{
+  "name": "Scars Remember",
+  "type": "aspect",
+  "system": {
+    "details": "<p>The wildsea teaches harsh, but useful, lessons.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "5"
+    },
+    "type": "Trait"
+  },
+  "folder": "FRrMoKvKqLSUOBui",
+  "_id": "TcGNaIDKMwI6ame3",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738369613,
+    "modifiedTime": 1716738369613,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TcGNaIDKMwI6ame3"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Supplying Demand",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You can create a need where there was none before. Mark to make a mundane object intriguing and desirable for the scene. Burn to turn the object into an obsession.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "VynvrpYe2LPd4sVh",
+  "_id": "7ImgLCCFZgAbEkss",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382318,
+    "modifiedTime": 1716738382318,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!7ImgLCCFZgAbEkss"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Archaeodermis",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your skin (or whatever you have as an outer covering) mimics the mountain you were raised on. You're immune to keen damage, as well as bites and stings from small creatures.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "67OZ3qYvhjTvCtgX",
+  "_id": "KqCCZKUuwS5eAEuS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366636,
+    "modifiedTime": 1716738366636,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!KqCCZKUuwS5eAEuS"
+}

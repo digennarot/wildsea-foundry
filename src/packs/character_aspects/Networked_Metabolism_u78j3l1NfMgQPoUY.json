@@ -1,0 +1,33 @@
+{
+  "name": "Networked Metabolism",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Eating a properly prepared meal clears a mark on any one of your traits and heals a box on any one of your injuries. You are immune to the effects of drifting spores.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "ps0nszusyaU4DBYA",
+  "_id": "u78j3l1NfMgQPoUY",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377675,
+    "modifiedTime": 1716738377675,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!u78j3l1NfMgQPoUY"
+}

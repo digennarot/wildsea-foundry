@@ -1,0 +1,34 @@
+{
+  "name": "Voltaic Bath",
+  "type": "fitting",
+  "system": {
+    "details": "<p>An experimental therapy room devised by surgeons and rattlehands working in tandem. A single wildsailor can heal a box of any one of their injury tracks when the ship drops anchor (once per character per journey).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Light, Power, & Sound",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "SBYUEEe5Pq79efXH",
+  "_id": "2acqxuSPzDbOOJj8",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641846141,
+    "modifiedTime": 1717440154168,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2acqxuSPzDbOOJj8"
+}

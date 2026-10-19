@@ -1,0 +1,44 @@
+{
+  "name": "Roto-Chopper",
+  "type": "design",
+  "system": {
+    "details": "<p>Some say the aeronaut rotor was inspired by the sawblades of the wild's earliest days. The roto-chopper shows that inspiration sometimes comes full circle.</p><p>Deals massive CQ Hewing damage.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "t5lwx1R7tyjc62cn"
+      },
+      {
+        "rating": "saws",
+        "value": 1,
+        "id": "EKyUmVjbmUypZKMm"
+      }
+    ],
+    "stakes": 2,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "jUaDYy6e5i1ef5rT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844147,
+    "modifiedTime": 1716846531180,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!jUaDYy6e5i1ef5rT"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Creakophony",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You are immediately aware of any Pressure-based invasion of your ship (from spores and spirits to bad air and insects), and your ship also has two additional boxes on any Pressure track as long as you're aboard.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "Qfq42BSrNjZq1Eq8",
+  "_id": "nRXBGVYQmwf8cS1R",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383093,
+    "modifiedTime": 1716738383093,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!nRXBGVYQmwf8cS1R"
+}

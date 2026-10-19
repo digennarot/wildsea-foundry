@@ -1,0 +1,33 @@
+{
+  "name": "Rite of Bloom",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Old flavours burst in novel ways. Consume a whisper when an ally imbibes one of your concoctions, and benefit from an aspect of theirs until the concoction has worn off.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "dxyeOQl1U22DYz0w",
+  "_id": "wkqGl0z7TKRp41hv",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372129,
+    "modifiedTime": 1716738372129,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!wkqGl0z7TKRp41hv"
+}

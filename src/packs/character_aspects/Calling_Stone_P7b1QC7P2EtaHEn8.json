@@ -1,0 +1,33 @@
+{
+  "name": "Calling Stone",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A smooth rock with symbols carved in it that fits in the palm of your hand. You're always attuned to the vibrations of this particular stone, which allows you to sense what's going on in it's location, even if it's far away. You can call the stone to you at will.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "4vX8bYnqSsc3FxKd",
+  "_id": "P7b1QC7P2EtaHEn8",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386682,
+    "modifiedTime": 1716738386682,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!P7b1QC7P2EtaHEn8"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Wingsuit Wardrobe",
+  "type": "fitting",
+  "system": {
+    "details": "<p>In no way do these suits guarantee flight or gliding, but they add both as potential outcomes to a list that otherwise comprises of 'falling to your death'.</p><p>Crew that have time to suit up before leaving the ship at heights gain a temporary 3-track benefit, Wingsuit (this can keep a character aloft in favourable winds or break a lethal fall).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Aeronaut Equipment",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NBCpB1pekqg5j0mW",
+  "_id": "GEoLUPrJzbCBvCk0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845776,
+    "modifiedTime": 1716846529582,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!GEoLUPrJzbCBvCk0"
+}

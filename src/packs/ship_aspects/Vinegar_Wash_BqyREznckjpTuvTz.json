@@ -1,0 +1,34 @@
+{
+  "name": "Vinegar Wash",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Once per journey, you can move again after dropping anchor (in Dimm's Embrace) without cutting or losing impact.\nRefilling vinegar barrels at port will likely cost the crew some salvage (if a port has the facility to help them at all).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Escaping the Embrace",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Ib6MHMDQdByxchlP",
+  "_id": "BqyREznckjpTuvTz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845976,
+    "modifiedTime": 1717440155882,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!BqyREznckjpTuvTz"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Unnerving Fronds",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Treat Conflicts as Triumphs when attempting to scare or unsettle a target. Any ship you crew resists insect incursions.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "ps0nszusyaU4DBYA",
+  "_id": "mIl5f81Iixddz3Q0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738377917,
+    "modifiedTime": 1716738377917,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!mIl5f81Iixddz3Q0"
+}

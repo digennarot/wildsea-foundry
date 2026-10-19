@@ -1,0 +1,34 @@
+{
+  "name": "Winding Trellis",
+  "type": "fitting",
+  "system": {
+    "details": "<p>When harvesting from a trellis, a twist gives the usual resources but only clears half of the marks on a Grow track.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "GXCQxbbk5TKQOsLA",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850256,
+    "modifiedTime": 1717440156659,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!GXCQxbbk5TKQOsLA"
+}

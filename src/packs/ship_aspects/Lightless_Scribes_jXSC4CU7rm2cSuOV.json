@@ -1,0 +1,35 @@
+{
+  "name": "Lightless Scribes",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Whenever the Pressure level increases, make a d6 fortune roll. On a 4, 5, or 6 gain a chart.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Delving Gangs"
+  },
+  "folder": "viaMkHUPRJUeU31g",
+  "_id": "jXSC4CU7rm2cSuOV",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946488,
+    "modifiedTime": 1716641946488,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!jXSC4CU7rm2cSuOV"
+}

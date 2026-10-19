@@ -1,0 +1,33 @@
+{
+  "name": "Longstem",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Rather than defensive spines, you're covered in delicate stems that collect and filter water from the air as you move. You're immune to bad air and Toxin damage, and may use a task to gain a rare resource, Pure Water.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "1"
+    },
+    "type": "Trait"
+  },
+  "folder": "f7veyJiDekAmsa5o",
+  "_id": "Y3BIdfYR0sLDIGle",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738388312,
+    "modifiedTime": 1716738388312,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Y3BIdfYR0sLDIGle"
+}

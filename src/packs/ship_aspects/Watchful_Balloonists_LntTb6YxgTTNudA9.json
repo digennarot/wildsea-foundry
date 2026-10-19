@@ -1,0 +1,35 @@
+{
+  "name": "Watchful Balloonists",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>When at anchor (or still) the watchful balloonists rise above the deck, giving early warning of approaching hazards.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Rising Gangs"
+  },
+  "folder": "jkENfQgl9gKPqBEQ",
+  "_id": "LntTb6YxgTTNudA9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946216,
+    "modifiedTime": 1716641946216,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!LntTb6YxgTTNudA9"
+}

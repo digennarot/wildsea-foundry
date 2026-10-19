@@ -1,0 +1,35 @@
+{
+  "name": "Squirrel Flingers",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>They fight at range to defend the ship, gaining focus every now and then to deal LR Blunt, Keen or Spike damage.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Beast Packs"
+  },
+  "folder": "JN56PjnoJjg1GBtz",
+  "_id": "0xLGBwRFTifKGj32",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641947046,
+    "modifiedTime": 1716641947046,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!0xLGBwRFTifKGj32"
+}

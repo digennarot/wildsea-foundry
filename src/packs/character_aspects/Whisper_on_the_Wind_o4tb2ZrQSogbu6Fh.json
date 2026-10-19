@@ -1,0 +1,33 @@
+{
+  "name": "Whisper on the Wind",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Consume a whisper to gain cryptic information on a target’s whereabouts and actions.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "vxabVLD6VTw66fAB",
+  "_id": "o4tb2ZrQSogbu6Fh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370282,
+    "modifiedTime": 1716738370282,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!o4tb2ZrQSogbu6Fh"
+}

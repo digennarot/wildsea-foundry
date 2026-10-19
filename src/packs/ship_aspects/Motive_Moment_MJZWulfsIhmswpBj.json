@@ -1,0 +1,44 @@
+{
+  "name": "Motive Moment",
+  "type": "design",
+  "system": {
+    "details": "<p>A fossilized whisper of motion-based words, trapped and spinning drunkenly like a broken phonograph record.</p><p>Fuelled by sounds cut unnaturally short</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "fC1kTNSnRm1mndCJ"
+      },
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "9qVcfCTO8Jmz1Buk"
+      }
+    ],
+    "stakes": 2,
+    "type": "engine",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "mQXLshXJAdBUKJ0i",
+  "_id": "MJZWulfsIhmswpBj",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844348,
+    "modifiedTime": 1716846529940,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!MJZWulfsIhmswpBj"
+}

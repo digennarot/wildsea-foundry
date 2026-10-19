@@ -1,0 +1,33 @@
+{
+  "name": "Smoked-Glass Hookah",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Releases a steady stream of wispy smoke. Mark to control smoke or vapours.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "YxZ95I94FxFqVbgv",
+  "_id": "NLas4aYDbOw3ybl1",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738374407,
+    "modifiedTime": 1716738374407,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!NLas4aYDbOw3ybl1"
+}

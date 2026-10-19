@@ -1,0 +1,33 @@
+{
+  "name": "Boarding Axe",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A savage weapon used to chop through foes. Deals CQ hewing damage. Increase impact when attacking ships, objects and structures.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "zbGhi1D2lw2nBnws",
+  "_id": "VamHHMIDxVWv7Tg4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738368925,
+    "modifiedTime": 1716738368925,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!VamHHMIDxVWv7Tg4"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Mockserry",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A blade that looks like a normal jagserry, until it unfolds with an insectile shudder. Deals CQ Serrated damage, and allows the wielder to detect the smallest vibrations in the ground and air around them.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "d9gY3mFBBd8Le2h2",
+  "_id": "2GHLqQhlc3sq4x13",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738380118,
+    "modifiedTime": 1716738380118,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2GHLqQhlc3sq4x13"
+}

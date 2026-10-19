@@ -1,0 +1,33 @@
+{
+  "name": "Akihapo",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A small flightless bird covered in crystal feathers thinly veined with magma. Produces both light and heat, and has a sharp beak designed to crack hard Volcrez fruit.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Companion"
+  },
+  "folder": "0Ytg72FX0j1x9yDI",
+  "_id": "aMQxR7WhEogMJvkP",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738386727,
+    "modifiedTime": 1716738386727,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!aMQxR7WhEogMJvkP"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Wildsroom",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Smelling of leafmold and musk, comfortingly dark. A place to go to escape the yawning void of the heavens,.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Airborne Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "H2w7aTU8r6hK7UUp",
+  "_id": "3GpIbkMZnaYbC7L9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845647,
+    "modifiedTime": 1717440154320,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!3GpIbkMZnaYbC7L9"
+}

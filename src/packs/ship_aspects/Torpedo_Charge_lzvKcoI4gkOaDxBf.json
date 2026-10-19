@@ -1,0 +1,18 @@
+{
+  "name": "Torpedo Charge",
+  "type": "Item",
+  "_id": "lzvKcoI4gkOaDxBf",
+  "folder": "ONZ3rI1PNwrvlTdE",
+  "sorting": "a",
+  "sort": 900000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847101,
+    "modifiedTime": 1716641847101,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!lzvKcoI4gkOaDxBf"
+}

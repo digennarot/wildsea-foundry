@@ -1,0 +1,35 @@
+{
+  "name": "Whirling Bats",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Lend an appreciably gothic look to your ship from a distance, but are unexpectedly friendly up close.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Beast Packs"
+  },
+  "folder": "JN56PjnoJjg1GBtz",
+  "_id": "DyHIeOBIOzMJRa3J",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946937,
+    "modifiedTime": 1716641946937,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!DyHIeOBIOzMJRa3J"
+}

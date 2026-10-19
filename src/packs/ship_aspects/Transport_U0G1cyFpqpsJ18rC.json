@@ -1,0 +1,34 @@
+{
+  "name": "Transport",
+  "type": "fitting",
+  "system": {
+    "details": "<ul><li><p>A clean and professional paint job to attract potential passengers.</p></li><li><p>Built-in passenger quarters with varying levels of comfort. </p></li><li><p>A sturdily constructed panic room, suitable for holding passengers unwilling to fight in the event the ship is attacked or boarded.</p></li></ul>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Motif",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Uu14OE32lX7tniVq",
+  "_id": "U0G1cyFpqpsJ18rC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844428,
+    "modifiedTime": 1716848136583,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!U0G1cyFpqpsJ18rC"
+}

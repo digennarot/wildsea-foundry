@@ -1,0 +1,33 @@
+{
+  "name": "Luxury Covering",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You're covered with fur, or feathers, or maybe even scales. You are resistant to the effects of crezzerin, to Frost damage, and also to damage from swarms and insect bites.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "Ta57ZcWtgS1Ap6LV",
+  "_id": "Onf5xBag2ejcFnsa",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387968,
+    "modifiedTime": 1716738387968,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Onf5xBag2ejcFnsa"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Crezzagrean Kantharos",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A vessel ancient even in the pre-Verdancy, used to infuse more than just flavour into a mull. While brewing with this vessel, cut 1 to add 1 rank of a skill or language you know as an additional boon to the benefit provided.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "OJBrJPGzw6NpCJO8",
+  "_id": "fijWUY4ren34TPbz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738372402,
+    "modifiedTime": 1716738372402,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!fijWUY4ren34TPbz"
+}

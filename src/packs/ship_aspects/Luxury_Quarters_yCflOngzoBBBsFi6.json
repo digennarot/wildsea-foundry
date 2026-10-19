@@ -1,0 +1,34 @@
+{
+  "name": "Luxury Quarters",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Individual spaces for each crewmember to sleep, complete with soft furnishings and tasteful decoration.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Common Rooms",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "d1tw3WkmF0uVc18g",
+  "_id": "yCflOngzoBBBsFi6",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844890,
+    "modifiedTime": 1717440165748,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!yCflOngzoBBBsFi6"
+}

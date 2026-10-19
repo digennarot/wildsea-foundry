@@ -1,0 +1,45 @@
+{
+  "name": "Upper Jaw",
+  "type": "fitting",
+  "system": {
+    "details": "<p>The half-skull of an enormous creature hangs above the deck, ready to be pulled down as a macabre but effective covering against the encroaching depths.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "saws",
+        "value": 1,
+        "id": "Mmo3Ui0py3DU0D8J"
+      },
+      {
+        "rating": "depth",
+        "value": 4,
+        "id": "D5zRw1pumv3OVXPA"
+      }
+    ],
+    "stakes": 3,
+    "type": "Pressure Shells",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "FVAzX0OuAisfQsZm",
+  "_id": "taHtbWJ7LdKOOGuO",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848225,
+    "modifiedTime": 1717440164912,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!taHtbWJ7LdKOOGuO"
+}

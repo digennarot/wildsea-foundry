@@ -1,0 +1,33 @@
+{
+  "name": "Goggles",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Traditional dress for pilots expecting hostile skies. You can see through mists, clouds, and sporeclouds clearly, and you're resistant to damage and effects caused by poor atmospheric and environmental conditions.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Gear"
+  },
+  "folder": "bttVueRExlN05tFC",
+  "_id": "TbBTvGv2bDLlvC5b",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738383331,
+    "modifiedTime": 1716738383331,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TbBTvGv2bDLlvC5b"
+}

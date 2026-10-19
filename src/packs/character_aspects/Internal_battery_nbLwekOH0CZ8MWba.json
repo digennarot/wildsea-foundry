@@ -1,0 +1,33 @@
+{
+  "name": "Internal battery",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to kickstart a machine, charge a depleted power source or temporarily increase the effectiveness of an engine.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Gear"
+  },
+  "folder": "vukXwNeZIk3SBQw9",
+  "_id": "nbLwekOH0CZ8MWba",
+  "effects": [],
+  "sort": 1400000,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738373143,
+    "modifiedTime": 1716843061603,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!nbLwekOH0CZ8MWba"
+}

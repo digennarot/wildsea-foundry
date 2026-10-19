@@ -1,0 +1,33 @@
+{
+  "name": "Marrow Supper",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Whenever you take a montage, you may choose to consume a bone-based specimen in addition to your normal task. If you do so, heal one mark of damage from this aspect and one mark of damage from any other trait.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "3olwJVpzwAUJkfpY",
+  "_id": "xvf7vAFZzSsshrwU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738389241,
+    "modifiedTime": 1716738389241,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!xvf7vAFZzSsshrwU"
+}

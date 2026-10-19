@@ -1,0 +1,33 @@
+{
+  "name": "Fruiting Limb",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Use a task to create a resource, Keel-Fruit.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "Sx9FIifm4anpj3Ak",
+  "_id": "VyAtRHBCECQ32dOh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365252,
+    "modifiedTime": 1716738365252,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!VyAtRHBCECQ32dOh"
+}

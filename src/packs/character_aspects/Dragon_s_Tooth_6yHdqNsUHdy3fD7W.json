@@ -1,0 +1,33 @@
+{
+  "name": "Dragon's Tooth",
+  "type": "aspect",
+  "system": {
+    "details": "<p>There are no dragons on the wildsea, especially none that breathe fire. But rumours persist, in some part because of forgeries like this one. Mark to create a spark suitable for lighting a pipe or kindling.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "MCDYoCazklmS4SR5",
+  "_id": "6yHdqNsUHdy3fD7W",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738376402,
+    "modifiedTime": 1716738376402,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!6yHdqNsUHdy3fD7W"
+}

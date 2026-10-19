@@ -1,0 +1,33 @@
+{
+  "name": "Pressure Suit",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A clanking pressure-suit designed to allow its user to explore the depths. When you choose the Pressure suit as an aspect, it gains two of the following benefits:<ul><li><b>Reinforced Lifelink</b> - You're immune to the effects of bad air, and have the Glide style for short distances at depth by swinging from the tubing,</li><li><b>Leaf-Rubber Seals</b> - You're immune to the effects of insect incursions, and invisible to threats that track by scent or pheromones,</li><li><b>Extraction Bellows</b> - You're immune to the effects of drifting spores. After a scene spent under Pressure, gain a gaseous or spore-based specimen,</li><li><b>Saltwater Piping</b> - You're immune to the effects of wandering spirits, and your suit keeps you at a safe temperature no matter surrounding heat or cold,</li><li><b>Amberglass Visor</b> - Flanked by firefly spotlights. You can see almost perfectly in utter darkness and can shine a bright narrow beam ahead of you that cuts through spores, murk, and mists,</li><li><b>Caterpillar Chains</b> - Reduce cut by one for you and your crewmates on all movement through the sink or drown,</li><li><b>Counterframe</b> - You resist the effects of crezzerin, and Pressure based damage and effects.</li></ul><br>And one drawback:<ul><li><b>Coiled Tubing</b> - You're weak to Spike and Keen damage,</li><li><b>Rusting Joints</b> - Cut when attempting movement-based actions requiring speed or stealth,</li><li><b>Limited Air</b> - Mark at the end of every scene you spend at depth without access to your own ship, a lowport, or other source of clean surface-grade air.</li></ul></p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Complex Gear"
+  },
+  "folder": "uYZfiumY3FOSitLu",
+  "_id": "4PtjgB3cU1Z7wLNH",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738374935,
+    "modifiedTime": 1716738374935,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!4PtjgB3cU1Z7wLNH"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Fishing Lure",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Add a positive tag to any living specimen you acquire while fishing.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "DaklPHLvwqCSoXZK",
+  "_id": "G2KowjXFpWHPwFsG",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366925,
+    "modifiedTime": 1716738366925,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!G2KowjXFpWHPwFsG"
+}

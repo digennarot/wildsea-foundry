@@ -1,0 +1,33 @@
+{
+  "name": "The Loom",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A large contraption of needles, pattern-cards, and rolling drums. Treat disasters as conflicts when crafting or repairing anything with a fabric-based resource.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "1eY1zTujzz4pqwOu",
+  "_id": "rqAf2LdGBKY5M2Ik",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738375612,
+    "modifiedTime": 1716738375612,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rqAf2LdGBKY5M2Ik"
+}

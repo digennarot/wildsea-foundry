@@ -1,0 +1,35 @@
+{
+  "name": "Delve-Seers",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>You may burn this gang's track to reduce the number of marks on your Pressure Gauge by 1d6.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Delving Gangs"
+  },
+  "folder": "viaMkHUPRJUeU31g",
+  "_id": "BAKg7kL5FxYpZh6l",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641946573,
+    "modifiedTime": 1716641946573,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!BAKg7kL5FxYpZh6l"
+}

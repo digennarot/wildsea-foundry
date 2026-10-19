@@ -1,0 +1,39 @@
+{
+  "name": "Parasite Planking",
+  "type": "design",
+  "system": {
+    "details": "<p>Wood carefully cut from long-used parasite farm branches, treated to resist incoming damage but natural enough that plants can still take root.</p><p>Gain two plots on your ship named 'planking rootbeds'. Parasite seeds sown within these plots don't gain the usual extra box on their Grow tracks.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "BiZW7rEsgGl5Hh7n"
+      }
+    ],
+    "stakes": 3,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "g0PW9m31I2bIXV3J",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843844,
+    "modifiedTime": 1716846530902,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!g0PW9m31I2bIXV3J"
+}

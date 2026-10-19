@@ -1,0 +1,33 @@
+{
+  "name": "Augur's Eyepiece",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A ratcheting monocle spilling over with gears and moving parts. Designed to hold several lenses, each one with different properties. Choose two benefits from the following list: <ul><li><b>Feathered Lens</b> - Gain a distant bird's-eye view of your current location,</li><li><b>Rainbow Quartz Lens</b> - Allows the viewer to peer into the spectral realm,</li><li><b>Cracked Lens</b> - Look around corners and through small gaps,</li><li><b>Sapphirine Lens</b> - See the sky above you, regardless of what's in the way,</li><li><b>Warped Lens</b> - See through illusions and deception,</li><li><b>Vexing Lens</b> - Gain a third-person view of yourself.</li></ul></p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Complex Gear"
+  },
+  "folder": "jdX50wWrh0uMvRbG",
+  "_id": "cejef15UGpwRdlxH",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738382159,
+    "modifiedTime": 1716738382159,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!cejef15UGpwRdlxH"
+}

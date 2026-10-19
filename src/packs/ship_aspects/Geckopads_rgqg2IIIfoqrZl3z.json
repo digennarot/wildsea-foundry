@@ -1,0 +1,39 @@
+{
+  "name": "Geckopads",
+  "type": "design",
+  "system": {
+    "details": "<p>Mechanical legs with gecko-like pads at their tips, designed to firmly grip branches while holding your ship aloft (or below).</p><p>The ship never has to cut for movement made to traverse thin or brittle branches\nDeals massive CQ Blunt damage</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "tilt",
+        "value": 1,
+        "id": "y1nDaolLwWm2h7VX"
+      }
+    ],
+    "stakes": 2,
+    "type": "bite",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "lO7OLrmBAI3lFRWx",
+  "_id": "rgqg2IIIfoqrZl3z",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641844101,
+    "modifiedTime": 1716846531646,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rgqg2IIIfoqrZl3z"
+}

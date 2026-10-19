@@ -1,0 +1,33 @@
+{
+  "name": "Scatterscree",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Mark to disperse your form, crawling into cracks, knotholes, and between the folds of clothes. While in this state you're almost impossible to detect, but you must coalesce again before taking actions that would require your many bodies to work as a collective unit.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "zYqrR7qGRLcErryG",
+  "_id": "vnNXl22GMm5gtb1k",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738389682,
+    "modifiedTime": 1716738389682,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!vnNXl22GMm5gtb1k"
+}

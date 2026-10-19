@@ -1,0 +1,33 @@
+{
+  "name": "Scrawled Research Notes",
+  "type": "aspect",
+  "system": {
+    "details": "<p>After a lifetime devoted to a singular topic, your work is nearly complete. Treat conflicts as triumphs when studying (or conversing on the topic of) beasts.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "FRBazR9fyxygtup9",
+  "_id": "dpXqDmstogOkZ2pQ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387688,
+    "modifiedTime": 1716738387688,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!dpXqDmstogOkZ2pQ"
+}

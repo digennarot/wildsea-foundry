@@ -1,0 +1,18 @@
+{
+  "name": "Red Right Hand",
+  "type": "Item",
+  "_id": "60crgAFL8a6MuyT1",
+  "folder": "nHuDusmrx5aJy3jm",
+  "sorting": "a",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738390487,
+    "modifiedTime": 1716738390487,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!60crgAFL8a6MuyT1"
+}

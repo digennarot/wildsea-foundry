@@ -1,0 +1,34 @@
+{
+  "name": "Zealous Hive",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Reduce the Grow track of all plants within this plot by one box, but cut 1 when attempting to harvest them.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "lTDT45uPqU2n4nEa",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850220,
+    "modifiedTime": 1717440163235,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!lTDT45uPqU2n4nEa"
+}

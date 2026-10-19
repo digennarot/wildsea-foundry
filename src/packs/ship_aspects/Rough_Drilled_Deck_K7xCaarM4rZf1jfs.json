@@ -1,0 +1,34 @@
+{
+  "name": "Rough-Drilled Deck",
+  "type": "fitting",
+  "system": {
+    "details": "<p>When you create a Rough-Drilled Deck plot, reduce your Armour or Seals rating by one box.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 0,
+    "type": "Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "NGJyuzCqbmlfBjCA",
+  "_id": "K7xCaarM4rZf1jfs",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850024,
+    "modifiedTime": 1717440157682,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!K7xCaarM4rZf1jfs"
+}

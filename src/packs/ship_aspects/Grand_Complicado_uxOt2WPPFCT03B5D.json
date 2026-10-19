@@ -1,0 +1,35 @@
+{
+  "name": "Grand Complicado",
+  "type": "undercrew",
+  "system": {
+    "details": "<ul><li><p>Any one complex aspect.</p></li><li><p>A grand complicado's track is equal to the track of the aspect they have access to, plus two more boxes.</p></li></ul>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 1
+    },
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Delving Officer"
+  },
+  "folder": "loIaRKetnEpIlqSy",
+  "_id": "uxOt2WPPFCT03B5D",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641945688,
+    "modifiedTime": 1717440195286,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!uxOt2WPPFCT03B5D"
+}

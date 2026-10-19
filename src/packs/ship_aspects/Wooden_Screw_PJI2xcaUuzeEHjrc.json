@@ -1,0 +1,34 @@
+{
+  "name": "Wooden Screw",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Often mistaken by wavewalking types for some kind of sky-drill, engineers assure dubious aeronauts that this does, in fact, work.</p><p>Takeoff Cost: Saws\nFlight Style: Float, Flap</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 4,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "PJI2xcaUuzeEHjrc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848780,
+    "modifiedTime": 1716846530116,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!PJI2xcaUuzeEHjrc"
+}

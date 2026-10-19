@@ -1,0 +1,34 @@
+{
+  "name": "Buoyancy Tethers",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Grappling-array style hooks that are designed to latch onto floating debris. Not as effortless as an aerial anchor, but they ensure that an unattended airship doesn't drift from where it's left at all.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Rising Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "8qVT0Vjv6intyQkd",
+  "_id": "rtWbPBvH3zVQmIzi",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641845359,
+    "modifiedTime": 1717440164510,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rtWbPBvH3zVQmIzi"
+}

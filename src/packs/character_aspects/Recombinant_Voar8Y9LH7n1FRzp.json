@@ -1,0 +1,33 @@
+{
+  "name": "Recombinant",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your form is more deliberate than most could conceive of. When you take a trait from any bloodline other than your own, add two boxes to the trait's usual track length.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "ZQogFiRDmsIqDTqi",
+  "_id": "Voar8Y9LH7n1FRzp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738387323,
+    "modifiedTime": 1716738387323,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Voar8Y9LH7n1FRzp"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Thumb-Wax Coating",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Rubbed around doorways and portholes, and then applied liberally to any unusually draughty spots.</p><p>Ship interior resists wandering spirits</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "depth",
+        "value": 1,
+        "id": "F1nGWSk7snODMWIY"
+      }
+    ],
+    "stakes": 1,
+    "type": "Scrubbers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "bQ7zzHWIDgigwn2E",
+  "_id": "Z320Thq5zAjKfVQb",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641847462,
+    "modifiedTime": 1716846530598,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Z320Thq5zAjKfVQb"
+}

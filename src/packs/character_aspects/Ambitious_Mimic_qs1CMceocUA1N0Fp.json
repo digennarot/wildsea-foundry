@@ -1,0 +1,33 @@
+{
+  "name": "Ambitious Mimic",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Consume a whisper to mimic a trait or piece of gear belonging to a crewmate, gaining a copy of it as a temporary trait. You can only have one such temporary trait at a time.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "iwYbveOuZc1lC0qj",
+  "_id": "qs1CMceocUA1N0Fp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738366065,
+    "modifiedTime": 1716738366065,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!qs1CMceocUA1N0Fp"
+}

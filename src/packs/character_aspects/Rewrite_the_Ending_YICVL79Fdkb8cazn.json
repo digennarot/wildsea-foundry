@@ -1,0 +1,33 @@
+{
+  "name": "Rewrite the Ending",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Whenever a crewmate would mark the final box on one of their  tracks, you may consume a whisper. If you do so, that box remains unmarked and you hijack focus.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "S2j3zknPecUo4EsP",
+  "_id": "YICVL79Fdkb8cazn",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738379506,
+    "modifiedTime": 1716738379506,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!YICVL79Fdkb8cazn"
+}

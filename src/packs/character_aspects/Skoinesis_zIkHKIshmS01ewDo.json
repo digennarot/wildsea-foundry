@@ -1,0 +1,33 @@
+{
+  "name": "Skoinesis",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You have uncanny control over nearby ropes and rigging, which twist and move according to your will.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "2"
+    },
+    "type": "Trait"
+  },
+  "folder": "Z6BJC4ANhXMQt75c",
+  "_id": "zIkHKIshmS01ewDo",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738370810,
+    "modifiedTime": 1716738370810,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zIkHKIshmS01ewDo"
+}

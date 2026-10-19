@@ -1,0 +1,45 @@
+{
+  "name": "Overburner",
+  "type": "fitting",
+  "system": {
+    "details": "<p></p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "speed",
+        "value": 1,
+        "id": "iIyTJ7zooghDrqU6"
+      },
+      {
+        "rating": "saws",
+        "value": 1,
+        "id": "f4iFxe1rZ187umLY"
+      }
+    ],
+    "stakes": 1,
+    "type": "Outrider Fittings",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "9wMthDFmKg4yWDOZ",
+  "_id": "Yce4wH0TEpZ2WBjP",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.1.1",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849799,
+    "modifiedTime": 1717440160129,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Yce4wH0TEpZ2WBjP"
+}

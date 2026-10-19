@@ -1,0 +1,34 @@
+{
+  "name": "Skyward Harness",
+  "type": "fitting",
+  "system": {
+    "details": "<p>Chains or ropes deeply anchored within the ship's structure, a skyward harness comes complete with a well-trained protoleviathan of the wild blue.</p><p>Takeoff Cost: Armour\nFlight Style: Float, Rush, Hover, Flap\nThe harnessed creature can deal massive CQ damage of any one chosen type, except Flame.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 7,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "Htet0ti9KDry4Fjg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848543,
+    "modifiedTime": 1716846529717,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Htet0ti9KDry4Fjg"
+}

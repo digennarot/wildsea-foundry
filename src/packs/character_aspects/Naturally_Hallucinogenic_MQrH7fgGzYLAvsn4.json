@@ -1,0 +1,33 @@
+{
+  "name": "Naturally Hallucinogenic",
+  "type": "aspect",
+  "system": {
+    "details": "<p>Your sheddings have mild psychotropic properties. Mark to create a rare resource, Hallucinogenic Spores.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Trait"
+  },
+  "folder": "AJSvCuKqWgIqGu6z",
+  "_id": "MQrH7fgGzYLAvsn4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738365129,
+    "modifiedTime": 1716738365129,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!MQrH7fgGzYLAvsn4"
+}

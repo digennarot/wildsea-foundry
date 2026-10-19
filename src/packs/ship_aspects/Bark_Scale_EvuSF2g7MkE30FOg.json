@@ -1,0 +1,49 @@
+{
+  "name": "Bark-Scale",
+  "type": "design",
+  "system": {
+    "details": "<p>Chemically treated for flexibility, but still liable to catch and drag as a ship moves, bark-scale's true benefits is in the natural camouflage it offers at depth.</p><p>Increase impact on stealth rating rolls taken when at anchor within the depths.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "seals",
+        "value": 1,
+        "id": "MJJd0vhXkUYICJYK"
+      },
+      {
+        "rating": "speed",
+        "value": -1,
+        "id": "Z0PFa4vR5hLr503R"
+      },
+      {
+        "rating": "stealth",
+        "value": 2,
+        "id": "oMdGDwOSrtyoK22e"
+      }
+    ],
+    "stakes": 3,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "EvuSF2g7MkE30FOg",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843881,
+    "modifiedTime": 1716846529479,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!EvuSF2g7MkE30FOg"
+}

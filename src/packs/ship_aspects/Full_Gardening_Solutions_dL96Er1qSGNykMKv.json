@@ -1,0 +1,18 @@
+{
+  "name": "Full Gardening Solutions",
+  "type": "Item",
+  "_id": "dL96Er1qSGNykMKv",
+  "folder": "ZrUFVDIRICDSBZAw",
+  "sorting": "a",
+  "sort": 500000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641850861,
+    "modifiedTime": 1716641850861,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!dL96Er1qSGNykMKv"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Scatterbird Cages",
+  "type": "fitting",
+  "system": {
+    "details": "<p>For those with higher ambitions than insect training, these rows of cages can be opened to fill the air with extremely angry avians. They'll (mostly) return to their perches after working their fury out on anything nearby.</p><p>Optimal Use: Release to clear a burn from any Eye tracking the ship from above the clouds.\nAlternate Use: A fury of claws and beaks cover the deck, dealing Massive CQ Spike damage to anyone nearby (including your own crew, if you're out there).</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 2,
+    "type": "Bafflers",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "teIt6nRvWg1g7vN6",
+  "_id": "gyONElPdBVjR4q2T",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641849579,
+    "modifiedTime": 1716846530972,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!gyONElPdBVjR4q2T"
+}

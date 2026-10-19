@@ -1,0 +1,34 @@
+{
+  "name": "Labyrinth of Twine",
+  "type": "fitting",
+  "system": {
+    "details": "<p>A high-sided plot consisting of angled grow beds, notched metal poles, alchemically treated soil, and an absolute morass of interlinked strings.</p><p>Duplicate hybridization results are discarded, having no effect on the plant.</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 3,
+    "type": "Hybrid Gardening Plots",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "GPtTcfV1chspRjwI",
+  "_id": "sCHU5nslja2XrkwX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641851017,
+    "modifiedTime": 1716846531676,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!sCHU5nslja2XrkwX"
+}

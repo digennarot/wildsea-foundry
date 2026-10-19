@@ -1,0 +1,44 @@
+{
+  "name": "Junk-Strung",
+  "type": "design",
+  "system": {
+    "details": "<p>The mark of a ship well-scarred and oft-repaired, a junk-strung hull is barely a hull at all... More a collection of scavenged metal, driftwood, and animal\nbones; unstable, rusting, and leaky.</p><p>Mark your Seals or Armour rating to pull a piece of useful salvage from the hull.</p>",
+    "collapsed": false,
+    "ratingMods": [
+      {
+        "rating": "armour",
+        "value": 1,
+        "id": "4PEyveMA3dNFppoU"
+      },
+      {
+        "rating": "seals",
+        "value": -1,
+        "id": "ZYgPAQC2dRNsz1FQ"
+      }
+    ],
+    "stakes": 0,
+    "type": "hull",
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "JatMulgwmCJpn9UH",
+  "_id": "zgd4FQjea1k1gTB4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641843804,
+    "modifiedTime": 1716846373976,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zgd4FQjea1k1gTB4"
+}

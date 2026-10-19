@@ -1,0 +1,33 @@
+{
+  "name": "Yelnstra's Fables",
+  "type": "aspect",
+  "system": {
+    "details": "<p>A loosely bound collection of Yelnstra's stories gathered and shared by your culture. Mark to receive a useful fable (supplied by the Firefly).</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "type": "Gear"
+  },
+  "folder": "4GGVAomlz4sqxZr0",
+  "_id": "KbVFRCzY4kzPU1Lf",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738367751,
+    "modifiedTime": 1716738367751,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!KbVFRCzY4kzPU1Lf"
+}

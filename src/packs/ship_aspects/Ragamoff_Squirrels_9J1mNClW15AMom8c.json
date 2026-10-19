@@ -1,0 +1,35 @@
+{
+  "name": "Ragamoff Squirrels",
+  "type": "undercrew",
+  "system": {
+    "details": "<p>Flying squirrels adept at retrieving small resources in the immediate vicinity of the ship, allowing the crew to stay safely sealed inside.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "3"
+    },
+    "ratingMods": [],
+    "stakes": 1,
+    "type": "Delving Packs"
+  },
+  "folder": "sQSmWjjBl3MWAMCE",
+  "_id": "9J1mNClW15AMom8c",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.11",
+    "coreVersion": "11.315",
+    "createdTime": 1716641947167,
+    "modifiedTime": 1716641947167,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!9J1mNClW15AMom8c"
+}

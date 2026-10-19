@@ -1,0 +1,18 @@
+{
+  "name": "Bloodline",
+  "type": "Item",
+  "_id": "8R082hE7Uo6MbIuB",
+  "folder": null,
+  "sorting": "a",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738364799,
+    "modifiedTime": 1716738364799,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "_key": "!folders!8R082hE7Uo6MbIuB"
+}

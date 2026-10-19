@@ -1,0 +1,34 @@
+{
+  "name": "Heaven-Hewn Carving",
+  "type": "fitting",
+  "system": {
+    "details": "<p>The details of the carving are incidental - the true power lies in the origin of the stone, mined from a floating island or stolen from a crumbling aerial temple.</p><p>Takeoff Cost: Speed\nFlight Style: Float, Hover, Glide</p>",
+    "collapsed": false,
+    "ratingMods": [],
+    "stakes": 4,
+    "type": "Lift Systems",
+    "damaged": false,
+    "track": {
+      "max": ""
+    }
+  },
+  "folder": "Sl2B6iaxuMfQzj43",
+  "_id": "mOJ64GAqegIH58aW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716641848806,
+    "modifiedTime": 1716846531337,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!mOJ64GAqegIH58aW"
+}

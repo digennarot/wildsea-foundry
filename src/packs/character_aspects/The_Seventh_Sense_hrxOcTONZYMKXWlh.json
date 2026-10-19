@@ -1,0 +1,33 @@
+{
+  "name": "The Seventh Sense",
+  "type": "aspect",
+  "system": {
+    "details": "<p>You are attuned to the winds, and can see updraughts and gusts moments before they occur. Use a task to deepen your connection to the atmosphere, learning about future changes in weather or temperature.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": "4"
+    },
+    "type": "Trait"
+  },
+  "folder": "Cgva9oGpApcQNxVo",
+  "_id": "hrxOcTONZYMKXWlh",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSirdvNj5fBNsixe": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "wildsea",
+    "systemVersion": "0.0.14",
+    "coreVersion": "11.315",
+    "createdTime": 1716738378383,
+    "modifiedTime": 1716738378383,
+    "lastModifiedBy": "JSirdvNj5fBNsixe"
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!hrxOcTONZYMKXWlh"
+}
