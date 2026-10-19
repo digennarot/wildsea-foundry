@@ -1,0 +1,159 @@
+{
+  "_id": "tnzlzwqNI7ximUzt",
+  "_key": "!actors!tnzlzwqNI7ximUzt",
+  "name": "Nubispora",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "KjNStiay50nC032i",
+  "sort": 900000,
+  "system": {
+    "type": "Forza della Natura",
+    "size": "variable",
+    "traits": "Un Pericolo per i Polmoni",
+    "description": "<p>Una nube densa di spore fungine che scivola sulle chiome o tra i rami. Adatta a scene in cui l'equipaggio deve pensare a sopravvivere e decidere in fretta, più che a combattere.</p>",
+    "sight": [
+      {
+        "id": "WGduE7hdwSysO5Ix",
+        "text": "Nebbia innaturale"
+      },
+      {
+        "id": "HgCQD9NYXPxo4jLM",
+        "text": "Funghi che spuntano a vista d'occhio"
+      },
+      {
+        "id": "uv1p74TiLl3QHG06",
+        "text": "Superfici macchiate di sporco"
+      }
+    ],
+    "smell": [
+      {
+        "id": "HpwqAzqpKj1ODo87",
+        "text": "Umido, denso e soffocante"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "aKfZn5yJFY7uRR3f",
+      "_key": "!actors.items!tnzlzwqNI7ximUzt.aKfZn5yJFY7uRR3f",
+      "name": "Particelle",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Inalate, le spore attecchiscono in gola e nei polmoni; se non curate lasciano danni permanenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "MMxVuBWTjirWt8Or",
+      "_key": "!actors.items!tnzlzwqNI7ximUzt.MMxVuBWTjirWt8Or",
+      "name": "Nebbia Fungina",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>La nube riduce la visibilità nella zona circostante.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "lYyZEKZvSXgjR3C2",
+      "_key": "!actors.items!tnzlzwqNI7ximUzt.lYyZEKZvSXgjR3C2",
+      "name": "Invasiva",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Supera le guarnizioni della nave, oppure attecchisce sui ponti di legno e sulle altre superfici vegetali.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "yT4U7PYNVBprA5El",
+      "_key": "!actors.items!tnzlzwqNI7ximUzt.yT4U7PYNVBprA5El",
+      "name": "Sotto una Coltre di Spore",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Nella nube vive una creatura immune alle spore, che attacca chiunque vi entri.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "HrjWNNFFR9UwccO3",
+      "_key": "!actors.items!tnzlzwqNI7ximUzt.HrjWNNFFR9UwccO3",
+      "name": "Spore Parassitarie",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ZnrSrk9jHqbBUvZL",
+      "_key": "!actors.items!tnzlzwqNI7ximUzt.ZnrSrk9jHqbBUvZL",
+      "name": "Maledetto dai Funghi",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Nubispora",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

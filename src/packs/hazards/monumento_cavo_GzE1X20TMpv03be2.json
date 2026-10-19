@@ -1,0 +1,28 @@
+{
+  "_id": "GzE1X20TMpv03be2",
+  "_key": "!actors!GzE1X20TMpv03be2",
+  "name": "Monumento Cavo",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "1uuXOQy0VjJMxnBn",
+  "sort": 1900000,
+  "system": {
+    "type": "Orrore",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Una torre, un mulino o una chiesa di un tempo, svuotata e silenziosa, con frammenti di scritte in lingue scomparse.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Monumento Cavo",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

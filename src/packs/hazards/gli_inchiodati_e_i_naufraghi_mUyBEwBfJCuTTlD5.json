@@ -1,0 +1,28 @@
+{
+  "_id": "mUyBEwBfJCuTTlD5",
+  "_key": "!actors!mUyBEwBfJCuTTlD5",
+  "name": "Gli Inchiodati e I Naufraghi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 10900000,
+  "system": {
+    "type": "Predone",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Gli Inchiodati sono corpi trafitti dai rami, senza più anima ma ancora in movimento. I Naufraghi sono il contrario: spiriti senza ancora, intrappolati tra i rami, che bramano un corpo.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Gli Inchiodati e I Naufraghi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

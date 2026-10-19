@@ -1,0 +1,378 @@
+{
+  "_id": "aSmfgxX7ndaCuea3",
+  "_key": "!actors!aSmfgxX7ndaCuea3",
+  "name": "Il Terrapex",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 14200000,
+  "system": {
+    "type": "Leviatano",
+    "size": "leviathan",
+    "traits": "Antica Architettura-Testuggine Behemoth",
+    "description": "<p>Una testuggine lunga chilometri il cui guscio è un'architettura Pre-V. Emerge circa una volta ogni dieci anni, sconvolgendo le chiome e il clima. Usala per un leviatano sconosciuto, o per incontrare una cultura isolata che vive su una bestia titanica.</p><h3>Merrim (Guscio-Porto)</h3><p>Una città sotto la cupola Pre-V del guscio, abitata da naufraghi, cacciatori e mercanti, che vede la luce un giorno ogni dieci anni. A ogni emersione la sua cultura è cambiata: può essere fanatica, mercantile, innocente o infetta.</p><h3>Ganci e Incontri</h3><ul><li><strong>Ricerca del Nido</strong>: Le uova grandi come navi si schiudono dopo che la bestia è sparita: è gara a trovarle.</li><li><strong>Aiuti per Merrim</strong>: Gli abitanti del guscio-porto lanciano razzi e sventolano bandiere: di cosa hanno bisogno?</li><li><strong>Primi Passi</strong>: Un piccolo appena nato, affamato, sta distruggendo le strisce vicine.</li><li><strong>Una Nuova Casa</strong>: Un passeggero vuole unirsi al popolo di Merrim.</li></ul>",
+    "sight": [
+      {
+        "id": "kZu3AcUBeGakqMPA",
+        "text": "Le chiome sconvolte"
+      },
+      {
+        "id": "LdF8Hj4l9vO55MVG",
+        "text": "Un'antica cupola che cede"
+      },
+      {
+        "id": "LaFZesVM0ooG5coL",
+        "text": "Un occhio con l'iride grande quanto una nave"
+      }
+    ],
+    "sound": [
+      {
+        "id": "iHBq9s4zNo4QU8uH",
+        "text": "Tronchi spezzati"
+      },
+      {
+        "id": "pUrkLOeO2GgPbFyV",
+        "text": "Foglie che schiaffeggiano vecchi vetri"
+      }
+    ],
+    "taste": [
+      {
+        "id": "9lFiZgVk5oJY6HIR",
+        "text": "Uova dure e muschiate"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "dkvVb2hvOocoUNZi",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.dkvVb2hvOocoUNZi",
+      "name": "Il Cerchio della Vita",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Risale solo per deporre le uova alla luce del sole; dopo un giorno il peso la trascina di nuovo verso l'Oscuro Fondale.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bWHcmU4ZWlcVKM6R",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.bWHcmU4ZWlcVKM6R",
+      "name": "Invincibile",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Non subisce danni né dalle armi normali né dagli armamenti da ponte, e può annientare ogni minaccia con un solo colpo.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Y1lPO1q2YE00brwX",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.Y1lPO1q2YE00brwX",
+      "name": "Impatto Supremo",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Non infligge danni in modo convenzionale: una zampata può distruggere un insediamento.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8teh3md2S3tkwUD2",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.8teh3md2S3tkwUD2",
+      "name": "Famelico",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Divora tutto lungo il cammino: frutteti, bestie, navi, isole.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "WSiQPmE5wqi27ZIH",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.WSiQPmE5wqi27ZIH",
+      "name": "Frammenti di Uovo d'Acciaio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Qt4SAOtq77upRHRS",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.Qt4SAOtq77upRHRS",
+      "name": "Scrostature del Guscio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "r4pEzQabPdmbx9x6",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.r4pEzQabPdmbx9x6",
+      "name": "Secrezioni Oculari Notturne",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "SaWuliGdiCQHHGQa",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.SaWuliGdiCQHHGQa",
+      "name": "Tronco Scheggiato",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "pwn32m1j2gsurn4s",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.pwn32m1j2gsurn4s",
+      "name": "Metallo Fuso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "iITJyjJmuQ8aJxzN",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.iITJyjJmuQ8aJxzN",
+      "name": "Ornamento di Merrim",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "o2vMZ3WkmodqvAZ4",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.o2vMZ3WkmodqvAZ4",
+      "name": "Vetro della Cupola",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Xj6P8VP8Gaze0gfd",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.Xj6P8VP8Gaze0gfd",
+      "name": "Arma Distrutta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "xXHUfnZxg6gLC1eo",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.xXHUfnZxg6gLC1eo",
+      "name": "Un Decennio di Sonno",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "tZAawxvY6wfuxVbz",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.tZAawxvY6wfuxVbz",
+      "name": "Culture Mutevoli",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "rY8P8oN0wl9thxyf",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.rY8P8oN0wl9thxyf",
+      "name": "Montagna Semovente",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "KuJGg7L8DptfjhyL",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.KuJGg7L8DptfjhyL",
+      "name": "Piccolo Uovo di Terrapex",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "xhvXntem6AtgN2dg",
+      "_key": "!actors.items!aSmfgxX7ndaCuea3.xhvXntem6AtgN2dg",
+      "name": "Pila di Placche del Guscio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Il Terrapex",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

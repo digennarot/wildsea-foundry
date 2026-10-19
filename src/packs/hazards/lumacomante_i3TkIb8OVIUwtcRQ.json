@@ -1,0 +1,200 @@
+{
+  "_id": "i3TkIb8OVIUwtcRQ",
+  "_key": "!actors!i3TkIb8OVIUwtcRQ",
+  "name": "Lumacomante",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 6400000,
+  "system": {
+    "type": "Insetto",
+    "size": "small",
+    "traits": "Solo Bava",
+    "description": "<p>Lumache grandi come cani con un corpo anteriore simile a una manta, velocissime sulla loro stessa bava; viaggiano circondate da sciami di piccoli. Usale per qualcosa di rapido, simile a un'orda, con danni insoliti.</p>",
+    "sight": [
+      {
+        "id": "A4fRbZ9nMtOnJJPM",
+        "text": "Una massa di piccoli corpi luccicanti"
+      }
+    ],
+    "sound": [
+      {
+        "id": "BDlJItIfmY1SA3tB",
+        "text": "Risucchi e scivolamenti"
+      }
+    ],
+    "taste": [
+      {
+        "id": "cQVPTs2gAjX2OhNc",
+        "text": "Cenere bagnata"
+      }
+    ],
+    "touch": [
+      {
+        "id": "RsBCSo63sglxffjr",
+        "text": "Appiccicoso e vischioso"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "RcEcNXn7wrYcuEmi",
+      "_key": "!actors.items!i3TkIb8OVIUwtcRQ.RcEcNXn7wrYcuEmi",
+      "name": "Terraformare",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>La loro bava non si dissolve e trasforma intere regioni in distese appiccicose.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "6rC3BSEEkVSfIMme",
+      "_key": "!actors.items!i3TkIb8OVIUwtcRQ.6rC3BSEEkVSfIMme",
+      "name": "Corpi Morbidi",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Resistenza ai danni Contundenti, Gelidi, Incenerenti ed Elettrici; debolezza a quelli Perforanti e Salini.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vEVgie0yXnrGvNMd",
+      "_key": "!actors.items!i3TkIb8OVIUwtcRQ.vEVgie0yXnrGvNMd",
+      "name": "Carica",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Si lanciano sui bersagli: danni RAV Contundenti leggeri e li fanno cadere.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8dJ6OLrBRqujflVV",
+      "_key": "!actors.items!i3TkIb8OVIUwtcRQ.8dJ6OLrBRqujflVV",
+      "name": "Produrre Bava",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Sulla pelle nuda brucia come fuoco: danni RAV Incenerenti ingenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "oHKKxb6xHvs5HUaX",
+      "_key": "!actors.items!i3TkIb8OVIUwtcRQ.oHKKxb6xHvs5HUaX",
+      "name": "Orda",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Migliaia di piccoli rendono il terreno scivoloso: riduzione alle azioni di movimento.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "GQXH4hy1XT9Vvaoo",
+      "_key": "!actors.items!i3TkIb8OVIUwtcRQ.GQXH4hy1XT9Vvaoo",
+      "name": "Bava Ustionante",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "PRdiHLm8ZUiSskXF",
+      "_key": "!actors.items!i3TkIb8OVIUwtcRQ.PRdiHLm8ZUiSskXF",
+      "name": "Antenne Oculari di Lumacomanta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "NsTTB2r4OKp3sKzq",
+      "_key": "!actors.items!i3TkIb8OVIUwtcRQ.NsTTB2r4OKp3sKzq",
+      "name": "Un'Orda di Lacrime Calde",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Lumacomante",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

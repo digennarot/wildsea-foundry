@@ -1,0 +1,250 @@
+{
+  "_id": "wyg8Jg58wDgYtRMr",
+  "_key": "!actors!wyg8Jg58wDgYtRMr",
+  "name": "Fuoco",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "KjNStiay50nC032i",
+  "sort": 1300000,
+  "system": {
+    "type": "Forza della Natura",
+    "size": "variable",
+    "traits": "Il Selvaggio Indomabile",
+    "description": "<p>In un mondo di legno e foglie, un incendio può divorare tutto. Usalo per spaventare l'equipaggio o per metterlo davanti a qualcosa che forse non riuscirà a contenere da solo.</p>",
+    "sight": [
+      {
+        "id": "PWQLLMbmC0Rj2xSX",
+        "text": "Un bagliore tremolante all'orizzonte"
+      },
+      {
+        "id": "TRkuPpoqxl0Ij5jE",
+        "text": "Colonne di fumo"
+      },
+      {
+        "id": "YrQtsd961b93qlcg",
+        "text": "Animali in fuga"
+      }
+    ],
+    "sound": [
+      {
+        "id": "HEZvWHfWnLKglalz",
+        "text": "Un crepitio che diventa ruggito"
+      },
+      {
+        "id": "kXV7UHZXO8akPhS9",
+        "text": "Campane d'allarme e grida"
+      }
+    ],
+    "smell": [
+      {
+        "id": "8FFgILiOPLp9TSAR",
+        "text": "Fumo e morte"
+      }
+    ],
+    "touch": [
+      {
+        "id": "Iz4OrHvA66FaUV44",
+        "text": "Un calore che cresce"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "C6rRfrRzisrAC1cl",
+      "_key": "!actors.items!wyg8Jg58wDgYtRMr.C6rRfrRzisrAC1cl",
+      "name": "La Natura delle Fiamme",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Infligge danni Incenerenti, da leggeri fino all'impatto totale secondo l'intensità.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "q4ZvwbRYsdhEPQHl",
+      "_key": "!actors.items!wyg8Jg58wDgYtRMr.q4ZvwbRYsdhEPQHl",
+      "name": "Fumo",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Denso al punto da impedire la vista; le ferite da inalazione sono frequenti e durature.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "i94R554A0QDY1maZ",
+      "_key": "!actors.items!wyg8Jg58wDgYtRMr.i94R554A0QDY1maZ",
+      "name": "Dilagante",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Si estende e si intensifica col passare del tempo; un tracciato che cresce rende bene la corsa contro l'incendio. Sabbia e acqua possono soffocarlo.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "j2ErWheEgnTu6gBY",
+      "_key": "!actors.items!wyg8Jg58wDgYtRMr.j2ErWheEgnTu6gBY",
+      "name": "Paura",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Un incendio fuori controllo fa segnare il fardello, persino a chi ama il fuoco.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "hY01HGbWHpW2RIpW",
+      "_key": "!actors.items!wyg8Jg58wDgYtRMr.hY01HGbWHpW2RIpW",
+      "name": "Malvagità",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Certe fiamme sono consapevoli e vogliono solo propagarsi.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "xdEPCTrX1ldIM9Fb",
+      "_key": "!actors.items!wyg8Jg58wDgYtRMr.xdEPCTrX1ldIM9Fb",
+      "name": "Rami Carbonizzati",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "adLBDXcY7PW9Jhqe",
+      "_key": "!actors.items!wyg8Jg58wDgYtRMr.adLBDXcY7PW9Jhqe",
+      "name": "Legno Ridotto in Cenere",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vVUCVdJsFWXgpt1D",
+      "_key": "!actors.items!wyg8Jg58wDgYtRMr.vVUCVdJsFWXgpt1D",
+      "name": "Un Ramo che Brucia",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "eSSkr62Zh9V2wkAT",
+      "_key": "!actors.items!wyg8Jg58wDgYtRMr.eSSkr62Zh9V2wkAT",
+      "name": "Una Paura Atavica",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d4O74D6cpbYEWu7o",
+      "_key": "!actors.items!wyg8Jg58wDgYtRMr.d4O74D6cpbYEWu7o",
+      "name": "Una Nuova Apocalisse",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Fuoco",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

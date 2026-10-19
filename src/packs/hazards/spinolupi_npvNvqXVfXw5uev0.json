@@ -1,0 +1,345 @@
+{
+  "_id": "npvNvqXVfXw5uev0",
+  "_key": "!actors!npvNvqXVfXw5uev0",
+  "name": "Spinolupi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 3600000,
+  "system": {
+    "type": "Bestia",
+    "size": "medium",
+    "traits": "Rapidi e Imprevedibili Predatori",
+    "description": "<p>Predatori dalle zampe appuntite che cacciano in branco e cambiano colore per confondersi con il legno delle ferradici. Veloci, astuti e feroci, ma addestrabili a caro prezzo. Usali per qualcosa di rapido e inquietante.</p><h3>Ganci e Incontri</h3><ul><li><strong>Un Convulso Ticchettio</strong>: Il branco sorprende l'equipaggio mentre esplora la stiva di un relitto e blocca le uscite.</li><li><strong>In Bocca allo Spinolupo</strong>: La rotta attraversa il loro territorio, ma è tutto silenzioso: qualcosa li ha cacciati via.</li><li><strong>Il Trasporto dell'Alfa</strong>: L'equipaggio trasporta un alfa e il branco insegue la nave.</li><li><strong>Lo Spinolupo Ulula</strong>: Il motore si ferma di notte e un coro di ululati si avvicina: arrivano diversi spinolupi, ognuno con una peculiarità diversa.</li></ul>",
+    "sight": [
+      {
+        "id": "rhrZ7265h7MyMhZr",
+        "text": "Scatti improvvisi e scomposti"
+      },
+      {
+        "id": "NdHwqdUAjdVhNRGo",
+        "text": "Lunghe lingue che si contorcono"
+      },
+      {
+        "id": "o3nhvFiHO0BJiqtI",
+        "text": "Pelo ruvido su pelle liscia"
+      }
+    ],
+    "sound": [
+      {
+        "id": "ZKURQuQpAK0uhiq4",
+        "text": "Il ticchettio delle zampe a spillo"
+      },
+      {
+        "id": "kOhpb5ds94IsahVO",
+        "text": "Un sibilo prima dell'attacco"
+      },
+      {
+        "id": "GsfdU55Keui3PDqM",
+        "text": "Stridio sul metallo"
+      }
+    ],
+    "smell": [
+      {
+        "id": "VDl0ZhsSPPTdrfhX",
+        "text": "Muschio, sudore e sangue"
+      }
+    ],
+    "taste": [
+      {
+        "id": "yhvBvPicaGyvwlFQ",
+        "text": "Dura e amarognola, tenera se fritta"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "AyWKZ8djX6QW7blm",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.AyWKZ8djX6QW7blm",
+      "name": "Caccia ai Marinai Incauti",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Conoscono le abitudini dei navigaselva: tendono agguati lungo le rotte e attendono i rovistatori vicino ai relitti.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "gmRX9Ph8mBpjzr2P",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.gmRX9Ph8mBpjzr2P",
+      "name": "Arti a Spillo",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Si arrampicano su tutto ciò che possono forare, i più forti persino sul metallo. Danni RAV Perforanti leggeri o medi; le cariche infliggono danni medi Contundenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "OunAdCAFebuUZ22b",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.OunAdCAFebuUZ22b",
+      "name": "Movimento Sincopato",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Movimenti a scatti e imprevedibili: riduzione a chi cerca di schivarli o sfuggire loro quando sono liberi di muoversi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "zk9coVZbxJtVXhsJ",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.zk9coVZbxJtVXhsJ",
+      "name": "Lingua Spiraliforme",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Muscolosa, serve ad afferrare le prede e a fiutare l'aria per seguirle con precisione.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "HqBYSNjKyZitK8QM",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.HqBYSNjKyZitK8QM",
+      "name": "Pelliccia Corazzata",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Pelo ispido e appuntito: resistenza ai danni Taglienti e Contundenti.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "op1ZOICKlTEv3u9Q",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.op1ZOICKlTEv3u9Q",
+      "name": "Chiazzato",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Pelle mutevole che lo rende difficile da individuare in combattimento o in fuga.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "GNz4Rd7LrPb3Is3Q",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.GNz4Rd7LrPb3Is3Q",
+      "name": "Mastodontico",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Un alfa: infligge danni ingenti e il suo morso è Lacerante.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "S0zJM7qUnlHaLiRX",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.S0zJM7qUnlHaLiRX",
+      "name": "Famelico",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Gonfio di fame, prova a divorare qualunque cosa.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8QU5M3Aph8iKxJ7m",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.8QU5M3Aph8iKxJ7m",
+      "name": "Addomesticato",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Porta collare e pettorina: con pazienza e cibo si può calmare.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "XDuDTf4Ps3AlG5L4",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.XDuDTf4Ps3AlG5L4",
+      "name": "Zampe a Spillo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4ExoZDK8QDK7APuD",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.4ExoZDK8QDK7APuD",
+      "name": "Lingua Spiraliforme",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4zn8APHGpTvHjqJM",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.4zn8APHGpTvHjqJM",
+      "name": "Ossa di Bestia",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1UxCdkAEQkB6NbDq",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.1UxCdkAEQkB6NbDq",
+      "name": "Pelle di Spinolupo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "OrKc2M2YUhAb5PXn",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.OrKc2M2YUhAb5PXn",
+      "name": "Movimenti Inquietanti",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "5aGUA4gNi3zVvXDE",
+      "_key": "!actors.items!npvNvqXVfXw5uev0.5aGUA4gNi3zVvXDE",
+      "name": "Branco in Avvicinamento",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Spinolupi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

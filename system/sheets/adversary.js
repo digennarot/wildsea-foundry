@@ -68,6 +68,7 @@ export default class WildseaAdversarySheet extends WildseaActorSheet {
       case 'sound':
       case 'smell':
       case 'taste':
+      case 'touch':
         this.addSlimItem(data.itemType)
         break
       case 'resource':

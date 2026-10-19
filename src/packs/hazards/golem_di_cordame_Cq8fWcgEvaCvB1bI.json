@@ -1,0 +1,28 @@
+{
+  "_id": "Cq8fWcgEvaCvB1bI",
+  "_key": "!actors!Cq8fWcgEvaCvB1bI",
+  "name": "Golem di Cordame",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 9600000,
+  "system": {
+    "type": "Costrutto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Corde annodate e tenute insieme da una forza spirituale o da un sussurro intrappolato. Utilissimi a bordo come manovali o parte del motore; se siano davvero costrutti è ancora oggetto di discussione.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Golem di Cordame",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

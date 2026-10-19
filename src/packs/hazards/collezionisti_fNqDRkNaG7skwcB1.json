@@ -1,0 +1,28 @@
+{
+  "_id": "fNqDRkNaG7skwcB1",
+  "_key": "!actors!fNqDRkNaG7skwcB1",
+  "name": "Collezionisti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 9000000,
+  "system": {
+    "type": "Costrutto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Costrutti a forma di squalo che nuotano tra i rami sfruttando il magnetismo, programmati per raccogliere campioni (spesso pericolosi) per il loro creatore. Si dice che col tempo si corrompano.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Collezionisti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "_id": "wC5T2lWgON00POk8",
+  "_key": "!actors!wC5T2lWgON00POk8",
+  "name": "Triforadonti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 4200000,
+  "system": {
+    "type": "Bestia",
+    "size": "large",
+    "traits": "Relitti Viventi d'Eleganza Pre-V",
+    "description": "<p>Creature fiere e maestose, forse nate dall'ingegneria Pre-V, che nidificano nei Giardini di Panra e sembrano immuni al crezzerin. Usali per avversari forti e orgogliosi che è difficile non ammirare.</p><h3>Giardini di Panra (Luogo)</h3><p>Una piattaforma Pre-V che galleggia nel cielo, con una cupola infranta che un tempo proteggeva un arboreto di alberi rari. Le piante al suo interno sono libere dal crezzerin, ai piedi ci sono volti di pietra con nomi in Anteriore ed è il territorio di nidificazione dei triforadonti.</p>",
+    "sight": [
+      {
+        "id": "GYm7WZ8QxmPMIAny",
+        "text": "Volteggi tra le nuvole"
+      },
+      {
+        "id": "r8vM25bnDEB2DdzP",
+        "text": "Graffi sulle rocce di montagna"
+      },
+      {
+        "id": "x99xN8ziFg8Y92DH",
+        "text": "Code a ventaglio e grandi ali"
+      }
+    ],
+    "sound": [
+      {
+        "id": "4ygdZIqP6SBn7Tyz",
+        "text": "Un verso tra il grido d'aquila e il ruggito"
+      }
+    ],
+    "smell": [
+      {
+        "id": "q1xZ2m4bO7qc4l0s",
+        "text": "L'odore di un passato glorioso"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "uRvac4F1ufvJuosp",
+      "_key": "!actors.items!wC5T2lWgON00POk8.uRvac4F1ufvJuosp",
+      "name": "Un Volo Maestoso",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Amano il cielo aperto e lo considerano tutto il loro territorio.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "5wzPj6YoBUzEOriy",
+      "_key": "!actors.items!wC5T2lWgON00POk8.5wzPj6YoBUzEOriy",
+      "name": "Il Ritorno ai Giardini di Panra",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Prima o poi tornano sempre a Panra, per nidificare o in pellegrinaggio.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "uL36vV6NlrJi1SON",
+      "_key": "!actors.items!wC5T2lWgON00POk8.uL36vV6NlrJi1SON",
+      "name": "Chi di Becco Ferisce",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Afferra con gli artigli (danni RAV Taglienti) e finisce col becco (danni RAV Trincianti).</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Cebx9SgsinQF5uvh",
+      "_key": "!actors.items!wC5T2lWgON00POk8.Cebx9SgsinQF5uvh",
+      "name": "Superbe Ali",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Resistenza a tutti i danni tranne Incenerenti e Gelidi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "lNZYQJk9ShPOLfGV",
+      "_key": "!actors.items!wC5T2lWgON00POk8.lNZYQJk9ShPOLfGV",
+      "name": "Aura Mesmerica",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Ispira rispetto e reverenza: è un famiglio ambito da artisti e despoti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bHJT9xbCLFG44Iil",
+      "_key": "!actors.items!wC5T2lWgON00POk8.bHJT9xbCLFG44Iil",
+      "name": "Brigata di Autodifesa",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Cacciano in gruppi di tre o quattro e vendicano i compagni feriti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "03JLBXx6gEetP4LP",
+      "_key": "!actors.items!wC5T2lWgON00POk8.03JLBXx6gEetP4LP",
+      "name": "Ingegnerizzato",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Immune al crezzerin.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "84sn6vleZmQhUEAY",
+      "_key": "!actors.items!wC5T2lWgON00POk8.84sn6vleZmQhUEAY",
+      "name": "Eleganza Regale",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Coperto di stracci Pre-V, insegne nobiliari e metalli preziosi.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "EzcXxMbZKUJTY897",
+      "_key": "!actors.items!wC5T2lWgON00POk8.EzcXxMbZKUJTY897",
+      "name": "Aura Potente",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Stargli vicino sfianca: riduce l'impatto delle azioni fisiche.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "g8scZotM2ErzIIuy",
+      "_key": "!actors.items!wC5T2lWgON00POk8.g8scZotM2ErzIIuy",
+      "name": "Morbide Piume",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "CBfprGbPf499ofXE",
+      "_key": "!actors.items!wC5T2lWgON00POk8.CBfprGbPf499ofXE",
+      "name": "Trifomuscolo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "2l2NqHJgHsRUwWdL",
+      "_key": "!actors.items!wC5T2lWgON00POk8.2l2NqHJgHsRUwWdL",
+      "name": "Vessilli Stracciati",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "w0YPC0A3lNcwW5s3",
+      "_key": "!actors.items!wC5T2lWgON00POk8.w0YPC0A3lNcwW5s3",
+      "name": "Antico e Aereo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "2w5UO1v3s9KRVsIe",
+      "_key": "!actors.items!wC5T2lWgON00POk8.2w5UO1v3s9KRVsIe",
+      "name": "Trespolo per Casa",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Triforadonti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

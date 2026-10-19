@@ -1,0 +1,249 @@
+{
+  "_id": "7onGF4sSFJuMRHJn",
+  "_key": "!actors!7onGF4sSFJuMRHJn",
+  "name": "Scorpioni Predatori",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 6200000,
+  "system": {
+    "type": "Insetto",
+    "size": "variable",
+    "traits": "Scaltri Cacciatori Aracnoidei",
+    "description": "<p>Predatori solitari del groviglio, a volte grandi come un mercantile, che attendono nascosti il passaggio di bestie o di navi. Usali per sorprendere l'equipaggio nel momento peggiore.</p>",
+    "sight": [
+      {
+        "id": "gH3AmMPEgKfbESnC",
+        "text": "Un fruscio improvviso"
+      },
+      {
+        "id": "lPYGkjjWyta3i9h6",
+        "text": "Una coda uncinata"
+      },
+      {
+        "id": "FrA9a0mapvMVEIzg",
+        "text": "Piccoli traslucidi"
+      }
+    ],
+    "sound": [
+      {
+        "id": "ycjSzJ829VlVpUFw",
+        "text": "Mandibole che scattano"
+      },
+      {
+        "id": "Ne4d84OtItbkowhf",
+        "text": "Chele e placche che sbattono"
+      }
+    ],
+    "smell": [
+      {
+        "id": "O7qt2Lx4QMwTudF1",
+        "text": "Pungente e aspro"
+      }
+    ],
+    "taste": [
+      {
+        "id": "LwKT5HC473REv8re",
+        "text": "Carapace immangiabile, polpa tenera"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "RfZroZM4xOof5XAw",
+      "_key": "!actors.items!7onGF4sSFJuMRHJn.RfZroZM4xOof5XAw",
+      "name": "Il Boccone Migliore",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Si gettano su una nave e salgono sul ponte per approfittare del caos; nascosti tra i rami sono difficili da vedere.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8GMCxuAuVO0biuu8",
+      "_key": "!actors.items!7onGF4sSFJuMRHJn.8GMCxuAuVO0biuu8",
+      "name": "Carapace",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Mimetico. Debolezza ai danni Perforanti, resistenza a quelli Esplosivi e Contundenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "gRrMSdG8U9q3N6Yr",
+      "_key": "!actors.items!7onGF4sSFJuMRHJn.gRrMSdG8U9q3N6Yr",
+      "name": "Pungiglione Ricurvo",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Danni RAV Perforanti o Tossici (AD per gli esemplari più grandi).</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Vp03RWpznEHi8OdA",
+      "_key": "!actors.items!7onGF4sSFJuMRHJn.Vp03RWpznEHi8OdA",
+      "name": "Chele",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Spezzano legno e ossa: danni RAV Taglienti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "KT1cpiaxJBhVbsKd",
+      "_key": "!actors.items!7onGF4sSFJuMRHJn.KT1cpiaxJBhVbsKd",
+      "name": "Getto di Veleno",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Uno spruzzo caustico dal pungiglione: danni AD Tossici.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Q2PHyUz8zXwgG1y5",
+      "_key": "!actors.items!7onGF4sSFJuMRHJn.Q2PHyUz8zXwgG1y5",
+      "name": "Sferza",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>La coda è anche una frusta che afferra e solleva: danni AD Contundenti.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "89W8XmEHTkpcTrz3",
+      "_key": "!actors.items!7onGF4sSFJuMRHJn.89W8XmEHTkpcTrz3",
+      "name": "Placche di Chitina",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "CAj2ttxUeFnAIoED",
+      "_key": "!actors.items!7onGF4sSFJuMRHJn.CAj2ttxUeFnAIoED",
+      "name": "Sacche di Veleno",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "tcYPp5g3tSbaMmwh",
+      "_key": "!actors.items!7onGF4sSFJuMRHJn.tcYPp5g3tSbaMmwh",
+      "name": "Chele Gemelle",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "KlQ760cZvKY8pmGJ",
+      "_key": "!actors.items!7onGF4sSFJuMRHJn.KlQ760cZvKY8pmGJ",
+      "name": "In Attesa",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Scorpioni Predatori",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

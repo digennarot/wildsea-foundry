@@ -1,0 +1,357 @@
+{
+  "_id": "cATBSD3W39FVCv32",
+  "_key": "!actors!cATBSD3W39FVCv32",
+  "name": "L'Isomelma",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 14100000,
+  "system": {
+    "type": "Leviatano",
+    "size": "leviathan",
+    "traits": "Insetto Leviatano Tentacolare",
+    "description": "<p>Una lumaca grande come una nave da guerra che tende reti di saliva tra i rami dell'abisso: quando qualcosa di grosso ci finisce dentro, risale all'improvviso e lo trascina nel guscio. Usala per qualcosa che emerge per poco e inghiotte la nave intera, invece di combattere i singoli.</p><h3>Guscio di Digestione (Territorio)</h3><p>Dentro il guscio c'è una caverna di chitina, illuminata dal rosso delle mosche simbionti, piena di relitti divorati e forse di sopravvissuti. Il pavimento è la schiena del leviatano, bagnata da enzimi che sciolgono ossa, legno e metallo (danni Acidi e Tossici col passare del tempo).</p><h3>Ganci e Incontri</h3><ul><li><strong>Un'Assenza Inspiegabile</strong>: Una nave di trovatori è sparita, ma da sotto le onde arriva un canto.</li><li><strong>Liberare la Rotta</strong>: La sua rete blocca le navi mercantili; rimuoverla è possibile, ma sempre rischioso.</li><li><strong>Amabili Resti</strong>: Bisogna recuperare un corpo da un relitto dentro il guscio.</li></ul>",
+    "sight": [
+      {
+        "id": "GdT9ywJ3NwQ2Oypv",
+        "text": "Fili di saliva tesi tra i rami"
+      },
+      {
+        "id": "TEXQijfslrXNLAC6",
+        "text": "Liquido che gocciola dalle foglie"
+      },
+      {
+        "id": "MNH1YKO4nxpbc71U",
+        "text": "Un tentacolo esploratore dal basso"
+      }
+    ],
+    "sound": [
+      {
+        "id": "rgJpAXEjKiQ8yMTT",
+        "text": "Rami spezzati"
+      },
+      {
+        "id": "DCpX2lWcSx4qgpiI",
+        "text": "Uno scafo che scivola nella melma"
+      }
+    ],
+    "smell": [
+      {
+        "id": "K8xtx2fM0mzi1dkp",
+        "text": "Denso, acre, pungente"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "VsLcqc8oKLKK0dyd",
+      "_key": "!actors.items!cATBSD3W39FVCv32.VsLcqc8oKLKK0dyd",
+      "name": "Tentacoli",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>I piccoli percepiscono e tessono la rete (danni AD Acidi o Contundenti medi); i grandi la muovono e schiacciano (danni Contundenti ingenti).</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "MDOQ3xJi3CkV1Y53",
+      "_key": "!actors.items!cATBSD3W39FVCv32.MDOQ3xJi3CkV1Y53",
+      "name": "Rete Salivare",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Un'estensione dei suoi sensi; ignora gli intrusi piccoli finché non toccano la rete.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "QytkekrftiXtlcBJ",
+      "_key": "!actors.items!cATBSD3W39FVCv32.QytkekrftiXtlcBJ",
+      "name": "Rapida e Veloce",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Si muove come una nave a mordente tentacolare e tiene il passo quasi di chiunque.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "EGbBzoq152b8PzMK",
+      "_key": "!actors.items!cATBSD3W39FVCv32.EGbBzoq152b8PzMK",
+      "name": "Il Leviatano nella Conchiglia",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Resistenza a tutto; anche con impatto totale segna una sola casella. Corpo e tentacoli sono deboli ai danni Salini; il guscio è vulnerabile solo a danni Contundenti ed Esplosivi a impatto totale.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "zdEY8fVGmlkxTNVh",
+      "_key": "!actors.items!cATBSD3W39FVCv32.zdEY8fVGmlkxTNVh",
+      "name": "Guscio Convesso",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Il guscio è diventato un enorme calderone di succhi digestivi.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "onNJPplbN6lyPLGi",
+      "_key": "!actors.items!cATBSD3W39FVCv32.onNJPplbN6lyPLGi",
+      "name": "Esploratrice della Superficie",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Vive sulle onde e travolge chi disturba la sua rete.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3HdxDd36wducGMgH",
+      "_key": "!actors.items!cATBSD3W39FVCv32.3HdxDd36wducGMgH",
+      "name": "Melma di Isomelma",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "zzxzXqIk326B8ufa",
+      "_key": "!actors.items!cATBSD3W39FVCv32.zzxzXqIk326B8ufa",
+      "name": "Frammento di Conchiglia",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "04dZamZlXq43o88L",
+      "_key": "!actors.items!cATBSD3W39FVCv32.04dZamZlXq43o88L",
+      "name": "Tenebra Concentrata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "44S11aa6BMhfjKmW",
+      "_key": "!actors.items!cATBSD3W39FVCv32.44S11aa6BMhfjKmW",
+      "name": "Peduncolo Oculare del Leviatano",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8pCiqHHRau6VtEbc",
+      "_key": "!actors.items!cATBSD3W39FVCv32.8pCiqHHRau6VtEbc",
+      "name": "Duraquercia Acidificata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "iX9GRAKAs1cm2fps",
+      "_key": "!actors.items!cATBSD3W39FVCv32.iX9GRAKAs1cm2fps",
+      "name": "Agguato dal Basso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "LMKJxkZAOtlAB1Oa",
+      "_key": "!actors.items!cATBSD3W39FVCv32.LMKJxkZAOtlAB1Oa",
+      "name": "Marea Acida",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "T7ZbPyPXpv09f4RA",
+      "_key": "!actors.items!cATBSD3W39FVCv32.T7ZbPyPXpv09f4RA",
+      "name": "Mappa dei Rami Rovinata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dpNqpKufDsPN9aW4",
+      "_key": "!actors.items!cATBSD3W39FVCv32.dpNqpKufDsPN9aW4",
+      "name": "Rivestimento di Isomelma",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "26WmVb7xQOoHPLhS",
+      "_key": "!actors.items!cATBSD3W39FVCv32.26WmVb7xQOoHPLhS",
+      "name": "Tentacolo Reciso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "L'Isomelma",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

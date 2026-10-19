@@ -1,0 +1,28 @@
+{
+  "_id": "mOHeatrw1XOWoJlj",
+  "_key": "!actors!mOHeatrw1XOWoJlj",
+  "name": "Polipofilia",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 12400000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un contagio salino dei vecchi mari che fa spuntare tentacoli e ventose, a partire dall'interno del corpo. Raro: colpisce chi scava a lungo tra le navi Pre-V.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Polipofilia",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "IwCTTMv3D8Qygx0V",
+  "_key": "!actors!IwCTTMv3D8Qygx0V",
+  "name": "Rami Ondeggianti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "KjNStiay50nC032i",
+  "sort": 0,
+  "system": {
+    "type": "Forza della Natura",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Il moto continuo dei rami, spinto dai venti d'alta quota e dalla vita stessa delle ferradici. Raramente è una vera minaccia, ma uno spostamento improvviso può mettere nei guai chi sta ondivagando.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Rami Ondeggianti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

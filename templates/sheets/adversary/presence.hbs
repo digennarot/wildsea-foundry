@@ -46,4 +46,15 @@
       {{> "systems/wildsea/templates/shared/slim_item.hbs" taste type="taste"}}
     {{/each}}
   </div>
+  <div>
+    <h3 class="corners mid">
+      {{localize "wildsea.touch"}}
+      <a class="addItem" data-item-type="touch">
+        <i class="fas fa-plus"></i>
+      </a>
+    </h3>
+    {{#each system.touch as |touch|}}
+      {{> "systems/wildsea/templates/shared/slim_item.hbs" touch type="touch"}}
+    {{/each}}
+  </div>
 </div>

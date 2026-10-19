@@ -1,0 +1,28 @@
+{
+  "_id": "epKyov1nXOcMBX7d",
+  "_key": "!actors!epKyov1nXOcMBX7d",
+  "name": "Mosche Bianche",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 5400000,
+  "system": {
+    "type": "Insetto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Insetti candidi e innocui che galleggiano sulle correnti calde del groviglio. In sciame ostacolano la vista; se fuggono tutte insieme, un grosso predatore sta salendo in superficie.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Mosche Bianche",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "_id": "JnI8z5fQXR5E0YIx",
+  "_key": "!actors!JnI8z5fQXR5E0YIx",
+  "name": "L'Insidia Canuta",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 14300000,
+  "system": {
+    "type": "Leviatano",
+    "size": "leviathan",
+    "traits": "Vulpide Leviatana Mesmerica",
+    "description": "<p>Una volpe leviatana così bella che cacciarla sembra un peccato. Non combatte: mette i cacciatori gli uni contro gli altri con illusioni perfette e poi sparisce sotto le onde. Usala per una minaccia che divide l'equipaggio.</p><h3>Illusioni Canute</h3><p>Esempi: \"Sentirsi a Casa\" (ognuno si crede a casa, con la famiglia ad accoglierlo); \"Vanagloria\" (l'equipaggio crede di averla catturata e di rientrare in trionfo); \"Furente d'Invidia\" (ognuno sospetta che lei abbia scelto un altro come prediletto).</p>",
+    "sight": [
+      {
+        "id": "Rho4O4gTFZOOeu9M",
+        "text": "Una sagoma sinuosa al tramonto"
+      },
+      {
+        "id": "2VQ2oTQeNL9yredN",
+        "text": "Ciuffi di pelo bianco"
+      },
+      {
+        "id": "pmcLDvy1azgAPYLU",
+        "text": "Navi di leviatanieri squarciate dall'interno"
+      }
+    ],
+    "sound": [
+      {
+        "id": "6NHUWEgEPBfXDSxw",
+        "text": "Una calma innaturale"
+      },
+      {
+        "id": "thXCPOzG2kAo2TMn",
+        "text": "Mormorii di ammirazione dell'equipaggio"
+      }
+    ],
+    "smell": [
+      {
+        "id": "sswwOCZ8FNI482Wi",
+        "text": "Mele appena colte, sole ed estate"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "r4LcEWX7q2NYbgl8",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.r4LcEWX7q2NYbgl8",
+      "name": "Potenti Illusioni",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Vicino a lei l'equipaggio vive illusioni realistiche, che svaniscono allontanandosi abbastanza.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7YujnHoIjwCd6Up1",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.7YujnHoIjwCd6Up1",
+      "name": "Ultima Risorsa",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Se costretta a combattere: morso Perforante a impatto totale, coda Contundente, artigli Trincianti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "iMxQSIkMsQADS9Kw",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.iMxQSIkMsQADS9Kw",
+      "name": "Leviatano Sinuoso",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Meno coriacea degli altri leviatani: resistenza a danni Contundenti, Taglienti e Perforanti; tratta l'impatto totale come superiore.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "qKNfbguwXevdX1WD",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.qKNfbguwXevdX1WD",
+      "name": "Flusso Fatato",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Incanta chiunque le stia vicino; chi la insegue spesso finisce tra le sue fauci o quelle di altri predatori.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "iRjB0BmI5gsG4alP",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.iRjB0BmI5gsG4alP",
+      "name": "Incubo",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Ferita, proietta incubi di pellicce, zanne e paura invece di visioni piacevoli.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "CPjWpPemesS6H9kq",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.CPjWpPemesS6H9kq",
+      "name": "Ciuffo di Pelliccia",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "VBSxtBWeu92icf9s",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.VBSxtBWeu92icf9s",
+      "name": "Dente di un Umanoide Confuso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "AjiZf5MdKFzd3ThD",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.AjiZf5MdKFzd3ThD",
+      "name": "Ciuffo della Criniera",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "FFeWsmUTLbfLtaLg",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.FFeWsmUTLbfLtaLg",
+      "name": "Troppo Puro",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "lYdSVEiMjaGkuy8Y",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.lYdSVEiMjaGkuy8Y",
+      "name": "Da Proteggere",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "I0AC7POaQOqyWKna",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.I0AC7POaQOqyWKna",
+      "name": "Pelo Bianco",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "xoA5nr1qBZOBPM6w",
+      "_key": "!actors.items!JnI8z5fQXR5E0YIx.xoA5nr1qBZOBPM6w",
+      "name": "Ghiandola Mesmerica",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "L'Insidia Canuta",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

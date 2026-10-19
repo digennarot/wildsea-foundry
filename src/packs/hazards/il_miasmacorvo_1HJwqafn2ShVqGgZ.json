@@ -1,0 +1,391 @@
+{
+  "_id": "1HJwqafn2ShVqGgZ",
+  "_key": "!actors!1HJwqafn2ShVqGgZ",
+  "name": "Il Miasmacorvo",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 13800000,
+  "system": {
+    "type": "Leviatano",
+    "size": "leviathan",
+    "traits": "Leviatano Aviario Senza Ali",
+    "description": "<p>Un uccello malato, grande da afferrare una nave col becco, che trasuda un miasma di crezzerin concentrato e si rifiuta di morire. Usalo per una minaccia facile da trovare ma i cui effetti diventano sempre più forti man mano che ci si avvicina.</p><h3>Ganci e Incontri</h3><ul><li><strong>La Peste Alle Porte</strong>: Il leviatano si è stabilito su una rotta di mercanti di frutta e le comunità si ammalano.</li><li><strong>Una Vera Ossessione</strong>: Un leviataniere vuole cacciarlo a ogni costo: follia o piano segreto?</li></ul>",
+    "sight": [
+      {
+        "id": "7CsMgLy6dH4VXnmD",
+        "text": "Piume nere e uno sguardo folle"
+      },
+      {
+        "id": "ZUyuR4wk3FzdCwxC",
+        "text": "Riflessi iridescenti sull'olio"
+      }
+    ],
+    "sound": [
+      {
+        "id": "cvcnVegTJs69WBXR",
+        "text": "Un gracchiare rauco"
+      },
+      {
+        "id": "W9NHiYvS4744uArL",
+        "text": "L'equipaggio che ha conati man mano che si avvicina"
+      }
+    ],
+    "smell": [
+      {
+        "id": "FKsQMco534Y4tAzL",
+        "text": "Indescrivibile"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "qfGSHrqcxF5oLe7a",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.qfGSHrqcxF5oLe7a",
+      "name": "Piume Impregnate",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Da vicino infliggono danni Taglienti o Tossici ingenti; da lontano sputa gocce acide.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9VavNo1AsuWA2fDI",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.9VavNo1AsuWA2fDI",
+      "name": "Concentrato di Crezzerin",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Anche solo stargli vicino provoca dolore, ustioni e mutazioni; il contatto con il miasma ignora la resistenza al crezzerin.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9YAiB82oBJy4FSow",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.9YAiB82oBJy4FSow",
+      "name": "Senza Ali",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Quasi senza arti, si trascina tra le onde sulle piume viscide.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ZnpoEQLjONIAHWAQ",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.ZnpoEQLjONIAHWAQ",
+      "name": "Effetti Collaterali",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Anche tenendosi a distanza, l'equipaggio sviluppa febbri e infezioni.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "XjCkiMB25xreGV1F",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.XjCkiMB25xreGV1F",
+      "name": "Manticorvi Ausiliari",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>I suoi parenti oleosi lo usano come trespolo.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "h7DMjuErg0Ab68Hy",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.h7DMjuErg0Ab68Hy",
+      "name": "Il Nemico del mio Nemico",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Tutti lo odiano: l'equipaggio non sarà solo nella lotta.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "isD65S1rpR21WEQM",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.isD65S1rpR21WEQM",
+      "name": "Olio di Crezzerin",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9MXXw2nIDg2aoJ0g",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.9MXXw2nIDg2aoJ0g",
+      "name": "Resti Mutanti",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "hys6gOafy0heFajg",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.hys6gOafy0heFajg",
+      "name": "Frammenti di Becco",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0CRsKxRaOoTri7Y6",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.0CRsKxRaOoTri7Y6",
+      "name": "Piume Intrise",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vx3mvIUPa7edibf1",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.vx3mvIUPa7edibf1",
+      "name": "Tratto Biliare",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "2f2IhyTZInTC3TEN",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.2f2IhyTZInTC3TEN",
+      "name": "Ghiandola Sconosciuta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "6i0gNiTLNyE4l7bX",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.6i0gNiTLNyE4l7bX",
+      "name": "Pastoie Distrutte",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1bQ68zjLt0xJ8Vdp",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.1bQ68zjLt0xJ8Vdp",
+      "name": "Malattia Diffusa",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "GIZVwaAMMUAorm6r",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.GIZVwaAMMUAorm6r",
+      "name": "A volte Non c'è Cura",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "DlDJKW80bTNaSa3s",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.DlDJKW80bTNaSa3s",
+      "name": "Non c'è Modo di Resistere",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "RGnUetdTredU65fj",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.RGnUetdTredU65fj",
+      "name": "Arto Malformato",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7D2HVXurAIHpEBLj",
+      "_key": "!actors.items!1HJwqafn2ShVqGgZ.7D2HVXurAIHpEBLj",
+      "name": "Becco di Miasmacorvo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Il Miasmacorvo",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

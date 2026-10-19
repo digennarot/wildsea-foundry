@@ -1,0 +1,210 @@
+{
+  "_id": "ZHoHRH0SwNZ5yIqY",
+  "_key": "!actors!ZHoHRH0SwNZ5yIqY",
+  "name": "Cacciapelli",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 11400000,
+  "system": {
+    "type": "Predone",
+    "size": "variable",
+    "traits": "Banditi-Chirurghi Tzelicrae",
+    "description": "<p>Tzelicrae troppo impazienti per aspettare la lotteria della pelle. Usale per un nemico deciso a rubare l'identità dell'equipaggio senza rovinare la merce.</p>",
+    "sight": [
+      {
+        "id": "XT6lCWTFkjGsTAdS",
+        "text": "Ragni su ogni superficie"
+      },
+      {
+        "id": "uqwhYzi0bPKcbSIp",
+        "text": "Masse di aracnidi chiuse in sacchi di tela legati con corde"
+      }
+    ],
+    "sound": [
+      {
+        "id": "zPEaHbns1RFUa2E0",
+        "text": "Frasi rapidissime in Schiocco"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "wiHnCvHE72RCeR0H",
+      "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.wiHnCvHE72RCeR0H",
+      "name": "Truffare la Lotteria",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Se il gioco è truccato, barare è un diritto.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Fui1TUnAtaBqv8hF",
+      "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.Fui1TUnAtaBqv8hF",
+      "name": "Accecare e Trattenere",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Evitano di danneggiare i bersagli: ragnatele per immobilizzarli e aghi con tossine paralizzanti.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ywXq9VhxBjZFXUv7",
+      "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.ywXq9VhxBjZFXUv7",
+      "name": "Se Fai il Bravo Non Sentirai Niente",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Ragnatele AD per immobilizzare, poi aghi con danni RAV Tossici e ferite paralizzanti; se messe alle strette sfoderano lame (danni RAV Taglienti e Laceranti).</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7gBOuZcIJ1TJKSAs",
+      "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.7gBOuZcIJ1TJKSAs",
+      "name": "Ritirata Brulicante",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Sconfitte, si sciolgono in uno sciame di piccoli ragni.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Zm3koltZ6xfCU1Es",
+      "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.Zm3koltZ6xfCU1Es",
+      "name": "Scambio di Pelle",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Rubano la pelle di chi resta isolato o immobilizzato e la sostituiscono con juta e corda; si cura solo ritrovando la propria pelle o creandone una nuova.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "r6M2GchQQ1A82f0a",
+      "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.r6M2GchQQ1A82f0a",
+      "name": "Patchwork",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Le più impazienti tagliano pezzi di pelle e parti del corpo da incorporare.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dJ0cVmZy8EDCefO3",
+      "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.dJ0cVmZy8EDCefO3",
+      "name": "Sacco di Juta Lacerato",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "VL1UWjkVxUaYtaAo",
+      "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.VL1UWjkVxUaYtaAo",
+      "name": "Ragni Solitari",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "yAvLBtP544giqpSb",
+      "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.yAvLBtP544giqpSb",
+      "name": "Mappa Coperta di Ragnatele",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Cacciapelli",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

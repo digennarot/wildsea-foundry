@@ -1,0 +1,256 @@
+{
+  "_id": "fwEN65rDP4Qryv30",
+  "_key": "!actors!fwEN65rDP4Qryv30",
+  "name": "Automantici",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 9800000,
+  "system": {
+    "type": "Costrutto",
+    "size": "medium",
+    "traits": "Antichi Costrutti dell'Era della Navigazione",
+    "description": "<p>Costrutti umanoidi dei primi anni della navigazione, con mantici ad aria compressa che li tengono puliti dalle spore. Usali per un nemico dall'aspetto umano mosso da meccanismi rozzi e antiquati.</p>",
+    "sight": [
+      {
+        "id": "t1dQAygP8RHfO9NY",
+        "text": "Sbuffi d'aria sporca"
+      },
+      {
+        "id": "NQvLt61fN07SCuyW",
+        "text": "Legno intagliato con fregi d'oro"
+      }
+    ],
+    "sound": [
+      {
+        "id": "GskhRYYK8Vvi3t93",
+        "text": "Il soffio di un mantice"
+      },
+      {
+        "id": "oBoyisTPlHQH0JmD",
+        "text": "Giunture che cigolano"
+      },
+      {
+        "id": "N3840RZBkA94idmq",
+        "text": "Borbottii metallici in Citrico"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "EgJY2BSUpve7M0OV",
+      "_key": "!actors.items!fwEN65rDP4Qryv30.EgJY2BSUpve7M0OV",
+      "name": "Un'Antica Programmazione",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Seguono alla lettera le schede perforate originali.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1GZ5Ql68lL8eVpHe",
+      "_key": "!actors.items!fwEN65rDP4Qryv30.1GZ5Ql68lL8eVpHe",
+      "name": "Auto-Riparante",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Molto danneggiati, si ritirano per ripararsi anche a un passo dall'obiettivo.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "2jZ9438K6LhVwkes",
+      "_key": "!actors.items!fwEN65rDP4Qryv30.2jZ9438K6LhVwkes",
+      "name": "Sciabole Antiquate",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Armati come i vecchi filibustieri: danni RAV Taglienti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "rdgfZgramgjRT38T",
+      "_key": "!actors.items!fwEN65rDP4Qryv30.rdgfZgramgjRT38T",
+      "name": "Costrutto Traballante",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Resistenza ai danni Tossici, Gelidi e Taglienti; la sacca d'aria è debole ai danni Perforanti e Contundenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "HLCY6WDewm71mhqX",
+      "_key": "!actors.items!fwEN65rDP4Qryv30.HLCY6WDewm71mhqX",
+      "name": "Logica Fallace",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Le schede perforate si inceppano e causano comportamenti illogici.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "mvnICevsfN0GzgiB",
+      "_key": "!actors.items!fwEN65rDP4Qryv30.mvnICevsfN0GzgiB",
+      "name": "Pistolero",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Ha un'arma a distanza: danni AD Esplosivi.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "CTWblu4BzzAxziLT",
+      "_key": "!actors.items!fwEN65rDP4Qryv30.CTWblu4BzzAxziLT",
+      "name": "Arto Rotto di Automantice",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "81HkT15owUGWZf6N",
+      "_key": "!actors.items!fwEN65rDP4Qryv30.81HkT15owUGWZf6N",
+      "name": "Pompa ad Aria",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Vwfn7P0Djz1IiSIv",
+      "_key": "!actors.items!fwEN65rDP4Qryv30.Vwfn7P0Djz1IiSIv",
+      "name": "Sacca a Mantice",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "aHk4OhLGWHmQOVVc",
+      "_key": "!actors.items!fwEN65rDP4Qryv30.aHk4OhLGWHmQOVVc",
+      "name": "Scheda Perforata con Istruzioni",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "uLiPBteuwHV2R3iL",
+      "_key": "!actors.items!fwEN65rDP4Qryv30.uLiPBteuwHV2R3iL",
+      "name": "Mappa Obsoleta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Automantici",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

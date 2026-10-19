@@ -1,0 +1,209 @@
+{
+  "_id": "joQX95rtlEwvV5QC",
+  "_key": "!actors!joQX95rtlEwvV5QC",
+  "name": "Bradipi Testadascia",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 4500000,
+  "system": {
+    "type": "Bestia",
+    "size": "large",
+    "traits": "Frugivori Assonnati",
+    "description": "<p>Erbivori lenti che dormono appesi ai rami del groviglio e si svegliano solo quando hanno fame. Usali per una creatura più interessata a mangiare (le provviste altrui) che a combattere.</p>",
+    "sight": [
+      {
+        "id": "2vuEUy4maj4DAmcy",
+        "text": "Una sagoma enorme appesa a un ramo"
+      },
+      {
+        "id": "tL30Xn9QVplwsnt3",
+        "text": "Lunghi solchi nel legno"
+      }
+    ],
+    "sound": [
+      {
+        "id": "BwGuKh5x20ZwDkxE",
+        "text": "Un richiamo tra le fronde"
+      },
+      {
+        "id": "Ko1DYEfyiqX3nbdK",
+        "text": "Rumore di masticazione"
+      }
+    ],
+    "smell": [
+      {
+        "id": "p33lh8izcjhceCoG",
+        "text": "Sudore animale, muffa e foglie"
+      }
+    ],
+    "taste": [
+      {
+        "id": "CAHN7YzIHHFBgQIR",
+        "text": "Sapido come il manzo, con una nota aspra"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "vC1vb1NgxkoveNl4",
+      "_key": "!actors.items!joQX95rtlEwvV5QC.vC1vb1NgxkoveNl4",
+      "name": "Amanti del Fruttosio",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Una volta svegli hanno bisogno di montagne di frutta e faranno di tutto per raggiungerla.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "K072Pmpg8ftWgbWg",
+      "_key": "!actors.items!joQX95rtlEwvV5QC.K072Pmpg8ftWgbWg",
+      "name": "Cresta Testadascia",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Una cresta ossea più dura del ferro che sfonda casse e tronchi: danni RAV Trincianti, a volte con impatto totale.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "fUGjXta0MMbXEtmz",
+      "_key": "!actors.items!joQX95rtlEwvV5QC.fUGjXta0MMbXEtmz",
+      "name": "Arti Snodati",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Arti lunghi come gru: danni RAV Taglienti ingenti; i nemici piccoli possono essere afferrati e lanciati.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "cWOyTPfIg96btoiv",
+      "_key": "!actors.items!joQX95rtlEwvV5QC.cWOyTPfIg96btoiv",
+      "name": "La Furia del Risveglio",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Svegliato senza cibo nei paraggi, si infuria finché la rabbia non passa.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "FNlPZbQET3oCXNIx",
+      "_key": "!actors.items!joQX95rtlEwvV5QC.FNlPZbQET3oCXNIx",
+      "name": "Pelliccia Coperta di Fango",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "C1yQmTmHtXc5UaGI",
+      "_key": "!actors.items!joQX95rtlEwvV5QC.C1yQmTmHtXc5UaGI",
+      "name": "Carne di Bradipo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ASA3G8RQgwmIzooq",
+      "_key": "!actors.items!joQX95rtlEwvV5QC.ASA3G8RQgwmIzooq",
+      "name": "Cresta Testadascia",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "fyIn6BZYfDBCDbC0",
+      "_key": "!actors.items!joQX95rtlEwvV5QC.fyIn6BZYfDBCDbC0",
+      "name": "Un Lungo Sonno",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Bradipi Testadascia",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

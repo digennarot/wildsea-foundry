@@ -1,0 +1,28 @@
+{
+  "_id": "txiFzqIvmHHPhph8",
+  "_key": "!actors!txiFzqIvmHHPhph8",
+  "name": "Spinovele",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 5300000,
+  "system": {
+    "type": "Insetto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Insetti quasi innocui con una cresta di chitina a forma di vela, che alcuni viaggiatori usano per surfare sulle onde. Assorbono nutrimento dall'ambiente e vagano per circa un anno prima di tornare nel bozzolo.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Spinovele",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

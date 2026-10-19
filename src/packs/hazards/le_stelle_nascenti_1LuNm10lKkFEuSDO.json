@@ -1,0 +1,28 @@
+{
+  "_id": "1LuNm10lKkFEuSDO",
+  "_key": "!actors!1LuNm10lKkFEuSDO",
+  "name": "Le Stelle Nascenti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 13100000,
+  "system": {
+    "type": "Tempesta Vivente",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Nera e piena di scintille, resta in alto per mesi e poi piomba su una nave, la strappa dai rami e se la porta in cielo per giocarci.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Le Stelle Nascenti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

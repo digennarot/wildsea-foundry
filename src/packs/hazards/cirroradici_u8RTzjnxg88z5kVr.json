@@ -1,0 +1,28 @@
+{
+  "_id": "u8RTzjnxg88z5kVr",
+  "_key": "!actors!u8RTzjnxg88z5kVr",
+  "name": "Cirroradici",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 6900000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Radici che salgono dalle chiome per nutrirsi delle nuvole, alcune grandi come uno svettaselva e abbastanza solide da ospitare un porto. Da dove vengano davvero, nessuno lo sa.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Cirroradici",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

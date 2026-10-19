@@ -1,0 +1,28 @@
+{
+  "_id": "Mynhmpc7DpxTxeej",
+  "_key": "!actors!Mynhmpc7DpxTxeej",
+  "name": "Scorza e Marciume",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 10700000,
+  "system": {
+    "type": "Predone",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un mistero: lasciano solo un elegante biglietto di scuse in Saprekk al posto del carico rubato, persino con l'equipaggio a bordo. Non si sa se siano due persone, una nave o una rete di ladri.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Scorza e Marciume",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

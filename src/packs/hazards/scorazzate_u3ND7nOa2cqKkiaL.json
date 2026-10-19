@@ -1,0 +1,28 @@
+{
+  "_id": "u3ND7nOa2cqKkiaL",
+  "_key": "!actors!u3ND7nOa2cqKkiaL",
+  "name": "Scorazzate",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 9500000,
+  "system": {
+    "type": "Costrutto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Corazzate private di un frammento della loro scintilla che hanno continuato a muoversi senza mente né volontà, guidate solo dall'istinto. Vicino a loro gli spiriti si deteriorano.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Scorazzate",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

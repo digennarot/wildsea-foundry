@@ -1,0 +1,151 @@
+{
+  "_id": "v6MSRVXGHJPhiUNp",
+  "_key": "!actors!v6MSRVXGHJPhiUNp",
+  "name": "Floramaree",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "KjNStiay50nC032i",
+  "sort": 1000000,
+  "system": {
+    "type": "Forza della Natura",
+    "size": "variable",
+    "traits": "Un'Esplosione di Fiori e Boccioli",
+    "description": "<p>Una fioritura così vasta da sollevare le onde e trascinare con sé le navi. Utile per spostare rapidamente l'equipaggio da un luogo all'altro.</p>",
+    "sight": [
+      {
+        "id": "dD3NNLSQMYt6Zjne",
+        "text": "Un muro di fiori in avvicinamento"
+      },
+      {
+        "id": "iWs4zVI4J2TMhtU0",
+        "text": "Navi che rollano in modo anomalo"
+      }
+    ],
+    "sound": [
+      {
+        "id": "NhGnEERxbzfYBcpg",
+        "text": "Scricchiolii lontani"
+      },
+      {
+        "id": "Z3eQYckWRJAZyLeu",
+        "text": "Un lieve scoppiettio"
+      },
+      {
+        "id": "MGn1SRKVIEdp5TPY",
+        "text": "Il fruscio dei germogli"
+      }
+    ],
+    "smell": [
+      {
+        "id": "C8uDmLBpViuhaQrD",
+        "text": "Una dolcezza floreale che stordisce"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "5q5YTzjD9M7XxjuU",
+      "_key": "!actors.items!v6MSRVXGHJPhiUNp.5q5YTzjD9M7XxjuU",
+      "name": "Sulla Cresta dell'Onda",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Durante un viaggio può far avanzare di più caselle il tracciato Progresso, se l'equipaggio riesce a cavalcarla.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dPJqdVsPDY90bkvN",
+      "_key": "!actors.items!v6MSRVXGHJPhiUNp.dPJqdVsPDY90bkvN",
+      "name": "Marea di Detriti",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Trascina i rottami delle navi già catturate, che diventano un pericolo per gli altri.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "heIk63wnwju3N1i4",
+      "_key": "!actors.items!v6MSRVXGHJPhiUNp.heIk63wnwju3N1i4",
+      "name": "Fine Stagione",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Alcune maree sono un flusso costante, altre esplodono senza preavviso e scagliano le navi contro isole e scogli.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "goCLbtkCmjtWYLBN",
+      "_key": "!actors.items!v6MSRVXGHJPhiUNp.goCLbtkCmjtWYLBN",
+      "name": "Fiore Appena Sbocciato",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "wwfgAMdX2kWcrJlz",
+      "_key": "!actors.items!v6MSRVXGHJPhiUNp.wwfgAMdX2kWcrJlz",
+      "name": "Stranieri in Terra Aliena",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Floramaree",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "_id": "QfE02TauTaXOKnbV",
+  "_key": "!actors!QfE02TauTaXOKnbV",
+  "name": "Tirick",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 8600000,
+  "system": {
+    "type": "Pianta",
+    "size": "small",
+    "traits": "Sciame Sensoriale Giocoso",
+    "description": "<p>Piccole palle di corteccia, viticci e muschio grandi come gattini, che girano in branchi da decine a centinaia di esemplari, giocando e finendo sempre tra i piedi. Usali per qualcosa di fastidioso ma non pericoloso.</p>",
+    "sight": [
+      {
+        "id": "1Mx6fg9UAVcm7aIZ",
+        "text": "Mucchietti di muschio e corteccia"
+      },
+      {
+        "id": "iv28ByOuwF3hUKw6",
+        "text": "Steli che si agitano"
+      }
+    ],
+    "sound": [
+      {
+        "id": "O2ArtqLBUrKbNa7D",
+        "text": "Cinguettii curiosi"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "Wp37t1y4Ocvxv2yo",
+      "_key": "!actors.items!QfE02TauTaXOKnbV.Wp37t1y4Ocvxv2yo",
+      "name": "Sciamare e Giocare",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Sono curiosi e innocenti: vogliono solo giocare.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9Xh2W7x2HIAHAime",
+      "_key": "!actors.items!QfE02TauTaXOKnbV.9Xh2W7x2HIAHAime",
+      "name": "Sempre Fra i Piedi",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Si infilano ovunque (dispense, motori, gambe dei marinai) e rendono tutto più rischioso e caotico.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "LwCMuZbr9dwN6vut",
+      "_key": "!actors.items!QfE02TauTaXOKnbV.LwCMuZbr9dwN6vut",
+      "name": "Non Finiscono Mai",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Se nessuno se ne occupa, ne arrivano sempre di più.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "6uLvFxR2ysp67R5p",
+      "_key": "!actors.items!QfE02TauTaXOKnbV.6uLvFxR2ysp67R5p",
+      "name": "Possibili Medicinali",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Le loro secrezioni curano, ma sfruttarle solleva dubbi etici.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "iw5g2Ma3owOF2JMx",
+      "_key": "!actors.items!QfE02TauTaXOKnbV.iw5g2Ma3owOF2JMx",
+      "name": "Sistema d'Allarme",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Quando si nascondono e smettono di giocare, sta per arrivare qualcosa di grosso.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "OwyaEbNe1jhBFjTm",
+      "_key": "!actors.items!QfE02TauTaXOKnbV.OwyaEbNe1jhBFjTm",
+      "name": "Frammenti di Corteccia",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dF5SnILxPjonV4rS",
+      "_key": "!actors.items!QfE02TauTaXOKnbV.dF5SnILxPjonV4rS",
+      "name": "Germoglio Sensoriale",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dV938kqykQOapZ2E",
+      "_key": "!actors.items!QfE02TauTaXOKnbV.dV938kqykQOapZ2E",
+      "name": "Tirick Combinaguai",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Tirick",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

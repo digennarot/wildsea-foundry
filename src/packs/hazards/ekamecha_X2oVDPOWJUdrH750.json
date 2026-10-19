@@ -1,0 +1,28 @@
+{
+  "_id": "X2oVDPOWJUdrH750",
+  "_key": "!actors!X2oVDPOWJUdrH750",
+  "name": "Ekamecha",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 9300000,
+  "system": {
+    "type": "Costrutto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Esoscheletri da traversata costruiti un secolo fa da ingegneri Ambrati: un fallimento colossale, eppure qualche fanatico li pilota ancora. Sono armature, non costrutti autonomi, e restare a galla con uno di essi è un'impresa.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Ekamecha",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

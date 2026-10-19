@@ -1,0 +1,165 @@
+{
+  "_id": "oy2UQkyQ6STp4kIA",
+  "_key": "!actors!oy2UQkyQ6STp4kIA",
+  "name": "Fosse",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "KjNStiay50nC032i",
+  "sort": 1400000,
+  "system": {
+    "type": "Forza della Natura",
+    "size": "variable",
+    "traits": "Cunicoli verso l'Oscuro Fondale",
+    "description": "<p>Squarci nel manto verde che scendono fino all'Oscuro Fondale, evitati da quasi tutti gli animali. Usale per dare le vertigini all'equipaggio.</p>",
+    "sight": [
+      {
+        "id": "w9gdHKowvDQXR63R",
+        "text": "Un vuoto nelle chiome che sembra chiamare"
+      },
+      {
+        "id": "QYVRCO1ADK5oE2Tu",
+        "text": "Rami sporgenti come dita nodose"
+      },
+      {
+        "id": "ZKou5g740TDSZAgk",
+        "text": "Relitti incastrati sui bordi"
+      }
+    ],
+    "sound": [
+      {
+        "id": "3BxqOcAZD2sWbH5q",
+        "text": "Silenzio, o l'ululato del vuoto"
+      }
+    ],
+    "smell": [
+      {
+        "id": "RWm2n5I45CjV0fBO",
+        "text": "Effluvi antichi di civiltà perdute"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "cJGK7nAm0xsPAyoT",
+      "_key": "!actors.items!oy2UQkyQ6STp4kIA.cJGK7nAm0xsPAyoT",
+      "name": "Qualcosa di Sbagliato",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Le fosse sono l'opposto della Verdeggianza: spazi vuoti, senza rami né foglie. Spingono l'equipaggio all'introspezione e portano vertigini e incubi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "rOH2WxZx8f1iPKTM",
+      "_key": "!actors.items!oy2UQkyQ6STp4kIA.rOH2WxZx8f1iPKTM",
+      "name": "Figlia di un Crollo",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Nata dal crollo di una ferradice enorme.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "rqATNYsDqZdYIOne",
+      "_key": "!actors.items!oy2UQkyQ6STp4kIA.rqATNYsDqZdYIOne",
+      "name": "Spaccatura Vivente",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Una fossa dotata di intelligenza che attira le navi o si nasconde sotto un falso strato di foglie.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "QCMSQC88LEcxDjQW",
+      "_key": "!actors.items!oy2UQkyQ6STp4kIA.QCMSQC88LEcxDjQW",
+      "name": "Vagante",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Si sposta da sola, spezzando e facendo avvizzire i rami attorno a sé.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3PxK5JK1l3m27Yyc",
+      "_key": "!actors.items!oy2UQkyQ6STp4kIA.3PxK5JK1l3m27Yyc",
+      "name": "Cosa c'è sul Fondo?",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "p8iyN5wQcgX46Jeo",
+      "_key": "!actors.items!oy2UQkyQ6STp4kIA.p8iyN5wQcgX46Jeo",
+      "name": "Mare Famelico",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Fosse",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

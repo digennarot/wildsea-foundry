@@ -1,0 +1,158 @@
+{
+  "_id": "IRFFbPxpWZTu3hJ3",
+  "_key": "!actors!IRFFbPxpWZTu3hJ3",
+  "name": "Muffa-Rancio",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 12700000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Malattia Fungina a Lento Decorso",
+    "description": "<p>Una micosi che nasce dal cibo avariato e prende lentamente il controllo dell'ospite, fino a renderlo prigioniero del proprio corpo. Usala per una malattia lenta in cui il corpo si ribella alla volontà.</p>",
+    "sight": [
+      {
+        "id": "kIdn6PvnvNuxWQ6Z",
+        "text": "Muffa bianca o grigia nel cibo"
+      }
+    ],
+    "smell": [
+      {
+        "id": "n96hHUWQ4G6vJMcJ",
+        "text": "Vagamente dolce e stucchevole"
+      }
+    ],
+    "taste": [
+      {
+        "id": "m9KS2rKHMEgkQ0UY",
+        "text": "Gessoso e secco"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "WHxZ4TWhRQUrIRgF",
+      "_key": "!actors.items!IRFFbPxpWZTu3hJ3.WHxZ4TWhRQUrIRgF",
+      "name": "Segnali di Avvertimento",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Prima fase: disturbi digestivi e formicolii alle estremità.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "TdpE1HIOi9Xm1kwX",
+      "_key": "!actors.items!IRFFbPxpWZTu3hJ3.TdpE1HIOi9Xm1kwX",
+      "name": "Presa di Coscienza",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Seconda fase: difficoltà a muoversi e a parlare.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "qZOx47OivhgXi2Sv",
+      "_key": "!actors.items!IRFFbPxpWZTu3hJ3.qZOx47OivhgXi2Sv",
+      "name": "Egemonia",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Fase finale, poco conosciuta: il fungo guida il corpo mentre la coscienza assiste impotente, e può usarlo per massacrare l'equipaggio.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "wlWZSMZJ5wSwgiXm",
+      "_key": "!actors.items!IRFFbPxpWZTu3hJ3.wlWZSMZJ5wSwgiXm",
+      "name": "Cibo Avariato",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7khHF7lRXWRX7dcT",
+      "_key": "!actors.items!IRFFbPxpWZTu3hJ3.7khHF7lRXWRX7dcT",
+      "name": "Burattino Appeso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Y4VKe3zyy0zQTSH8",
+      "_key": "!actors.items!IRFFbPxpWZTu3hJ3.Y4VKe3zyy0zQTSH8",
+      "name": "Discesa Strisciante",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Muffa-Rancio",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

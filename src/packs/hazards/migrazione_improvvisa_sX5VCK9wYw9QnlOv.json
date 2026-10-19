@@ -1,0 +1,28 @@
+{
+  "_id": "sX5VCK9wYw9QnlOv",
+  "_key": "!actors!sX5VCK9wYw9QnlOv",
+  "name": "Migrazione Improvvisa",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "1uuXOQy0VjJMxnBn",
+  "sort": 2000000,
+  "system": {
+    "type": "Meraviglia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Una moltitudine di animali, predatori e prede insieme, che si sposta in pace verso nuovi pascoli.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Migrazione Improvvisa",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

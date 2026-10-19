@@ -1,0 +1,28 @@
+{
+  "_id": "4NePx0kiHZ7Dx7QU",
+  "_key": "!actors!4NePx0kiHZ7Dx7QU",
+  "name": "Terrore del Mozzo",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 7300000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Una pianta simile a una medusa che fluttua grazie a semi pieni di gas e trascina viticci appiccicosi. Afferra le creature a sangue caldo e poi sprofonda per digerirle negli strati bassi: c'è poco tempo per salvare chi viene preso.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Terrore del Mozzo",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

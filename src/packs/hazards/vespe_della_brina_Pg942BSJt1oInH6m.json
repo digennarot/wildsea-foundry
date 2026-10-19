@@ -1,0 +1,281 @@
+{
+  "_id": "Pg942BSJt1oInH6m",
+  "_key": "!actors!Pg942BSJt1oInH6m",
+  "name": "Vespe della Brina",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 6600000,
+  "system": {
+    "type": "Insetto",
+    "size": "medium",
+    "traits": "Insetti Giardinieri del Freddo",
+    "description": "<p>Vespe la cui puntura avvolge la vittima in un gelo innaturale; vivono in ghiacciai alveare e coltivano piante adatte al freddo. Usale per uno sciame insolito dai danni strani.</p><h3>Ghiacciaio Alveare (Punto di Interesse)</h3><p>Una fortezza di ghiaccio e nettare indurito nelle zone fredde, mantenuta gelida dalle vespe. Alcuni sono nascosti e si scoprono solo per il freddo improvviso; d'estate vanno alla deriva verso l'inverno, schiacciando ciò che incontrano.</p>",
+    "sight": [
+      {
+        "id": "1YTBRNT7uzL5uF3e",
+        "text": "Un lampo azzurrino"
+      },
+      {
+        "id": "ardlSesxdwMpMyHg",
+        "text": "Motivi regolari nel ghiaccio"
+      }
+    ],
+    "sound": [
+      {
+        "id": "aULRZrA7eeX1FYye",
+        "text": "Un ronzio ovattato"
+      },
+      {
+        "id": "JZB8omid3Plahzhk",
+        "text": "Mandibole ghiacciate che ticchettano"
+      }
+    ],
+    "smell": [
+      {
+        "id": "Qn8fNKaYclHGPlZz",
+        "text": "Neve e zucchero, con una nota amara"
+      }
+    ],
+    "taste": [
+      {
+        "id": "hT1V2fjcutZiRNDO",
+        "text": "Come granchio appena tolto dal ghiaccio"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "SQXigPcEfX2gjB10",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.SQXigPcEfX2gjB10",
+      "name": "Proteggere l'Alveare",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Un alveare pieno di larve e una sola regina.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "853YIIXb67e0XGlu",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.853YIIXb67e0XGlu",
+      "name": "Esoscheletro Rivestito",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Immuni ai danni Gelidi e al freddo estremo.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ApiCzjFC5ncv7MGl",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.ApiCzjFC5ncv7MGl",
+      "name": "Mandibole",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Impastano biomassa e ghiaccio in una propoli gelida; morsi con danni RAV Gelidi o Trincianti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "lr2yzrumpQGbHLsr",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.lr2yzrumpQGbHLsr",
+      "name": "Pungiglione",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Contro le minacce serie piombano come bombe di gelo: il veleno può congelare un navigaselva in pochi minuti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "rL7FL7VkjAocAIOW",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.rL7FL7VkjAocAIOW",
+      "name": "Il Ripristino della Tundra",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Con le piante giuste e un po' di tempo, l'alveare le fa crescere anche sotto zero.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7mgkmnWAwx50UQM2",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.7mgkmnWAwx50UQM2",
+      "name": "Bombo Gelato",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Uno sciame o un esemplare goffo e amichevole.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "cfzcp6bcaJI4T7UM",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.cfzcp6bcaJI4T7UM",
+      "name": "Drone della Bufera",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Un membro speciale dell'alveare che scatena bufere con le ali.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "sDVigXLDc7WUuHzp",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.sDVigXLDc7WUuHzp",
+      "name": "Regina delle Nevi",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Dieci volte più grande e incapace di volare; disturbarla allerta tutto l'alveare.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "nk6LnDZfgODzbk6P",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.nk6LnDZfgODzbk6P",
+      "name": "Nettare Ghiacciato",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "tnnryXxvgAbe8lnB",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.tnnryXxvgAbe8lnB",
+      "name": "Veleno Congelante",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "KWC56iebYgyWYuJ1",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.KWC56iebYgyWYuJ1",
+      "name": "Un Ronzio Rilassante",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Ee2yFA00YWpyijy8",
+      "_key": "!actors.items!Pg942BSJt1oInH6m.Ee2yFA00YWpyijy8",
+      "name": "Una Coreografia",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Vespe della Brina",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

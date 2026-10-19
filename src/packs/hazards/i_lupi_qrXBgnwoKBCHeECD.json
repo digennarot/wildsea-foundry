@@ -1,0 +1,28 @@
+{
+  "_id": "qrXBgnwoKBCHeECD",
+  "_key": "!actors!qrXBgnwoKBCHeECD",
+  "name": "I Lupi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 10400000,
+  "system": {
+    "type": "Predone",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Predoni scalzi e silenziosi che ignorano navi e carichi: prendono dalle vittime solo ciò che serve loro e spariscono. Non esistono lupi anziani.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "I Lupi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

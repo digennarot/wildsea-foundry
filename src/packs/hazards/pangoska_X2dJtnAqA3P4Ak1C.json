@@ -1,0 +1,275 @@
+{
+  "_id": "X2dJtnAqA3P4Ak1C",
+  "_key": "!actors!X2dJtnAqA3P4Ak1C",
+  "name": "Pangoska",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 3500000,
+  "system": {
+    "type": "Bestia",
+    "size": "large",
+    "traits": "Bastioni di Piante e Zolle",
+    "description": "<p>Parenti grandi e scimmieschi dei pangopodi, coperti di zolle su cui crescono muschi e licheni simbionti che le mimetizzano. Usala per un avversario potente che preferirebbe non combattere.</p>",
+    "sight": [
+      {
+        "id": "gCvkyKp0pVNy1R9d",
+        "text": "Un mantello ispido di spine"
+      },
+      {
+        "id": "rO6nuJ6OoHkObnll",
+        "text": "Petali luminosi"
+      },
+      {
+        "id": "bSjxxQbcFll5sq4u",
+        "text": "Muscoli possenti"
+      }
+    ],
+    "sound": [
+      {
+        "id": "2YldY9NthO2HIC0G",
+        "text": "Passi attutiti di zolle coperte di vegetazione"
+      }
+    ],
+    "smell": [
+      {
+        "id": "EoCga4QH8gd6b5y1",
+        "text": "Polline e sabbia del deserto"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "HHDJZOckVzq6caGs",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.HHDJZOckVzq6caGs",
+      "name": "Profilo Basso",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Forte ma pacifica: evita predatori e cacciatori quando può.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "yNTkczvDP50mTmMS",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.yNTkczvDP50mTmMS",
+      "name": "Simbionti Cercansi",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Nutre i simbionti che trova in cambio di ciò che le offrono.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "B0pxD6yAvTv3uAcY",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.B0pxD6yAvTv3uAcY",
+      "name": "Forza Tranquilla",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Combatte con pugni, artigli e peso: danni RAV Contundenti e Taglienti; può afferrare e lanciare.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "p04u9T2YHtiB6c0Q",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.p04u9T2YHtiB6c0Q",
+      "name": "Zolle Mimetiche",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Resistenza ai danni Contundenti, Taglienti, Perforanti e Laceranti; coperte di piante, le permettono di mimetizzarsi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "VVZBTPdhtDF23NEA",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.VVZBTPdhtDF23NEA",
+      "name": "Manto di Muschio",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Immune ai danni Contundenti, resistente a quelli Incenerenti, Esplosivi e Tossici; certi muschi feriscono la pelle nuda con danni Tossici.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "DKetKyTR09uiySRC",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.DKetKyTR09uiySRC",
+      "name": "Intreccio di Viticci",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Liane che afferrano chi si avvicina: riduzione agli attacchi nemici o impatto ridotto per gli attacchi RAV.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "qWgAzR4bhmSkdbaV",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.qWgAzR4bhmSkdbaV",
+      "name": "Collezione di Porcellane",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Escrescenze di porcellana che la rendono più pesante e dannosa, ma meno mimetica.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "SBeJL4T0WdgCOxfe",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.SBeJL4T0WdgCOxfe",
+      "name": "Avvizzita",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Una malattia ha seccato il suo manto vegetale, dandole un aspetto autunnale.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "i89GRpPJcMknqn7G",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.i89GRpPJcMknqn7G",
+      "name": "Placche di Terra",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ux6BMVtmcCztffR5",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.ux6BMVtmcCztffR5",
+      "name": "Zolle Muschiate",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "YJxdPwimbE7YA5og",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.YJxdPwimbE7YA5og",
+      "name": "Lottatore Recalcitrante",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "gtFxbQCBEWZTmWiO",
+      "_key": "!actors.items!X2dJtnAqA3P4Ak1C.gtFxbQCBEWZTmWiO",
+      "name": "Piattaforma Vibrante",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Pangoska",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

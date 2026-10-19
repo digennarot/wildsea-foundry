@@ -1,0 +1,280 @@
+{
+  "_id": "duSLQQN4M2Qrrrky",
+  "_key": "!actors!duSLQQN4M2Qrrrky",
+  "name": "Manticorvi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 4100000,
+  "system": {
+    "type": "Bestia",
+    "size": "variable",
+    "traits": "Orrori Aviari Mutanti",
+    "description": "<p>Mangiatori di carogne grandi da un gatto a un cavallo, pazienti e chiassosi; nessuno è d'accordo sulle loro capacità. Usali per spazzini intelligenti che piombano sulla scena e rubano i cadaveri.</p>",
+    "sight": [
+      {
+        "id": "yi6EuInZcmwanmPO",
+        "text": "Penne nere dalle punte affilate"
+      },
+      {
+        "id": "e8eYoprsoB3cTC91",
+        "text": "Chiazze d'olio sui rami"
+      },
+      {
+        "id": "HIaV2xtUxBY2P6bt",
+        "text": "Sangue fresco ma nessun corpo"
+      }
+    ],
+    "sound": [
+      {
+        "id": "2jLGFWydju6GbLmu",
+        "text": "Frullo d'ali e gracchiare continuo"
+      }
+    ],
+    "smell": [
+      {
+        "id": "XkIWkyJF98hYcBcP",
+        "text": "Olio, piume e carne rancida"
+      }
+    ],
+    "taste": [
+      {
+        "id": "jZxJntz1LdrPuM5S",
+        "text": "Carne disgustosa, uova pepate e deliziose"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "qA56oYUGZdLQN6S6",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.qA56oYUGZdLQN6S6",
+      "name": "Afferra e Fuggi",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Piombano sui vivi e, quando possono, portano via cadaveri da mangiare più tardi.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "GKd87z8HN0d7J0uN",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.GKd87z8HN0d7J0uN",
+      "name": "Piume e Becco",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Penne taglienti (danni RAV Taglienti), becco e artigli (danni RAV Perforanti).</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9KFdTS7xEU9opbMm",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.9KFdTS7xEU9opbMm",
+      "name": "Olio di Corvo",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Una secrezione viscida che li aiuta a sfuggire alle trappole e potenzia gli effetti mutageni del crezzerin.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "rjegd9SBI0nc0cz0",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.rjegd9SBI0nc0cz0",
+      "name": "Volo Irregolare",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Lasciano una scia di olio e penne che li rende facili da seguire.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "JqAk8zgh7FPjDaGo",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.JqAk8zgh7FPjDaGo",
+      "name": "Mutanti",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Presentano mutazioni diverse da zona a zona.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "LGauhvQUXQHVjgmr",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.LGauhvQUXQHVjgmr",
+      "name": "Polioculari",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Molti occhi: visione a 360 gradi e vista chiara attraverso fumo, nebbia, spore e buio.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "LBwlnR7X9jf6d5Cd",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.LBwlnR7X9jf6d5Cd",
+      "name": "Crudeli e Insidiosi",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Becco simile a un pungiglione: danni RAV Tossici.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "YAforh0wZQUtvfqe",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.YAforh0wZQUtvfqe",
+      "name": "Penne Come Aghi",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Chi li attacca RAV subisce danni Perforanti; possono scagliare le penne con danni AD Perforanti.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "sJoHinB7g6Tzs4iX",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.sJoHinB7g6Tzs4iX",
+      "name": "Tattiche di Gruppo",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Uno stormo coordinato che punta stive e cucine portuali.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "BAJ8dvNtTy4MvJwQ",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.BAJ8dvNtTy4MvJwQ",
+      "name": "Penne dai Bordi Affilati",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9EbE1lLAmKr3ZOPR",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.9EbE1lLAmKr3ZOPR",
+      "name": "Olio di Manticorvo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "A2gbPgNHDcSzl6k8",
+      "_key": "!actors.items!duSLQQN4M2Qrrrky.A2gbPgNHDcSzl6k8",
+      "name": "Pazienza Vigile",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Manticorvi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "_id": "2t7uICVuCRoMqkJO",
+  "_key": "!actors!2t7uICVuCRoMqkJO",
+  "name": "Mantidi Profane",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 6000000,
+  "system": {
+    "type": "Insetto",
+    "size": "huge",
+    "traits": "Bizzarro Ibrido Cacciatore di Navi",
+    "description": "<p>Incroci tra mantide e libellula: cacciatrici pazienti, mimetiche e testarde, che inseguono una nave finché non mangiano o vengono respinte. Le loro falci generano onde soniche che sbilanciano nave ed equipaggio.</p>",
+    "sight": [
+      {
+        "id": "vVT64YFQ4PrcmeRq",
+        "text": "Un tratto di mare stranamente immobile"
+      }
+    ],
+    "smell": [
+      {
+        "id": "as7IhfXY6h8Sh60j",
+        "text": "Terra riscaldata"
+      }
+    ],
+    "taste": [
+      {
+        "id": "43nhBnoSQXpBadiz",
+        "text": "Croccante e aspro; occhi e ali sono prelibatezze"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "ouZHX0xk6ag0qmGj",
+      "_key": "!actors.items!2t7uICVuCRoMqkJO.ouZHX0xk6ag0qmGj",
+      "name": "Caccia la Nave, Mangia l'Equipaggio",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Vogliono legno lavorato e navigaselva terrorizzati, e raramente si ritirano prima di essere sazie.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "VtD2LjHGjZdyftt8",
+      "_key": "!actors.items!2t7uICVuCRoMqkJO.VtD2LjHGjZdyftt8",
+      "name": "Falci Soniche",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Sotto i riflettori attaccano più volte e poi si allontanano per ricaricarsi. Danni RAV Laceranti, Perforanti o Taglienti, oppure AD Esplosivi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "b5GfDRpGRvzKnGpU",
+      "_key": "!actors.items!2t7uICVuCRoMqkJO.b5GfDRpGRvzKnGpU",
+      "name": "Volo Breve",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Saltano o planano da un punto elevato all'altro.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "UzEerV2Zy2F019Vm",
+      "_key": "!actors.items!2t7uICVuCRoMqkJO.UzEerV2Zy2F019Vm",
+      "name": "Pazienza Estrema",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Possono restare immobili per settimane in attesa di una nave.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "WLjqGp9ZshabxQqX",
+      "_key": "!actors.items!2t7uICVuCRoMqkJO.WLjqGp9ZshabxQqX",
+      "name": "Squamata",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Una corazza di scaglie invece del carapace liscio, molto resistente.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Srg4FNAihluFifqA",
+      "_key": "!actors.items!2t7uICVuCRoMqkJO.Srg4FNAihluFifqA",
+      "name": "Occhio di Mantide Profana",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "qmjEmEErSF5ytynB",
+      "_key": "!actors.items!2t7uICVuCRoMqkJO.qmjEmEErSF5ytynB",
+      "name": "Arto Falciante",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vuuVsMouK8i1czqi",
+      "_key": "!actors.items!2t7uICVuCRoMqkJO.vuuVsMouK8i1czqi",
+      "name": "Ala di Libellula",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "mVUAhgMOzErRYJgz",
+      "_key": "!actors.items!2t7uICVuCRoMqkJO.mVUAhgMOzErRYJgz",
+      "name": "L'Imboscata Perfetta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4gc3z2ME7H3Iqpnx",
+      "_key": "!actors.items!2t7uICVuCRoMqkJO.4gc3z2ME7H3Iqpnx",
+      "name": "La Fame per le Navi",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Mantidi Profane",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

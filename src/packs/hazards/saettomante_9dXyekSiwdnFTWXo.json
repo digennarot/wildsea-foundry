@@ -1,0 +1,262 @@
+{
+  "_id": "9dXyekSiwdnFTWXo",
+  "_key": "!actors!9dXyekSiwdnFTWXo",
+  "name": "Saettomante",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 4900000,
+  "system": {
+    "type": "Bestia",
+    "size": "huge",
+    "traits": "Araldo della Tempesta",
+    "description": "<p>Creature enormi e placide che fluttuano nel cielo prima delle grandi tempeste. Ispirano timore e venerazione, e oggi sono protette dalla caccia. Usale per qualcosa di volante e possente, accompagnato da effetti ambientali.</p>",
+    "sight": [
+      {
+        "id": "OhJA8oAFvskEMQhg",
+        "text": "Sagome scure contro un cielo ancora più scuro"
+      },
+      {
+        "id": "K0iu8tRiEeS1qho9",
+        "text": "Ombre illuminate dai lampi"
+      }
+    ],
+    "sound": [
+      {
+        "id": "Lu83uPayAA04eFCu",
+        "text": "Pioggia incessante sulle foglie"
+      },
+      {
+        "id": "hUarKqpSdDGReeLG",
+        "text": "Il rombo del tuono"
+      }
+    ],
+    "smell": [
+      {
+        "id": "UfALREDA1czEsJ2w",
+        "text": "Petricore"
+      }
+    ],
+    "taste": [
+      {
+        "id": "Uu1yT5FaqpSyGl0W",
+        "text": "Pelle gommosa; la carne fa formicolare la lingua"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "HT06zU65sMiw0k4v",
+      "_key": "!actors.items!9dXyekSiwdnFTWXo.HT06zU65sMiw0k4v",
+      "name": "Vivere una Vita Tranquilla",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Vogliono solo fluttuare in pace.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "qiaYVFCPFRh8yLrv",
+      "_key": "!actors.items!9dXyekSiwdnFTWXo.qiaYVFCPFRh8yLrv",
+      "name": "Proteggere la Famiglia",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Dopo la stagione delle nascite difendono i piccoli che scendono troppo vicino alle chiome.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Rcn5PKcOjj523Teb",
+      "_key": "!actors.items!9dXyekSiwdnFTWXo.Rcn5PKcOjj523Teb",
+      "name": "Corna Spiraliformi",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Feriscono e folgorano: danni Perforanti ed Elettrici.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Df4jv3QzieiMJLK6",
+      "_key": "!actors.items!9dXyekSiwdnFTWXo.Df4jv3QzieiMJLK6",
+      "name": "Spine di Tuono",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Rompendosi scaricano danni Elettrici o Esplosivi; senza di esse la saettomanta non può più infliggere danni Elettrici.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7bbVVBeP699a7nkO",
+      "_key": "!actors.items!9dXyekSiwdnFTWXo.7bbVVBeP699a7nkO",
+      "name": "Frangia Ondulata",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Non è veloce, ma può ritirarsi nelle nubi più scure quando vuole.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "MpJfZrRbp6LXnmtf",
+      "_key": "!actors.items!9dXyekSiwdnFTWXo.MpJfZrRbp6LXnmtf",
+      "name": "La Tempesta in Arrivo",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Dove compare, arriva la tempesta.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "qZoGt2btiFRH1Utc",
+      "_key": "!actors.items!9dXyekSiwdnFTWXo.qZoGt2btiFRH1Utc",
+      "name": "Titanica",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Quasi un leviatano: danni Elettrici con impatto totale; riduci l'impatto degli attacchi contro di lei, salvo gli armamenti da nave.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9lhetsgmA18qB1a8",
+      "_key": "!actors.items!9dXyekSiwdnFTWXo.9lhetsgmA18qB1a8",
+      "name": "La Variante d'Inverno",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Porta bufere di neve: i suoi danni Elettrici diventano Gelidi.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "v9ijSJqFqvJPDjJ8",
+      "_key": "!actors.items!9dXyekSiwdnFTWXo.v9ijSJqFqvJPDjJ8",
+      "name": "Spine di Tuono",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9qgTSGa10effJZbJ",
+      "_key": "!actors.items!9dXyekSiwdnFTWXo.9qgTSGa10effJZbJ",
+      "name": "Pelle Robusta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3UvLXKCH3HJHmbSm",
+      "_key": "!actors.items!9dXyekSiwdnFTWXo.3UvLXKCH3HJHmbSm",
+      "name": "Una Tempesta al Guinzaglio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Saettomante",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

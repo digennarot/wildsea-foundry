@@ -1,0 +1,28 @@
+{
+  "_id": "UQlvMhdjhUaTXSrA",
+  "_key": "!actors!UQlvMhdjhUaTXSrA",
+  "name": "Loto Ingannatore",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 7100000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un bellissimo fiore carnivoro che, quando la preda è vicina, la investe con un getto di gas pressurizzato: caustico, accecante o carico di feromoni che richiamano grandi predatori.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Loto Ingannatore",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

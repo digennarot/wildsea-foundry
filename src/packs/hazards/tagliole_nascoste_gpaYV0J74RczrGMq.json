@@ -1,0 +1,28 @@
+{
+  "_id": "gpaYV0J74RczrGMq",
+  "_key": "!actors!gpaYV0J74RczrGMq",
+  "name": "Tagliole Nascoste",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 8700000,
+  "system": {
+    "type": "Costrutto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Trappole di legno e ferro con denti spaventosi. Infliggono danni Trincianti o Laceranti, ma il vero problema è la presa: chi ci finisce dentro ha bisogno dei compagni per liberarsi, a meno di poter cambiare forma come le Tzelicrae.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Tagliole Nascoste",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

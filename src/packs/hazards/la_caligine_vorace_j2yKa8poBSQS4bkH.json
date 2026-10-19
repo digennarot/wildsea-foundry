@@ -1,0 +1,28 @@
+{
+  "_id": "j2yKa8poBSQS4bkH",
+  "_key": "!actors!j2yKa8poBSQS4bkH",
+  "name": "La Caligine Vorace",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 13000000,
+  "system": {
+    "type": "Tempesta Vivente",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Una tempesta che non va alla deriva: caccia attivamente le sue prede, avanzando come una nebbia predatrice.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "La Caligine Vorace",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

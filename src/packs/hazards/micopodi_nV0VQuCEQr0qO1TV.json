@@ -1,0 +1,143 @@
+{
+  "_id": "nV0VQuCEQr0qO1TV",
+  "_key": "!actors!nV0VQuCEQr0qO1TV",
+  "name": "Micopodi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 6300000,
+  "system": {
+    "type": "Insetto",
+    "size": "medium",
+    "traits": "Insetti Fungini",
+    "description": "<p>Grandi artropodi in simbiosi con i funghi che crescono loro addosso; insieme possono decomporre e divorare quasi tutto. Usali per una fame immediata e devastante.</p>",
+    "sight": [
+      {
+        "id": "Gz28YNrMkQeu2pbh",
+        "text": "Troppe zampe coperte di escrescenze"
+      },
+      {
+        "id": "upZxh7EmsJTukKW0",
+        "text": "Mandibole grandi e uncinate"
+      }
+    ],
+    "sound": [
+      {
+        "id": "QIeY7oBiOerCfdMb",
+        "text": "Scatti e scuotimenti"
+      }
+    ],
+    "taste": [
+      {
+        "id": "AZeEyLgvalKFzuyE",
+        "text": "Gommoso e terroso, quasi di aragosta"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "Uz4g33cg3cb8QgVb",
+      "_key": "!actors.items!nV0VQuCEQr0qO1TV.Uz4g33cg3cb8QgVb",
+      "name": "Consumare",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Un impulso irrefrenabile, da soddisfare a ogni costo.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dRzUSrgHuAYmZSuY",
+      "_key": "!actors.items!nV0VQuCEQr0qO1TV.dRzUSrgHuAYmZSuY",
+      "name": "Onnivoro Insaziabile",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Divora ogni materia organica; si racconta di equipaggi e navi ridotti alla sola ossatura metallica.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "IwfXLpCr1cUfzVrS",
+      "_key": "!actors.items!nV0VQuCEQr0qO1TV.IwfXLpCr1cUfzVrS",
+      "name": "Morso Decompositore",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Danni RAV Laceranti; il fungo infetta facilmente le ferite e dopo il primo morso i danni aumentano.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "JJZlx1odLDKCITBF",
+      "_key": "!actors.items!nV0VQuCEQr0qO1TV.JJZlx1odLDKCITBF",
+      "name": "Spore Digestive",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "npKlDn4XiUkVJ8d0",
+      "_key": "!actors.items!nV0VQuCEQr0qO1TV.npKlDn4XiUkVJ8d0",
+      "name": "Consumo Vorace",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Micopodi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

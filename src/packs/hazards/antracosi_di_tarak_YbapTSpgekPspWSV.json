@@ -1,0 +1,28 @@
+{
+  "_id": "YbapTSpgekPspWSV",
+  "_key": "!actors!YbapTSpgekPspWSV",
+  "name": "Antracosi di Tarak",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 12300000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>La malattia più comune del Selvapelago, dovuta a troppe particelle respirate (crezzerin, spore, muffe, insetti). I sintomi variano, ma c'è sempre una tosse secca, anche nelle stirpi senza polmoni.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Antracosi di Tarak",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "Zye9uO3EsWZTnF4d",
+  "_key": "!actors!Zye9uO3EsWZTnF4d",
+  "name": "I Concavi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 10800000,
+  "system": {
+    "type": "Predone",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Ektus a fine vita, svuotati nel corpo e nella mente. Attivi di notte o col cielo coperto, si calmano al sole; colpiscono con pugni spinosi (danni RAV Contundenti e Perforanti).</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "I Concavi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

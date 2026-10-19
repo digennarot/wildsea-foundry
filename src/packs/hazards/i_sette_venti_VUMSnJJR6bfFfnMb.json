@@ -1,0 +1,28 @@
+{
+  "_id": "VUMSnJJR6bfFfnMb",
+  "_key": "!actors!VUMSnJJR6bfFfnMb",
+  "name": "I Sette Venti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 13300000,
+  "system": {
+    "type": "Tempesta Vivente",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un tornado di sette tempeste unite, carico di lampi, che sembra dare la caccia solo alle navi a vela.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "I Sette Venti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

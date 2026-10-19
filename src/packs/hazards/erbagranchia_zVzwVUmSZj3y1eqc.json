@@ -1,0 +1,28 @@
+{
+  "_id": "zVzwVUmSZj3y1eqc",
+  "_key": "!actors!zVzwVUmSZj3y1eqc",
+  "name": "Erbagranchia",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 7600000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un'erba dagli steli a tenaglia che cresce sul legno grezzo e si aggrappa agli scafi, facendoli impigliare nelle onde. Si elimina con prodotti chimici e una buona mano di catrame.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Erbagranchia",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

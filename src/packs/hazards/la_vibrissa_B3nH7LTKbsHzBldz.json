@@ -1,0 +1,28 @@
+{
+  "_id": "B3nH7LTKbsHzBldz",
+  "_key": "!actors!B3nH7LTKbsHzBldz",
+  "name": "La Vibrissa",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 13200000,
+  "system": {
+    "type": "Tempesta Vivente",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Pallida e quasi invisibile, senza fulmini né pioggia: invecchia e corrompe tutto ciò che osserva.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "La Vibrissa",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

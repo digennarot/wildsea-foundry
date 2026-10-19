@@ -1,0 +1,279 @@
+{
+  "_id": "lG7WI0aAH6LfjosV",
+  "_key": "!actors!lG7WI0aAH6LfjosV",
+  "name": "Makadrilli",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 4700000,
+  "system": {
+    "type": "Bestia",
+    "size": "medium",
+    "traits": "Avatar della Violenza Scimmiesca",
+    "description": "<p>Scimmie mascherate dal pelo nero e oro che odiano tutto ciò che è meccanico. Se un makadrillo sale a bordo e ruba un oggetto tecnologico, presto arriverà l'orda. Usali per bestie intelligenti e vendicative, o per scatenare subito uno scontro violento.</p>",
+    "sight": [
+      {
+        "id": "JxfskM6vatAKCJIO",
+        "text": "Un corpo in una trappola appena scattata"
+      },
+      {
+        "id": "MekJcxvAxeRmbUF7",
+        "text": "Criniere nere e oro"
+      },
+      {
+        "id": "xAgt4OeJvLOShBMN",
+        "text": "Maschere che imitano altri animali"
+      }
+    ],
+    "sound": [
+      {
+        "id": "DzrP9P6cuAJ0dbsi",
+        "text": "Grida e ululati"
+      },
+      {
+        "id": "CS7sMnkiQ0TcFzcB",
+        "text": "Legno spezzato e metallo piegato"
+      }
+    ],
+    "smell": [
+      {
+        "id": "qgn4OzB1Y9nTWAXu",
+        "text": "Sudore e pelliccia"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "mKDo8rLIUjO8pkwx",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.mKDo8rLIUjO8pkwx",
+      "name": "Tecnofobia",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Prima della ciurma attaccano la nave, i suoi macchinari e le armi più avanzate.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "U7JxHzaD2kceggBB",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.U7JxHzaD2kceggBB",
+      "name": "Gerarchia Familiare",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Vivono isolati per scelta, in famiglie divise in caste rigide; il loro odio è insegnato, non innato.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "avjHWdxuxbl6hdZM",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.avjHWdxuxbl6hdZM",
+      "name": "Maschere Intagliate",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Ogni famiglia ha il suo animale totemico; le maschere bloccano gli effetti mesmerici.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "KL0fhkwcvFAKNsUx",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.KL0fhkwcvFAKNsUx",
+      "name": "Forza Scimmiesca",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Fortissimi: smontano i macchinari e combattono con danni RAV Contundenti o Trincianti, muovendosi veloci anche con carichi pesanti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "oyPayprxXzEfpMK5",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.oyPayprxXzEfpMK5",
+      "name": "Trappole",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Il loro territorio è disseminato di trappole fatte solo di materiali naturali.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3Rs1kdTXEoDQoqCq",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.3Rs1kdTXEoDQoqCq",
+      "name": "Imitatore",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Imitano voci e lingue per attirare le vittime in un'imboscata.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "T6ic93j1fItjxFDZ",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.T6ic93j1fItjxFDZ",
+      "name": "Cacofonia",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Le urla durante l'attacco rendono inutile ogni comunicazione verbale.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "KI8Jm35uctMWUnb0",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.KI8Jm35uctMWUnb0",
+      "name": "Assistenti Makazee",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Esemplari più piccoli e di casta inferiore che attaccano in orde su ordine.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "D6QkElUffAtRMXCR",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.D6QkElUffAtRMXCR",
+      "name": "Pelle di Makadrillo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "viWBXeEWv3wBfogy",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.viWBXeEWv3wBfogy",
+      "name": "Ghiandola-Gola",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ebWLZktMVoscsprw",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.ebWLZktMVoscsprw",
+      "name": "Maschera Maka",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "e17hCB5so5c0mRJb",
+      "_key": "!actors.items!lG7WI0aAH6LfjosV.e17hCB5so5c0mRJb",
+      "name": "Un Grido Senza Parole",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Makadrilli",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

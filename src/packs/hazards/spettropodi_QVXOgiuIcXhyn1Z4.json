@@ -1,0 +1,224 @@
+{
+  "_id": "QVXOgiuIcXhyn1Z4",
+  "_key": "!actors!QVXOgiuIcXhyn1Z4",
+  "name": "Spettropodi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 6500000,
+  "system": {
+    "type": "Insetto",
+    "size": "large",
+    "traits": "Fantasmagoria Brulicante",
+    "description": "<p>Insetti voraci che passano dal mondo materiale a quello degli spiriti. Sono cacciati per organi che rafforzano il legame con lo spirituale. Usali contro equipaggi con legami spirituali, o per mostrare il confine tra i mondi.</p><h3>Emozioni</h3><p>Chi gli sta vicino prova un senso di terrore.</p>",
+    "sight": [
+      {
+        "id": "Py6FcCtN2USk00Jm",
+        "text": "Un carapace che scintilla e svanisce"
+      }
+    ],
+    "sound": [
+      {
+        "id": "Bw8DEJhvZjct4QST",
+        "text": "Lamenti sussurrati al vento"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "Wp2OMv2G3kB2erCK",
+      "_key": "!actors.items!QVXOgiuIcXhyn1Z4.Wp2OMv2G3kB2erCK",
+      "name": "Perseguitare",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Come gli spiriti di cui si nutrono, abitano strutture antiche e dimenticate.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8QIjnzDQzJWChYUJ",
+      "_key": "!actors.items!QVXOgiuIcXhyn1Z4.8QIjnzDQzJWChYUJ",
+      "name": "Sul Confine",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Durante la caccia entra nel mondo degli spiriti e sbuca da qualsiasi direzione: il primo attacco ha impatto aumentato.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ajONn2jiiBSCxal3",
+      "_key": "!actors.items!QVXOgiuIcXhyn1Z4.ajONn2jiiBSCxal3",
+      "name": "Vista dell'Anima",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Percepisce l'essenza di vivi, costrutti e spiriti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "iK5QAqcH7e4wjGPL",
+      "_key": "!actors.items!QVXOgiuIcXhyn1Z4.iK5QAqcH7e4wjGPL",
+      "name": "Macinatore di Essenze",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Danni Perforanti leggeri, ma danni Salini ingenti contro spiriti e simili.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "aPAiKKDr5Bnf9ujB",
+      "_key": "!actors.items!QVXOgiuIcXhyn1Z4.aPAiKKDr5Bnf9ujB",
+      "name": "Sfarfallante",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Sul Confine vale per tutti i suoi attacchi.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "TYcj5aRoFvGa95O5",
+      "_key": "!actors.items!QVXOgiuIcXhyn1Z4.TYcj5aRoFvGa95O5",
+      "name": "Ingordo",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Distratto da troppe prede: quando lo si attacca, i disastri contano come conflitti.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "NzZq6gtEGSmx7FBO",
+      "_key": "!actors.items!QVXOgiuIcXhyn1Z4.NzZq6gtEGSmx7FBO",
+      "name": "Rapace",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Cerca anime vive e sussurri freschi.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "XhRUVPHAY43HhLIY",
+      "_key": "!actors.items!QVXOgiuIcXhyn1Z4.XhRUVPHAY43HhLIY",
+      "name": "Occhi Spiritati e Sfaccettati",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "QyTQOU442I5aJvHZ",
+      "_key": "!actors.items!QVXOgiuIcXhyn1Z4.QyTQOU442I5aJvHZ",
+      "name": "Viscidume Spettrale",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "OWicAFqoQ8vPPLfA",
+      "_key": "!actors.items!QVXOgiuIcXhyn1Z4.OWicAFqoQ8vPPLfA",
+      "name": "Tra Due Mondi",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Spettropodi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

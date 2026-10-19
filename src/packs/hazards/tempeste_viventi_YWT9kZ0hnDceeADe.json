@@ -1,0 +1,338 @@
+{
+  "_id": "YWT9kZ0hnDceeADe",
+  "_key": "!actors!YWT9kZ0hnDceeADe",
+  "name": "Tempeste Viventi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 14000000,
+  "system": {
+    "type": "Leviatano",
+    "size": "leviathan",
+    "traits": "La forza Leviatanica della Natura",
+    "description": "<p>Tempeste di dimensioni leviataniche con una coscienza di pura elettricità: alcune venerate, altre evitate a ogni costo. Seguono il vento finché non scelgono un bersaglio, poi lo inseguono fino in fondo. Usale per una minaccia annunciata da lontano, quasi inarrestabile con mezzi normali.</p><h3>Ganci e Incontri</h3><ul><li><strong>Inseguitori di Tempeste</strong>: Un passeggero paga una fortuna per entrare in una tempesta vivente.</li><li><strong>Ladri di Tempeste</strong>: Qualcuno a bordo ha rubato qualcosa a una tempesta, che ora lo insegue.</li></ul>",
+    "sight": [
+      {
+        "id": "9fULBYTlKJyqIc4e",
+        "text": "Un'oscurità che cresce all'orizzonte"
+      },
+      {
+        "id": "xdCSZgBkBXNs5I0X",
+        "text": "Lampi lontani"
+      },
+      {
+        "id": "dFTmu7XUb9kfmtNX",
+        "text": "Portuali che rinforzano i tetti"
+      }
+    ],
+    "sound": [
+      {
+        "id": "K8BPtvDpQs3c6686",
+        "text": "Tuoni che rimbombano"
+      },
+      {
+        "id": "gYFqn7ilAZEDYObq",
+        "text": "Pioggia, o qualcosa di simile, che tamburella"
+      }
+    ],
+    "smell": [
+      {
+        "id": "ZdleGrhrfaFkemvU",
+        "text": "Petricore; metallo bruciato se un fulmine cade vicino"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "UIfoTwUaOjWHJhe2",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.UIfoTwUaOjWHJhe2",
+      "name": "Rotolando nell'Oscurità",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Lente ma inesorabili: possono seguire un equipaggio per giorni. Un tracciato in chiaro mostra che si viene braccati.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7424FK4powgG5Zau",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.7424FK4powgG5Zau",
+      "name": "Mente Elettrica",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Nel cuore delle nubi c'è una mente; se la furia si placa, forse si può comunicare.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "gP5adDAWcZut4Z5i",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.gP5adDAWcZut4Z5i",
+      "name": "Furia della Tempesta",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Danni Contundenti da leggeri a ingenti; i fulmini infliggono danni Elettrici a impatto totale e possono rubare il riflettore anche a metà azione. Riduzioni a comunicare, muoversi e vedere.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bq9LY2nugaW0nPzP",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.bq9LY2nugaW0nPzP",
+      "name": "Intangibilità del Leviatano",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Solo armamenti da ponte o altre armi a impatto totale la respingono, e solo per un po'.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "GaKY9K17Uo4WNt68",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.GaKY9K17Uo4WNt68",
+      "name": "Il Nucleo in un Sussurro",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Avvolta attorno a un sussurro: ogni tuono cambia un po' il mondo.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "LFZmyz5KL3lPFJ67",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.LFZmyz5KL3lPFJ67",
+      "name": "Lampo di Fuoco",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>I fulmini accendono incendi che la pioggia non spegne, anche se si diffondono più lentamente del solito.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "wUVlJsTj1mC15Yxo",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.wUVlJsTj1mC15Yxo",
+      "name": "Fulmine in Bottiglia",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "cYLvc08M1eV1aO24",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.cYLvc08M1eV1aO24",
+      "name": "Frammento di Tempesta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "iw5YpqNVoOVlFnQ8",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.iw5YpqNVoOVlFnQ8",
+      "name": "Pioggia in Barattolo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bZZphGafrpsTgJhc",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.bZZphGafrpsTgJhc",
+      "name": "Aria Carica di Elettricità",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "gtMALAnNYoiRe953",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.gtMALAnNYoiRe953",
+      "name": "Acqua Piovana Pura",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "nmHuh87hrOa5MXP0",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.nmHuh87hrOa5MXP0",
+      "name": "La Tempesta Che Sarà",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "NgtqgG2U6t77OfVe",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.NgtqgG2U6t77OfVe",
+      "name": "Mente Annebbiata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "HVqrKIweOd9lMfqD",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.HVqrKIweOd9lMfqD",
+      "name": "Barili di Pioggia",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4G4oZHj25cxAFY5s",
+      "_key": "!actors.items!YWT9kZ0hnDceeADe.4G4oZHj25cxAFY5s",
+      "name": "Detriti Lanciati dalla Tempesta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Tempeste Viventi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

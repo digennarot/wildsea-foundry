@@ -1,0 +1,28 @@
+{
+  "_id": "PiNBO4Tp2BaCT0Tf",
+  "_key": "!actors!PiNBO4Tp2BaCT0Tf",
+  "name": "Pipistrelli Chimerici",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 2500000,
+  "system": {
+    "type": "Bestia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Pipistrelli grandi quanto una mano che volano in stormi notturni. Le navi attirano gli insetti e gli insetti attirano loro; i loro strilli però richiamano anche predatori molto più grossi.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Pipistrelli Chimerici",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "0bAathwt1dT1rs7m",
+  "_key": "!actors!0bAathwt1dT1rs7m",
+  "name": "Emersione Cimiteriale",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "1uuXOQy0VjJMxnBn",
+  "sort": 1800000,
+  "system": {
+    "type": "Orrore",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un antico cimitero riportato in superficie da un radimoto, con i resti dei morti sparsi sulle chiome.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Emersione Cimiteriale",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

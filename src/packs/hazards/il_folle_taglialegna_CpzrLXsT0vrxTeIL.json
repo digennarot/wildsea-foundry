@@ -1,0 +1,240 @@
+{
+  "_id": "CpzrLXsT0vrxTeIL",
+  "_key": "!actors!CpzrLXsT0vrxTeIL",
+  "name": "Il Folle Taglialegna",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 10000000,
+  "system": {
+    "type": "Costrutto",
+    "size": "huge",
+    "traits": "Ottusa Minaccia Meccanica",
+    "description": "<p>Un tempo teneva a bada i rami attorno a una striscia ormai affondata; oggi, con la programmazione corrotta, vaga tagliando rami per alimentare la caldaia. Usalo per una minaccia insensata nata da un passato perduto.</p><h3>Ganci e Incontri</h3><ul><li><strong>Un Briciolo di Buon Senso</strong>: Il costrutto sembra voler affidare un compito all'equipaggio e vuole essere seguito.</li></ul>",
+    "sight": [
+      {
+        "id": "qYfzSsDFTS068YI6",
+        "text": "Cime d'albero recise che scivolano giù"
+      },
+      {
+        "id": "UMVYYq7xfwQWvALK",
+        "text": "Scie di fumo nero"
+      }
+    ],
+    "sound": [
+      {
+        "id": "kxlNTbXwpxLG1AH9",
+        "text": "Seghe circolari che rombano"
+      },
+      {
+        "id": "OcJpaHLdidmdxMc0",
+        "text": "Ingranaggi che stridono"
+      }
+    ],
+    "smell": [
+      {
+        "id": "OaOFX7uBualnEuiV",
+        "text": "Legna bruciata e linfa fresca"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "PEsQZ2zlCZjQEfw6",
+      "_key": "!actors.items!CpzrLXsT0vrxTeIL.PEsQZ2zlCZjQEfw6",
+      "name": "Persistere",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Continua a svolgere il suo vecchio compito, nutrendosi dei rami che taglia.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "U65RRCbkiDgZMjbw",
+      "_key": "!actors.items!CpzrLXsT0vrxTeIL.U65RRCbkiDgZMjbw",
+      "name": "Sega Circolare",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Abbatte alberi: danni RAV Laceranti da leggeri a medi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "g4qIkvbyzR1p0ltj",
+      "_key": "!actors.items!CpzrLXsT0vrxTeIL.g4qIkvbyzR1p0ltj",
+      "name": "Fatto per Resistere",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Resistenza ai danni Taglienti e Perforanti; immune a veleni e danni Tossici.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ChZdPTvcOia9z8pp",
+      "_key": "!actors.items!CpzrLXsT0vrxTeIL.ChZdPTvcOia9z8pp",
+      "name": "Ottuso",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>La sua logica è guasta: con un po' di astuzia si può evitare lo scontro.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "riT06GAuHblR605y",
+      "_key": "!actors.items!CpzrLXsT0vrxTeIL.riT06GAuHblR605y",
+      "name": "Pericolante",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Alla fine dei suoi giorni: perde Fatto per Resistere ma infligge danni RAV Incenerenti ed Esplosivi.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "W6QkLsFTuTeGnB44",
+      "_key": "!actors.items!CpzrLXsT0vrxTeIL.W6QkLsFTuTeGnB44",
+      "name": "Nucleo Centrale Corrotto",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "TXCDamKg6AhbsOLv",
+      "_key": "!actors.items!CpzrLXsT0vrxTeIL.TXCDamKg6AhbsOLv",
+      "name": "Pistoni di Metallo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "IVJsOHkrB73UgrrW",
+      "_key": "!actors.items!CpzrLXsT0vrxTeIL.IVJsOHkrB73UgrrW",
+      "name": "Lame Danneggiate dal Crezzerin",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "wdYcLKaJ5jOAC1XO",
+      "_key": "!actors.items!CpzrLXsT0vrxTeIL.wdYcLKaJ5jOAC1XO",
+      "name": "Il Tempo della Mietitura",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "j7UroCTMvDnP2yse",
+      "_key": "!actors.items!CpzrLXsT0vrxTeIL.j7UroCTMvDnP2yse",
+      "name": "Carta Celeste Perforata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Il Folle Taglialegna",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

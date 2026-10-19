@@ -1,0 +1,193 @@
+{
+  "_id": "8HWvi5jxuAlXve2u",
+  "_key": "!actors!8HWvi5jxuAlXve2u",
+  "name": "Cercasole",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 11300000,
+  "system": {
+    "type": "Predone",
+    "size": "medium",
+    "traits": "Zeloti Falenidi",
+    "description": "<p>Un ordine fanatico di Falenidi convinti che qualcuno abbia rubato il sole e lo tenga prigioniero (il sole in cielo non li fa ricredere). Volano su navi solcacieli iridescenti e si lanciano sul ponte nemico. Usali per nemici competenti con cui è impossibile ragionare.</p>",
+    "sight": [
+      {
+        "id": "ouxH1yDym0edRt1f",
+        "text": "Accette scintillanti e lame seghettate"
+      },
+      {
+        "id": "a341m9T1N2SMOISV",
+        "text": "Ali annerite con carbone e catrame"
+      }
+    ],
+    "sound": [
+      {
+        "id": "WQt8rn1NWc8vuhKL",
+        "text": "Urla di giubilo e di adorazione"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "GGvQltehfnfhJi1j",
+      "_key": "!actors.items!8HWvi5jxuAlXve2u.GGvQltehfnfhJi1j",
+      "name": "Cercare il Sole Rubato",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Una ricerca senza fine, figlia del rifiuto della verità.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "jDxfPIHQrSOsW0OU",
+      "_key": "!actors.items!8HWvi5jxuAlXve2u.jDxfPIHQrSOsW0OU",
+      "name": "Spezza-Navi",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Armi pensate per distruggere navi: di solito danni RAV e AD Trincianti e Laceranti, a volte Acidi ed Esplosivi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "fgIeJJACMBwfOBPN",
+      "_key": "!actors.items!8HWvi5jxuAlXve2u.fgIeJJACMBwfOBPN",
+      "name": "Volo",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Volano meglio di molti Falenidi, ma piercing, ornamenti e catrame li costringono spesso a planare.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "UJmtLkPoDmxAtelt",
+      "_key": "!actors.items!8HWvi5jxuAlXve2u.UJmtLkPoDmxAtelt",
+      "name": "La Vera Frenesia",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Contro navi a luce solare liquida o vele solari non si fermano finché non hanno massacrato l'equipaggio.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "kV0YRAaSVjTapFaO",
+      "_key": "!actors.items!8HWvi5jxuAlXve2u.kV0YRAaSVjTapFaO",
+      "name": "Accetta di Fattura Falenide",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "cCXgKrbniXRUr7uV",
+      "_key": "!actors.items!8HWvi5jxuAlXve2u.cCXgKrbniXRUr7uV",
+      "name": "Farneticazioni Solari",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "nfS1C7Q02wXknmun",
+      "_key": "!actors.items!8HWvi5jxuAlXve2u.nfS1C7Q02wXknmun",
+      "name": "Ignorare l'Ovvio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "AdKlbVdT3ofunD8E",
+      "_key": "!actors.items!8HWvi5jxuAlXve2u.AdKlbVdT3ofunD8E",
+      "name": "Luce Nascosta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Cercasole",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

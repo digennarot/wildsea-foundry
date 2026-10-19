@@ -1,0 +1,163 @@
+{
+  "_id": "rN6OLV7rdJ8aRUfn",
+  "_key": "!actors!rN6OLV7rdJ8aRUfn",
+  "name": "Onde Sbiancanti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "KjNStiay50nC032i",
+  "sort": 1100000,
+  "system": {
+    "type": "Forza della Natura",
+    "size": "variable",
+    "traits": "Distese Pallide, Marcescenti",
+    "description": "<p>Un marciume che sbianca gli alberi come ossa e ne divora la solidità. Attraversarle senza precauzioni è un disastro annunciato; usale per costringere l'equipaggio a rallentare e a lottare contro la foresta.</p>",
+    "sight": [
+      {
+        "id": "pSNAvlqx5ABaYjGH",
+        "text": "Tratti di mare completamente bianchi"
+      },
+      {
+        "id": "fs6pbcTCkwFfMA7g",
+        "text": "Rami bucherellati e fragili"
+      }
+    ],
+    "taste": [
+      {
+        "id": "OaeiHPIrNO0AJB1i",
+        "text": "Gommoso, umido, filamentoso"
+      }
+    ],
+    "touch": [
+      {
+        "id": "a4xDlyD9bPB6NQpT",
+        "text": "Spugnoso e friabile"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "XA9p0cOtWftiPPAi",
+      "_key": "!actors.items!rN6OLV7rdJ8aRUfn.XA9p0cOtWftiPPAi",
+      "name": "Stabilità Ingannevole",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Gli alberi sembrano sani ma cedono sotto il peso o ai movimenti bruschi. Le navi possono dover tirare su Manovrabilità e subire riduzioni anche a bassa velocità.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "OeEuiK4cnp3i97la",
+      "_key": "!actors.items!rN6OLV7rdJ8aRUfn.OeEuiK4cnp3i97la",
+      "name": "Movimenti Leggeri",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Il peso di una sola persona non è un problema: chi ondivaga le attraversa senza rischi particolari. Battistrada e piccole bestie passano se procedono piano.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ncNEeFLsAAFfQ5mY",
+      "_key": "!actors.items!rN6OLV7rdJ8aRUfn.ncNEeFLsAAFfQ5mY",
+      "name": "Legno Marcescente",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Mvvxaq3yW68i6atU",
+      "_key": "!actors.items!rN6OLV7rdJ8aRUfn.Mvvxaq3yW68i6atU",
+      "name": "Foglie Spugnose",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "gHxBEIsEIJsfz9Dz",
+      "_key": "!actors.items!rN6OLV7rdJ8aRUfn.gHxBEIsEIJsfz9Dz",
+      "name": "Un Cuore Marcio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "DYVKcAhsX84VaowT",
+      "_key": "!actors.items!rN6OLV7rdJ8aRUfn.DYVKcAhsX84VaowT",
+      "name": "Una Bellezza Pericolosa",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Onde Sbiancanti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

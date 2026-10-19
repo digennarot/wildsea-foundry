@@ -1,0 +1,28 @@
+{
+  "_id": "fLVR6By9CBfPFztW",
+  "_key": "!actors!fLVR6By9CBfPFztW",
+  "name": "Eliostrato",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "KjNStiay50nC032i",
+  "sort": 500000,
+  "system": {
+    "type": "Forza della Natura",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Una nube che assorbe la luce del sole e poi la restituisce come pioggia iridescente. Chi la guarda si distrae e commette errori banali; gli scrosci più forti possono abbagliare alcune stirpi o disidratarne altre.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Eliostrato",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

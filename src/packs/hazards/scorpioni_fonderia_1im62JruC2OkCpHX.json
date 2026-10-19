@@ -1,0 +1,28 @@
+{
+  "_id": "1im62JruC2OkCpHX",
+  "_key": "!actors!1im62JruC2OkCpHX",
+  "name": "Scorpioni Fonderia",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 5600000,
+  "system": {
+    "type": "Insetto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Piccoli scorpioni il cui veleno trasforma in metallo carne e ossa nel punto colpito. Chi sopravvive si ritrova con una parte del corpo metallica; certi lottatori si fanno pungere apposta.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Scorpioni Fonderia",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

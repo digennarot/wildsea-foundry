@@ -1,0 +1,28 @@
+{
+  "_id": "LUw9fxYD94kOh1P4",
+  "_key": "!actors!LUw9fxYD94kOh1P4",
+  "name": "Ambradiasi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 12100000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un graffio che invece di cicatrizzarsi secerne linfa che indurisce in ambra e si estende a tutto il corpo, se non viene rimossa con costanza. Dà sogni vividi e una calma preoccupante.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Ambradiasi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

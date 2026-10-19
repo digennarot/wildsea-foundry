@@ -1,0 +1,28 @@
+{
+  "_id": "UYdTJE70qFkhddWo",
+  "_key": "!actors!UYdTJE70qFkhddWo",
+  "name": "Insulia",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 11500000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un'infezione crisalidea comune tra i Falenidi ma contagiosa per tutti: spinge ad avvolgersi in strati e strati di materiale. È pericolosa per ciò che provoca: c'è chi muore di caldo o schiacciato dal peso.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Insulia",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "_id": "TGfV1kYVzyq1AnWJ",
+  "_key": "!actors!TGfV1kYVzyq1AnWJ",
+  "name": "Fitoctopodi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 8400000,
+  "system": {
+    "type": "Pianta",
+    "size": "huge",
+    "traits": "Pianta Ammaliatrice",
+    "description": "<p>Una pianta tentacolare, rossa e lucida, che sta immobile appena sotto il groviglio e attira le prede con arti coperti di gocce adesive. Usala per qualcosa di semplice, paziente e duro a morire.</p><h3>Ganci e Incontri</h3><ul><li><strong>Esodo Entomologico</strong>: Nuove specie di insetti invadono la zona, dirette verso un fitoctopode nascosto.</li><li><strong>Molti Arti, Molti Profumi</strong>: Questo esemplare attira qualcosa di insolito: una stirpe, degli spiriti, dei sussurri.</li><li><strong>Stridore sulla Cima</strong>: Un fitoctopode rumorosissimo spinge i villaggi vicini a gesti disperati.</li></ul>",
+    "sight": [
+      {
+        "id": "v7dvCo1VXSLVmRem",
+        "text": "Gocce di rugiada rossa al sole"
+      },
+      {
+        "id": "y2ueZcJXZsTHTMCV",
+        "text": "Nugoli di insetti"
+      },
+      {
+        "id": "BXNsvVjHSAD6jgNe",
+        "text": "Una bocca a becco spalancata"
+      }
+    ],
+    "sound": [
+      {
+        "id": "G9wnJ7gty2VjPBRf",
+        "text": "Un silenzio paziente"
+      }
+    ],
+    "smell": [
+      {
+        "id": "urS4Lsn5LW7l3TLT",
+        "text": "Dolcissimo, più del miele"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "QpnKoDdUuYhF8TiM",
+      "_key": "!actors.items!TGfV1kYVzyq1AnWJ.QpnKoDdUuYhF8TiM",
+      "name": "Attesa Silenziosa",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Non si sposta quasi mai e cresce per decenni; prima o poi una preda incauta arriva.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "nBC3zim32pPrbtXk",
+      "_key": "!actors.items!TGfV1kYVzyq1AnWJ.nBC3zim32pPrbtXk",
+      "name": "Paziente",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Può aspettare settimane nutrendosi di insetti, finché non scatta su qualcosa di più grosso.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bXEWcAQFXJscz4yq",
+      "_key": "!actors.items!TGfV1kYVzyq1AnWJ.bXEWcAQFXJscz4yq",
+      "name": "Tentacoli e Becco",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Danni RAV Contundenti e Trincianti ingenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "SMaNrmdKXU4Rh8HK",
+      "_key": "!actors.items!TGfV1kYVzyq1AnWJ.SMaNrmdKXU4Rh8HK",
+      "name": "Fior di Cadavere",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Puzza di carogna: attira insetti ma spaventa le prede grandi, così deve cacciare attivamente.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "UEnXamNJbZXddPwL",
+      "_key": "!actors.items!TGfV1kYVzyq1AnWJ.UEnXamNJbZXddPwL",
+      "name": "Feromone Attrattivo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "sIlQhnhqro9kfLPJ",
+      "_key": "!actors.items!TGfV1kYVzyq1AnWJ.sIlQhnhqro9kfLPJ",
+      "name": "Becco di Fitoctopode",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vKptdsvu3rlnIean",
+      "_key": "!actors.items!TGfV1kYVzyq1AnWJ.vKptdsvu3rlnIean",
+      "name": "Rugiada Dolcissima",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9lirr4gNd4VdTbep",
+      "_key": "!actors.items!TGfV1kYVzyq1AnWJ.9lirr4gNd4VdTbep",
+      "name": "Dolce è la Morte",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "kkcrXlZoZ7S8u4gz",
+      "_key": "!actors.items!TGfV1kYVzyq1AnWJ.kkcrXlZoZ7S8u4gz",
+      "name": "Tentacolo di Fitoctopode",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Fitoctopodi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

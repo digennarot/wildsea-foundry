@@ -1,0 +1,28 @@
+{
+  "_id": "QcSSCu5tRtdbuH64",
+  "_key": "!actors!QcSSCu5tRtdbuH64",
+  "name": "Fiori Fosforosi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 7000000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Piante luminescenti che impediscono alle notti di essere davvero buie. Di solito brillano d'azzurro, ma alcune varietà si accendono di cremisi, viola o oro.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Fiori Fosforosi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "_id": "Faiig5y9RIUkjO8D",
+  "_key": "!actors!Faiig5y9RIUkjO8D",
+  "name": "Rottama-Scimmie",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 3900000,
+  "system": {
+    "type": "Bestia",
+    "size": "small",
+    "traits": "Ingegneri Curiosi",
+    "description": "<p>Spazzine agili che vivono su relitti e scogli appena emersi, più simili a lemuri che a scimmie, con la mania di smontare tutto. Usale per un incontro fatto di furti e scherzi più che di violenza.</p>",
+    "sight": [
+      {
+        "id": "2HvKKWQf4d5pOORw",
+        "text": "Corpi snodati che dondolano tra i rami"
+      }
+    ],
+    "sound": [
+      {
+        "id": "Ngo3IIWTC2ba6H2r",
+        "text": "Un chiacchiericcio sommesso, qualche strillo"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "eFoTGmA1VNBCQiHP",
+      "_key": "!actors.items!Faiig5y9RIUkjO8D.eFoTGmA1VNBCQiHP",
+      "name": "Mattacchione",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Cercano i navigaselva solo per divertirsi.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "OaPKkoISPEJoEvg0",
+      "_key": "!actors.items!Faiig5y9RIUkjO8D.OaPKkoISPEJoEvg0",
+      "name": "Curiose per Natura",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Rubano attrezzi, rosicchiano vele e sartiame, infastidiscono famigli ed equipaggio, smontano armi.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "JCYOYFNbeHs36JCN",
+      "_key": "!actors.items!Faiig5y9RIUkjO8D.JCYOYFNbeHs36JCN",
+      "name": "Monelle",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Più che attaccare, danneggiano o rubano risorse; possono fare a pezzi un oggetto tecnologico per pura curiosità.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "TFqJZcxgHGegJvDW",
+      "_key": "!actors.items!Faiig5y9RIUkjO8D.TFqJZcxgHGegJvDW",
+      "name": "Dita e Coda Prensili",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Corrono tra i rami a gran velocità senza mollare la refurtiva.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9AgHsZjLDdB7CMJo",
+      "_key": "!actors.items!Faiig5y9RIUkjO8D.9AgHsZjLDdB7CMJo",
+      "name": "Menti Acute",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Alcuni gruppi usano ciò che rubano per costruire macchine e sculture.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "NwKOpeAxxvgFHcxu",
+      "_key": "!actors.items!Faiig5y9RIUkjO8D.NwKOpeAxxvgFHcxu",
+      "name": "Ingranaggi Abbandonati",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "zFh9kghrovhboYqY",
+      "_key": "!actors.items!Faiig5y9RIUkjO8D.zFh9kghrovhboYqY",
+      "name": "Frammenti di Batterie di Ceramica",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "JUUdUI15WdXRZqYW",
+      "_key": "!actors.items!Faiig5y9RIUkjO8D.JUUdUI15WdXRZqYW",
+      "name": "L'Ingannatore Supremo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Rottama-Scimmie",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

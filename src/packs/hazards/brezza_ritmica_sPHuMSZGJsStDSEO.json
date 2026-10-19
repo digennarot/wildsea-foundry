@@ -1,0 +1,28 @@
+{
+  "_id": "sPHuMSZGJsStDSEO",
+  "_key": "!actors!sPHuMSZGJsStDSEO",
+  "name": "Brezza Ritmica",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "KjNStiay50nC032i",
+  "sort": 700000,
+  "system": {
+    "type": "Forza della Natura",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un vento che batte un ritmo irresistibile. All'inizio è solo un piede che tamburella; più a lungo l'equipaggio vi resta esposto, più diventa impossibile non mettersi a ballare.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Brezza Ritmica",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

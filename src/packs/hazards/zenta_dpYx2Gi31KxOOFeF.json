@@ -1,0 +1,216 @@
+{
+  "_id": "dpYx2Gi31KxOOFeF",
+  "_key": "!actors!dpYx2Gi31KxOOFeF",
+  "name": "Zenta",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 4800000,
+  "system": {
+    "type": "Bestia",
+    "size": "variable",
+    "traits": "Enigmatici Rettili Imitatori",
+    "description": "<p>Rettili simili a cuculi, deformati dal crezzerin: depongono le uova nel cadavere di un'altra creatura e i piccoli crescono imitandone la forma. Usali per una versione squamosa e distorta di qualunque bestia.</p>",
+    "sight": [
+      {
+        "id": "TzQzdSIwxBnzstT1",
+        "text": "Squame iridescenti al tramonto"
+      },
+      {
+        "id": "K1yq7XqasVTZXdok",
+        "text": "Lembi di pelle che pendono"
+      },
+      {
+        "id": "fBw0EVBYHMjf7Ffy",
+        "text": "Una carcassa con gusci d'uovo"
+      }
+    ],
+    "taste": [
+      {
+        "id": "xkHUCvV7wIPqO2WE",
+        "text": "Carne magra, retrogusto aspro"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "fk94IUc1S3fjPONi",
+      "_key": "!actors.items!dpYx2Gi31KxOOFeF.fk94IUc1S3fjPONi",
+      "name": "Nidificabili Resti",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Scelgono con cura il cadavere-culla, preferendo esemplari robusti.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "oUkDyNuCtJDRsLYV",
+      "_key": "!actors.items!dpYx2Gi31KxOOFeF.oUkDyNuCtJDRsLYV",
+      "name": "Vagare Senza Confini",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Le coppie adulte abbandonano il territorio e viaggiano per chilometri.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "evanZdsnV3eybV77",
+      "_key": "!actors.items!dpYx2Gi31KxOOFeF.evanZdsnV3eybV77",
+      "name": "Costanti Zenta",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Qualunque forma abbiano: pelle squamata (resistenza ai danni Perforanti e Taglienti), creste affilate ai lati della testa (danni RAV Taglienti o Laceranti) e la capacità di deporre uova.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "o0upNDTl2SrZJ7lN",
+      "_key": "!actors.items!dpYx2Gi31KxOOFeF.o0upNDTl2SrZJ7lN",
+      "name": "Tutto il Resto",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Ogni altra caratteristica dipende dalla creatura in cui è cresciuto: prendi spunto dagli altri pericoli.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "z7dqpQkogybElEX1",
+      "_key": "!actors.items!dpYx2Gi31KxOOFeF.z7dqpQkogybElEX1",
+      "name": "Corona di un Dente",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "aUcr0fHj5ooXwQoH",
+      "_key": "!actors.items!dpYx2Gi31KxOOFeF.aUcr0fHj5ooXwQoH",
+      "name": "Pelle Squamata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "R9Yjop3J7FjibXkr",
+      "_key": "!actors.items!dpYx2Gi31KxOOFeF.R9Yjop3J7FjibXkr",
+      "name": "Guscio d'Uovo Poroso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "nCZBRiFIMycIne19",
+      "_key": "!actors.items!dpYx2Gi31KxOOFeF.nCZBRiFIMycIne19",
+      "name": "Cresciuto in un Involucro",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "hvfMXSBAlpYmYFD7",
+      "_key": "!actors.items!dpYx2Gi31KxOOFeF.hvfMXSBAlpYmYFD7",
+      "name": "Reinvenzione",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Zenta",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

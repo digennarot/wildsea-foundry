@@ -1,0 +1,28 @@
+{
+  "_id": "Fs8119M1pxr3TLcx",
+  "_key": "!actors!Fs8119M1pxr3TLcx",
+  "name": "Gigli Fluttuanti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 7500000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Fiori senza stelo né radici che galleggiano nel cielo basso. Innocui, ma il vento li ammassa in nubi che bloccano la vista; si dice che alcuni pirati ci si nascondano dentro.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Gigli Fluttuanti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

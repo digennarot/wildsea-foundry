@@ -1,0 +1,191 @@
+{
+  "_id": "1QySJoWG4cJxrBV6",
+  "_key": "!actors!1QySJoWG4cJxrBV6",
+  "name": "Crezzerin",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "KjNStiay50nC032i",
+  "sort": 1200000,
+  "system": {
+    "type": "Forza della Natura",
+    "size": "variable",
+    "traits": "Una Crescita Incontrollata e Diffusa",
+    "description": "<p>La sostanza che alimenta la crescita smisurata del Selvapelago: scorre nella linfa, nella pioggia, nelle vene delle bestie mutate. Usala per rendere il mondo più strano e più ostile.</p><h3>Versamento di Crezzerin (Luogo)</h3><p>Un'area intrisa di crezzerin che sgorga da una ferradice spaccata da un fulmine. Flora e fauna sono mutate in modo irreversibile; anche costeggiarla lascia tracce su nave ed equipaggio, a volte per settimane.</p>",
+    "sight": [
+      {
+        "id": "UgAXDKDJnS3bXsNS",
+        "text": "Un liquido viola dai riflessi dorati"
+      },
+      {
+        "id": "GYgLOwhqDUl04PDR",
+        "text": "Una nube miasmatica in movimento"
+      }
+    ],
+    "smell": [
+      {
+        "id": "Qz8lpdu28BrKvvff",
+        "text": "Dolce e acre, inconfondibile"
+      }
+    ],
+    "taste": [
+      {
+        "id": "RI7GjnhvWq5tO1lS",
+        "text": "Amaro, con note di vaniglia e radice"
+      }
+    ],
+    "touch": [
+      {
+        "id": "MA1Tjtc8KdMm74rf",
+        "text": "Appiccicoso"
+      },
+      {
+        "id": "jVIiBhzO6jRGeM9Y",
+        "text": "Dolore bruciante, poi intorpidimento o spasmi"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "JeG9OvtBD6nkClbU",
+      "_key": "!actors.items!1QySJoWG4cJxrBV6.JeG9OvtBD6nkClbU",
+      "name": "Agente Mutageno",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Le ferite inflitte da creature intrise di crezzerin possono portare follia e dolore; l'esposizione prolungata provoca mutazioni, nel corpo o nella mente.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "WU0PaQvpiZsJxmUy",
+      "_key": "!actors.items!1QySJoWG4cJxrBV6.WU0PaQvpiZsJxmUy",
+      "name": "Ustionante",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Il contatto brucia la pelle e infligge danni Tossici o Acidi. Le ferite sono difficili da curare senza risorse con l'etichetta \"Pura\".</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "j5ZjVSEmw5ueFLAv",
+      "_key": "!actors.items!1QySJoWG4cJxrBV6.j5ZjVSEmw5ueFLAv",
+      "name": "Dissennante",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Distorce la percezione: di solito fa segnare il fardello o aggiunge fardelli temporanei.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "rr1Lvrf3WICIHfqr",
+      "_key": "!actors.items!1QySJoWG4cJxrBV6.rr1Lvrf3WICIHfqr",
+      "name": "Crezzerin Liquido",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9fn6rG416bFc36RA",
+      "_key": "!actors.items!1QySJoWG4cJxrBV6.9fn6rG416bFc36RA",
+      "name": "Ossa Venate di Crezzerin",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "70AZrR8VP3qJcj8s",
+      "_key": "!actors.items!1QySJoWG4cJxrBV6.70AZrR8VP3qJcj8s",
+      "name": "Tutto Cambia",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bceDzMXTpX1aTSwP",
+      "_key": "!actors.items!1QySJoWG4cJxrBV6.bceDzMXTpX1aTSwP",
+      "name": "Crescita Infinita",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Crezzerin",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

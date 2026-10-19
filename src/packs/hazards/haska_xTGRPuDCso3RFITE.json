@@ -1,0 +1,28 @@
+{
+  "_id": "xTGRPuDCso3RFITE",
+  "_key": "!actors!xTGRPuDCso3RFITE",
+  "name": "Haska",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 7700000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Funghi alti come pali del telegrafo, collegati da filamenti di muco. Lemuri e millepiedi addestrati li percorrono per consegnare messaggi.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Haska",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

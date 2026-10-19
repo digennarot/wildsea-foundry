@@ -1,0 +1,28 @@
+{
+  "_id": "qh9N01aIg2y9CouL",
+  "_key": "!actors!qh9N01aIg2y9CouL",
+  "name": "Gli Antropofagi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 10300000,
+  "system": {
+    "type": "Predone",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Pirati che saccheggiano per la carne e hanno fatto del cannibalismo un'arte. Preferiscono assaltare villaggi popolosi e indifesi piuttosto che navi.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Gli Antropofagi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

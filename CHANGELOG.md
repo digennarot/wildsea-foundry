@@ -1,5 +1,10 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.7
+
+- Add a "Pericoli" (Hazards) compendium in Italian with the hazards from chapter 10 of the rulebook: 56 complex hazards (with drives, presence, resources, aspects and quirks) and 89 basic hazards, organised by category. Names follow the official Italian rulebook; descriptions are summaries, so keep the book at hand for the full text
+- Hazard sheet: add the Leviathan size, a blank size option and the Touch sense to Presence
+
 ## v0.2.6
 
 - Use the official Italian names for three translated aspects (Sentinella, Birra d'Acero, Farfalle Coda di Drago Verde)

@@ -1,0 +1,28 @@
+{
+  "_id": "si9a9XeKNPlQZt0n",
+  "_key": "!actors!si9a9XeKNPlQZt0n",
+  "name": "Arti Erranti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 8900000,
+  "system": {
+    "type": "Costrutto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Protesi che hanno abbandonato il loro proprietario. Quasi tutte si limitano a contorcersi, ma alcune ricordano come si combatte e lo fanno senza alcun istinto di conservazione.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Arti Erranti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

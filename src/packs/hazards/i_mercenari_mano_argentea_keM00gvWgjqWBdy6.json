@@ -1,0 +1,28 @@
+{
+  "_id": "keM00gvWgjqWBdy6",
+  "_key": "!actors!keM00gvWgjqWBdy6",
+  "name": "I Mercenari Mano Argentea",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 10200000,
+  "system": {
+    "type": "Predone",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Più che mercenari, \"saccheggiatori post-finanziari\" a caccia di materiali Pre-V luccicanti. Vendono ai Numismatici la carta moneta che trovano.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "I Mercenari Mano Argentea",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

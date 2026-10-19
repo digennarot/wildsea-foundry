@@ -19,10 +19,10 @@
       "discord": "Mutex"
     }
   ],
-  "version": "0.2.6",
+  "version": "0.2.7",
   "url": "https://github.com/digennarot/wildsea-foundry",
   "manifest": "https://github.com/digennarot/wildsea-foundry/releases/latest/download/system.json",
-  "download": "https://github.com/digennarot/wildsea-foundry/releases/download/v0.2.6/wildsea-foundry-v0.2.6.zip",
+  "download": "https://github.com/digennarot/wildsea-foundry/releases/download/v0.2.7/wildsea-foundry-v0.2.7.zip",
 
   "compatibility": {
     "minimum": "13",
@@ -63,6 +63,13 @@
       "path": "packs/ship_aspects",
       "type": "Item",
       "banner": "systems/wildsea/assets/banners/ship_aspects.webp"
+    },
+    {
+      "name": "hazards",
+      "label": "Pericoli",
+      "system": "wildsea",
+      "path": "packs/hazards",
+      "type": "Actor"
     },
     {
       "name": "journals",

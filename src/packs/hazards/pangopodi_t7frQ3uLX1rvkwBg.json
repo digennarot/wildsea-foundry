@@ -1,0 +1,28 @@
+{
+  "_id": "t7frQ3uLX1rvkwBg",
+  "_key": "!actors!t7frQ3uLX1rvkwBg",
+  "name": "Pangopodi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 2900000,
+  "system": {
+    "type": "Bestia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Creature docili che si muovono su tentacoli simili a quelli dei calamari, ma ferocemente protettive con i piccoli. Ucciderne uno porta sfortuna; i loro nidi pendono dai rami alti del groviglio.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Pangopodi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

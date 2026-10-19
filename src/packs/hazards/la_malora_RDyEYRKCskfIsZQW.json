@@ -1,0 +1,28 @@
+{
+  "_id": "RDyEYRKCskfIsZQW",
+  "_key": "!actors!RDyEYRKCskfIsZQW",
+  "name": "La Malora",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 11600000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un unico sintomo: il desiderio irrefrenabile di vendere tutto e prendere il mare. Si cura con riposo, se presa in tempo; quasi nessuna nave accetta chi ne soffre.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "La Malora",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

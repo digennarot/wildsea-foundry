@@ -1,0 +1,28 @@
+{
+  "_id": "329fai9Mv8BLtlT3",
+  "_key": "!actors!329fai9Mv8BLtlT3",
+  "name": "Pista del Leviatano",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "1uuXOQy0VjJMxnBn",
+  "sort": 1700000,
+  "system": {
+    "type": "Orrore",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un solco di rami spezzati e tronchi abbattuti: un leviatano è passato di qui da poche ore.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Pista del Leviatano",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

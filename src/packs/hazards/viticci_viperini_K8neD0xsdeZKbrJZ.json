@@ -1,0 +1,178 @@
+{
+  "_id": "K8neD0xsdeZKbrJZ",
+  "_key": "!actors!K8neD0xsdeZKbrJZ",
+  "name": "Viticci Viperini",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 7900000,
+  "system": {
+    "type": "Pianta",
+    "size": "variable",
+    "traits": "Sciame Vegetale in Espansione",
+    "description": "<p>Un groviglio di liane che serpeggiano tra le chiome, avvolgono le prede e poi sfoderano spine simili a zanne. Usali per un avversario semplice e istintivo.</p>",
+    "sight": [
+      {
+        "id": "OpvVtYW1GjAxGn0d",
+        "text": "Liane color oliva e spine ocra"
+      },
+      {
+        "id": "iemQI0Gwt8FaUYJ8",
+        "text": "Boccioli a diamante"
+      },
+      {
+        "id": "NghYVjhjZtBvjFwN",
+        "text": "Piccoli scheletri attraversati dalle piante"
+      }
+    ],
+    "taste": [
+      {
+        "id": "7WmnR7LDDfGbVK7L",
+        "text": "Ricco, sanguigno, vegetale"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "v57qiTP6b9e7KZgl",
+      "_key": "!actors.items!K8neD0xsdeZKbrJZ.v57qiTP6b9e7KZgl",
+      "name": "Alimentazione Istintiva",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Mangiano qualsiasi cosa pur di avere energia per muoversi.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "jJs9THudWRlk9ENv",
+      "_key": "!actors.items!K8neD0xsdeZKbrJZ.jJs9THudWRlk9ENv",
+      "name": "Lega e Mordi",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Stringono con danni Contundenti leggeri e mordono con le spine retrattili (danni RAV Perforanti).</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "wX4T4AjS62Xq1QF4",
+      "_key": "!actors.items!K8neD0xsdeZKbrJZ.wX4T4AjS62Xq1QF4",
+      "name": "In Continuo Movimento",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Per muoversi consumano le prede velocissimamente.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "BXbG0C1riL7cCzUE",
+      "_key": "!actors.items!K8neD0xsdeZKbrJZ.BXbG0C1riL7cCzUE",
+      "name": "Paralizzante",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Le spine iniettano un paralizzante rapido; un tracciato nascosto può seguire i sintomi fino al crollo.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "QLq6k1N0dW78HOs7",
+      "_key": "!actors.items!K8neD0xsdeZKbrJZ.QLq6k1N0dW78HOs7",
+      "name": "Spine Come Zanne",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "KnFgFAVI4zMwm9Rq",
+      "_key": "!actors.items!K8neD0xsdeZKbrJZ.KnFgFAVI4zMwm9Rq",
+      "name": "Piccole Ossa",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "mNLjmTscDvQNTBCy",
+      "_key": "!actors.items!K8neD0xsdeZKbrJZ.mNLjmTscDvQNTBCy",
+      "name": "Raggomitolato e Pronto",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Viticci Viperini",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

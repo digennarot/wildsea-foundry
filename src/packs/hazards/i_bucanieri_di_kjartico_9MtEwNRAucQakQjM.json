@@ -1,0 +1,324 @@
+{
+  "_id": "9MtEwNRAucQakQjM",
+  "_key": "!actors!9MtEwNRAucQakQjM",
+  "name": "I Bucanieri di Kjartico",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 11100000,
+  "system": {
+    "type": "Predone",
+    "size": "medium",
+    "traits": "Bucanieri Ossessionati dagli Spettri",
+    "description": "<p>Pirati Ardenti nel senso più classico, ma con usanze legate agli spiriti della loro stirpe. Usali per un avversario alla pari: intelligente, ben armato e con una nave propria.</p>",
+    "sight": [
+      {
+        "id": "NeQ7zIlmF4eXbH7Q",
+        "text": "Una nave di legno che falcia rami all'orizzonte"
+      },
+      {
+        "id": "s1ipEOAOWX4UR37b",
+        "text": "Un Ardente elegante in piedi sul ponte"
+      },
+      {
+        "id": "woZKdAUtKr9VTsqx",
+        "text": "Una bandiera con una lama rossa su fondo bianco"
+      }
+    ],
+    "sound": [
+      {
+        "id": "r4mUUO4TwFLziEGL",
+        "text": "Legno tranciato, poi silenzio"
+      },
+      {
+        "id": "MOmJuGr04HpRZu4J",
+        "text": "Un grido di sfida"
+      }
+    ],
+    "smell": [
+      {
+        "id": "KhaWyLzPy6oqeBa8",
+        "text": "Segatura, linfa calda e tabacco"
+      }
+    ],
+    "taste": [
+      {
+        "id": "GSmlT9iaxeuClvGP",
+        "text": "Sembra maiale"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "FyOozmRNnKrBcsrN",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.FyOozmRNnKrBcsrN",
+      "name": "Saccheggiare Senza Sosta",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Prendono tutto ciò che vale qualcosa, a partire dal carico e dalle risorse più facili da scambiare.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "tGveHZ9iFfK9r6af",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.tGveHZ9iFfK9r6af",
+      "name": "La Vendetta si Consuma Fredda",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Si ritirano dopo troppe perdite, ma non dimenticano.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ekwTJNq0E5WuOyje",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.ekwTJNq0E5WuOyje",
+      "name": "Armati Fino ai Denti",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Attaccano in gruppo con armi diverse: danni AD o RAV Contundenti, Taglienti ed Esplosivi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Dwv9eLCoFi2i8sCw",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.Dwv9eLCoFi2i8sCw",
+      "name": "Medium a Bordo",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Ogni equipaggio ha medium che evocano spiriti di pirati o di bestie: danni RAV o AD Salini.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bBXbM2tQUJ4m1OfH",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.bBXbM2tQUJ4m1OfH",
+      "name": "Sfida Truce",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Il secondo propone un duello al primo sangue: se vince, abbordaggio e saccheggio; se perde, i pirati se ne vanno.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0ofgeBxlth2kvecI",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.0ofgeBxlth2kvecI",
+      "name": "Le Navi dei Kjartico",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Scafi di duraquercia, motore a fitocombustione e prora ruminante; cannoni da bordata con danni AD Contundenti o Esplosivi a impatto totale.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ZXv0EklcbAGjYNkD",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.ZXv0EklcbAGjYNkD",
+      "name": "Equipaggio Fantasma",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Da ogni pirata caduto, al calar della notte, si leva uno spirito.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "TwoEr31ZxXGFI1Rr",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.TwoEr31ZxXGFI1Rr",
+      "name": "Sciabola d'Abbordaggio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ZBtZzlNBsbhvO0oi",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.ZBtZzlNBsbhvO0oi",
+      "name": "Cappotto da Pirata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "D22D8h51ZRAL698s",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.D22D8h51ZRAL698s",
+      "name": "Pietra Focaia",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Pgr0vE2v93RNxyTL",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.Pgr0vE2v93RNxyTL",
+      "name": "Teschio di Pirata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dZq84gIrcfPdDNvU",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.dZq84gIrcfPdDNvU",
+      "name": "Una Vecchia Mappa delle Onde",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "mYLOl4nZoly0sPNf",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.mYLOl4nZoly0sPNf",
+      "name": "Manifesto di Carico del Pirata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "s5m6IHUXjDSypEht",
+      "_key": "!actors.items!9MtEwNRAucQakQjM.s5m6IHUXjDSypEht",
+      "name": "Il Bottino o la Morte",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "I Bucanieri di Kjartico",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

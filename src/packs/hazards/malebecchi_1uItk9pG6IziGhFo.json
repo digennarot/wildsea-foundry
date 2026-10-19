@@ -1,0 +1,212 @@
+{
+  "_id": "1uItk9pG6IziGhFo",
+  "_key": "!actors!1uItk9pG6IziGhFo",
+  "name": "Malebecchi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 4300000,
+  "system": {
+    "type": "Bestia",
+    "size": "medium",
+    "traits": "Avvoltoi Umanoidi Saprofagi",
+    "description": "<p>Mezzi uccelli dalla pelle nuda e chiazzata che aspettano la morte delle prede deboli; per i marinai sono presagi funesti. Raramente attaccano, a meno che qualcuno non tocchi il loro pasto. Usali per qualcosa di grottesco ma non subito pericoloso.</p>",
+    "sight": [
+      {
+        "id": "FdrvMDzIChsSU1Ek",
+        "text": "Becchi sporchi di sangue"
+      },
+      {
+        "id": "RFZXnMEBlgcdcmJw",
+        "text": "Mani quasi umane"
+      },
+      {
+        "id": "TS0KuWUOWDnZs8HQ",
+        "text": "Occhi famelici"
+      }
+    ],
+    "sound": [
+      {
+        "id": "Fm2IGatJQLJJGiXX",
+        "text": "Un gracchiare simile a una risata"
+      },
+      {
+        "id": "u9ydTW3QuwBALIhV",
+        "text": "Ossa spezzate dal becco"
+      }
+    ],
+    "smell": [
+      {
+        "id": "GtyYydvk1dkNCknN",
+        "text": "Sudore stantio e sangue secco"
+      }
+    ],
+    "taste": [
+      {
+        "id": "GdqXJxE27S7q7gM0",
+        "text": "La coda è succosa, il resto immangiabile"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "8E6aJvDhhoB16brO",
+      "_key": "!actors.items!1uItk9pG6IziGhFo.8E6aJvDhhoB16brO",
+      "name": "Collezionisti di Carogne",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Aspettano che i feriti muoiano per arrivare per primi ai bocconi migliori.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "niSotbjlHRwL4AYs",
+      "_key": "!actors.items!1uItk9pG6IziGhFo.niSotbjlHRwL4AYs",
+      "name": "Fame di Carogna",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Attratti da morte e decomposizione, si dice che sentano arrivare i disastri.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "TXhamzbEHzt4ksY3",
+      "_key": "!actors.items!1uItk9pG6IziGhFo.TXhamzbEHzt4ksY3",
+      "name": "Saprofagi",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Mangiano di tutto; per disperazione possono salire a bordo di nascosto a rubare le razioni.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Fn6STCslAeJqegfo",
+      "_key": "!actors.items!1uItk9pG6IziGhFo.Fn6STCslAeJqegfo",
+      "name": "Presa Soffocante",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Quando attaccano stringono il collo della vittima con mani e piedi prensili.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "QO9tHF572tZgxpI2",
+      "_key": "!actors.items!1uItk9pG6IziGhFo.QO9tHF572tZgxpI2",
+      "name": "Divoratore",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Un malebecco dal pelo nero che divora anche gli spiriti: danni Salini, e il morso stravolge i sussurri della vittima.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "LSNe8OEZyGGNPy2V",
+      "_key": "!actors.items!1uItk9pG6IziGhFo.LSNe8OEZyGGNPy2V",
+      "name": "Coda Contorta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "uAyetETzi3Slm95P",
+      "_key": "!actors.items!1uItk9pG6IziGhFo.uAyetETzi3Slm95P",
+      "name": "Becco Scheggiato",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Oq9lxlCYqZtSoh71",
+      "_key": "!actors.items!1uItk9pG6IziGhFo.Oq9lxlCYqZtSoh71",
+      "name": "Non Si Butta Via Niente",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Malebecchi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

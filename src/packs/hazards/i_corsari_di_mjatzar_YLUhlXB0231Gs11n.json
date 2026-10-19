@@ -1,0 +1,28 @@
+{
+  "_id": "YLUhlXB0231Gs11n",
+  "_key": "!actors!YLUhlXB0231Gs11n",
+  "name": "I Corsari di Mjatzar",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 10600000,
+  "system": {
+    "type": "Predone",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Corsari spietati che combattono in silenzio, parlando solo in Tacito o in Pelagico. Si dice abbiano vissuto tragedie terribili, ma non parlano quasi mai con chi non fa parte della loro flotta.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "I Corsari di Mjatzar",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

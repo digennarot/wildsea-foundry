@@ -1,0 +1,28 @@
+{
+  "_id": "nKYnL0xIvu6oR6x0",
+  "_key": "!actors!nKYnL0xIvu6oR6x0",
+  "name": "Macchine Cogitanti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 9200000,
+  "system": {
+    "type": "Costrutto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Tentativi degli smanettoni di imitare una vera intelligenza con schede perforate complicatissime. Una macchina davvero pensante resta fuori dalla portata della scienza Post-V.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Macchine Cogitanti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

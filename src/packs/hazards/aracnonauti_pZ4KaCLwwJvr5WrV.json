@@ -1,0 +1,259 @@
+{
+  "_id": "pZ4KaCLwwJvr5WrV",
+  "_key": "!actors!pZ4KaCLwwJvr5WrV",
+  "name": "Aracnonauti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 9700000,
+  "system": {
+    "type": "Costrutto",
+    "size": "huge",
+    "traits": "Custode di Segreti Sepolti da Tempo",
+    "description": "<p>Grandi costrutti simili a ragni (ma con troppe appendici) che svolgono compiti di manutenzione in rovine Pre-V avanzate. Usali per un aggressore versatile che difende qualcosa probabilmente già saccheggiato.</p>",
+    "sight": [
+      {
+        "id": "3jdHiWW4tKbn10uR",
+        "text": "Un corpo metallico liscio e ricurvo"
+      },
+      {
+        "id": "hbdxmglLGG83hWrM",
+        "text": "Luci lampeggianti"
+      }
+    ],
+    "sound": [
+      {
+        "id": "LetvXIei02CuGrBm",
+        "text": "Zampe che picchiettano"
+      },
+      {
+        "id": "VgoPqfjN6tPffEKu",
+        "text": "Trombe e allarmi"
+      }
+    ],
+    "smell": [
+      {
+        "id": "SwpZgsK0eToRYhwQ",
+        "text": "Acido, ozono e polvere"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "tedrPkHyPa1MtrCq",
+      "_key": "!actors.items!pZ4KaCLwwJvr5WrV.tedrPkHyPa1MtrCq",
+      "name": "Difesa Perimetrale o Interna",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Quasi tutti si dedicano alla sorveglianza, oltre che a piccole mansioni.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vcLy6YUrLC3uB4Oo",
+      "_key": "!actors.items!pZ4KaCLwwJvr5WrV.vcLy6YUrLC3uB4Oo",
+      "name": "Accessori Difensivi",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Alcuni arti montano armi: danni RAV o AD Elettrici, Contundenti, Esplosivi, Acidi, Gelidi o Incenerenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "pPGvODnRySRE7lyt",
+      "_key": "!actors.items!pZ4KaCLwwJvr5WrV.pPGvODnRySRE7lyt",
+      "name": "Da Tre Secoli, Ancora Qui",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Il corpo resiste a tutto tranne ai danni Elettrici; gli arti solo a Taglienti, Laceranti e Incenerenti; l'interno è debole a Incenerenti e Acidi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "wbG93TdcrdL98NR1",
+      "_key": "!actors.items!pZ4KaCLwwJvr5WrV.wbG93TdcrdL98NR1",
+      "name": "Fatto per Muoversi",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Su rotaie, binari o cavi; tutti si arrampicano con gli arti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "PE7Zh5u15J5RgGwy",
+      "_key": "!actors.items!pZ4KaCLwwJvr5WrV.PE7Zh5u15J5RgGwy",
+      "name": "Miglioria Ottica",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Percepisce campi magnetici, calore o vede al buio.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8Qko632hwBno6FBj",
+      "_key": "!actors.items!pZ4KaCLwwJvr5WrV.8Qko632hwBno6FBj",
+      "name": "Batteria Quasi Andata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "TRsfROQi3FycCrIL",
+      "_key": "!actors.items!pZ4KaCLwwJvr5WrV.TRsfROQi3FycCrIL",
+      "name": "Memoria Esterna Pre-V",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "MYVf6Az7PmeRI15t",
+      "_key": "!actors.items!pZ4KaCLwwJvr5WrV.MYVf6Az7PmeRI15t",
+      "name": "Custode delle Torri",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3XrxrsqqLmdiy3Ex",
+      "_key": "!actors.items!pZ4KaCLwwJvr5WrV.3XrxrsqqLmdiy3Ex",
+      "name": "Allarme Intrusi",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "JiDFElwY2ChUJfda",
+      "_key": "!actors.items!pZ4KaCLwwJvr5WrV.JiDFElwY2ChUJfda",
+      "name": "Arto di Aracnonauta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "T6qUQMav4yIDsFRo",
+      "_key": "!actors.items!pZ4KaCLwwJvr5WrV.T6qUQMav4yIDsFRo",
+      "name": "Fasci di Cavi",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Aracnonauti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

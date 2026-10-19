@@ -1,0 +1,28 @@
+{
+  "_id": "gFFWdBpxGjKCwLPH",
+  "_key": "!actors!gFFWdBpxGjKCwLPH",
+  "name": "Cenciosi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 9100000,
+  "system": {
+    "type": "Costrutto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Tanti piccoli costrutti assemblati in un essere semicosciente che si è dato un nome e si veste di stracci. Irascibile e imprevedibile, ma ragiona: meglio parlarci prima di passare alle maniere forti.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Cenciosi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

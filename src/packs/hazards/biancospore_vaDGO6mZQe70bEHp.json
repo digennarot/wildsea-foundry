@@ -1,0 +1,28 @@
+{
+  "_id": "vaDGO6mZQe70bEHp",
+  "_key": "!actors!vaDGO6mZQe70bEHp",
+  "name": "Biancospore",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 6800000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Semi microscopici che attecchiscono senza dolore in un corpo vivo e, raggiunto il numero giusto, lo ricoprono di fiori bianchi. Sgradevole ma non doloroso; c'è chi li coltiva per moda.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Biancospore",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

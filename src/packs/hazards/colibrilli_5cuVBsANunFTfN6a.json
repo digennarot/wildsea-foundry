@@ -1,0 +1,223 @@
+{
+  "_id": "5cuVBsANunFTfN6a",
+  "_key": "!actors!5cuVBsANunFTfN6a",
+  "name": "Colibrilli",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 3700000,
+  "system": {
+    "type": "Bestia",
+    "size": "large",
+    "traits": "Trivelle Viventi",
+    "description": "<p>Grandi uccelli dal becco duro quasi come il diamante, capaci di sventrare uno svettaselva per arrivare alla linfa. Usali per un nemico volante, rapido e difficile da fermare.</p>",
+    "sight": [
+      {
+        "id": "YjECLCDYD9TYzsE0",
+        "text": "Uno svettaselva scosso da una forza misteriosa"
+      },
+      {
+        "id": "u2OezPwtOSNR3j0A",
+        "text": "Ali troppo veloci per vederle"
+      }
+    ],
+    "sound": [
+      {
+        "id": "pIaA3BnhXIPgAAbA",
+        "text": "Colpi rapidi e precisi che riecheggiano"
+      }
+    ],
+    "smell": [
+      {
+        "id": "OQF24EcNVQc6fsLy",
+        "text": "Linfa vecchia e polpa di legno fresca"
+      }
+    ],
+    "taste": [
+      {
+        "id": "grLvsh1NyOpQrqns",
+        "text": "Carne succosa; il becco è una prelibatezza"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "5MqwWeWQCm07OwFM",
+      "_key": "!actors.items!5cuVBsANunFTfN6a.5MqwWeWQCm07OwFM",
+      "name": "Rabdomante per la Linfa",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Ha bisogno di enormi quantità di linfa: la cerca negli alberi, ma anche nelle stive.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Paef2G7wufR8VpVT",
+      "_key": "!actors.items!5cuVBsANunFTfN6a.Paef2G7wufR8VpVT",
+      "name": "In Continuo Movimento",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Atterra di rado, solo per dormire o deporre le uova.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "qdDDj4OXao6xli1J",
+      "_key": "!actors.items!5cuVBsANunFTfN6a.qdDDj4OXao6xli1J",
+      "name": "Battito Forsennato",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Vola veloce e preciso: attacca con danni RAV Contundenti e si difende con danni AD Esplosivi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vqt5JMMz2U1tUaFR",
+      "_key": "!actors.items!5cuVBsANunFTfN6a.vqt5JMMz2U1tUaFR",
+      "name": "Linfa di Crezzerin",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Il becco gocciola crezzerin: i colpi causano allucinazioni, dolore e altri strani effetti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "TkvAWvnIkDXpJqou",
+      "_key": "!actors.items!5cuVBsANunFTfN6a.TkvAWvnIkDXpJqou",
+      "name": "Destabilizzazione",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>La vibrazione delle ali manda in tilt i macchinari e gli oggetti delicati.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "52jWnNs937SBEeeq",
+      "_key": "!actors.items!5cuVBsANunFTfN6a.52jWnNs937SBEeeq",
+      "name": "Ambra del Gargarozzo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "OrtBp7Gzk5RkPbQo",
+      "_key": "!actors.items!5cuVBsANunFTfN6a.OrtBp7Gzk5RkPbQo",
+      "name": "Becco Delizioso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vlwpXtBOeNlSECCW",
+      "_key": "!actors.items!5cuVBsANunFTfN6a.vlwpXtBOeNlSECCW",
+      "name": "Uovo Maculato",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "HGV7myypeGfUoFld",
+      "_key": "!actors.items!5cuVBsANunFTfN6a.HGV7myypeGfUoFld",
+      "name": "Moto Silente",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Colibrilli",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "ELkwgBVCNd1lrKHj",
+  "_key": "!actors!ELkwgBVCNd1lrKHj",
+  "name": "Luci Tra i Rami",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "1uuXOQy0VjJMxnBn",
+  "sort": 2100000,
+  "system": {
+    "type": "Meraviglia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Piccole luci che danzano ordinate tra i rami: il segno rassicurante di una civiltà ancora intatta.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Luci Tra i Rami",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

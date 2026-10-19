@@ -1,0 +1,119 @@
+{
+  "_id": "mHlqgXAioCwG6BpQ",
+  "_key": "!actors!mHlqgXAioCwG6BpQ",
+  "name": "Sussurro Ospite",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 12600000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Afflizione Derivante da un Sussurro",
+    "description": "<p>Un sussurro che si blocca in gola e si rifugia nel corpo, rendendo impossibile parlare senza alterare il mondo. Usalo per far crescere le stranezze durante la sessione.</p>",
+    "sound": [
+      {
+        "id": "MCeqflm63dHv7omY",
+        "text": "Un'eco che precede le parole"
+      },
+      {
+        "id": "zAEQM6vzDkb77jjm",
+        "text": "La realtà che crepita perdendo frammenti"
+      }
+    ],
+    "taste": [
+      {
+        "id": "jlX4IH5HTcC5gWRw",
+        "text": "Segreti rubati"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "GpQExH5grw2149sD",
+      "_key": "!actors.items!mHlqgXAioCwG6BpQ.GpQExH5grw2149sD",
+      "name": "Slittamento della Realtà",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Le parole di chi ne è affetto cambiano la realtà, ma solo di poco rispetto a un vero sussurro.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "PgPo7CQtt6mR5rFC",
+      "_key": "!actors.items!mHlqgXAioCwG6BpQ.PgPo7CQtt6mR5rFC",
+      "name": "Compulsivo",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Il sussurro si agita per essere pronunciato, ma ha paura di andarsene.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Bk7NEOP56EppvZo2",
+      "_key": "!actors.items!mHlqgXAioCwG6BpQ.Bk7NEOP56EppvZo2",
+      "name": "Un Potente Silenzio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "eWYnLT9NbGbHXJOg",
+      "_key": "!actors.items!mHlqgXAioCwG6BpQ.eWYnLT9NbGbHXJOg",
+      "name": "Giù nella Gola",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Sussurro Ospite",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

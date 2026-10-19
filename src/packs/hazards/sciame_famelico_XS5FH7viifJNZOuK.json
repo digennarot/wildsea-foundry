@@ -1,0 +1,28 @@
+{
+  "_id": "XS5FH7viifJNZOuK",
+  "_key": "!actors!XS5FH7viifJNZOuK",
+  "name": "Sciame Famelico",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 5000000,
+  "system": {
+    "type": "Insetto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Una nube di insetti affamati, spesso liberata quando il mordente di una nave squarcia un alveare. Gli sciami più forti infliggono danni Acidi, le lucciole predatrici ustioni Incenerenti; altri rovinano risorse e attrezzature invece di ferire.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Sciame Famelico",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

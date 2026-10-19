@@ -1,0 +1,28 @@
+{
+  "_id": "owB8xihLihT91wM8",
+  "_key": "!actors!owB8xihLihT91wM8",
+  "name": "L'Abracanto",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 10100000,
+  "system": {
+    "type": "Predone",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Navi pirata unite sotto un signore danzante, in cerca di emozioni forti: arrivano tra tamburi, corni e gong. Forse sono vittime della brezza ritmica che hanno fatto della danza uno stile di vita.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "L'Abracanto",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

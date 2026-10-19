@@ -1,0 +1,28 @@
+{
+  "_id": "w0lNjh5Lgs2FTbrb",
+  "_key": "!actors!w0lNjh5Lgs2FTbrb",
+  "name": "Massablatta",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "1uuXOQy0VjJMxnBn",
+  "sort": 1600000,
+  "system": {
+    "type": "Orrore",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un anello di scarafaggi largo chilometri che avanza tra le onde, rosicchiando rostri e ponti delle navi che incontra.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Massablatta",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

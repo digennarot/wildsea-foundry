@@ -1,0 +1,28 @@
+{
+  "_id": "56FJrHznaM7fhoAe",
+  "_key": "!actors!56FJrHznaM7fhoAe",
+  "name": "Sindrome di Oskatar",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 11900000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Una crescita senza fine, che costringe perfino le ossa a biforcarsi per reggere il peso. Prende il nome da una Ketra che pare sia guarita, con un metodo che però va adattato alle altre stirpi.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Sindrome di Oskatar",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

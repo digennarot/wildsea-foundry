@@ -1,0 +1,28 @@
+{
+  "_id": "JpjwihJktbs0aRuq",
+  "_key": "!actors!JpjwihJktbs0aRuq",
+  "name": "Funginite",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 12000000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Polmoni che non tollerano più l'aria pulita e hanno bisogno di spore e agenti patogeni per funzionare. I malati vivono con maschere e bombole, oppure si ritirano nelle colonie sotto le onde.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Funginite",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

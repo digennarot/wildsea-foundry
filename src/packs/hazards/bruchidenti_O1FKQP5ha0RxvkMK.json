@@ -1,0 +1,304 @@
+{
+  "_id": "O1FKQP5ha0RxvkMK",
+  "_key": "!actors!O1FKQP5ha0RxvkMK",
+  "name": "Bruchidenti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 6100000,
+  "system": {
+    "type": "Insetto",
+    "size": "huge",
+    "traits": "Zampe, Denti e Scaglie Chitinose",
+    "description": "<p>Un incrocio tra coccodrillo e millepiedi gigante, con dieci-venti zampe, che fa delle rovine la propria tana. Veloce e ottimo scalatore. Usalo per qualcosa di corazzato e ostinato.</p>",
+    "sight": [
+      {
+        "id": "nJFwXLeViuEwnf7V",
+        "text": "Due tonnellate di muscoli e denti"
+      },
+      {
+        "id": "SMkctwseJx4G2OZY",
+        "text": "Quattro mascelle spalancate"
+      },
+      {
+        "id": "myOF8eKelEXMvIIp",
+        "text": "Morsi a forma di croce"
+      }
+    ],
+    "sound": [
+      {
+        "id": "gsKXFxYoBm7j6Ksm",
+        "text": "Chitina ruvida che sfrega"
+      },
+      {
+        "id": "fZWxuxaT4s4x4cvf",
+        "text": "Un brontolio gutturale"
+      }
+    ],
+    "smell": [
+      {
+        "id": "4tGjaFVSMMjaAD7H",
+        "text": "Vecchia palude"
+      }
+    ],
+    "taste": [
+      {
+        "id": "ZbjAwWYg8fE2xZJJ",
+        "text": "Carne fangosa; la lingua è deliziosa"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "GdxFgmUXUpohcV8v",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.GdxFgmUXUpohcV8v",
+      "name": "Proteggere il Territorio",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Un solo esemplare può rivendicare un'intera rovina e pattugliarne i corridoi.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "aHhZZ8klqOfkf3QH",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.aHhZZ8klqOfkf3QH",
+      "name": "Soddisfare la Fame",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Impossibile, ma ci provano sempre.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "RXKEG81m0jSAlNho",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.RXKEG81m0jSAlNho",
+      "name": "Carapace Indurito",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Resistenza a ogni tipo di danno; quando è furioso solleva le placche per sembrare più grande.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "46ki4wsXETdzocTq",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.46ki4wsXETdzocTq",
+      "name": "Arrampicata del Bruco",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Si muove ovunque, tranne sulle pareti verticali lisce.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "I4Cb0j5D1g9rg7Tm",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.I4Cb0j5D1g9rg7Tm",
+      "name": "Morso Dilaniante",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Una bocca a croce: danni RAV Perforanti e Laceranti; afferra e scuote le vittime.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1ljDSzG5eHpCpOTj",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.1ljDSzG5eHpCpOTj",
+      "name": "Carica Furente",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Travolge più bersagli con danni RAV Contundenti e li butta a terra.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "YeMfFZl4l2aHLn6K",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.YeMfFZl4l2aHLn6K",
+      "name": "Mascella Esagonale",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Mascelle in più e maggiore forza.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ixO02KdQo0AMakPU",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.ixO02KdQo0AMakPU",
+      "name": "Carapace Spettrale",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Un carapace vitreo e trasparente.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "M5c1QjSFnAs0FU2S",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.M5c1QjSFnAs0FU2S",
+      "name": "Mascella Quadrupla",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bym3m4h6nt4HYM5T",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.bym3m4h6nt4HYM5T",
+      "name": "Lingua di Brucodenti",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Cv3fSm1XhaX2MKfS",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.Cv3fSm1XhaX2MKfS",
+      "name": "Chitina Ruvida",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8mOVXrW2KojmbCTl",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.8mOVXrW2KojmbCTl",
+      "name": "Uova di Brucodenti",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "87cuNxwv1GC9Y27n",
+      "_key": "!actors.items!O1FKQP5ha0RxvkMK.87cuNxwv1GC9Y27n",
+      "name": "Un Incrocio Curioso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Bruchidenti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

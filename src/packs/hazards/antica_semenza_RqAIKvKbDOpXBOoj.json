@@ -1,0 +1,28 @@
+{
+  "_id": "RqAIKvKbDOpXBOoj",
+  "_key": "!actors!RqAIKvKbDOpXBOoj",
+  "name": "Antica Semenza",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "1uuXOQy0VjJMxnBn",
+  "sort": 2400000,
+  "system": {
+    "type": "Meraviglia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Una pianta o un albero selvatico del tutto libero dal crezzerin: forte, fiero e puro.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Antica Semenza",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

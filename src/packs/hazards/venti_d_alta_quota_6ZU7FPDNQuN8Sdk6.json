@@ -1,0 +1,28 @@
+{
+  "_id": "6ZU7FPDNQuN8Sdk6",
+  "_key": "!actors!6ZU7FPDNQuN8Sdk6",
+  "name": "Venti d'Alta Quota",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "KjNStiay50nC032i",
+  "sort": 100000,
+  "system": {
+    "type": "Forza della Natura",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Sulle chiome il vento non si ferma quasi mai. Le raffiche più forti rendono difficili gli spostamenti a piedi e impongono riduzioni a chi si muove controvento.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Venti d'Alta Quota",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

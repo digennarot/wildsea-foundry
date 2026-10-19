@@ -1,0 +1,267 @@
+{
+  "_id": "WSm1HGfg6SsD2e94",
+  "_key": "!actors!WSm1HGfg6SsD2e94",
+  "name": "I Pirati Boccalarga",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 11200000,
+  "system": {
+    "type": "Predone",
+    "size": "medium",
+    "traits": "Cultisti Pirati Affamati",
+    "description": "<p>Chi consuma il \"Tetro Pasto\" diventa servo delle Bocche Oltre il Velo e perde la propria individualità. Usano piccoli battistrada e sfruttano i pericoli dell'ambiente per tendere imboscate. Usali per un nemico strano e determinato a mostrare che esistono destini peggiori della morte.</p><h3>Campioni</h3><p>Meglio sperare che l'equipaggio non prenda nulla di vivo, o di non più vivo, dalle loro navi.</p>",
+    "sight": [
+      {
+        "id": "UMTWAVZlxiY99hmW",
+        "text": "Un jolly roger con un teschio che gocciola"
+      },
+      {
+        "id": "RuL8L6QEppNuTQw4",
+        "text": "Nugoli di farfalle cremisi"
+      },
+      {
+        "id": "VQyIHNe0zFOgt2lG",
+        "text": "Sorrisi affilati"
+      }
+    ],
+    "sound": [
+      {
+        "id": "6DQU2IzQK6f0IEdN",
+        "text": "Ossa che scricchiolano"
+      },
+      {
+        "id": "dMRDRG1yXceSXMGp",
+        "text": "Inviti dolci e terribili"
+      },
+      {
+        "id": "IM8MX8JuChWKgJII",
+        "text": "Canti che rivoltano lo stomaco"
+      }
+    ],
+    "smell": [
+      {
+        "id": "RCfAy6npHEwn7hqz",
+        "text": "Ferro rovente, arrosto e una sottile putredine"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "1NYylwiJKkaLh2R7",
+      "_key": "!actors.items!WSm1HGfg6SsD2e94.1NYylwiJKkaLh2R7",
+      "name": "Soddisfare la Fame Oscura",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Catturare e consumare tutto per i loro patroni: immobilizzano la nave e prendono l'equipaggio, altrimenti massacrano.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "la142hNbM1HvVs4r",
+      "_key": "!actors.items!WSm1HGfg6SsD2e94.la142hNbM1HvVs4r",
+      "name": "Spietati Macellai",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Castra-cannoni (danni Elettrici e Salini a impatto totale), arpioni e reti; armi personali con danni AD o RAV Perforanti, Taglienti, Trincianti e Laceranti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "u6ey5B0TSvxDoTcz",
+      "_key": "!actors.items!WSm1HGfg6SsD2e94.u6ey5B0TSvxDoTcz",
+      "name": "Zeloti",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Spinti dalle entità che venerano: quasi impossibile dissuaderli o farli ragionare.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "GtOw21qEuFLiU12b",
+      "_key": "!actors.items!WSm1HGfg6SsD2e94.GtOw21qEuFLiU12b",
+      "name": "L'Impulso della Marea Cremisi",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Chi ha versato sangue sente le voci del culto, che lo spingono alla violenza e ad unirsi a loro.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Zw09EnIIAzxNfbpI",
+      "_key": "!actors.items!WSm1HGfg6SsD2e94.Zw09EnIIAzxNfbpI",
+      "name": "Il Richiamo del Banchetto",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Chi mangia un Tetro Pasto capisce le voci e deve lottare per non cedere alla fame.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "E24uSCtPJTbmX6sy",
+      "_key": "!actors.items!WSm1HGfg6SsD2e94.E24uSCtPJTbmX6sy",
+      "name": "Forchetta Cerimoniale",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "F7r3LKKxdQBryI9E",
+      "_key": "!actors.items!WSm1HGfg6SsD2e94.F7r3LKKxdQBryI9E",
+      "name": "Boccale Ampio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "s4lUKvEhWRSzhndV",
+      "_key": "!actors.items!WSm1HGfg6SsD2e94.s4lUKvEhWRSzhndV",
+      "name": "Urla",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "tOnswe99r126FLrU",
+      "_key": "!actors.items!WSm1HGfg6SsD2e94.tOnswe99r126FLrU",
+      "name": "Stretto delle Fauci Insanguinate",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "odlR7Sygk00wfq48",
+      "_key": "!actors.items!WSm1HGfg6SsD2e94.odlR7Sygk00wfq48",
+      "name": "Scritture Allettanti e Seducenti",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "oIHin1A3MDs9HLP1",
+      "_key": "!actors.items!WSm1HGfg6SsD2e94.oIHin1A3MDs9HLP1",
+      "name": "Ricette da Far Brontolare lo Stomaco",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "I Pirati Boccalarga",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

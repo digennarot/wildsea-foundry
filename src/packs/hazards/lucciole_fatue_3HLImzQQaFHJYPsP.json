@@ -1,0 +1,28 @@
+{
+  "_id": "3HLImzQQaFHJYPsP",
+  "_key": "!actors!3HLImzQQaFHJYPsP",
+  "name": "Lucciole Fatue",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 5100000,
+  "system": {
+    "type": "Insetto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Fantasmi di lucciole morte da tempo che attirano altri spiriti. Non sono ostili, ma la loro luce dà ai fantasmi abbastanza consistenza da agire sul mondo fisico; disperderle li rende di nuovo incorporei.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Lucciole Fatue",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

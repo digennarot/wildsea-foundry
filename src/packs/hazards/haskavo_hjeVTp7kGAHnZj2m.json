@@ -1,0 +1,237 @@
+{
+  "_id": "hjeVTp7kGAHnZj2m",
+  "_key": "!actors!hjeVTp7kGAHnZj2m",
+  "name": "Haskavo",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 8300000,
+  "system": {
+    "type": "Pianta",
+    "size": "variable",
+    "traits": "Nodi Dirottati della Rete Fungina",
+    "description": "<p>Escrescenze di funghi haska che rianimano i cadaveri di bestie e marinai come marionette, ognuna collegata a una torre haska come un neurone di una mente imperscrutabile. Usali per nemici imprevedibili dai sensi insoliti.</p><h3>Il Nodo Centrale (Luogo Vivente)</h3><p>Un'enorme struttura di funghi, pietra e ossa di leviatano che si sposta negli strati alti delle profondità, centro dell'intera rete haska. Entrarci senza tuta protettiva significa farsi invadere la mente da pensieri micotici e segreti altrui.</p>",
+    "sight": [
+      {
+        "id": "vajS3ETPfY0cCFyN",
+        "text": "Esplosioni di spore e muco"
+      },
+      {
+        "id": "wBsWbVXkMgqRYOEL",
+        "text": "Una figura in stracci che si muove a scatti"
+      }
+    ],
+    "sound": [
+      {
+        "id": "xqpKisSzUSk35mUG",
+        "text": "Ticchettii sommessi, o un silenzio minaccioso"
+      }
+    ],
+    "smell": [
+      {
+        "id": "34hQxkblx1wb4sNI",
+        "text": "Carogna, con una vaga nota di lampone"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "Y8J6Thf5t9Skqg5L",
+      "_key": "!actors.items!hjeVTp7kGAHnZj2m.Y8J6Thf5t9Skqg5L",
+      "name": "Sconosciute",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Nessuno capisce cosa vogliano: catalogano piante, dirottano navi, cantano al sole, incidono simboli. Niente sembra avere uno scopo.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "At6tX0RjUO9j6aBL",
+      "_key": "!actors.items!hjeVTp7kGAHnZj2m.At6tX0RjUO9j6aBL",
+      "name": "Staffetta Sensoriale",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Percepiscono vibrazioni e suoni, non la luce; ciò che uno percepisce lo sanno subito tutti quelli vicini.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Iyy9RFuRvuU2jg07",
+      "_key": "!actors.items!hjeVTp7kGAHnZj2m.Iyy9RFuRvuU2jg07",
+      "name": "Esplosione di Spore",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>I più ferini mordono e graffiano (danni RAV Taglienti o Perforanti leggeri); tutti, se minacciati, esplodono con danni RAV Tossici (AD se il vento aiuta), rischiando di trasformare i vicini in nuovi nodi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "uQmzLSK5wn5GnPOL",
+      "_key": "!actors.items!hjeVTp7kGAHnZj2m.uQmzLSK5wn5GnPOL",
+      "name": "Forma Fungina",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Ossa, tendini e funghi: resistenza ai danni Contundenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "RANE8bKYnPjINaGG",
+      "_key": "!actors.items!hjeVTp7kGAHnZj2m.RANE8bKYnPjINaGG",
+      "name": "Cappelli di Funghi Haska",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0QMGhrOmh5gEOJj9",
+      "_key": "!actors.items!hjeVTp7kGAHnZj2m.0QMGhrOmh5gEOJj9",
+      "name": "Muco Comunicatore",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Q6eT3p2fhgW0tJXW",
+      "_key": "!actors.items!hjeVTp7kGAHnZj2m.Q6eT3p2fhgW0tJXW",
+      "name": "Abiti a Brandelli",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "XhoK8Y5uwJabuh7M",
+      "_key": "!actors.items!hjeVTp7kGAHnZj2m.XhoK8Y5uwJabuh7M",
+      "name": "Armi mal Conservate",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "O531segu2sUMBq0C",
+      "_key": "!actors.items!hjeVTp7kGAHnZj2m.O531segu2sUMBq0C",
+      "name": "Un Disegno Più Grande",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "s9vmIy86NJtl4UNq",
+      "_key": "!actors.items!hjeVTp7kGAHnZj2m.s9vmIy86NJtl4UNq",
+      "name": "Sconosciuto e Insondabile",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Haskavo",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

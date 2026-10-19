@@ -1,0 +1,412 @@
+{
+  "_id": "Coqpbhtx21hsmVNk",
+  "_key": "!actors!Coqpbhtx21hsmVNk",
+  "name": "Divoranavi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 9900000,
+  "system": {
+    "type": "Costrutto",
+    "size": "huge",
+    "traits": "Navi Selvagge tra i Flutti",
+    "description": "<p>Navi abbandonate dai loro equipaggi che si rifiutano di affondare: affamate e sole, si trasformano in qualcosa di famelico. Usale per un riflesso oscuro della prima era della navigazione, tragico e impossibile da placare.</p>",
+    "sight": [
+      {
+        "id": "NfYYHiLoebay5JzE",
+        "text": "Travi spaccate e vernice scrostata"
+      },
+      {
+        "id": "rlOp2CF9FphjDs4W",
+        "text": "Un mordente diventato bocca"
+      },
+      {
+        "id": "1ffJoIX8fukkSPJb",
+        "text": "Un relitto che si muove come un essere vivo"
+      }
+    ],
+    "sound": [
+      {
+        "id": "hZkIFbN4Xhkza3qn",
+        "text": "Un mordente che ulula"
+      },
+      {
+        "id": "l7Yv0qawGzHQxGo9",
+        "text": "Un motore sventrato che ansima"
+      }
+    ],
+    "smell": [
+      {
+        "id": "6xOV3IQRrLkC2wS1",
+        "text": "Olio, muffa e cibo avariato"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "Xdslfc8lb8DC6k8M",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.Xdslfc8lb8DC6k8M",
+      "name": "Spinte dalla Disperazione",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Cercano ciò che manca loro: rapiscono equipaggi, smontano altre navi o mangiano ciò che trovano.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "5nfg9wqCHmYn28QI",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.5nfg9wqCHmYn28QI",
+      "name": "Le Fauci",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Il mordente mutato in bocca: impatto totale come ogni mordente, di solito danni Laceranti, Perforanti e Trincianti; buca facilmente gli scafi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "fJuTuk4zXwNLwPqA",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.fJuTuk4zXwNLwPqA",
+      "name": "Armamenti da Ponte",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Danni AD di vario tipo, ma tiri imprecisi e spesso poche munizioni.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "keXQAILjcBY1sdY3",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.keXQAILjcBY1sdY3",
+      "name": "I Sensi della Nave",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Senza veri organi di senso, riesce comunque a dare la caccia ad altre navi.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "B7eIht9kXrloGMxk",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.B7eIht9kXrloGMxk",
+      "name": "Tracciati Base della Divoranave",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Essendo una nave, puoi darle i tracciati base usando le regole di costruzione.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ViuoEKQRd3AYm3Y4",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.ViuoEKQRd3AYm3Y4",
+      "name": "L'Equipaggio Rapito",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Tiene prigionieri dei marinai che la puliscono e ricaricano le armi.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Qj0JfNlmROGNz3kC",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.Qj0JfNlmROGNz3kC",
+      "name": "Solcacieli",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Un dirigibile o un aeromobile diventato selvaggio.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "UdAAMNcIhfPOUDWq",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.UdAAMNcIhfPOUDWq",
+      "name": "Cacciatrice Consumata",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Ha domato la fame: caccia con pazienza e furtività, aspettando che l'equipaggio scenda a terra.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ju6i0EBPDmdfSyOf",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.ju6i0EBPDmdfSyOf",
+      "name": "Travi Incrinate",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "t97kBAC1vgxGtVlo",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.t97kBAC1vgxGtVlo",
+      "name": "Muschio Parassitico",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8r1fFQs1O1EMK8WS",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.8r1fFQs1O1EMK8WS",
+      "name": "Ossa Antiche",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "pFtJVjQdX2vD3rT6",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.pFtJVjQdX2vD3rT6",
+      "name": "Denti di Divoranave",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "GbLZZLEkC2JrwTlC",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.GbLZZLEkC2JrwTlC",
+      "name": "Cimeli del Vecchio Equipaggio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "j2E8S0YniKsfCG8s",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.j2E8S0YniKsfCG8s",
+      "name": "Carburante Stantio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "PRiqHQ85ceqhLUZM",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.PRiqHQ85ceqhLUZM",
+      "name": "Fatale Destino",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "NRwantUHIgFoBQxY",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.NRwantUHIgFoBQxY",
+      "name": "Una Nave Affamata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "aJia3AaoUyQm6Htk",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.aJia3AaoUyQm6Htk",
+      "name": "Una Mappa Macchiata di Petrolio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "5a63jRS7Qn4JI86S",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.5a63jRS7Qn4JI86S",
+      "name": "Una Carta Nautica dei Luoghi Mai Raggiunti",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "chart"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "qpVdop49ed2czD8E",
+      "_key": "!actors.items!Coqpbhtx21hsmVNk.qpVdop49ed2czD8E",
+      "name": "Un Motore Vivente",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1800000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Divoranavi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

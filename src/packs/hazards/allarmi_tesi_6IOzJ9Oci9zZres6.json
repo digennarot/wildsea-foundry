@@ -1,0 +1,28 @@
+{
+  "_id": "6IOzJ9Oci9zZres6",
+  "_key": "!actors!6IOzJ9Oci9zZres6",
+  "name": "Allarmi Tesi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 8800000,
+  "system": {
+    "type": "Costrutto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Catene affilate tese tra le cime degli alberi, piene di campanelli, attorno a covi di predoni o strisce paranoiche. Le navi con prora a saracco rischiano di restarci impigliate.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Allarmi Tesi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

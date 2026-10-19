@@ -1,0 +1,28 @@
+{
+  "_id": "eZll5vZPaMJn7UaC",
+  "_key": "!actors!eZll5vZPaMJn7UaC",
+  "name": "Falene Oranti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 5900000,
+  "system": {
+    "type": "Insetto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Falene lunghe trenta centimetri che infestano rovine e templi. La polvere delle ali provoca estasi e allucinazioni musicali, una vera ferita di esaltazione religiosa; mangiarne una permette di capire per un po' iscrizioni e canti sacri in qualsiasi lingua.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Falene Oranti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

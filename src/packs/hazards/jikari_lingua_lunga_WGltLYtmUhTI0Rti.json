@@ -1,0 +1,250 @@
+{
+  "_id": "WGltLYtmUhTI0Rti",
+  "_key": "!actors!WGltLYtmUhTI0Rti",
+  "name": "Jikari Lingua Lunga",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 4000000,
+  "system": {
+    "type": "Bestia",
+    "size": "large",
+    "traits": "La Sferza Vivente del Boia",
+    "description": "<p>Lucertole simili a rane, con bocche larghe e lingue lunghissime. Non si nascondono bene, ma il loro attacco coglie quasi sempre di sorpresa. Usale per qualcosa di inatteso ma con punti deboli evidenti.</p>",
+    "sight": [
+      {
+        "id": "cJeHorsKzwj8wZMA",
+        "text": "Ombre di rana sui rami sopra il ponte"
+      },
+      {
+        "id": "CnzUvjX8gyrCX4XO",
+        "text": "Occhietti dalle pupille verticali"
+      },
+      {
+        "id": "npQgt7kUHbSVXew7",
+        "text": "Lingue ricurve e appuntite"
+      }
+    ],
+    "sound": [
+      {
+        "id": "UzfJUzBekWkJczcp",
+        "text": "Un gracidio sommesso"
+      },
+      {
+        "id": "0Vey3QRSM2Bc6omb",
+        "text": "Uno schiocco di frusta"
+      }
+    ],
+    "smell": [
+      {
+        "id": "UxesWYauUI5hFnMU",
+        "text": "Melma e acqua stagnante"
+      }
+    ],
+    "taste": [
+      {
+        "id": "i6mpTt4gmlqkMS1O",
+        "text": "Carne gommosa che sa di stagno"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "fgtQao6ZLRBvkaXT",
+      "_key": "!actors.items!WGltLYtmUhTI0Rti.fgtQao6ZLRBvkaXT",
+      "name": "Attacco dall'Alto",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Si appostano tra le fronde e afferrano le prede dall'alto con la lingua.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "T9oUxWz5JRKBGkd7",
+      "_key": "!actors.items!WGltLYtmUhTI0Rti.T9oUxWz5JRKBGkd7",
+      "name": "Sfuggire ai Pericoli",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Evitano lo scontro, soprattutto se hanno perso la sorpresa.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "MNlKTrrgBQTCXjf2",
+      "_key": "!actors.items!WGltLYtmUhTI0Rti.MNlKTrrgBQTCXjf2",
+      "name": "Lingua Lunga e Appuntita",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Trafigge con danni Perforanti, oppure afferra e sbatte a terra la preda con danni Contundenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "jN6ehesIfOQ4QzLF",
+      "_key": "!actors.items!WGltLYtmUhTI0Rti.jN6ehesIfOQ4QzLF",
+      "name": "Zampe Salterine",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Non si arrampicano ma saltano lontano; messi alle strette scalciano con danni RAV Contundenti ingenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "FWslPSCM0NEdkphM",
+      "_key": "!actors.items!WGltLYtmUhTI0Rti.FWslPSCM0NEdkphM",
+      "name": "Velenosi",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>La lingua spruzza un veleno letale: danni Tossici.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "zxiKz6ExBOXS51uE",
+      "_key": "!actors.items!WGltLYtmUhTI0Rti.zxiKz6ExBOXS51uE",
+      "name": "Squame di Jikari",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "mVw73gAAYjei81sI",
+      "_key": "!actors.items!WGltLYtmUhTI0Rti.mVw73gAAYjei81sI",
+      "name": "Lingua Lunga Appuntita",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "qzCaoxbcR64hDIBo",
+      "_key": "!actors.items!WGltLYtmUhTI0Rti.qzCaoxbcR64hDIBo",
+      "name": "Ghiandole Gracidanti",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "iYwHg1LEcrH9MxZm",
+      "_key": "!actors.items!WGltLYtmUhTI0Rti.iYwHg1LEcrH9MxZm",
+      "name": "Una Bocca Senza Denti",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "kMk2Q0d4zM481TEK",
+      "_key": "!actors.items!WGltLYtmUhTI0Rti.kMk2Q0d4zM481TEK",
+      "name": "Un Gracidare Minaccioso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Jikari Lingua Lunga",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

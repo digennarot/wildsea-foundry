@@ -1,0 +1,376 @@
+{
+  "_id": "2IaphY9zevneON5P",
+  "_key": "!actors!2IaphY9zevneON5P",
+  "name": "L'Orchidea Purpurea",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 13600000,
+  "system": {
+    "type": "Leviatano",
+    "size": "leviathan",
+    "traits": "Leviatano a Fioritura Perpetua",
+    "description": "<p>Forse il primo leviatano mai abbattuto: un bocciolo che si apre in petali lunghi quasi un chilometro e che, quando muore, ha già un'erede che germoglia. Usala per un leviatano \"di base\" che non dà la caccia, la cui morte diventa un enigma; il vero pericolo sono le rotte interrotte e gli animali impazziti.</p>",
+    "sight": [
+      {
+        "id": "kEgglAf8Om1w5QF8",
+        "text": "Frutti e foglie che avvizziscono"
+      },
+      {
+        "id": "gSo4exGKMO6fM3FG",
+        "text": "Insetti che cadono morti"
+      },
+      {
+        "id": "8g4SPN3Ztr3hyf8G",
+        "text": "Petali immensi che salgono verso le nuvole"
+      }
+    ],
+    "sound": [
+      {
+        "id": "fBxZ2emTnJyJywBb",
+        "text": "La calma dopo la tempesta"
+      },
+      {
+        "id": "4psQ24lty7GAcpCp",
+        "text": "Lo scoppiettio del bocciolo che si apre"
+      }
+    ],
+    "smell": [
+      {
+        "id": "VG7r6lprTqReIdQy",
+        "text": "Sempre in contrasto con il luogo: marcio in un bosco rigoglioso, vaniglia e miele su una montagna brulla"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "Q1ZjIZRrNGC3IN1k",
+      "_key": "!actors.items!2IaphY9zevneON5P.Q1ZjIZRrNGC3IN1k",
+      "name": "Esistere",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Non è davvero senziente, ma il suo ciclo di morte e rinascita esprime un'ostinata volontà di continuare.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "sOqZl28wqJsB1Say",
+      "_key": "!actors.items!2IaphY9zevneON5P.sOqZl28wqJsB1Say",
+      "name": "Una Fine Dopo l'Altra",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Muore se danneggiata abbastanza o se si distrugge il bulbo centrale, ma rinasce presto altrove.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4OIgciM4mNiZvwuR",
+      "_key": "!actors.items!2IaphY9zevneON5P.4OIgciM4mNiZvwuR",
+      "name": "Crescita Vampirica",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>In fioritura prosciuga piante e insetti; i petali possono avvolgere un aggressore con danni RAV Salini ingenti, ma solo in risposta a un attacco.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "swMMLlxCG29YytVJ",
+      "_key": "!actors.items!2IaphY9zevneON5P.swMMLlxCG29YytVJ",
+      "name": "Fuori Misura",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Tranne il bocciolo, riduce l'impatto di tutti i danni salvo quelli Incenerenti; anche con impatto totale segna una sola casella.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "IHCs52RXYTOdH62D",
+      "_key": "!actors.items!2IaphY9zevneON5P.IHCs52RXYTOdH62D",
+      "name": "Piccola e Feroce",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Nata in un luogo senza vita, è larga pochi metri ma molto più aggressiva.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "6LZtbTr5jhVgIA2v",
+      "_key": "!actors.items!2IaphY9zevneON5P.6LZtbTr5jhVgIA2v",
+      "name": "Orchidea Lacerante",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Petali seghettati: danni RAV Laceranti ingenti.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "plILwwxv052MhqxW",
+      "_key": "!actors.items!2IaphY9zevneON5P.plILwwxv052MhqxW",
+      "name": "Nettare di Crezzerin",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "IjJfNeyFqESH0kVZ",
+      "_key": "!actors.items!2IaphY9zevneON5P.IjJfNeyFqESH0kVZ",
+      "name": "Muschio del Bocciolo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "r1itLnP5CISlBxPj",
+      "_key": "!actors.items!2IaphY9zevneON5P.r1itLnP5CISlBxPj",
+      "name": "Petalo Reciso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vKUMwLq0hGP97xSR",
+      "_key": "!actors.items!2IaphY9zevneON5P.vKUMwLq0hGP97xSR",
+      "name": "Polline della Corolla Interna",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8WOy8MkhITQ4AEnl",
+      "_key": "!actors.items!2IaphY9zevneON5P.8WOy8MkhITQ4AEnl",
+      "name": "Insetto Essiccato",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "T40Oy2V4bWuHuTXq",
+      "_key": "!actors.items!2IaphY9zevneON5P.T40Oy2V4bWuHuTXq",
+      "name": "Lama Seghettata Rotta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "avLAYi7tnC2wVZpA",
+      "_key": "!actors.items!2IaphY9zevneON5P.avLAYi7tnC2wVZpA",
+      "name": "Serralama Smussata",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "RaA1pE5pBNsnseDS",
+      "_key": "!actors.items!2IaphY9zevneON5P.RaA1pE5pBNsnseDS",
+      "name": "Pianta Perpetua",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dJGlssyZkHirDdWk",
+      "_key": "!actors.items!2IaphY9zevneON5P.dJGlssyZkHirDdWk",
+      "name": "Morte e Rinascita",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bWeSeZlYtDdToA2x",
+      "_key": "!actors.items!2IaphY9zevneON5P.bWeSeZlYtDdToA2x",
+      "name": "Petalo Intero",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "s0tSqmoP2B7sEcQA",
+      "_key": "!actors.items!2IaphY9zevneON5P.s0tSqmoP2B7sEcQA",
+      "name": "Fascio di Stami",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "L'Orchidea Purpurea",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

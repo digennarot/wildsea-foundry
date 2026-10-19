@@ -1,0 +1,277 @@
+{
+  "_id": "fdGX7kXT5frgoJ8G",
+  "_key": "!actors!fdGX7kXT5frgoJ8G",
+  "name": "Le Leonine",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 8200000,
+  "system": {
+    "type": "Pianta",
+    "size": "large",
+    "traits": "Predatrici Dotate di Petali",
+    "description": "<p>Piante carnivore con una corona di petali dorati su quattro zampe da ragno, assetate di sangue. Cacciano in coppia: una semina il caos, l'altra intercetta chi fugge. Usale per due predatori perfettamente coordinati.</p><h3>Ganci e Incontri</h3><ul><li><strong>Dal di Sotto</strong>: Una leonina compare all'improvviso sul ponte; l'altra è nei paraggi.</li><li><strong>Luci Distanti</strong>: Glifi luminosi in Anteriore appaiono tra le onde.</li><li><strong>Pericolo Urbano</strong>: Due leonine cacciano per le strade del porto, una a terra e una sui tetti.</li><li><strong>Una Gabbia Rotta</strong>: La leonina ammaestrata di un circo è sparita dalla gabbia.</li></ul>",
+    "sight": [
+      {
+        "id": "CooOdHdHr8srzfct",
+        "text": "Segni di denti e polvere dorata"
+      },
+      {
+        "id": "ZGSVrT7gb0KignXL",
+        "text": "Petali color sole mossi dal vento"
+      }
+    ],
+    "sound": [
+      {
+        "id": "82ZkXnT51YuGVKJq",
+        "text": "Un ruggito leonino"
+      }
+    ],
+    "smell": [
+      {
+        "id": "3QLxjg7rgzUFwjdh",
+        "text": "Sangue secco e polline dolce"
+      }
+    ],
+    "taste": [
+      {
+        "id": "DjvsaiUFsvB670aR",
+        "text": "Membra terrose; i petali bolliti danno un infuso zuccherino"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "B8ArjSCMfsb2QOuH",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.B8ArjSCMfsb2QOuH",
+      "name": "Sete di Sangue",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Ignorano le creature a sangue freddo finché non vengono ferite.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "nOLnylmqXn0GMUFG",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.nOLnylmqXn0GMUFG",
+      "name": "Tattica Duale",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Una si apposta mentre l'altra fa da diversivo.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "XzRsyprLDDKFZML9",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.XzRsyprLDDKFZML9",
+      "name": "Petali Dentati",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Morbidi ma pieni di aculei: danni RAV Perforanti, Taglienti o Laceranti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "VNEXy23DHMRYCVwy",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.VNEXy23DHMRYCVwy",
+      "name": "Arti Impalatori",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Zampe appuntite: danni RAV Perforanti, o Contundenti quando spazzano via.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "zNyV82GhrWDwKdyA",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.zNyV82GhrWDwKdyA",
+      "name": "Pelle Fibrosa",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Debolezza ai danni Incenerenti e Trincianti; il corpo (non i petali) resiste a quelli Contundenti, Taglienti e Laceranti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "WahfwwIJ2RycWUJl",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.WahfwwIJ2RycWUJl",
+      "name": "Doppia Leonina",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Due leonine fuse in una, grande come una nave e cacciatrice solitaria.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "RzMfbBa3xKUMrBgg",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.RzMfbBa3xKUMrBgg",
+      "name": "Comunicazione Stroboscopica",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Macchie luminose simili a scritte in Anteriore che ipnotizzano e comunicano.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "C5lyQNejqdsGH10p",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.C5lyQNejqdsGH10p",
+      "name": "Stame Ferino",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Uno stame a frusta che attira i bersagli; chi viene inghiottito subisce danni Acidi finché non si libera.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Ftm4eSVOHMyc9C3s",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.Ftm4eSVOHMyc9C3s",
+      "name": "Petali Mandibolari",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "WKPN7MRxz9SU6x2l",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.WKPN7MRxz9SU6x2l",
+      "name": "Pelle Ruvida Come Radice",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "BrRC4uNAyyti9Ux2",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.BrRC4uNAyyti9Ux2",
+      "name": "Attirato dal Sangue",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "mQiH4WkhtixKyCO5",
+      "_key": "!actors.items!fdGX7kXT5frgoJ8G.mQiH4WkhtixKyCO5",
+      "name": "Colui che Attende",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Le Leonine",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

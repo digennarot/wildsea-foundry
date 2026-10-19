@@ -1,0 +1,28 @@
+{
+  "_id": "ni0lYeYRW5zZ1qqr",
+  "_key": "!actors!ni0lYeYRW5zZ1qqr",
+  "name": "Muschio Emostatico",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 7800000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un muschio dalle straordinarie proprietà coagulanti, prezioso in medicina. Usato male su una ferita aperta può però coagulare il sangue all'istante, pietrificando un arto o bloccando un organo.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Muschio Emostatico",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

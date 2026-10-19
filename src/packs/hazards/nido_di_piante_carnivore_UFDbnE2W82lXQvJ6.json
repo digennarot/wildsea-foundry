@@ -1,0 +1,28 @@
+{
+  "_id": "UFDbnE2W82lXQvJ6",
+  "_key": "!actors!UFDbnE2W82lXQvJ6",
+  "name": "Nido di Piante Carnivore",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 6700000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un boschetto di piante a tromba dal profumo inebriante, circondato da insetti e piccole ossa. Il profumo attira insetti, mammiferi e persino le Tzelicrae; le piante infliggono danni Acidi e lo sciame punge chi si avvicina.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Nido di Piante Carnivore",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

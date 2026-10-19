@@ -1,0 +1,28 @@
+{
+  "_id": "LV2fGrQ57dynVIbe",
+  "_key": "!actors!LV2fGrQ57dynVIbe",
+  "name": "La Tempesta in Arrivo",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 13400000,
+  "system": {
+    "type": "Tempesta Vivente",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un diluvio di fulmini trascinato dalle saettomante, con l'odore di latta bruciata e di un'estate andata a male.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "La Tempesta in Arrivo",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

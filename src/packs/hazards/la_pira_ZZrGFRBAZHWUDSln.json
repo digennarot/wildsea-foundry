@@ -1,0 +1,28 @@
+{
+  "_id": "ZZrGFRBAZHWUDSln",
+  "_key": "!actors!ZZrGFRBAZHWUDSln",
+  "name": "La Pira",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 12200000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>A volte le persone prendono fuoco e basta. I pochi sopravvissuti, i Piromenti, dicono di aver incatenato il fuoco dentro di sé.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "La Pira",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

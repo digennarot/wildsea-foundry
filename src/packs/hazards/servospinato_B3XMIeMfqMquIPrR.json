@@ -1,0 +1,28 @@
+{
+  "_id": "B3XMIeMfqMquIPrR",
+  "_key": "!actors!B3XMIeMfqMquIPrR",
+  "name": "Servospinato",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 7400000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un rampicante spinoso che cresce velocissimo attorno alle navi ferme. Tagliarlo è faticoso, ma la luce intensa (del giorno o dei razzi) lo indebolisce.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Servospinato",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "_id": "SqAuR88zwmtzTlg7",
+  "_key": "!actors!SqAuR88zwmtzTlg7",
+  "name": "Scaforatti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 3800000,
+  "system": {
+    "type": "Bestia",
+    "size": "swarm",
+    "traits": "Al Posto dei Topi",
+    "description": "<p>Uno sciame di ratti che divora parti della nave e poi le sostituisce con i propri corpi. Usali per un incontro davvero bizzarro e inquietante.</p>",
+    "sight": [
+      {
+        "id": "Ra6bFDQq9i1QlKtR",
+        "text": "Lampi di pelo marrone"
+      },
+      {
+        "id": "ku4RF5gtFcCp4mz2",
+        "text": "Legno e metallo rosicchiati"
+      },
+      {
+        "id": "BUbT2odtam8CjRQx",
+        "text": "Roditori intrecciati al posto di corde e ingranaggi"
+      }
+    ],
+    "sound": [
+      {
+        "id": "8vDKkz6ccLeO0R0a",
+        "text": "Squittii sottocoperta"
+      }
+    ],
+    "taste": [
+      {
+        "id": "MoZp6MM2qX7EWNxr",
+        "text": "Carne stopposa e metallica"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "4VbmhzLLn6CCy7ow",
+      "_key": "!actors.items!SqAuR88zwmtzTlg7.4VbmhzLLn6CCy7ow",
+      "name": "Diffondersi Come un Virus",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Non vivono tra le onde: passano da una nave all'altra e da un porto all'altro.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Nr5R3pzO1wicuBCL",
+      "_key": "!actors.items!SqAuR88zwmtzTlg7.Nr5R3pzO1wicuBCL",
+      "name": "Mangia e Rimpiazza",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Si nascondono finché sono abbastanza da divorare un pezzo vitale, come il motore o il timone, e prenderne il posto.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "E3HSLcF8h3dQgzki",
+      "_key": "!actors.items!SqAuR88zwmtzTlg7.E3HSLcF8h3dQgzki",
+      "name": "La Massa Mobile",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>I colpi contro un singolo ratto hanno impatto limitato sullo sciame.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "V9yUynrKVxI6oA0w",
+      "_key": "!actors.items!SqAuR88zwmtzTlg7.V9yUynrKVxI6oA0w",
+      "name": "Indispensabili",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>La parte rimpiazzata continua a funzionare; togliere i ratti compromette l'intero sistema.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "o16wuVx7qYXCuCZv",
+      "_key": "!actors.items!SqAuR88zwmtzTlg7.o16wuVx7qYXCuCZv",
+      "name": "Fannulloni",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Divorano le parti senza rimpiazzarle: un incubo per le navi più complesse.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "6qSXNjiLoQ2KBB1M",
+      "_key": "!actors.items!SqAuR88zwmtzTlg7.6qSXNjiLoQ2KBB1M",
+      "name": "Carne di Ratto",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "PDjkCyJy6dRomyhZ",
+      "_key": "!actors.items!SqAuR88zwmtzTlg7.PDjkCyJy6dRomyhZ",
+      "name": "Pelliccia Sporca di Olio",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "fw4wzojAuiKKyobx",
+      "_key": "!actors.items!SqAuR88zwmtzTlg7.fw4wzojAuiKKyobx",
+      "name": "Clandestino Entusiasta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Scaforatti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "Etj98XpWYNNYlJCI",
+  "_key": "!actors!Etj98XpWYNNYlJCI",
+  "name": "Lo Sfregio Settentrionale",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 11000000,
+  "system": {
+    "type": "Predone",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Tra i predoni più temuti e più rari: navi a carbone e nafta, equipaggi armati di lanciafiamme e torce. Quasi tutti i membri sono nati a bordo.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Lo Sfregio Settentrionale",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

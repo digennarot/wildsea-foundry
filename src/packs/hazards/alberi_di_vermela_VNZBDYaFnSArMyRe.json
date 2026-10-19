@@ -1,0 +1,28 @@
+{
+  "_id": "VNZBDYaFnSArMyRe",
+  "_key": "!actors!VNZBDYaFnSArMyRe",
+  "name": "Alberi di Vermela",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 7200000,
+  "system": {
+    "type": "Pianta",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Alberi forse parassiti che producono mele chitinose, a metà tra frutto e insetto. Sono deliziose e preziose per molte comunità, ma vanno raccolte al momento giusto.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Alberi di Vermela",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

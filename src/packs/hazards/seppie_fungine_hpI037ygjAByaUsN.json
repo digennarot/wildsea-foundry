@@ -1,0 +1,217 @@
+{
+  "_id": "hpI037ygjAByaUsN",
+  "_key": "!actors!hpI037ygjAByaUsN",
+  "name": "Seppie Fungine",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 8100000,
+  "system": {
+    "type": "Pianta",
+    "size": "medium",
+    "traits": "Vestigia del Vecchio Mare Salato",
+    "description": "<p>Funghi a forma di seppia, grandi come lupi, che si lanciano di ramo in ramo. Senza bocca, spezzano le ossa delle prede e le assorbono mentre si decompongono. Usale per qualcosa di rapido che punta soprattutto ai famigli.</p>",
+    "sight": [
+      {
+        "id": "yH5Y7xma2tHYm3sv",
+        "text": "Forme fungine che oscillano"
+      },
+      {
+        "id": "MMcN8mF1GjUuG1dH",
+        "text": "Bestie in fuga"
+      }
+    ],
+    "sound": [
+      {
+        "id": "CQhLjV3NB9dB2ZHD",
+        "text": "Solo il fruscio dei rami e un tonfo sul ponte"
+      }
+    ],
+    "taste": [
+      {
+        "id": "PQAqwGznZIL732tK",
+        "text": "Fungo raro, un po' legnoso"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "ybNGvbFZNRkRwsF3",
+      "_key": "!actors.items!hpI037ygjAByaUsN.ybNGvbFZNRkRwsF3",
+      "name": "Afferra e Consuma",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Cacciano in gruppo per abbattere un bersaglio prima di nutrirsi.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "UaNyU4Jcung399o8",
+      "_key": "!actors.items!hpI037ygjAByaUsN.UaNyU4Jcung399o8",
+      "name": "Viticci",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Diversi a seconda della famiglia (punte, ventose, muscoli); sempre danni RAV Contundenti, spesso anche altri tipi a distanza ravvicinata.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ATwlB4m5zReaLX2C",
+      "_key": "!actors.items!hpI037ygjAByaUsN.ATwlB4m5zReaLX2C",
+      "name": "Costruzione Micotica",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Immuni ai danni Tossici, deboli a quelli Incenerenti, Gelidi e Trincianti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "we9FriT1jlNVCCMr",
+      "_key": "!actors.items!hpI037ygjAByaUsN.we9FriT1jlNVCCMr",
+      "name": "Sistema Brachiale",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Arrivano quasi ovunque spostandosi tra i rami.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "tQho7OipIvEeVFTf",
+      "_key": "!actors.items!hpI037ygjAByaUsN.tQho7OipIvEeVFTf",
+      "name": "Bersaglio Specifico",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Puntano prima i famigli; un famiglio catturato non si libera senza aiuto.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "gcUV14uRh3KsEQDD",
+      "_key": "!actors.items!hpI037ygjAByaUsN.gcUV14uRh3KsEQDD",
+      "name": "Viticcio Fungino",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "oJpMP1ISkdeHR50q",
+      "_key": "!actors.items!hpI037ygjAByaUsN.oJpMP1ISkdeHR50q",
+      "name": "Fetta di Fungo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0O6A0sME1OrUhzUq",
+      "_key": "!actors.items!hpI037ygjAByaUsN.0O6A0sME1OrUhzUq",
+      "name": "Nato dal Marciume",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "gMRg9FbbcUtVNU4f",
+      "_key": "!actors.items!hpI037ygjAByaUsN.gMRg9FbbcUtVNU4f",
+      "name": "Cacciatore Flessuoso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Seppie Fungine",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

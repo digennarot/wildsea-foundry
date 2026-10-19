@@ -1,0 +1,168 @@
+{
+  "_id": "ugd1Y3awGSS6bT8M",
+  "_key": "!actors!ugd1Y3awGSS6bT8M",
+  "name": "Mantiflora",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 8500000,
+  "system": {
+    "type": "Pianta",
+    "size": "variable",
+    "traits": "Bizzarro Orrore Pseudoreligioso",
+    "description": "<p>Piccoli fiori rossi che crescono sulla carne invece che sul legno e accendono in chi li porta una devozione religiosa, che resta anche dopo averli strappati. Il fuoco li uccide, ma nessuno osa usarlo. Usala per un effetto mentale con una causa fisica.</p>",
+    "sight": [
+      {
+        "id": "d0TD02QR5YQgZQ90",
+        "text": "Una distesa di fiori rossi in un boschetto silenzioso"
+      },
+      {
+        "id": "y5qpOTPRPieT1ldA",
+        "text": "Un marinaio che predica a una folla spaventata"
+      }
+    ],
+    "sound": [
+      {
+        "id": "2UPVZvK8lrWf5aaB",
+        "text": "I fiori tacciono; gli infetti farfugliano preghiere incomprensibili"
+      }
+    ],
+    "smell": [
+      {
+        "id": "UaJeFH5UCXYfJ7Nm",
+        "text": "Dolce, inebriante, inquietante"
+      }
+    ],
+    "taste": [
+      {
+        "id": "OYbiSI9uFfCsJ9tf",
+        "text": "Il sapore del paradiso"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "rLNxwLZu7AtBs8bU",
+      "_key": "!actors.items!ugd1Y3awGSS6bT8M.rLNxwLZu7AtBs8bU",
+      "name": "Diffondi l'Ignota Religione",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Nessuno sa cosa si adori; chi guarisce non lo ricorda.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "wTlg8UEmKhTEKKWY",
+      "_key": "!actors.items!ugd1Y3awGSS6bT8M.wTlg8UEmKhTEKKWY",
+      "name": "Verità nell'Adorazione",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Ascoltare gli infetti fa segnare il fardello, ma dà anche qualche intuizione sul fenomeno.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "X14TAfxuDxTnwTeg",
+      "_key": "!actors.items!ugd1Y3awGSS6bT8M.X14TAfxuDxTnwTeg",
+      "name": "Perduto nelle Fiamme",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Debolezza ai danni Incenerenti, che allentano anche la presa sugli infetti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4OrGaAVosDl8s4Q8",
+      "_key": "!actors.items!ugd1Y3awGSS6bT8M.4OrGaAVosDl8s4Q8",
+      "name": "Semi di Mantiflora",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "WzmB8j5t2SU8kIpj",
+      "_key": "!actors.items!ugd1Y3awGSS6bT8M.WzmB8j5t2SU8kIpj",
+      "name": "Una Divinità Sconosciuta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "r5PNL1OY7Folcjzf",
+      "_key": "!actors.items!ugd1Y3awGSS6bT8M.r5PNL1OY7Folcjzf",
+      "name": "Parole Rosse sullo Stelo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Mantiflora",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

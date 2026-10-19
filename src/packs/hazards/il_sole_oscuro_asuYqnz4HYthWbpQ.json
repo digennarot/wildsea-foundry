@@ -1,0 +1,28 @@
+{
+  "_id": "asuYqnz4HYthWbpQ",
+  "_key": "!actors!asuYqnz4HYthWbpQ",
+  "name": "Il Sole Oscuro",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "1uuXOQy0VjJMxnBn",
+  "sort": 1500000,
+  "system": {
+    "type": "Orrore",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Un'alba senza gloria: il sole sorge venato di nero, come un disco scuro nel cielo.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Il Sole Oscuro",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

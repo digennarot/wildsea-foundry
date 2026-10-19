@@ -1,0 +1,28 @@
+{
+  "_id": "5N5C52v3YmXb1yZv",
+  "_key": "!actors!5N5C52v3YmXb1yZv",
+  "name": "Blatte della Ruggine",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 5700000,
+  "system": {
+    "type": "Insetto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Insetti corazzati che mangiano il ferro e lo indeboliscono con un acido che corrode anche la carne. Bruciano le caselle dei tracciati attrezzatura (danni Acidi, etichetta Rotto); minacciate si chiudono a palla e rotolano via, travolgendo i nemici con danni Contundenti.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Blatte della Ruggine",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

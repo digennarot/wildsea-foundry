@@ -1,0 +1,278 @@
+{
+  "_id": "gFtRjqN4snNanrae",
+  "_key": "!actors!gFtRjqN4snNanrae",
+  "name": "Basilischi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 4600000,
+  "system": {
+    "type": "Bestia",
+    "size": "medium",
+    "traits": "Molti Arti, Molti Occhi",
+    "description": "<p>Lucertole dai molti occhi che si nutrono di pietra e hanno un sangue simile al gesso. Incrociarne lo sguardo fa intorpidire il corpo e assopire la mente. Usali quando anche guardare è pericoloso.</p>",
+    "sight": [
+      {
+        "id": "NoD2xwx7FyDbp0DG",
+        "text": "Occhi rettiliani senza palpebre"
+      },
+      {
+        "id": "On8okWbTYsMnafT2",
+        "text": "Statue Pre-V graffiate"
+      }
+    ],
+    "sound": [
+      {
+        "id": "XfvF22987qSfJQtf",
+        "text": "Un silenzio opprimente"
+      },
+      {
+        "id": "wWcAH9XcdXovN7Su",
+        "text": "Il guizzo di una lingua biforcuta"
+      }
+    ],
+    "taste": [
+      {
+        "id": "gtC8aiWJb7ynTfts",
+        "text": "Carne dura come marmo"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "EFxHbLuudNcrkiCM",
+      "_key": "!actors.items!gFtRjqN4snNanrae.EFxHbLuudNcrkiCM",
+      "name": "Consumare il Passato",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Mangiano qualunque pietra, ma preferiscono quella lavorata, e più è antica meglio è.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "shekogKwkGmahOGI",
+      "_key": "!actors.items!gFtRjqN4snNanrae.shekogKwkGmahOGI",
+      "name": "Arti Multipli",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Sei o otto zampe: lenti ma ottimi scalatori, conoscono ogni angolo del loro territorio.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "uixSKy8DrX7Ipd9r",
+      "_key": "!actors.items!gFtRjqN4snNanrae.uixSKy8DrX7Ipd9r",
+      "name": "Mangiapietre",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Mordono chi li minaccia (danni RAV Contundenti), ma non mangiano nulla di organico.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "xGL23PWEuLg4CvHh",
+      "_key": "!actors.items!gFtRjqN4snNanrae.xGL23PWEuLg4CvHh",
+      "name": "Sguardo Soporifero",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Non pietrifica: induce un torpore beato e innaturale, che di solito diventa una ferita.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ZKtDPzGpmVXMrBXZ",
+      "_key": "!actors.items!gFtRjqN4snNanrae.ZKtDPzGpmVXMrBXZ",
+      "name": "Occhi Mesmerici",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Occhi in più o scaglie riflettenti rendono lo sguardo più potente e duraturo, fino a infestare i sogni.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "llwZ5RrAMYqEVJDL",
+      "_key": "!actors.items!gFtRjqN4snNanrae.llwZ5RrAMYqEVJDL",
+      "name": "Occhio di Basilisco",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8lliSdxe7j60jvlY",
+      "_key": "!actors.items!gFtRjqN4snNanrae.8lliSdxe7j60jvlY",
+      "name": "Stomaco di Mangiapietre",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "mSnTZtvBazX9JV6u",
+      "_key": "!actors.items!gFtRjqN4snNanrae.mSnTZtvBazX9JV6u",
+      "name": "Sangue di Gesso",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "rDvtv0seAHV7j4hD",
+      "_key": "!actors.items!gFtRjqN4snNanrae.rDvtv0seAHV7j4hD",
+      "name": "Scaglie Con Motivi Floreali",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "lB4zB8t45njQ7z64",
+      "_key": "!actors.items!gFtRjqN4snNanrae.lB4zB8t45njQ7z64",
+      "name": "Un Giardino di Statue",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "weLZs9NSML7N2QsI",
+      "_key": "!actors.items!gFtRjqN4snNanrae.weLZs9NSML7N2QsI",
+      "name": "Innumerevoli Occhi",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4ix3l1bVBJGOlDjh",
+      "_key": "!actors.items!gFtRjqN4snNanrae.4ix3l1bVBJGOlDjh",
+      "name": "Il Pericolo del Sonno",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Basilischi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

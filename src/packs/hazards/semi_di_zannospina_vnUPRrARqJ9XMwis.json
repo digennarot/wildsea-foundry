@@ -1,0 +1,241 @@
+{
+  "_id": "vnUPRrARqJ9XMwis",
+  "_key": "!actors!vnUPRrARqJ9XMwis",
+  "name": "Semi di Zannospina",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "97J3cDRIjvjXoEV0",
+  "sort": 8000000,
+  "system": {
+    "type": "Pianta",
+    "size": "large",
+    "traits": "Voraci Gusci Predatori",
+    "description": "<p>Semi senzienti, simili a tozzi alligatori dal guscio di noce, che cercano nutrimento prima di mettere radici. Usali per qualcosa di insolito che darà la caccia all'equipaggio con ostinazione.</p>",
+    "sight": [
+      {
+        "id": "kXlKt27orOEvLeEG",
+        "text": "Gusci squarciati"
+      },
+      {
+        "id": "llphHcE4NNJdjP4b",
+        "text": "Corteccia lacerata"
+      }
+    ],
+    "sound": [
+      {
+        "id": "RW1ddF8f91Sw0b2c",
+        "text": "Scricchiolii come di una nave nella tempesta"
+      }
+    ],
+    "smell": [
+      {
+        "id": "DbTs7vD1NlqT8R4z",
+        "text": "Cocco con una nota di fumo"
+      }
+    ],
+    "taste": [
+      {
+        "id": "mN78lRT4ZuG8cJQJ",
+        "text": "Legnoso, profumato di gelsomino"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "z5k8nWEnYBpX6BzG",
+      "_key": "!actors.items!vnUPRrARqJ9XMwis.z5k8nWEnYBpX6BzG",
+      "name": "Un Unico Scopo",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Scelto un bersaglio, lo segue con l'olfatto finché uno dei due non muore.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "w9A1L7WgCIZo9ZbQ",
+      "_key": "!actors.items!vnUPRrARqJ9XMwis.w9A1L7WgCIZo9ZbQ",
+      "name": "Morso Prodigioso",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Morde (danni Perforanti) finché la preda non può più fuggire, poi la inghiotte intera e mette radici.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "hK1AWM1Y7qxdpnYo",
+      "_key": "!actors.items!vnUPRrARqJ9XMwis.hK1AWM1Y7qxdpnYo",
+      "name": "Rapidi Ma Goffi",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Corrono, saltano e si arrampicano veloci ma cadono spesso.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "XQkOyyPuU7Y0kLXz",
+      "_key": "!actors.items!vnUPRrARqJ9XMwis.XQkOyyPuU7Y0kLXz",
+      "name": "Funghi di Zannospina",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Una muffa che cresce sulle ferite da morso; un tracciato ferita può seguirne l'avanzata.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "B3TT504IUKLygrEU",
+      "_key": "!actors.items!vnUPRrARqJ9XMwis.B3TT504IUKLygrEU",
+      "name": "Seme Veterano",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Vecchio e troppo cresciuto, con lo stomaco danneggiato: non riuscirà mai a radicarsi.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "q99oP9cGKfhrMs1m",
+      "_key": "!actors.items!vnUPRrARqJ9XMwis.q99oP9cGKfhrMs1m",
+      "name": "Seme da Guerra",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Enorme e lento, con un guscio che resiste a quasi tutti i danni.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9xuoYkzWJ7S3uxeE",
+      "_key": "!actors.items!vnUPRrARqJ9XMwis.9xuoYkzWJ7S3uxeE",
+      "name": "Gusci Vuoti",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "wFh9u155bDMeSDcQ",
+      "_key": "!actors.items!vnUPRrARqJ9XMwis.wFh9u155bDMeSDcQ",
+      "name": "Legno di Zannospina",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1aNe0o31Ksx97YIC",
+      "_key": "!actors.items!vnUPRrARqJ9XMwis.1aNe0o31Ksx97YIC",
+      "name": "Pronto a Radicarsi",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "lRdU0XVrnWRHyPjo",
+      "_key": "!actors.items!vnUPRrARqJ9XMwis.lRdU0XVrnWRHyPjo",
+      "name": "Fame Incessante",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Semi di Zannospina",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "VoYcdGUqZXNWeGyV",
+  "_key": "!actors!VoYcdGUqZXNWeGyV",
+  "name": "Glifocosi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 12500000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Una malattia delle spore che colpisce soprattutto i draghisti: permette di leggere e parlare l'Anteriore, ma cancella tutte le altre lingue. Sembra risparmiare chi conosceva già l'Anteriore.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Glifocosi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "_id": "cjtwGYiSXBtWXG8q",
+  "_key": "!actors!cjtwGYiSXBtWXG8q",
+  "name": "La Regina Di Sotto",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 14400000,
+  "system": {
+    "type": "Leviatano",
+    "size": "leviathan",
+    "traits": "Bestia Leviatana Squamata",
+    "description": "<p>Una collezionista ossessiva, avida ma paziente, che riposa su un tesoro e preferisce trattare prima di passare alle maniere forti. Usala per un leviatano da cercare e comprendere più che da catturare, mostruoso nell'aspetto ma placido nella mente.</p><h3>Sogni</h3><p>Scaglie d'oro, piaceri perduti, una donna in un abito azzurro.</p><h3>Ganci e Incontri</h3><ul><li><strong>Un Inutile Tesoro</strong>: Si parla di immense ricchezze, ma in un mondo senza denaro gran parte è inutile.</li><li><strong>Perduto da Molto Tempo</strong>: Ogni notte l'equipaggio sogna una donna vestita d'azzurro che cerca qualcosa.</li></ul>",
+    "sight": [
+      {
+        "id": "z8NaYPR7FIH83tRw",
+        "text": "Scaglie incastonate di minerali"
+      },
+      {
+        "id": "Xg0s21LQaPebIM0K",
+        "text": "Un ventre che brilla come cielo stellato"
+      },
+      {
+        "id": "nAFNjBHQr9My94da",
+        "text": "Un'aurora che danza"
+      }
+    ],
+    "sound": [
+      {
+        "id": "DrH1f8kwSgciLrko",
+        "text": "Un coro di suppliche e canti devoti"
+      }
+    ],
+    "smell": [
+      {
+        "id": "mABaQYTF3BW0gRni",
+        "text": "Nostalgia, diversa per ciascuno"
+      }
+    ],
+    "taste": [
+      {
+        "id": "1Uv2KZdUWlTivgdZ",
+        "text": "Una sua scaglia scartata: agrodolce e metallica"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "MpevB3wPMAX1RYSL",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.MpevB3wPMAX1RYSL",
+      "name": "Portatrice di Luce",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>I cristalli assorbono la luce (creando oscurità) e la sparano in raggi: danni AD Esplosivi o Incenerenti a impatto totale.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "dzavtEIzbbMNiZ3V",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.dzavtEIzbbMNiZ3V",
+      "name": "Aurora",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Quando dorme il cielo sopra di lei si colora, rivelandone la posizione approssimativa.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "SrM2wBTBACCDfhdB",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.SrM2wBTBACCDfhdB",
+      "name": "Placida Avidità",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Riposa su un tesoro sorvegliato da guardiani assonnati armati delle sue scaglie.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "gXlyyoQ5wr5SBoTd",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.gXlyyoQ5wr5SBoTd",
+      "name": "Leviatano Squamato",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Riduce l'impatto di tutti i danni ed è immune a quelli Taglienti, Perforanti, Trincianti e Laceranti; anche con impatto totale segna una sola casella. Vederla la prima volta fa segnare due volte il fardello.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1TcLbo1pAaFG9kGS",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.1TcLbo1pAaFG9kGS",
+      "name": "Camminatrice Onirica",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Chi la cerca la sogna, e diventa sempre meno incline ad agire contro di lei.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9YNOmIkNIGibWvwy",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.9YNOmIkNIGibWvwy",
+      "name": "Sussurro del Titano",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Colleziona sussurri e li usa contro chi vuole farle del male.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "C3V0tjHOtc0qAVmY",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.C3V0tjHOtc0qAVmY",
+      "name": "Lacrime di Pietra",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "EAQPQq62krZjg8pF",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.EAQPQq62krZjg8pF",
+      "name": "Artigli Cristallini",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "GCJUeB9aLQ9hfiPq",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.GCJUeB9aLQ9hfiPq",
+      "name": "Occhio Onnisciente",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "qdOTguJMqikJ5qD0",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.qdOTguJMqikJ5qD0",
+      "name": "Artefatto Pre-Verdeggiante",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "aB1jTzLpg8AzTd1w",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.aB1jTzLpg8AzTd1w",
+      "name": "Ricco Frammento",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "u883Z28nNuBaP5nM",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.u883Z28nNuBaP5nM",
+      "name": "Tomi Venerabili",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8ZQxJj8IUTZTJQVn",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.8ZQxJj8IUTZTJQVn",
+      "name": "Tutto Ciò Che Luccica",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Sk7PImki0DDpMCdE",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.Sk7PImki0DDpMCdE",
+      "name": "Sogni Sventurati",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ZKhdwIDK3RcoHvv4",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.ZKhdwIDK3RcoHvv4",
+      "name": "Nucleo di Seme Stellare",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "nF0W9R1RFgDgAwHU",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.nF0W9R1RFgDgAwHU",
+      "name": "Uovo del Sognatore",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "nYBYxNcEZpXcNDOk",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.nYBYxNcEZpXcNDOk",
+      "name": "Mucchio di Antiche Ricchezze",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "5EQ2Q7XnwBhKL3ol",
+      "_key": "!actors.items!cjtwGYiSXBtWXG8q.5EQ2Q7XnwBhKL3ol",
+      "name": "Una Montagna di Gemme",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "La Regina Di Sotto",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

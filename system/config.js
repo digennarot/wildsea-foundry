@@ -83,6 +83,7 @@ WILDSEA.adversarySizes = {
   medium: 'wildsea.medium',
   large: 'wildsea.large',
   huge: 'wildsea.huge',
+  leviathan: 'wildsea.leviathan',
   variable: 'wildsea.variable',
   swarm: 'wildsea.swarm',
 }

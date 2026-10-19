@@ -1,0 +1,400 @@
+{
+  "_id": "0xzGf78ytnEb1Eli",
+  "_key": "!actors!0xzGf78ytnEb1Eli",
+  "name": "Vecchio Ordalio",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 13700000,
+  "system": {
+    "type": "Leviatano",
+    "size": "leviathan",
+    "traits": "Brutale Bestia Leviatana",
+    "description": "<p>Il Re degli Scoiattoli: ogni autunno risale dalle profondità affamato e, troppo vecchio per cacciare, assalta navi mercantili e insediamenti. Usalo per qualcosa che sembra buffo all'inizio e smette presto di esserlo.</p><h3>Ganci e Incontri</h3><ul><li><strong>Consegna Speciale</strong>: La coda squarcia lo scafo: vuole solo le provviste della stiva.</li><li><strong>Un Piano Perfetto</strong>: Dei leviatanieri vogliono legarlo con un guinzaglio lunghissimo e usano la nave come esca.</li><li><strong>Festival Invernale</strong>: La festa d'inverno è interrotta dalle urla: l'equipaggio deve affrontarlo o fuggire senza nave.</li></ul>",
+    "sight": [
+      {
+        "id": "2bTBfeQzKlBZs2a4",
+        "text": "Animali in fuga tutti nella stessa direzione"
+      },
+      {
+        "id": "KT4sqzdWdgwGNZDM",
+        "text": "Un solco che avanza tra le chiome"
+      },
+      {
+        "id": "IgPKVaru9lTfM3Pa",
+        "text": "Pelliccia color fiamma piena di cicatrici e lame spezzate"
+      }
+    ],
+    "sound": [
+      {
+        "id": "TujFXsyvZiSVoZ2X",
+        "text": "Rami che si spezzano"
+      },
+      {
+        "id": "7gLKS5ZDVe7mkGew",
+        "text": "Un cinguettio gutturale come un motore"
+      }
+    ],
+    "smell": [
+      {
+        "id": "1LZ4KiamLuWjbcua",
+        "text": "Muschio, sangue e crezzerin puro"
+      }
+    ],
+    "taste": [
+      {
+        "id": "xBfGbjDJfL9IhKAX",
+        "text": "Vecchie ferite e marinai perduti"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "NrALw8Nnj6ucnNze",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.NrALw8Nnj6ucnNze",
+      "name": "Coda Titanica",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Una falce: danni Contundenti ingenti anche da lontano.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8fJGz1aBXYaWd6V9",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.8fJGz1aBXYaWd6V9",
+      "name": "Zampe Pesanti",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Arrampicandosi distrugge con impatto totale le superfici a cui si aggrappa.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Wd6tUEnlIfMLOaqr",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.Wd6tUEnlIfMLOaqr",
+      "name": "Denti e Artigli",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Morso Perforante e artigli Taglienti, entrambi con impatto totale.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "W9LIcWd3K7RITpvI",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.W9LIcWd3K7RITpvI",
+      "name": "Corpo di Mille Scoiattoli!",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Riduce l'impatto di tutti i danni; anche con impatto totale segna una sola casella. Vederlo la prima volta fa segnare due caselle di fardello.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "iLIqjEvt0mcAuWww",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.iLIqjEvt0mcAuWww",
+      "name": "Manto di Crezzerin",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Chi lo attacca RAV subisce danni Tossici da contatto, salvo resistenza al crezzerin.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "PbO13iM3498SRqpX",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.PbO13iM3498SRqpX",
+      "name": "In Un Sol Boccone",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Può inghiottire un personaggio, che subisce danni Acidi medi a ogni azione finché non si libera.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "sNjdix0De9XU0JZC",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.sNjdix0De9XU0JZC",
+      "name": "Pidocchi di Scoiattolo",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Difendono l'ospite: morsi con danni leggeri Perforanti o Tossici.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ItpHQ7Oj8nam45SV",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.ItpHQ7Oj8nam45SV",
+      "name": "Setole Dure Come il Ferro",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "hrUJ9gk6PWypA7SK",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.hrUJ9gk6PWypA7SK",
+      "name": "Pelliccia Opaca",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "gG4ePWIGtVkgCyAG",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.gG4ePWIGtVkgCyAG",
+      "name": "Carne di Leviatano",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 900000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4AYDzM6X4kfn7hiB",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.4AYDzM6X4kfn7hiB",
+      "name": "Sangue Contaminato dal Crezzerin",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1000000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "6DTqw4iCDXJJF0Ng",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.6DTqw4iCDXJJF0Ng",
+      "name": "Chitina di Scoiattolo",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "JQ1GeBjsewWYsHZ6",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.JQ1GeBjsewWYsHZ6",
+      "name": "Frammento di una Vecchia Lama",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "CJC8Ppfa7rYXK0CQ",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.CJC8Ppfa7rYXK0CQ",
+      "name": "Elsa di Serralama",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "salvage"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Gh7CsnFR9biPC1og",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.Gh7CsnFR9biPC1og",
+      "name": "Un Antico Nemico",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Z7lFZxVMXWnlTfab",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.Z7lFZxVMXWnlTfab",
+      "name": "Pronto per l'Inverno",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "cBDyThpaAFijIkxL",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.cBDyThpaAFijIkxL",
+      "name": "Ossa di Scoiattolo Titanico",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "hnp63rTKRgp0Ys9C",
+      "_key": "!actors.items!0xzGf78ytnEb1Eli.hnp63rTKRgp0Ys9C",
+      "name": "Coda di Scoiattolo Leviatano",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 1700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Vecchio Ordalio",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

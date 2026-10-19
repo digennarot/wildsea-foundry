@@ -1,0 +1,28 @@
+{
+  "_id": "ge9TE4SAeiWXwtnB",
+  "_key": "!actors!ge9TE4SAeiWXwtnB",
+  "name": "Battarak",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 11800000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Fa uscire fumo dalle narici senza dolore né disagio. Diffusa soprattutto tra gli Esposti in montagna, forse dovuta alla combustione di legno contaminato dal crezzerin.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Battarak",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

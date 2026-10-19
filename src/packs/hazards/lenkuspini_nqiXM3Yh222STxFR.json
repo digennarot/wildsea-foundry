@@ -1,0 +1,212 @@
+{
+  "_id": "nqiXM3Yh222STxFR",
+  "_key": "!actors!nqiXM3Yh222STxFR",
+  "name": "Lenkuspini",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "2rcnGMDd44N7C3vE",
+  "sort": 4400000,
+  "system": {
+    "type": "Bestia",
+    "size": "large",
+    "traits": "Spine, Scaglie e Olio",
+    "description": "<p>Bestie basse e oleose, ricoperte di escrescenze ossee su petto, spalle e schiena. Usale per un avversario semplice e aggressivo.</p>",
+    "sight": [
+      {
+        "id": "BHcbOiokrKNTQDbk",
+        "text": "Solchi e graffi tutt'intorno"
+      },
+      {
+        "id": "5zA64znCUXBNj68M",
+        "text": "Scaglie lucide al sole"
+      },
+      {
+        "id": "EDirpEamBFNsbl6v",
+        "text": "Occhietti spenti"
+      }
+    ],
+    "sound": [
+      {
+        "id": "nn6avzYqnckioBoD",
+        "text": "Lo stridio degli aculei a terra"
+      },
+      {
+        "id": "wATL9hTfDg5kMfgK",
+        "text": "Un guaito rabbioso"
+      }
+    ],
+    "smell": [
+      {
+        "id": "jj99hA2F8oFkLdnw",
+        "text": "Olio d'oliva rancido"
+      }
+    ],
+    "taste": [
+      {
+        "id": "K3zUQNy04jC6IrOm",
+        "text": "Unto e selvatico"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "a3DHX8NROHYhjHnP",
+      "_key": "!actors.items!nqiXM3Yh222STxFR.a3DHX8NROHYhjHnP",
+      "name": "Proteggere il Territorio",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Sfidano gli intrusi con un ruggito ripreso da tutti gli esemplari della zona.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "vVAI7dluby2y9sva",
+      "_key": "!actors.items!nqiXM3Yh222STxFR.vVAI7dluby2y9sva",
+      "name": "Carica e Scava",
+      "type": "attribute",
+      "img": "icons/svg/target.svg",
+      "system": {
+        "details": "<p>Si lanciano sui nemici raschiando il terreno con gli aculei.</p>",
+        "collapsed": false,
+        "type": "drive"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "c8RmA8A7IYMfFhoR",
+      "_key": "!actors.items!nqiXM3Yh222STxFR.c8RmA8A7IYMfFhoR",
+      "name": "Grasso e Oleoso",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Impossibile da afferrare, se non per gli aculei. Resistenza ai danni Acidi e Tossici, debolezza a quelli Incenerenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "TbBpefX0fnlpt90i",
+      "_key": "!actors.items!nqiXM3Yh222STxFR.TbBpefX0fnlpt90i",
+      "name": "Criniera di Aculei",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Schiaccia a terra le prede: danni RAV Perforanti o Contundenti.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Y8y9fIeEEjjsEhsh",
+      "_key": "!actors.items!nqiXM3Yh222STxFR.Y8y9fIeEEjjsEhsh",
+      "name": "Spinoso",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Aculei cresciuti a dismisura che lo accecano ma lo corazzano: resistenza a tutto tranne ai danni Incenerenti finché la criniera resta intatta.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "PO6ObvtLnjJnAynp",
+      "_key": "!actors.items!nqiXM3Yh222STxFR.PO6ObvtLnjJnAynp",
+      "name": "Grasso di Lenkuspino",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "KTy1gnovLumUsAMY",
+      "_key": "!actors.items!nqiXM3Yh222STxFR.KTy1gnovLumUsAMY",
+      "name": "Aculei",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "fHgzwmy8KbajOecX",
+      "_key": "!actors.items!nqiXM3Yh222STxFR.fHgzwmy8KbajOecX",
+      "name": "Profonde Scanalature",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Lenkuspini",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

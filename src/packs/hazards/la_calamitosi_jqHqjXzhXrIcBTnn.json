@@ -1,0 +1,28 @@
+{
+  "_id": "jqHqjXzhXrIcBTnn",
+  "_key": "!actors!jqHqjXzhXrIcBTnn",
+  "name": "La Calamitosi",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 11700000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Scatti incontrollati di forza magnetica, causati da un batterio intestinale preso mangiando cibo arrugginito. Si cura sostituendo i succhi gastrici; qualcuno impara a controllarla e diventa un magnetista senza arconautica.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "La Calamitosi",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

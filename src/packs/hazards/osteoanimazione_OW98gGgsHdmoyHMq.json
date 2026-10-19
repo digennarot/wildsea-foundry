@@ -1,0 +1,162 @@
+{
+  "_id": "OW98gGgsHdmoyHMq",
+  "_key": "!actors!OW98gGgsHdmoyHMq",
+  "name": "Osteoanimazione",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "IGFyDltHjbMuueyn",
+  "sort": 12800000,
+  "system": {
+    "type": "Malattia",
+    "size": "",
+    "traits": "Infezione Arconautica",
+    "description": "<p>Chi passa troppo tempo tra le ossa del Boschetto Dentato diventa un golem scheletrico che grida aiuto da mascelle che non controlla più. Usala per mostrare quanto sia pericoloso restare vicino alle ossa dei leviatani.</p>",
+    "sight": [
+      {
+        "id": "V34tc8Vt3bDvG9Rr",
+        "text": "Persone che si muovono rigide"
+      },
+      {
+        "id": "6dXVZ2zABkxR5Wel",
+        "text": "Ricercatori in stracci"
+      }
+    ],
+    "sound": [
+      {
+        "id": "0VTP1ReWYPA3W1Y2",
+        "text": "Urla rauche e suppliche continue"
+      }
+    ],
+    "smell": [
+      {
+        "id": "y4aeC0bua06BIZEg",
+        "text": "Sudore e paura"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "IHgDocUzQTFkoltf",
+      "_key": "!actors.items!OW98gGgsHdmoyHMq.IHgDocUzQTFkoltf",
+      "name": "Cacofonia",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Le suppliche degli infetti fanno segnare il fardello a chi le sente.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "SIczB3LtcJUGPwWD",
+      "_key": "!actors.items!OW98gGgsHdmoyHMq.SIczB3LtcJUGPwWD",
+      "name": "Infezione",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>È contagiosa: il tracciato ferita dovrebbe essere corto ma molto difficile da ripulire.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "QwfhZeivqiIYJiCh",
+      "_key": "!actors.items!OW98gGgsHdmoyHMq.QwfhZeivqiIYJiCh",
+      "name": "Un Grande Disegno",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Gli infetti servono le ossa titaniche del Boschetto Dentato; combattono goffamente con danni RAV Contundenti usando ciò che trovano.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "s1uV3zo20318vN8w",
+      "_key": "!actors.items!OW98gGgsHdmoyHMq.s1uV3zo20318vN8w",
+      "name": "Ossa Animate",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "specimen"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "grYrFOsbKXShkEC4",
+      "_key": "!actors.items!OW98gGgsHdmoyHMq.grYrFOsbKXShkEC4",
+      "name": "Suppliche di Aiuto",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "aLEuBKAazcsMrFtD",
+      "_key": "!actors.items!OW98gGgsHdmoyHMq.aLEuBKAazcsMrFtD",
+      "name": "Parole Come Cicatrici",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Osteoanimazione",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

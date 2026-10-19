@@ -1,0 +1,228 @@
+{
+  "_id": "iB07qRwLSg0AqTbC",
+  "_key": "!actors!iB07qRwLSg0AqTbC",
+  "name": "Lo Spirito dell'Industria",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "XuyXWyrTKJdoGikk",
+  "sort": 13900000,
+  "system": {
+    "type": "Leviatano",
+    "size": "leviathan",
+    "traits": "Fenomeno Spettrale Leviatanico",
+    "description": "<p>Un ricordo collettivo che ha preso vita nel suono delle seghe e nell'odore del legno tagliato. Non ha corpo né forma, ma i suoi effetti sono impossibili da ignorare. Usalo per una forza che non si può davvero combattere: non distruttiva, ma ossessionata dall'ordine.</p><h3>Onde Ordinate (Territorio)</h3><p>Ferradici ancora in piedi ma tagliate, scortecciate e impilate con ordine maniacale. Le creature che sopravvivono diventano \"animali operai\": tagliano, trasportano e impilano legna fino a morire di fatica, e oltre.</p><h3>Ganci e Incontri</h3><ul><li><strong>Il Lavoro Che Verrà</strong>: Un'intera striscia si è messa a disboscare in preda a una frenesia inspiegabile.</li><li><strong>Il Chiodo Fisso</strong>: Qualcuno a bordo sente lo spirito nella propria testa.</li><li><strong>Realtà Riconfigurata</strong>: Un tratto di mare tagliato e accatastato sta facendo crollare l'ecosistema.</li></ul>",
+    "sight": [
+      {
+        "id": "P7O5VncBWcXPFK3N",
+        "text": "Lupi che trasportano legna con occhi vitrei"
+      },
+      {
+        "id": "Patw1oCqvyqqoK1N",
+        "text": "Ferradici spezzate coperte di segatura"
+      },
+      {
+        "id": "aof6cAwlRODIytJu",
+        "text": "Navi unite a formare macchinari"
+      }
+    ],
+    "sound": [
+      {
+        "id": "i04AKPBG7eGlBvA0",
+        "text": "Rostri, martelli e motori"
+      },
+      {
+        "id": "gIkDX1DPLMKPtVnF",
+        "text": "Alberi che cadono"
+      },
+      {
+        "id": "iJSOQQBPaBMya8oK",
+        "text": "Una voce che promette che andrà meglio a lavoro finito"
+      }
+    ],
+    "smell": [
+      {
+        "id": "ro6481FY3jb2F3c1",
+        "text": "Foglie strappate, legno fresco, olio e grasso"
+      }
+    ]
+  },
+  "items": [
+    {
+      "_id": "s5DnoX7bNwLVj4jk",
+      "_key": "!actors.items!iB07qRwLSg0AqTbC.s5DnoX7bNwLVj4jk",
+      "name": "Ordine Imposto",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Il legno va tagliato, gli alberi abbattuti, le macchine riorganizzate: trascina tutto nel suo sogno di disboscamento.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "Us8onEYkEQxMnwcK",
+      "_key": "!actors.items!iB07qRwLSg0AqTbC.Us8onEYkEQxMnwcK",
+      "name": "Lavoro Instancabile",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Chi interferisce sente il bisogno di scendere a terra, fare una pausa, tornare a casa. Chi resiste viene attaccato con danni Trincianti e Laceranti ingenti da vecchi attrezzi e incidenti di lavoro.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "CafZ5dlmjOhhZCh3",
+      "_key": "!actors.items!iB07qRwLSg0AqTbC.CafZ5dlmjOhhZCh3",
+      "name": "Limiti",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>È una sacca mobile di realtà in cui l'ordine vince temporaneamente sul caos della crescita.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 200000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "mYKjsnAQ3FyY6I3t",
+      "_key": "!actors.items!iB07qRwLSg0AqTbC.mYKjsnAQ3FyY6I3t",
+      "name": "Lo Spirito di Un Sogno",
+      "type": "attribute",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "details": "<p>Per danneggiarlo bisogna renderlo tangibile o diventare intangibili: forse lo si affronta in sogno.</p>",
+        "collapsed": false,
+        "type": "aspect"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "zPLdwuZu7MM03CPP",
+      "_key": "!actors.items!iB07qRwLSg0AqTbC.zPLdwuZu7MM03CPP",
+      "name": "La Fornace Mai Spenta",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Chi è influenzato appicca incendi che nessuno riesce a spegnere: danni Incenerenti ingenti, a volte a impatto totale.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 400000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ZByVnK6mXIl0azng",
+      "_key": "!actors.items!iB07qRwLSg0AqTbC.ZByVnK6mXIl0azng",
+      "name": "Innesto",
+      "type": "attribute",
+      "img": "icons/svg/eye.svg",
+      "system": {
+        "details": "<p>Lo spirito si annida come un sussurro nella mente di un membro dell'equipaggio e deforma ciò che lo circonda.</p>",
+        "collapsed": false,
+        "type": "quirk"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 500000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4AcwDRFqt6BPtNnm",
+      "_key": "!actors.items!iB07qRwLSg0AqTbC.4AcwDRFqt6BPtNnm",
+      "name": "Il Sogno di un'Accetta",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "",
+        "type": "whisper"
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 600000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ymxY7JIoNpfllLJL",
+      "_key": "!actors.items!iB07qRwLSg0AqTbC.ymxY7JIoNpfllLJL",
+      "name": "Legname Fresco",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 700000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ru8z0ZaQoJgvyA10",
+      "_key": "!actors.items!iB07qRwLSg0AqTbC.ru8z0ZaQoJgvyA10",
+      "name": "Legno Lavorato",
+      "type": "resource",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "details": "",
+        "collapsed": false,
+        "tags": "Carico",
+        "type": ""
+      },
+      "effects": [],
+      "flags": {},
+      "sort": 800000,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Lo Spirito dell'Industria",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

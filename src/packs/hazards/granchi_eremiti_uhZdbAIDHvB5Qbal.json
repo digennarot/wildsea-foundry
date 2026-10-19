@@ -1,0 +1,28 @@
+{
+  "_id": "uhZdbAIDHvB5Qbal",
+  "_key": "!actors!uhZdbAIDHvB5Qbal",
+  "name": "Granchi Eremiti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 5500000,
+  "system": {
+    "type": "Insetto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Si rifugiano in qualunque rottame e crescono cambiando guscio con pezzi sempre più grandi. Trovarne uno nel materiale di recupero è un presagio, buono o cattivo secondo chi lo racconta; qualcuno giura di averne visti grandi come cattedrali.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Granchi Eremiti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

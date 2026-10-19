@@ -1,0 +1,28 @@
+{
+  "_id": "8lKuI1Qy6Qncqh8u",
+  "_key": "!actors!8lKuI1Qy6Qncqh8u",
+  "name": "I Teatranti",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "rkG9U6cKtQXVQvvj",
+  "sort": 10500000,
+  "system": {
+    "type": "Predone",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Predoni accomunati da un'infezione fungina che li fa recitare la parte degli allegri bucanieri. Sono cordiali mentre saccheggiano e restano perplessi se le vittime non applaudono.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "I Teatranti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

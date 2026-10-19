@@ -1,0 +1,28 @@
+{
+  "_id": "bwDxWzuBIrDgquse",
+  "_key": "!actors!bwDxWzuBIrDgquse",
+  "name": "Vespe della Corteccia",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "FXGnfzFpl21DTr4S",
+  "sort": 5200000,
+  "system": {
+    "type": "Insetto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Vespe grandi come un pugno che difendono con ferocia il territorio. Spogliano un albero della corteccia e si radicano nel legno, formando un nido vivente. Cotte, sanno di nocciola.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Vespe della Corteccia",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}

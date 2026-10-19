@@ -1,0 +1,28 @@
+{
+  "_id": "EposFbpUtDDmd390",
+  "_key": "!actors!EposFbpUtDDmd390",
+  "name": "Carri di Orion",
+  "type": "hazard",
+  "img": "icons/svg/hazard.svg",
+  "folder": "9PctsMsMdAykI40O",
+  "sort": 9400000,
+  "system": {
+    "type": "Costrutto",
+    "size": "",
+    "traits": "Pericolo base",
+    "description": "<p>Strutture di metallo lucente che ogni tanto risalgono in superficie e ruotano nell'aria cambiando direzione di colpo, spinte dal magnetismo. Bussole, veicoli o giocattoli? Nessuno lo sa.</p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Carri di Orion",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/hazard.svg"
+    }
+  }
+}
