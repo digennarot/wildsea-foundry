@@ -10,14 +10,14 @@ permissions:
 
 jobs:
   release:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     env:
       TAG: ${{ github.ref_name }}
       ZIP_FILE_NAME: wildsea-foundry-${{ github.ref_name }}.zip
       MANIFEST_URL: https://github.com/${{ github.repository }}/releases/latest/download/system.json
       DOWNLOAD_URL: https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/wildsea-foundry-${{ github.ref_name }}.zip
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       # Validate that the tag being released matches the package version.
       - name: Check version
