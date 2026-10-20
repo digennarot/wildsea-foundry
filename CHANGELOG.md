@@ -1,6 +1,6 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
-## Unreleased
+## v0.2.10
 
 - Add a "Bloodlines, Origins & Posts" compendium ("Stirpi, Origini e Ruoli" with Babele): one entry for each of the 19 bloodlines, 11 origins and 33 posts, listing its traits, gear and companions as links to the Character Aspects compendium
 - Add a "Drives, Mires & Milestones" compendium in Italian ("Motivazioni, Fardelli e Avanzamenti" with Babele): the suggested drives and mires from the quick creation of each bloodline, origin and post, plus the rulebook examples of drives, mires and major/minor milestones. Each bloodline, origin and post entry links its suggested drives and mires
