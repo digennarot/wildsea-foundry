@@ -1,5 +1,10 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.11
+
+- Add a Focus panel at the top of the screen showing which character holds the narrative focus. The GM can give the focus to any player character or clear it; players can hijack it with a character they own. A hijack is whispered to the GM as a request, applied by the active GM after checking ownership and announced in chat; the player is told privately if it was not applied. Hijack buttons only appear while a GM is connected. The holder is cleared when its character is deleted
+- The Tracks panel and the Focus panel now share the same mounting code
+
 ## v0.2.10
 
 - Add a "Bloodlines, Origins & Posts" compendium ("Stirpi, Origini e Ruoli" with Babele): one entry for each of the 19 bloodlines, 11 origins and 33 posts, listing its traits, gear and companions as links to the Character Aspects compendium

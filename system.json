@@ -19,10 +19,10 @@
       "discord": "Mutex"
     }
   ],
-  "version": "0.2.10",
+  "version": "0.2.11",
   "url": "https://github.com/digennarot/wildsea-foundry",
   "manifest": "https://github.com/digennarot/wildsea-foundry/releases/latest/download/system.json",
-  "download": "https://github.com/digennarot/wildsea-foundry/releases/download/v0.2.10/wildsea-foundry-v0.2.10.zip",
+  "download": "https://github.com/digennarot/wildsea-foundry/releases/download/v0.2.11/wildsea-foundry-v0.2.11.zip",
 
   "compatibility": {
     "minimum": "13",
