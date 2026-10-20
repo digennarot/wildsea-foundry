@@ -1,0 +1,19 @@
+{
+  "name": "Ingegnere Solitario",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Vuole essere lasciato in un luogo desolato, lontano da qualsiasi porto segnato sulle mappe.</p><p>Passeggero della regione L'Interregno. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "JisdLgdxgzprQTE6",
+  "_id": "ioCIQ9Xv1tcnEMAQ",
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!ioCIQ9Xv1tcnEMAQ"
+}

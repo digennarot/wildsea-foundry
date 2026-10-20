@@ -1,0 +1,20 @@
+{
+  "name": "Penne di Gallina",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Gente delle Strisce.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "w2qdUPLD0EP5xQ28",
+  "_id": "TLY48OnklxDucHpq",
+  "effects": [],
+  "sort": 200001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!TLY48OnklxDucHpq"
+}

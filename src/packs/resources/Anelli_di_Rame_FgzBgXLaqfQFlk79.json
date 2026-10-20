@@ -1,0 +1,20 @@
+{
+  "name": "Anelli di Rame",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Draghista.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "5t0L415nW5kvXOzJ",
+  "_id": "FgzBgXLaqfQFlk79",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!FgzBgXLaqfQFlk79"
+}

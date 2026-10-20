@@ -1,0 +1,20 @@
+{
+  "name": "Una Mappa Arazzo",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Falenide.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "We8brdPu65JFC5eL",
+  "_id": "cE4yyE9rFRM87vuS",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!cE4yyE9rFRM87vuS"
+}

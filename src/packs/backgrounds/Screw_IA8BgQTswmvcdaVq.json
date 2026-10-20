@@ -1,0 +1,19 @@
+{
+  "name": "Screw",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.sQ6bCyrCcG590vXZ]{Distant Repulsion}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.vdukmtJT3tJViukT]{Ferrokinesis}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TUmXnzirh3m52pQm]{Field Charge}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.cimIZQ0jkRHUuFYt]{Heart of Ore}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.8cteGOxxvczjcI4B]{Ironsight}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.SgupF5obTDVgTIoF]{Magnetic Levitation}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.QSdLTp4b2zgRqAz3]{Reactive Riveter}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.vH4vqvVRNi7Tia5e]{Smart Repulsion}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.ikFFLQQqpZ7SM8AZ]{Chaff Pouch}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wlkcdhthLANlBEbm]{Crisis Bolts}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.nr7IunHFbDSG10bL]{Deconstructor}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.5oPGnbn9Y0bbnX7X]{Iron-Ring Jacket}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.HrkLPC5vK5MASCM4]{Kinetic Anchor}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.UxM2oipB7ZxfevEw]{Pre-V Ingot}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.2mOoZ3SY5NgOdPvs]{Rivet Swarm}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.9OJpPIBp3OQdmNEt]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.iRLHM86yNkYSffmE]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.PXGTYlW7SJWb9HxI]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.BdSA8DjcH2HeRguo]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.8VoJn5Dl82JfFY7L]</li><li>@UUID[Compendium.wildsea.resources.Item.2qhTuQO0PnIFzZlC]</li><li>@UUID[Compendium.wildsea.resources.Item.lHlu5rTualRuWqWz]</li><li>@UUID[Compendium.wildsea.resources.Item.w9mNLbewP3qqs2fh]</li><li>@UUID[Compendium.wildsea.resources.Item.alCbV9XpugLkgQ3V]</li><li>@UUID[Compendium.wildsea.resources.Item.j7xwvoltTkPiDmhz]</li><li>@UUID[Compendium.wildsea.resources.Item.D4K4OkY8sf2ago8A]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "IA8BgQTswmvcdaVq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!IA8BgQTswmvcdaVq"
+}

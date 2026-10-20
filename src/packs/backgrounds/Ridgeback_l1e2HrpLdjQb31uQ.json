@@ -1,0 +1,19 @@
+{
+  "name": "Ridgeback",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Origin. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.KqCCZKUuwS5eAEuS]{Archaeodermis}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WtYBmw1cSHtMeJBk]{Barrel-Chested}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.rFp0xcaIZVPAqAZo]{Crushing Blows}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WVK4sUIoiPItyyjt]{Fragments Like Gods}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OoLHrvCR9wsYUfGY]{Search for Omens}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.CYyFGLdMTU5gFlCs]{Stone Hearted}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.aUHbHCE7H4NteSkF]{Thick Skin}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.XXwbLRMNcD2s0Twb]{Chipping Tools}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WfkdMRWKwsx2mON0]{Great Beast Horns}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.DoLFdXxLOUaaWmwp]{Hexed Tooth}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.JUoY3KT6yEib9NnY]{Leviathan Furs}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OkvmOKAkAZugOYce]{Ritual Mask}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.nlThio2ioXKxrx4f]{Shamanic Idol}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.c3ikos0huuTXiHbH]{Surface Stone}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.8jQDgyK3QVyQJ9ZB]{Whispering Charm}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.9G2cf1WRtU7f7RA8]{Mountain Snouter}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.tSp5lb0nCrCgHILL]{Swift Hawk}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.si7gpehso7t8MzUy]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.4dUi60nUd0RerbGN]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.mIPs9DbP4Hv78qUn]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.o6YfMIgGK0bkhbZL]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.vwxrnBPXPkXUgvdl]</li><li>@UUID[Compendium.wildsea.resources.Item.iqckYlIivjHWDxja]</li><li>@UUID[Compendium.wildsea.resources.Item.Y0JMunJOWLwcRnHR]</li><li>@UUID[Compendium.wildsea.resources.Item.QXoepluuOnOiXjGr]</li><li>@UUID[Compendium.wildsea.resources.Item.GyNKCSs8vPdepAOx]</li><li>@UUID[Compendium.wildsea.resources.Item.kn5KLs4nShmmoE0u]</li></ul>",
+    "collapsed": false,
+    "type": "origin"
+  },
+  "folder": "irGBRwstZnCDKWcY",
+  "_id": "l1e2HrpLdjQb31uQ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!l1e2HrpLdjQb31uQ"
+}

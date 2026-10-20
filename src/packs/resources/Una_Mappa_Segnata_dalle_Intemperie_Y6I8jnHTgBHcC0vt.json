@@ -1,0 +1,20 @@
+{
+  "name": "Una Mappa Segnata dalle Intemperie",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Smantellatore.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "oW7JWECX81LaR0go",
+  "_id": "Y6I8jnHTgBHcC0vt",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!Y6I8jnHTgBHcC0vt"
+}

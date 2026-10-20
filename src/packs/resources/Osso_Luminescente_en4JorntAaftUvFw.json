@@ -1,0 +1,20 @@
+{
+  "name": "Osso Luminescente",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Ketra.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "vJUF3arvkg8avuXd",
+  "_id": "en4JorntAaftUvFw",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!en4JorntAaftUvFw"
+}

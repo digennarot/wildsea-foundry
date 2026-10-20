@@ -1,0 +1,20 @@
+{
+  "name": "Direzioni Verso una Sala Operatoria",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Chirurgo.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "Y97wOPffx4jkHONf",
+  "_id": "QSWR3TYAUmz51Mbh",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!QSWR3TYAUmz51Mbh"
+}

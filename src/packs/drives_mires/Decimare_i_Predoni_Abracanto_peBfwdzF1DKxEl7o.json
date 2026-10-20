@@ -1,0 +1,19 @@
+{
+  "name": "Decimare i Predoni Abracanto",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "gz2QfeTNrOGjnvCl",
+  "_id": "peBfwdzF1DKxEl7o",
+  "effects": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!peBfwdzF1DKxEl7o"
+}

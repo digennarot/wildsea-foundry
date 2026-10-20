@@ -1,0 +1,20 @@
+{
+  "name": "Una Cartina Caleidoscopica",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Gau.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "wEhW6shYyepZANK0",
+  "_id": "sGp2jWAuSpEmvS0J",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!sGp2jWAuSpEmvS0J"
+}

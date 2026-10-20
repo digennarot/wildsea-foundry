@@ -1,0 +1,19 @@
+{
+  "name": "Amberclad",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Origin. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.gsrAcqNgpZgmBXcu]{All So Familiar}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.8pxBnCSXt0j4ST96]{Ambervein}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.C0DzwqtLDy7yXFFb]{Closer to the Past}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wl4Gl4JdF5wwGd9p]{Dream-Dredge}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TBvpwYoxfjMPOCKz]{Endless Golden Age}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.uVWjozsXksLhOuMm]{Just a Scratch}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.xYtobGQKlcAoQYrA]{Resokinesis}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.3IaFNf4aaKfWlztU]{Unbroken Family Line}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.2OULnRyklN8KMcq9]{Fragmented Limb}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.RdeDegusWx95DVwv]{Half-Clogged Firearm}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.tO1W03rvisdomSrZ]{Heart of Resin}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.P0pAiujUCXLJdNJV]{Shard-Cloak}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.2x9CZ3Cb3cN2fUHN]{Shattered Eye}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.fG50boT341xxduvL]{Pre-V Pet}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.OQ48tXPbvs031wg5]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.iQKUWZTzalUPleak]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.kqsIPK14lH6jiz6i]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.JKJPRXh5G3bGs8Eh]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.DTEJZ1KJrbFAef3Q]</li><li>@UUID[Compendium.wildsea.resources.Item.QCIyDuMCbS3Da8LA]</li><li>@UUID[Compendium.wildsea.resources.Item.9hWp2kDGsf8KDz3d]</li><li>@UUID[Compendium.wildsea.resources.Item.uXihjTwxdh7jcDvL]</li><li>@UUID[Compendium.wildsea.resources.Item.Za1nLLeHC3p5TOtZ]</li><li>@UUID[Compendium.wildsea.resources.Item.SRFO34vlbrbwWrK7]</li><li>@UUID[Compendium.wildsea.resources.Item.8QmGOVwztNHW6v2j]</li><li>@UUID[Compendium.wildsea.resources.Item.7CK5V4Wa0KnZdzxs]</li></ul>",
+    "collapsed": false,
+    "type": "origin"
+  },
+  "folder": "irGBRwstZnCDKWcY",
+  "_id": "lfzAAku4rJfoPWei",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!lfzAAku4rJfoPWei"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Scoprire un effetto alchemico inedito e sconosciuto",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Alchimista.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "qfejWNLkrscc2R03",
+  "_id": "7eRg0hBJgzKuLTQw",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!7eRg0hBJgzKuLTQw"
+}

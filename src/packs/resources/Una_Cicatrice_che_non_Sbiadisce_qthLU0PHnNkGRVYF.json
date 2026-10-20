@@ -1,0 +1,20 @@
+{
+  "name": "Una Cicatrice che non Sbiadisce",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Chirurgo.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "Y97wOPffx4jkHONf",
+  "_id": "qthLU0PHnNkGRVYF",
+  "effects": [],
+  "sort": 400001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!qthLU0PHnNkGRVYF"
+}

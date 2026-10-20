@@ -1,0 +1,19 @@
+{
+  "name": "Tzelicrae",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.YgrSjbjsAuIOQ649]{Arachnid Mobility}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Qlju9QKxMu4ppa89]{Bidingweb}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.PErKV1pRgUl4O8rE]{Ersatz Limbs}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.tzPOnnr2wTwN1Gvg]{Gossamercraft}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.NaX5vl1IRDYfTUzp]{Manifold Linguist}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.5GQgSOMGWugrduTt]{Shirk the Skin}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WDMHzX5LHrnEdmYR]{Spiderbite}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TsJvuAGtVqIMcnFD]{The Lottery of Skin}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ptLWCR6SXpCrISL3]{Tremorsense}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.XcIVWvryXwEex5Om]{Voltaic Silking-Lines}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.ICHKYpC6aJkXbiGQ]{Blade of Husks}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.pJXiOAsdZ5ubgmQx]{Hush-Silk Garments}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.KUORZuc8P1MtI5GX]{Iron Satchel}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.UEujV523nmRhVc0O]{Motley Carapace}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.brFrCYwMMwCkOraV]{Shroom Hookah}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.a2vlIWAGzgKQW5RF]{Rogue Doomsayer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ficpDogVIjSC7cEF]{Swarm-Scout}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.H48MQXkBiGdl0ESc]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.Qt3Y9KvoiabBk5HP]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.M9f9kvNJiJ2LPN8y]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.5QlEPzjDnSqM6aBf]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.2Hft7beCJXltgCV7]</li><li>@UUID[Compendium.wildsea.resources.Item.uVU3pHDcweBOmfYG]</li><li>@UUID[Compendium.wildsea.resources.Item.6v0rEfqMXabgb9nO]</li><li>@UUID[Compendium.wildsea.resources.Item.C2DZLW64ic0QwMpA]</li><li>@UUID[Compendium.wildsea.resources.Item.0gwOWdt3aue4Ssqc]</li><li>@UUID[Compendium.wildsea.resources.Item.jTfl1CaaKMiciwYT]</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "dgk8eFnKxWn4T28x",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!dgk8eFnKxWn4T28x"
+}

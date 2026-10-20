@@ -1,0 +1,19 @@
+{
+  "name": "Augmentor",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.kinaWj1zjGf8L52H]{Advanced Adaptation}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.iIkRX2fck4L5Hpuj]{All Life Speaks}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.D8IkrAlu9REqvv5l]{One With All}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Voar8Y9LH7n1FRzp]{Recombinant}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.vC4imCpgofUxpSbn]{The Beast Within}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.L6SB1jdNVpIOQe5q]{This Looks Interesting}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.NeogZkMfMHl7Kf1s]{Earworm Network}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.dpXqDmstogOkZ2pQ]{Scrawled Research Notes}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.MX5WAM96x3w4wfpk]{Bluering Pallas}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.uCAprc1hm2Ds8NzZ]{Chromaquill}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "OUWNZRfdYElpjsoo",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!OUWNZRfdYElpjsoo"
+}

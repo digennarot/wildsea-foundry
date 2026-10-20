@@ -1,0 +1,20 @@
+{
+  "name": "Prora a Saracco",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Corazzata.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "jn66gQ6U7ofvnFV7",
+  "_id": "q0CLYjCXbnLAbdEJ",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!q0CLYjCXbnLAbdEJ"
+}

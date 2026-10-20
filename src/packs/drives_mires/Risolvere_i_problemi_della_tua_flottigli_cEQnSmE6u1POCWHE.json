@@ -1,0 +1,19 @@
+{
+  "name": "Risolvere i problemi della tua flottiglia",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Eradicato.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "KuwnBX3X4xxMWJHI",
+  "_id": "cEQnSmE6u1POCWHE",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!cEQnSmE6u1POCWHE"
+}

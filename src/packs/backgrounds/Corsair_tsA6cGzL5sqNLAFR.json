@@ -1,0 +1,19 @@
+{
+  "name": "Corsair",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.eJ1HJIs8C18PQFS8]{Berserker}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.mapJ4fJ5LYXddqk0]{Chain Attack}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Az70rv6WjpE7afNn]{Dangersense}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TrsosISlMdmH5g8d]{Dirty Fighter}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.EZ1171O2mYjRmfgm]{Prowess}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.BMA1jmcVX8aTooqD]{Scars That Tell Stories}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WrnbtnaQrB413LEn]{Stamp-Down Samba}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.hAE4yRMkCGasSkiC]{Steel-Step Dance}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.sQDtZIhDT7Qpbp4g]{Surgical Strike}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.VamHHMIDxVWv7Tg4]{Boarding Axe}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.5tGf5MR5gHJ9OZC0]{Comet-Forged Sabre}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.daPxANBqIb1b1nto]{Corsair's Sabre}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.fxlHgjWsqXFZKdZi]{Dragonfly Mantle}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.SbU8bSgv6gTRncVz]{Flashpowder Pouches}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ZYUZ5ws6kVkQxKL3]{Protective Beacon}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.zyoykfsF15L129ap]{Slinghammer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.zvQbh781VBSB3jZZ]{Throwing Knives}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.LPDNidNXZXnAzI6J]{Hooded Crow}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.2RHmvrTZtFHQnokr]{Metzaka Feathers}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.VvOFauXHD2T5pUKz]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.RxRSGYDFc0NbvKqp]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.bpu9byYdGZbxC70x]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.mNWrMVAEQdoprfVF]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.bXJqgbWEZ3phjCcN]</li><li>@UUID[Compendium.wildsea.resources.Item.XIvuTOxJcj3PS7sx]</li><li>@UUID[Compendium.wildsea.resources.Item.LdRbiay8BQxRLHJh]</li><li>@UUID[Compendium.wildsea.resources.Item.CwYWNffzPalLzuxm]</li><li>@UUID[Compendium.wildsea.resources.Item.TqbiXJ4AxJDcgxn4]</li><li>@UUID[Compendium.wildsea.resources.Item.BiNZBCt8itepcfi2]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "tsA6cGzL5sqNLAFR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!tsA6cGzL5sqNLAFR"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Tzelicrae con lo Zaino di Coltelli",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Vuole vendere le sue lame ai Famelici per i loro rituali.</p><p>Passeggero della regione L'Anomalia di Kremich. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "jxOFpoDwm7M9H64G",
+  "_id": "bwtXiqIMdrvk1XVk",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!bwtXiqIMdrvk1XVk"
+}

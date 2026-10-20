@@ -1,0 +1,20 @@
+{
+  "name": "Cubo di Pietra",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "6NVL7LaE63t4DZzU",
+  "_id": "F3MHy8uxAKph1ej8",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!F3MHy8uxAKph1ej8"
+}

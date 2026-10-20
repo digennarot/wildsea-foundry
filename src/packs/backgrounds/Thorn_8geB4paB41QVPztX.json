@@ -1,0 +1,19 @@
+{
+  "name": "Thorn",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.5DUCx2BZfDiwfG7W]{All as Soil}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.2d4ZIHvubs9aXpLn]{Bursting Bloom}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.MGbB2ACvNBtS3lEx]{Crezzer-Blooded}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.7tjYfBNSodGLVGfU]{Gnarled Host}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.YyE6zGZYIfr9v8kj]{Grave-Roots}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.kRju3GyPEBwbFQ6c]{Nurturing Chant}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.vtlqlht2ZdxnI6qQ]{Sizzling Sap}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.osKIYO9sRebLjusR]{Gentle Scythe}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.30rilOtMb338nR5F]{Heirloom Seed-Bottles}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.iMWe1DJzn1OR0o7g]{Inscribed Root}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.SuHDsfZGMlM1eIRw]{Symbiote Seed-Bed}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.e78Kvr55w2ljgT76]{Anemone Ghast}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.cSiSwvrPD126xZ4Y]{Autumnal Drift}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.1w0qURsVzF5bCC84]{Trained Hummingbird}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "8geB4paB41QVPztX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!8geB4paB41QVPztX"
+}

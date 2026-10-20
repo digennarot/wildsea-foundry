@@ -1,0 +1,19 @@
+{
+  "name": "Le tue mani tremano quando sei sotto pressione",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Chirurgo.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "aMiG4iwJTJbnwP8v",
+  "_id": "qjL3yS7pfmaqkm3P",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!qjL3yS7pfmaqkm3P"
+}

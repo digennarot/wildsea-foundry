@@ -1,0 +1,19 @@
+{
+  "name": "Fare in modo che altri spiriti possano riposare in pace",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Ancorato.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "LSFgDD841BSQ5uq7",
+  "_id": "l55ZMLSth9ZIG7Nz",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!l55ZMLSth9ZIG7Nz"
+}

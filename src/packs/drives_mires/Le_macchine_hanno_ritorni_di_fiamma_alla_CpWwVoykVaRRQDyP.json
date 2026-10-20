@@ -1,0 +1,19 @@
+{
+  "name": "Le macchine hanno ritorni di fiamma alla tua sola presenza",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Smanettone.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "2nFwtKH4tuv3z3eb",
+  "_id": "CpWwVoykVaRRQDyP",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!CpWwVoykVaRRQDyP"
+}

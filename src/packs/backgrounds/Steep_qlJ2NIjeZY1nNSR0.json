@@ -1,0 +1,19 @@
+{
+  "name": "Steep",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.R7jzYCsRDpGNg7GK]{Anima Presence}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TUN8TcWqkzedusLe]{Conduit to Flavour}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.3IHXQaTySVwgmgAb]{Not a Drop Wasted}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.UAhn7AzvP4NtYJcO]{Potion of Youth}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.zK7TiJiqJbeyXhax]{Reading the Remains}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wkqGl0z7TKRp41hv]{Rite of Bloom}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TF9zykZ8HWEssUi4]{Steeping Reality}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.QIZNrFvHStVuyCOX]{Coterie Drugget}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.fijWUY4ren34TPbz]{Crezzagrean Kantharos}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.3pxEJ799ces6JgEg]{Ossein Kettles}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.kKhdmgFGMmf6ETIe]{Overwhelming Aromas}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WMtnHTyOCLQWICHz]{Silver Split-Prong}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.bhMnaJbzXSGrcV4w]{The Winning Wishbone}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.UdiaiJvEMoHpYmya]{Zephyrous Stir-Spoon}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.kZa8XLQc6Jm0daYX]{Salamini}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.HWugUCqpmsPJVD30]{Steam-Familiar}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.g1hRjWaKSq7VDtYA]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.GoE2BfOGvSd9FPkK]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.ZiRszIaSBisj0srv]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.XoOtlT2fcIP46Spa]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.SJRqok4V8EKYcu4t]</li><li>@UUID[Compendium.wildsea.resources.Item.7XrvUFMhGZa6NCS9]</li><li>@UUID[Compendium.wildsea.resources.Item.D13qicpW5I0a1sMq]</li><li>@UUID[Compendium.wildsea.resources.Item.vo6rlbmCKbaUwTVb]</li><li>@UUID[Compendium.wildsea.resources.Item.NbXgYkgB0tbwxFSs]</li><li>@UUID[Compendium.wildsea.resources.Item.O8IxC76X3GLB2xj7]</li><li>@UUID[Compendium.wildsea.resources.Item.sEijDDLAE6gxrTEr]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "qlJ2NIjeZY1nNSR0",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!qlJ2NIjeZY1nNSR0"
+}

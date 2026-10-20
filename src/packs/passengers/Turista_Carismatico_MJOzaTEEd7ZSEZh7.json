@@ -1,0 +1,19 @@
+{
+  "name": "Turista Carismatico",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Ha una lista di posti da vedere da spuntare uno a uno, ed è difficile dirgli di no.</p><p>Passeggero della regione Le Ferradici Ambrate. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "eo7HM5VWOlKOw7qG",
+  "_id": "MJOzaTEEd7ZSEZh7",
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!MJOzaTEEd7ZSEZh7"
+}

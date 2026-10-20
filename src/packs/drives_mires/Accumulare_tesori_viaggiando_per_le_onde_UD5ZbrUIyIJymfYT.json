@@ -1,0 +1,19 @@
+{
+  "name": "Accumulare tesori viaggiando per le onde",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Ketra.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "kVQtcpIlIq8jpXE3",
+  "_id": "UD5ZbrUIyIJymfYT",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!UD5ZbrUIyIJymfYT"
+}

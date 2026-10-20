@@ -1,0 +1,24 @@
+{
+  "name": "Pasto Piccante",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Un pasto bollente che scalda lo stomaco e dà energia. Segna una casella ogni volta che ne sfrutti il calore.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 5
+    },
+    "type": "Bonus"
+  },
+  "folder": "lLmJL8Ep9uphRAau",
+  "_id": "2VAZNFtOviWt4Zty",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/upgrade.svg",
+  "_key": "!items!2VAZNFtOviWt4Zty"
+}

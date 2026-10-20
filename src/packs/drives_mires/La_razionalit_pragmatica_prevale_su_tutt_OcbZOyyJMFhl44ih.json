@@ -1,0 +1,19 @@
+{
+  "name": "La razionalità pragmatica prevale su tutto il resto",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Corron.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "vNaGyyPODb1hRZGt",
+  "_id": "OcbZOyyJMFhl44ih",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!OcbZOyyJMFhl44ih"
+}

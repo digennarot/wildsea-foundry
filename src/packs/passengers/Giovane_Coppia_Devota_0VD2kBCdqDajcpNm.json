@@ -1,0 +1,19 @@
+{
+  "name": "Giovane Coppia Devota",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fugge dal Rintocco di Orin; strani sogni li portano sul ponte di notte.</p><p>Passeggero della regione L'Anomalia di Kremich. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "jxOFpoDwm7M9H64G",
+  "_id": "0VD2kBCdqDajcpNm",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!0VD2kBCdqDajcpNm"
+}

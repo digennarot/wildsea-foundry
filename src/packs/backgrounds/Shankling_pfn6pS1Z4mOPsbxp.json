@@ -1,0 +1,19 @@
+{
+  "name": "Shankling",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Origin. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.oQV5Aag5rCydSZEz]{From Bough to Brain}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.LUxsY2sPJZFhWATc]{Grappling Hook}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.RZUAMO1VEt0jnVnM]{Hawksight}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.LH3ONXmZIOWJCPgf]{Head for Heights}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.fNuvpFn2kWuqTj3y]{High Ground}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.HzxrEpOX2O61tBzi]{Rising Meteor}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.vY9nVVCCtanwQYON]{Skybridge Step}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.VaxHx00TU2Cu57wM]{Balancing Staff}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.FhQRHlnOExD1sSyN]{Broadwood Bow}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.hRb9DEUy1CPykL8z]{Feathered Mantle}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.4ufcgYdeqzD3oGRb]{Flutter-Lamps}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.9RYa9LJTNyXGgTKM]{Glider's Cloak}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.I6YnbXjrI6URRvpu]{Raptor's Claw}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.KPBsCMRjTElpYYLS]{Bark-Peeling Ferret}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.I2Lhn0OAUJbYyA47]{Feathered Raptor}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.CILT3w2iCqx1NkUT]{Sentinel Skywing}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.MaIpDcBCoTiF8asC]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.aiKVMrKV4DabxKT4]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.Xc0P0q9NaHeomUwd]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.Z6Nda3aZ965RneoD]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.fBae0KeYtdeQZasH]</li><li>@UUID[Compendium.wildsea.resources.Item.czOD2rEOZei1yBdo]</li><li>@UUID[Compendium.wildsea.resources.Item.fhMqZXCL6smiKFY6]</li><li>@UUID[Compendium.wildsea.resources.Item.kmCRwNbGsvZaXeRQ]</li><li>@UUID[Compendium.wildsea.resources.Item.wwJthRj2PsgOW3tx]</li><li>@UUID[Compendium.wildsea.resources.Item.7AT6b1d8495g79Dk]</li></ul>",
+    "collapsed": false,
+    "type": "origin"
+  },
+  "folder": "irGBRwstZnCDKWcY",
+  "_id": "pfn6pS1Z4mOPsbxp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!pfn6pS1Z4mOPsbxp"
+}

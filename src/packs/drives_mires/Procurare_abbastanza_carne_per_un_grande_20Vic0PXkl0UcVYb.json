@@ -1,0 +1,19 @@
+{
+  "name": "Procurare abbastanza carne per un grande banchetto",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Cacciatore.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "DFVpWzNzqBVtsTET",
+  "_id": "20Vic0PXkl0UcVYb",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!20Vic0PXkl0UcVYb"
+}

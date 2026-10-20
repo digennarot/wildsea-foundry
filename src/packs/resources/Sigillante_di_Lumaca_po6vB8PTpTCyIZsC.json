@@ -1,0 +1,20 @@
+{
+  "name": "Sigillante di Lumaca",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Fattorino.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "Sgw8pYYLZycJMYce",
+  "_id": "po6vB8PTpTCyIZsC",
+  "effects": [],
+  "sort": 200001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!po6vB8PTpTCyIZsC"
+}

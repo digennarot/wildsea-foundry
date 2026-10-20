@@ -1,0 +1,19 @@
+{
+  "name": "I tuoi movimenti destabilizzano i relitti, facendoli scivolare verso le profondità",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Draghista.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "umwUSyprVoHhND1M",
+  "_id": "bMksrTW60mkWxQbQ",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!bMksrTW60mkWxQbQ"
+}

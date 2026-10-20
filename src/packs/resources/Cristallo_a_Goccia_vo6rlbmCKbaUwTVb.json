@@ -1,0 +1,20 @@
+{
+  "name": "Cristallo a Goccia",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Mescitore.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "Vvg4urOs1Dc4fzme",
+  "_id": "vo6rlbmCKbaUwTVb",
+  "effects": [],
+  "sort": 200001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!vo6rlbmCKbaUwTVb"
+}

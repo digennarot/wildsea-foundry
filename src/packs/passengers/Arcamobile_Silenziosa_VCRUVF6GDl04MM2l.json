@@ -1,0 +1,19 @@
+{
+  "name": "Arcamobile Silenziosa",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Non dice una parola e lascerà la nave quando lo deciderà lei.</p><p>Passeggero della regione La Vulpinaia. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "3DpDYXXm4eg6vqFi",
+  "_id": "VCRUVF6GDl04MM2l",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!VCRUVF6GDl04MM2l"
+}

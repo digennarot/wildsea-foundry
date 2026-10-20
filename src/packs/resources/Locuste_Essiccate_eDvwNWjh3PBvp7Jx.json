@@ -1,0 +1,20 @@
+{
+  "name": "Locuste Essiccate",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Alchimista.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "Gy6Gb3FKTOt9WQMw",
+  "_id": "eDvwNWjh3PBvp7Jx",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!eDvwNWjh3PBvp7Jx"
+}

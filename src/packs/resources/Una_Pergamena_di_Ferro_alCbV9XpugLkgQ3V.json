@@ -1,0 +1,20 @@
+{
+  "name": "Una Pergamena di Ferro",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Magnetista.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "fqSvfHBdlfpDZBzp",
+  "_id": "alCbV9XpugLkgQ3V",
+  "effects": [],
+  "sort": 300001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!alCbV9XpugLkgQ3V"
+}

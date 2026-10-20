@@ -1,0 +1,20 @@
+{
+  "name": "Tomo Ammuffito",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "6NVL7LaE63t4DZzU",
+  "_id": "gmsn9IvpN0WKvXaQ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!gmsn9IvpN0WKvXaQ"
+}

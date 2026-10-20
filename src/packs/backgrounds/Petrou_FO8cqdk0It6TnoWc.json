@@ -1,0 +1,19 @@
+{
+  "name": "Petrou",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.3LH3qy7Z5O3E7bl3]{Forced Rising}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.CzZyrlBazhA6OVqH]{Geosong}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WYWv9s1RqGDJ1jWt]{Roads Beneath}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.oGR7BVeFbn5ARk8k]{Silica Storm}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.PHp2mx3GbahfX5S6]{State Shift}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.P7b1QC7P2EtaHEn8]{Calling Stone}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.aMQxR7WhEogMJvkP]{Akihapo}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "FO8cqdk0It6TnoWc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!FO8cqdk0It6TnoWc"
+}

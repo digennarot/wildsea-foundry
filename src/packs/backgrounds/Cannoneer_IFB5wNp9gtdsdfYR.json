@@ -1,0 +1,19 @@
+{
+  "name": "Cannoneer",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.2FaX4ktcpTxLIA9g]{Battering Ram}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.LMZxKNM8eqIRAiN6]{How It's Done}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.gkzf1p4olfR199Ni]{Leaving a Mark}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.3yltN9SJlofodATY]{Me First!}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.BLFlMYAfFutZ7sXP]{Needle-Point}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.fxkRosNePsgHcgDS]{Oft-Rattled Braincase}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.jN5s634S7GEArzqE]{Pure Muscle}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.zqHuzU0VU2xsifgH]{Full Reef-Iron Plating}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.xMdfMtRtGWLgjLGl]{Loading Assistant}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "IFB5wNp9gtdsdfYR",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!IFB5wNp9gtdsdfYR"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Il metallo intorno a te scintilla e crepita",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "zQxuTbpWkMwa28gN",
+  "_id": "G8GGi2unDbVMdYdJ",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!G8GGi2unDbVMdYdJ"
+}

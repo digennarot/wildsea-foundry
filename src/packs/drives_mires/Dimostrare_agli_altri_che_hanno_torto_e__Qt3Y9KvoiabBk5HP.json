@@ -1,0 +1,19 @@
+{
+  "name": "Dimostrare agli altri che hanno torto e la tua specie non va temuta",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Tzelicrae.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "IZRYeTQ1HCGbIVR3",
+  "_id": "Qt3Y9KvoiabBk5HP",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!Qt3Y9KvoiabBk5HP"
+}

@@ -79,6 +79,40 @@ export default class WildseaPlayerSheet extends WildseaActorSheet {
     super.activateListeners(html)
   }
 
+  // Bloodlines, origins and posts fill in the background fields, and
+  // drives, mires and milestones are added to their lists, instead of
+  // being embedded as items
+  async _onDropItem(event, data) {
+    if (!this.actor.isOwner) return false
+    const item = await Item.implementation.fromDropData(data)
+    const field = item?.system?.type
+    if (item?.type !== 'attribute') return super._onDropItem(event, data)
+
+    const slim = WILDSEA.slimDropTypes[field]
+    if (slim) {
+      const [itemType, subtype] = slim
+      const existing = this.actor.system[itemType] || []
+      if (existing.some((i) => i.text === item.name && (i.subtype ?? null) === subtype)) {
+        ui.notifications.warn(game.i18n.format('wildsea.slimExists', { name: item.name }))
+        return false
+      }
+      await this.createSlimItem(itemType, item.name, subtype)
+      return false
+    }
+
+    if (WILDSEA.backgroundFields.includes(field)) {
+      await this.actor.update({ [`system.${field}`]: item.name })
+      ui.notifications.info(
+        game.i18n.format('wildsea.backgroundSet', {
+          field: game.i18n.localize(`wildsea.${field}`),
+          name: item.name,
+        }),
+      )
+      return false
+    }
+    return super._onDropItem(event, data)
+  }
+
   async increaseListTrack(event) {
     event.preventDefault()
 

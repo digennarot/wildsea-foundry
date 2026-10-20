@@ -1,0 +1,20 @@
+{
+  "name": "Erbe Vermiglie",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Smantellatore.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "oW7JWECX81LaR0go",
+  "_id": "8aR5rSC5BIA1Z2HA",
+  "effects": [],
+  "sort": 200001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!8aR5rSC5BIA1Z2HA"
+}

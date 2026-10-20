@@ -1,0 +1,19 @@
+{
+  "name": "Spielographer",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.RLjCCfn4HauShqsr]{Inspiration}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.YICVL79Fdkb8cazn]{Rewrite the Ending}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.7iNF71c8DMLRxvYT]{Taming the Word}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ydrtHv7AGEA74eKv]{We Both Know How This Ends}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.77kdVk5UeZlnis7D]{Writer's Repose}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.zzHyJTsCePLg8riN]{Rose Codex}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.dQmEElBylWPZGkAX]{Scrap-Paper Notebook}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.dHn29LZu0GjQBqYp]{Type-Hammer Ordinator}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.7CfNOmKtIlVUr0L9]{Quillhound}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "Shpo5rbKzQ9vkONw",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!Shpo5rbKzQ9vkONw"
+}

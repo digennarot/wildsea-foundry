@@ -1,0 +1,19 @@
+{
+  "name": "Augur",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.kBGYHbp3dUu1PvAa]{A Reading of Passage}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wtfVsltDm9v5Xplx]{Flash of Insight}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.DEpxUb4bmcgLn7PZ]{Skybridge Pirouette}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.rUGylH4uxLR0dnlw]{Collapsible Recliner}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OlUbBrwWirz7pkgf]{Light-Catch Lantern}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.JUP4OZyYhvZq01Iz]{Somatic Drill}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.8lvXDTgYdgjgQJGT]{Mythologue Fireflies}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.m49YvhNlNf4g0fs3]{Wandering Starling}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.VqObMOCzsbrQY6ys]{Whisperwisp}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "08Ce4kfNSGtMKTfT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!08Ce4kfNSGtMKTfT"
+}

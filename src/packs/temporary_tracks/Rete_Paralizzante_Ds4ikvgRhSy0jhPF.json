@@ -1,0 +1,24 @@
+{
+  "name": "Rete Paralizzante",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Segna una casella per bloccare o stordire un bersaglio vicino.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 3
+    },
+    "type": "Bonus"
+  },
+  "folder": "lLmJL8Ep9uphRAau",
+  "_id": "Ds4ikvgRhSy0jhPF",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/upgrade.svg",
+  "_key": "!items!Ds4ikvgRhSy0jhPF"
+}

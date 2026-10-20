@@ -49,6 +49,34 @@
   "styles": ["styles/wildsea.css"],
   "packs": [
     {
+      "name": "backgrounds",
+      "label": "Bloodlines, Origins & Posts",
+      "system": "wildsea",
+      "path": "packs/backgrounds",
+      "type": "Item"
+    },
+    {
+      "name": "drives_mires",
+      "label": "Drives, Mires & Milestones",
+      "system": "wildsea",
+      "path": "packs/drives_mires",
+      "type": "Item"
+    },
+    {
+      "name": "temporary_tracks",
+      "label": "Temporary Tracks",
+      "system": "wildsea",
+      "path": "packs/temporary_tracks",
+      "type": "Item"
+    },
+    {
+      "name": "resources",
+      "label": "Resources",
+      "system": "wildsea",
+      "path": "packs/resources",
+      "type": "Item"
+    },
+    {
       "name": "character_aspects",
       "label": "Character Aspects",
       "system": "wildsea",
@@ -79,6 +107,13 @@
       "type": "Item"
     },
     {
+      "name": "passengers",
+      "label": "Passengers",
+      "system": "wildsea",
+      "path": "packs/passengers",
+      "type": "Item"
+    },
+    {
       "name": "factions",
       "label": "Factions",
       "system": "wildsea",
@@ -98,7 +133,7 @@
     {
       "name": "The Wildsea",
       "sorting": "m",
-      "packs": ["character_aspects", "ship_aspects", "hazards", "cargo", "factions", "journals"]
+      "packs": ["backgrounds", "drives_mires", "temporary_tracks", "resources", "character_aspects", "ship_aspects", "hazards", "cargo", "passengers", "factions", "journals"]
     }
   ],
   "languages": [

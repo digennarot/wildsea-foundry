@@ -1,0 +1,19 @@
+{
+  "name": "Heartskavo",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Origin. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.A7p3D8GFwfQ6Aeac]{Breath of Eaves}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.z4mu3nlRL53xzrSZ]{Cordevenant}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.8UXe7CToPHp5PYWa]{From Depth to Depth}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Bx3bgJqmxcae6avo]{Fungal Filaments}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.XHfIluvtKreS1K19]{Haskavic Dreamer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.i4hxm9kfNPT5qF7Y]{Myconic Crown}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.u78j3l1NfMgQPoUY]{Networked Metabolism}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.E7DiE0ctVe2Cq2Lq]{Noctovore}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.6LhW2j20RXzOFyXn]{Revenant Step}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.liGGjXRSIVYUYX0Z]{Slow Surrender}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.tSsQ9itEtka0ZAHM]{Sporeburst}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.qQS2jVFkTCAsyApj]{Toxic Personality}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.mIl5f81Iixddz3Q0]{Unnerving Fronds}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.kbKBVTmQdc2T0dmm]{Wheezing Bellows}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.JtFtbz3j5nxw2FUT]{Orbishroom}</li></ul>",
+    "collapsed": false,
+    "type": "origin"
+  },
+  "folder": "irGBRwstZnCDKWcY",
+  "_id": "QmaXDy5SuJobMxAU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!QmaXDy5SuJobMxAU"
+}

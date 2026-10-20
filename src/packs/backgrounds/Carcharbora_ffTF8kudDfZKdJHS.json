@@ -1,0 +1,19 @@
+{
+  "name": "Carcharbora",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.tiOv8DSy2giUpEHv]{Abyssal Age}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Lrb0k0cWK3h2SuQN]{Floater's Organ}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.gkxy0BZ7abbtkFZB]{Lateral Line}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ZoarxeUAMUG0R8w9]{Predator's Jaws}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.eneByOdO96FRMEyz]{Scent-Marked}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.lLhMRv08CImhkQb8]{Verdenticle Hide}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.M7WiT6FRNSJecZ5P]{Scrawltooth Kit}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.aJmILYMOn51XepYL]{Stemora}</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "ffTF8kudDfZKdJHS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!ffTF8kudDfZKdJHS"
+}

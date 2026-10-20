@@ -1,0 +1,20 @@
+{
+  "name": "La Fortezza Fluttuante",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Magnetista.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "fqSvfHBdlfpDZBzp",
+  "_id": "D4K4OkY8sf2ago8A",
+  "effects": [],
+  "sort": 400001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!D4K4OkY8sf2ago8A"
+}

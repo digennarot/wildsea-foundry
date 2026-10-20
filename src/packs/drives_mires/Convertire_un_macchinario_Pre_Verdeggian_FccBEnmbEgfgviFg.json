@@ -1,0 +1,19 @@
+{
+  "name": "Convertire un macchinario Pre-Verdeggiante",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Smanettone.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "ufwm3sVHsu49fW9q",
+  "_id": "FccBEnmbEgfgviFg",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!FccBEnmbEgfgviFg"
+}

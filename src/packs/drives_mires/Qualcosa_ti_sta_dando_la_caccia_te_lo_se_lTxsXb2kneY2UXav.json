@@ -1,0 +1,19 @@
+{
+  "name": "Qualcosa ti sta dando la caccia, te lo senti nelle ossa",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Cacciatore.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "VR1ufw9OJyLGjfHp",
+  "_id": "lTxsXb2kneY2UXav",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!lTxsXb2kneY2UXav"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Rifornire le strisce emerse di cibo e acqua fresca",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Gente delle Strisce.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "uePK3LiNnQHmlofd",
+  "_id": "gQIqEioh19hOJMhC",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!gQIqEioh19hOJMhC"
+}

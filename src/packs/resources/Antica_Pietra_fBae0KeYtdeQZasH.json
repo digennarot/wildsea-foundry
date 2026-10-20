@@ -1,0 +1,20 @@
+{
+  "name": "Antica Pietra",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Svettante.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "uBOmH1sWuYylylsO",
+  "_id": "fBae0KeYtdeQZasH",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!fBae0KeYtdeQZasH"
+}

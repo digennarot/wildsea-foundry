@@ -1,0 +1,24 @@
+{
+  "name": "Combinare Due Aspetti",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Progetto di avanzamento: al termine fondi due aspetti in uno, con un tracciato più lungo. Un avanzamento minore segna 1 casella, uno maggiore 3.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 6
+    },
+    "type": "Progetto"
+  },
+  "folder": "sHO3zhf1pCFQ4KRk",
+  "_id": "WOeoJxhS3Oa4cmem",
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!WOeoJxhS3Oa4cmem"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ti senti indegno del tuo senso del gusto",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Cuoco.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "Cm20MzyfgxBnN58P",
+  "_id": "ULK7RbHCSpuWCzIG",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!ULK7RbHCSpuWCzIG"
+}

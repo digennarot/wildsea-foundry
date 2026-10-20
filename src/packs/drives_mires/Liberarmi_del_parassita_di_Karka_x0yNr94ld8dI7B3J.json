@@ -1,0 +1,19 @@
+{
+  "name": "Liberarmi del parassita di Karka",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "gz2QfeTNrOGjnvCl",
+  "_id": "x0yNr94ld8dI7B3J",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!x0yNr94ld8dI7B3J"
+}

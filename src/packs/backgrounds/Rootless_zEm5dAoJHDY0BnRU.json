@@ -1,0 +1,19 @@
+{
+  "name": "Rootless",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Origin. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.61SADtLZBmTwt6AL]{Born to Sail}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.uF6fS9lZlHDdQuPc]{Family Ties}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.g5IkC1wQYkGIsBdF]{Hull Hearted}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ecvq6C9mg3EpmYg4]{Needs Must}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.KPNpbHAdgDWVlVdx]{Sundew Senses}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ZIrpmK4knB9fK93k]{Wild Words}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.G2KowjXFpWHPwFsG]{Fishing Lure}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.vR7fffVy31kjmd7X]{Fleetfamily Scarf}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.LvFgsc6cJzzPxuZL]{Mechanical Limb}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.0Z1mX2rIWw8ZFWPo]{Nomad's Phrasebook}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.BOD9AMDVi4yEsTtA]{Patterned Sash}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.02pagnnNd1DhZzhB]{Shortspear}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.44yKCTRUirSPPigR]{Slingshot}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Pkk6dhUCWuVPUswl]{Tarscale Armour}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.mzVe0T9PxN1jmXji]{Adaptive Ratter}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.icsDwbhu5FnmH8Ce]{Ring-Tailed Rabble-Rouser}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.5LPz9iTriLFAu7sf]{Springfox}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.phJT8urgrpHo0TVg]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.cEQnSmE6u1POCWHE]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.csOzQdtiDJ73OPuJ]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.UdTswjQIkaYvR3Y3]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.Bd5Zon73tJxpvDiB]</li><li>@UUID[Compendium.wildsea.resources.Item.e33KBOqY5pbku41g]</li><li>@UUID[Compendium.wildsea.resources.Item.sNQ3kcFjCT9Sw6YV]</li><li>@UUID[Compendium.wildsea.resources.Item.00HWi2jfaeCtgocn]</li><li>@UUID[Compendium.wildsea.resources.Item.2P5FIXba9CUOkJT0]</li><li>@UUID[Compendium.wildsea.resources.Item.QSJFGbNaoNLQWCUR]</li></ul>",
+    "collapsed": false,
+    "type": "origin"
+  },
+  "folder": "irGBRwstZnCDKWcY",
+  "_id": "zEm5dAoJHDY0BnRU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!zEm5dAoJHDY0BnRU"
+}

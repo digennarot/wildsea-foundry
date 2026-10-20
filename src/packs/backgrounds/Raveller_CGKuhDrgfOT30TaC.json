@@ -1,0 +1,19 @@
+{
+  "name": "Raveller",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.ZxrHChZg6AzNWPTG]{Off the Cuff}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.zm2pbj5573001X9T]{The Threads That Bind}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.hxtTOZ0dvxPf8wNN]{To Shreds}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.fTNcmqmROAF65Qpq]{Anchoring Thimble}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.STja5wvaf7oifvVe]{Chiraloth}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.dDBxjF5va3hZQoUa]{Grappling Needle}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.rqAf2LdGBKY5M2Ik]{The Loom}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.hOUZjFImwBeKPJ2s]{Plush Pal}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.B6ekDntGdQbKoBEq]{Porcuquill}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "CGKuhDrgfOT30TaC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!CGKuhDrgfOT30TaC"
+}

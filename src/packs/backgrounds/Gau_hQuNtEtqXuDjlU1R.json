@@ -1,0 +1,19 @@
+{
+  "name": "Gau",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.xd8hirlkUhJUZruU]{Camouflage Mottle}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.LAthiUyCLJM3HB7k]{Drifting Territory}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.JwFKtEgTrnR9ga4f]{Fungal Fortress}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wLwLugjLKdnpqJE6]{Fungal Tendril}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.az9wUPvbW9MzIuEK]{Luminous Patches}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.G4dg3DpC8x8kKD4W]{Mycofiltration}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Xh9nzcxKApidjzAC]{Mycomelding}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.MQrH7fgGzYLAvsn4]{Naturally Hallucinogenic}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.KcRZtraIApyUMxrp]{Proliferation}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OATaW5khe8JIajHe]{Spore-Sacs}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Y2wB11eoQri2NkbC]{Unfurling Flare}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.kgO7o0U1WD1gVJiO]{Jag-Lash}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.MXWdRFJz7baMzsbW]{Medicine Pouch}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.HiTuzzjA4eWY09Qd]{Nurturing Pitch-Jar}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.hdm9Kp5456f06z5s]{Spore-Slinger}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.y4t4nBkvYqzYNBk6]{Cordysect}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.v91QqzwOoI9N5k7I]{Pangoshroom}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Zubd8R2Kngctje4t]{Sporehund}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.sDlt78iafoZhG9v2]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.MfunkwAMvAS4Cja9]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.BAXp2A3yadc3QYh5]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.TuO4EgCCkqcH7wR0]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.jNv30MqA4ZoKnSjn]</li><li>@UUID[Compendium.wildsea.resources.Item.XwQefArvgzSvDdB7]</li><li>@UUID[Compendium.wildsea.resources.Item.yJULgeeqte1cl5K1]</li><li>@UUID[Compendium.wildsea.resources.Item.84M44P6939NNSRCj]</li><li>@UUID[Compendium.wildsea.resources.Item.sGp2jWAuSpEmvS0J]</li><li>@UUID[Compendium.wildsea.resources.Item.5jdg5dY2AqUbT6Us]</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "hQuNtEtqXuDjlU1R",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!hQuNtEtqXuDjlU1R"
+}

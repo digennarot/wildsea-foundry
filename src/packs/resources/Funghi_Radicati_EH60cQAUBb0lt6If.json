@@ -1,0 +1,20 @@
+{
+  "name": "Funghi Radicati",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Corazzata.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "jn66gQ6U7ofvnFV7",
+  "_id": "EH60cQAUBb0lt6If",
+  "effects": [],
+  "sort": 200001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!EH60cQAUBb0lt6If"
+}

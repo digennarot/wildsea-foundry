@@ -1,0 +1,19 @@
+{
+  "name": "Sei il soggetto perfetto su cui effettuare uno dei tuoi esperimenti",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Alchimista.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "KTiEk8W3qCgHgfvo",
+  "_id": "XEcy8U5JBRCNMH5V",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!XEcy8U5JBRCNMH5V"
+}

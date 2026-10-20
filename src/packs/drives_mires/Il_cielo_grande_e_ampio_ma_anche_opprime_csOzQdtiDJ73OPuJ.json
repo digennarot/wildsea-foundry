@@ -1,0 +1,19 @@
+{
+  "name": "Il cielo è grande e ampio, ma anche opprimente",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Eradicato.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "xuAtLsN0ElTJg3oq",
+  "_id": "csOzQdtiDJ73OPuJ",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!csOzQdtiDJ73OPuJ"
+}

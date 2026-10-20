@@ -1,0 +1,19 @@
+{
+  "name": "Scalare l’albero più alto del mondo",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Svettante.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "i2zFXAc65KekNFuq",
+  "_id": "MaIpDcBCoTiF8asC",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!MaIpDcBCoTiF8asC"
+}

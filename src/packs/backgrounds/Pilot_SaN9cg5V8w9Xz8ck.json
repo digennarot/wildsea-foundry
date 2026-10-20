@@ -1,0 +1,19 @@
+{
+  "name": "Pilot",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.8wheYPw2Fe1Yfjly]{Air of Competency}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.nRXBGVYQmwf8cS1R]{Creakophony}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.pscaOYCwBxBdv9jL]{Familiar Routes}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.rt7tBbqH9x4oxF2a]{Hold On To Your Hats}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.DxBfJDmtZgaEWwum]{Home Deck Advantage}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.S1M7SqZwCGemKl9R]{Hullcradle}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.klYtD2fJWwZ8cRT0]{Situational Awareness}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.DhH6FnBgFYr6RUrG]{The Other Left}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.tu6mtYauYKJs9Oex]{Copper-Knot Scarf}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.luSYop0tr8NWMwug]{Eye-Scraper Jerky}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TbBTvGv2bDLlvC5b]{Goggles}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.yUqKKHVkGJCMqYIW]{Unwrecker's Wrench}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.b0ejIv7jkO9VuHTX]{Hushed Parakeet}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.DCdAVJiTOqRjiliU]{Ratwork Refugees}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "SaN9cg5V8w9Xz8ck",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!SaN9cg5V8w9Xz8ck"
+}

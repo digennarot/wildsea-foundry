@@ -1,0 +1,19 @@
+{
+  "name": "Sopravvivere a un incontro con un fito-leviatano",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Apripista.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "TtIF87E5DbLmUjpc",
+  "_id": "QzU6VsMV8uaMUfaU",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!QzU6VsMV8uaMUfaU"
+}

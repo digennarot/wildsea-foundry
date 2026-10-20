@@ -1,0 +1,20 @@
+{
+  "name": "Una Mappa Macchiata di Tè",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Mescitore.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "Vvg4urOs1Dc4fzme",
+  "_id": "NbXgYkgB0tbwxFSs",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!NbXgYkgB0tbwxFSs"
+}

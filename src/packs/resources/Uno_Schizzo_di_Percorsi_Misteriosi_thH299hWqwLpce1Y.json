@@ -1,0 +1,20 @@
+{
+  "name": "Uno Schizzo di Percorsi Misteriosi",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Ancorato.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "nlOBm8m7FqUGHjgv",
+  "_id": "thH299hWqwLpce1Y",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!thH299hWqwLpce1Y"
+}

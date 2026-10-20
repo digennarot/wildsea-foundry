@@ -1,0 +1,19 @@
+{
+  "name": "Risolvere problemi presso un insediamento Ektus",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Ektus.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "A1nb0KVQaVq30iHd",
+  "_id": "g0y6Hk9OyxeEJFIe",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!g0y6Hk9OyxeEJFIe"
+}

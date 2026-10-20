@@ -1,0 +1,20 @@
+{
+  "name": "Albicocche Selvatiche",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Apripista.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "0RS0OjR1OigEOxFz",
+  "_id": "iuYeSEb3LZxPgeXM",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!iuYeSEb3LZxPgeXM"
+}

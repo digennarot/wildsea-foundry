@@ -1,0 +1,19 @@
+{
+  "name": "Predona Onesta",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Ammette che, con la sua ciurma, saccheggerebbe questa nave. Chissà perché lo dice.</p><p>Passeggero della regione L'Interregno. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "JisdLgdxgzprQTE6",
+  "_id": "QFSwFLEjkPJct0ui",
+  "effects": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!QFSwFLEjkPJct0ui"
+}

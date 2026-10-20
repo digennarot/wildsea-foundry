@@ -1,0 +1,19 @@
+{
+  "name": "Spit-Born",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Origin. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.qw3yvXI3lOmUqX9L]{Cobble Hearted}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.PJGXP5EeHmdWfcdg]{Every Street Tells a Story}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.7z245k1j8Jik57Cj]{Life of Scraps}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.4HnuG5uYWwDJOVn2]{Pilferer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Nz6GyLlbgMe1cLP5]{Pit-Fight Survivor}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.FlJ9icAOlMZeAJvh]{Shrewd Marketeer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.0eknvBfStjl9jsCB]{Spit & Polish}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.n0ejYUrfQKVGvrpe]{Through the Throng}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.1v02wGMbo70fK6AI]{Urban Exploration}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.7kCArRYhTbaCWVHj]{Acrid Long-Stem}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Eb7Ng6BquTccZ7lZ]{Black-Market Pistol}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.yYTFYOEDR65UXxVH]{Brass Knuckle}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.8kE1tPMsq4w16DvN]{Docker Threads}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.MsQEVuRl6GJXfCoN]{Scrutineer Eyepiece}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.NuLQIDJQoAzfuBnb]{Calico Slink}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.a7rNOCIuQO7MF5mt]{Pangopod}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.J6Ci6pHxSQV2kbkM]{Trained Ratroach}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.gQIqEioh19hOJMhC]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.lR8VeAKg7A2e5IXb]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.4nLpWQZaVZJCZlwv]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.LEcU9OSO5jNA1koN]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.ykPxrFbC7XJiL4Vq]</li><li>@UUID[Compendium.wildsea.resources.Item.iZNhcEgjfm6Mkcpr]</li><li>@UUID[Compendium.wildsea.resources.Item.5ttvh7fJgaTDinPJ]</li><li>@UUID[Compendium.wildsea.resources.Item.TLY48OnklxDucHpq]</li><li>@UUID[Compendium.wildsea.resources.Item.fadA5bUevMIfFh68]</li><li>@UUID[Compendium.wildsea.resources.Item.laJMExQwmj7RVTih]</li></ul>",
+    "collapsed": false,
+    "type": "origin"
+  },
+  "folder": "irGBRwstZnCDKWcY",
+  "_id": "lJ7kfONbwtaDrLAp",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!lJ7kfONbwtaDrLAp"
+}

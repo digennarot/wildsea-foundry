@@ -1,0 +1,20 @@
+{
+  "name": "Spago da Imballaggio",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Fattorino.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "Sgw8pYYLZycJMYce",
+  "_id": "AfeghQPjheW6g4At",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!AfeghQPjheW6g4At"
+}

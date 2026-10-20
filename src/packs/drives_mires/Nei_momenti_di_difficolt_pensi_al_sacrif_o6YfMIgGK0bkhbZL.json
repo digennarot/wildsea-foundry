@@ -1,0 +1,19 @@
+{
+  "name": "Nei momenti di difficoltà, pensi al sacrificio",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Esposto.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "DcKYcwqshRmHw2zK",
+  "_id": "o6YfMIgGK0bkhbZL",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!o6YfMIgGK0bkhbZL"
+}

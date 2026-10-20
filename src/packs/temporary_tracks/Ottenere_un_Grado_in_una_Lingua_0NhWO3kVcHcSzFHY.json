@@ -1,0 +1,24 @@
+{
+  "name": "Ottenere un Grado in una Lingua",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Progetto di avanzamento: al termine aggiungi un grado a una lingua. Un avanzamento minore segna 1 casella, uno maggiore 3.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 3
+    },
+    "type": "Progetto"
+  },
+  "folder": "sHO3zhf1pCFQ4KRk",
+  "_id": "0NhWO3kVcHcSzFHY",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!0NhWO3kVcHcSzFHY"
+}

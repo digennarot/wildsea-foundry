@@ -1,0 +1,19 @@
+{
+  "name": "Consegnare un pacco fragile o una missiva a un destinatario lontano",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Fattorino.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "F2m0rjsTfcWfX2Z2",
+  "_id": "z4aUuCg8tjOVVC97",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!z4aUuCg8tjOVVC97"
+}

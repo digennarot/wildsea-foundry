@@ -1,0 +1,19 @@
+{
+  "name": "Trovare la mia famiglia, che ho perso tempo fa",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "gz2QfeTNrOGjnvCl",
+  "_id": "XdaAv0JwQjTu1xEa",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!XdaAv0JwQjTu1xEa"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Salvare una nave abbandonata",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Corazzata.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "ux5JTSrIHQwUg6Yy",
+  "_id": "UetV4NqXa0odaEJe",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!UetV4NqXa0odaEJe"
+}

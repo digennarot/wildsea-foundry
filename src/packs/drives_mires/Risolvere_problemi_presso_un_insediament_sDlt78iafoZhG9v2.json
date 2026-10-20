@@ -1,0 +1,19 @@
+{
+  "name": "Risolvere problemi presso un insediamento Gau",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Gau.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "s3aAc8eLCAtKNSAx",
+  "_id": "sDlt78iafoZhG9v2",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!sDlt78iafoZhG9v2"
+}

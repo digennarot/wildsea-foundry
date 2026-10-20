@@ -1,0 +1,19 @@
+{
+  "name": "Ricavare uno spazio vivibile da una semplice striscia di terra",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Smantellatore.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "8kWfXCpgFzm9KShL",
+  "_id": "V1eNuIe0BoZqcfl3",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!V1eNuIe0BoZqcfl3"
+}

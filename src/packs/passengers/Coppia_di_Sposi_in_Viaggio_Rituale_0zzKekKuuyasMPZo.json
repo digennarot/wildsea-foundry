@@ -1,0 +1,19 @@
+{
+  "name": "Coppia di Sposi in Viaggio Rituale",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Volti dipinti e fiori in testa, girano la dorsale per dare la notizia ai parenti lontani.</p><p>Passeggero della regione L'Autunno della Sibilla. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "gMaOTUFUfQ3s2bOa",
+  "_id": "0zzKekKuuyasMPZo",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!0zzKekKuuyasMPZo"
+}

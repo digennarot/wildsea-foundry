@@ -1,0 +1,19 @@
+{
+  "name": "Bestial Ardent",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.ZpX6pYq8O1RBjOT2]{Animal Musculature}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.HDCnsBwmuI8Ftej9]{As A Pin Drops}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.o1MZjyRPNpGJex9K]{Cryptobrachiate}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Ju8fMLDZ3Yf6GCf1]{Gouge}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.rQsdrYzq8GHjXd42]{Hackles Raised}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Onf5xBag2ejcFnsa]{Luxury Covering}</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "qK60lx4fxDgK9vhy",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!qK60lx4fxDgK9vhy"
+}

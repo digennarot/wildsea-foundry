@@ -1,0 +1,19 @@
+{
+  "name": "Sea-Born Gau",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.UptCD2wys48RGncx]{Natural Salter}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.tC6ltSJFuZXBYtBv]{Slippery Customer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.h5XICq8727IJt9Xs]{The Call of the Old Sea}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.f8FubI1ioThnBNpD]{Waves of Kelp}</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "O9c6CaQsBRrCPYvk",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!O9c6CaQsBRrCPYvk"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Spinovino Itterino",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Un liquore aspro che brucia scendendo ma protegge lo stomaco. Segna una casella quando ti difende da ciò che mangi o bevi.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 4
+    },
+    "type": "Bonus"
+  },
+  "folder": "lLmJL8Ep9uphRAau",
+  "_id": "rIwMLL6idHh7SzCz",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/upgrade.svg",
+  "_key": "!items!rIwMLL6idHh7SzCz"
+}

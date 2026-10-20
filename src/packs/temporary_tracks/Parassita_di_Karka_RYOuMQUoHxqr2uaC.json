@@ -1,0 +1,24 @@
+{
+  "name": "Parassita di Karka",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Un parassita si stringe intorno al cuore, un po’ di più a ogni risata.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 8
+    },
+    "type": "Ferita"
+  },
+  "folder": "DK6Q1DmEvJQMP8Fy",
+  "_id": "RYOuMQUoHxqr2uaC",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/blood.svg",
+  "_key": "!items!RYOuMQUoHxqr2uaC"
+}

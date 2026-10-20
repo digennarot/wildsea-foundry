@@ -1,0 +1,20 @@
+{
+  "name": "Placcatura di Ceramica",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Corron.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "YerzHGc9c80GAzNm",
+  "_id": "ocFWrxulfL1N1B9Y",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!ocFWrxulfL1N1B9Y"
+}

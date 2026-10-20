@@ -1,0 +1,19 @@
+{
+  "name": "Original Mantid",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.KooIA03QXiItZGUY]{Immutable Chitin}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Yy8j4gkDNL5z8pdN]{The Sudden Orchid}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.qwW1RplZ2Y133knM]{Wicked Claw}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.OVjnz5gSyq6SItOF]{Copper Plating}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.6EjF2AvhDMTsiC1X]{Tracking Nymph}</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "re61RhJCZJxOjkHz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!re61RhJCZJxOjkHz"
+}

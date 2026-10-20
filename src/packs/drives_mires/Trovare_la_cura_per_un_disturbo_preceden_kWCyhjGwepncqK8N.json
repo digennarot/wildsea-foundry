@@ -1,0 +1,19 @@
+{
+  "name": "Trovare la cura per un disturbo precedentemente incurabile",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Chirurgo.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "xvWDC4MBdBhFOCiJ",
+  "_id": "kWCyhjGwepncqK8N",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!kWCyhjGwepncqK8N"
+}

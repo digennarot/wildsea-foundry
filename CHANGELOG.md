@@ -1,5 +1,15 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## Unreleased
+
+- Add a "Bloodlines, Origins & Posts" compendium ("Stirpi, Origini e Ruoli" with Babele): one entry for each of the 19 bloodlines, 11 origins and 33 posts, listing its traits, gear and companions as links to the Character Aspects compendium
+- Add a "Drives, Mires & Milestones" compendium in Italian ("Motivazioni, Fardelli e Avanzamenti" with Babele): the suggested drives and mires from the quick creation of each bloodline, origin and post, plus the rulebook examples of drives, mires and major/minor milestones. Each bloodline, origin and post entry links its suggested drives and mires
+- Add a "Temporary Tracks" compendium in Italian ("Tracciati Temporanei" with Babele): the rulebook example bonuses and injuries, the six advancement projects with their track lengths, and 2-box templates for cooked meals, potions and temporary gear. Drag them onto a character sheet to add them to its Temporary Tracks
+- Add a "Resources" compendium in Italian ("Risorse" with Babele): the rulebook examples of salvage, specimens, charts and whispers, and the resources suggested by the quick creation of each bloodline, origin and post (linked from their entries). Drag them onto a character sheet to add them to its Resources
+- Add a "Passengers" compendium in Italian ("Passeggeri" with Babele): the passengers from the six regions of chapter 11, with short summaries
+- Ship sheet: dropping a passenger adds it to Cargo & Passengers
+- Character sheet: dropping a bloodline, origin or post on it fills in that Background field instead of creating an item; dropping a drive, mire or milestone adds it to that list (mires with their 2-box track)
+
 ## v0.2.9
 
 - Add a "Cargo" compendium in Italian ("Carichi" with Babele): the cargo examples from the rulebook and the cargo left by hazards, as resources tagged "Carico". Descriptions are summaries

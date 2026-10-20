@@ -1,0 +1,19 @@
+{
+  "name": "Famiglia di Braccianti",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Con bambini piccoli al seguito, diretta alle fattorie del Sottoguscio per la stagione del raccolto.</p><p>Passeggero della regione L'Autunno della Sibilla. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "gMaOTUFUfQ3s2bOa",
+  "_id": "440PAarcGSa5QbQt",
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!440PAarcGSa5QbQt"
+}

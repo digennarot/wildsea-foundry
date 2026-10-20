@@ -1,0 +1,19 @@
+{
+  "name": "Non ci si può fidare degli estranei",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Eradicato.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "xuAtLsN0ElTJg3oq",
+  "_id": "UdTswjQIkaYvR3Y3",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!UdTswjQIkaYvR3Y3"
+}

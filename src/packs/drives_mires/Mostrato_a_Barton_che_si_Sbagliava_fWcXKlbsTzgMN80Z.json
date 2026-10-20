@@ -1,0 +1,19 @@
+{
+  "name": "Mostrato a Barton che si Sbagliava",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Avanzamento minore, esempio del manuale. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi avanzamenti minori.</p>",
+    "collapsed": false,
+    "type": "milestoneMinor"
+  },
+  "folder": "FL176yd3nLvVVyae",
+  "_id": "fWcXKlbsTzgMN80Z",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/upgrade.svg",
+  "_key": "!items!fWcXKlbsTzgMN80Z"
+}

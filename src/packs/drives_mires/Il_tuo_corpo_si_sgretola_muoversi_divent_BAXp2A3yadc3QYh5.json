@@ -1,0 +1,19 @@
+{
+  "name": "Il tuo corpo si sgretola, muoversi diventa davvero difficile",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Gau.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "Ybqv8nVMoELqoqrR",
+  "_id": "BAXp2A3yadc3QYh5",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!BAXp2A3yadc3QYh5"
+}

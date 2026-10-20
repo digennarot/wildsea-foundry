@@ -1,0 +1,19 @@
+{
+  "name": "La tua vista si affievolisce, i tuoi fiori appassiscono",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Ektus.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "fX67mp1E3m7n5q0E",
+  "_id": "XwlsiAxTuj4Pdwr2",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!XwlsiAxTuj4Pdwr2"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Char",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.0hPKdwR0oE8SzTyn]{Bountiful Discovery}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.P28d3IbL9gadlLaP]{Deep in the Barrel}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.a9eSgqR2gtuvXpUw]{Enough for Everybody}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.xJT9h3wEFf88HEdB]{Flavour Engineer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.heQFw17aJ6B3LdkR]{Golden Nose}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.jhqHaihg2nW2guvY]{Ingredient Scrounger}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.D5axFvIZHzY5WOue]{Only the Best}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.5AAWQuUtxpqU0QwV]{Taste Test}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.NOWwl5HF0sAoe5zO]{Acid-Etched Cookpot}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Pvza6upYBwQGfikF]{Husk-Leather Apron}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.GheNxnB6Gx7jhjIl]{Mechanical Grinder}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.dYTTVqNURgX3TRpS]{Reef-Iron Pan}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.XHr9HUnd8GJwrf09]{Seasoned Cleaver}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.MHYR7NN6c8Uj1DlE]{Spice Bandoleer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.eqGX5w1lanSVNzFg]{The Only Knife}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.T53m6jCdsAUBVhS8]{Trademark Herbs}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.4Ao7TgImvT3DSsZ9]{Sous Squirrel}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.7gHvjNUsHg1dLdYE]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.UjIiU9JIOVVeVqL6]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.GljDzPrMqIAezSsa]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.ULK7RbHCSpuWCzIG]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.W9okE9EEEWrtuzHW]</li><li>@UUID[Compendium.wildsea.resources.Item.c5tUVrHxvF0868ES]</li><li>@UUID[Compendium.wildsea.resources.Item.4j4hnXcv7lQYbmmq]</li><li>@UUID[Compendium.wildsea.resources.Item.89chWqOfestFlmp1]</li><li>@UUID[Compendium.wildsea.resources.Item.L4UUAjy5YuqQ61tz]</li><li>@UUID[Compendium.wildsea.resources.Item.NhfngbpgY5UpAv9d]</li><li>@UUID[Compendium.wildsea.resources.Item.acEipiP5zNh6p2XO]</li><li>@UUID[Compendium.wildsea.resources.Item.bK1sHyYh4Tqvfyab]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "qpglQ2XAmtFBspzr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!qpglQ2XAmtFBspzr"
+}

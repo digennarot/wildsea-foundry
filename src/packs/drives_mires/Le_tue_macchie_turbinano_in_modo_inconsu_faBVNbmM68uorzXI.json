@@ -1,0 +1,19 @@
+{
+  "name": "Le tue macchie turbinano in modo inconsulto",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Ketra.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "BUCtFL4byqFWzk4g",
+  "_id": "faBVNbmM68uorzXI",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!faBVNbmM68uorzXI"
+}

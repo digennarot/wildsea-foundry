@@ -1,0 +1,19 @@
+{
+  "name": "Affondare una divoranavi",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Apripista.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "TtIF87E5DbLmUjpc",
+  "_id": "BhVF1xJMoihDxB5P",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!BhVF1xJMoihDxB5P"
+}

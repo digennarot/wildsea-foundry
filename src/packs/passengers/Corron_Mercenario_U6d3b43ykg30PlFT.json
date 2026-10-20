@@ -1,0 +1,19 @@
+{
+  "name": "Corron Mercenario",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Tirato a lucido, un pappagallo giallo su una spalla e un arpione sull’altra; vende i suoi servigi.</p><p>Passeggero della regione L'Autunno della Sibilla. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "gMaOTUFUfQ3s2bOa",
+  "_id": "U6d3b43ykg30PlFT",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!U6d3b43ykg30PlFT"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Windward",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Origin. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.iQHw28A6w6vDexBE]{Ascetic's Waltz}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.FgfQ4sSK6xs4uA4Y]{From the Jaws of Defeat}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.iMEyXq8Z28AX867H]{Indomitable}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.U9anC6x5vXHiouHJ]{Scar of Steps Taken}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.I12w8L5PaNa1YnMp]{The Weight of Experience}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.r8nxZWzfcwEKgcDF]{You Make Your Own Path}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.YHVxy1rAnJetZLTI]{Nomad's Stilt}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.DB4qNHrqVKz3542X]{Oft-Repaired Blade}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.U663M1cOMvyVJMkI]{Quartered Raiment}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.2naPzvTxcr4Ykv9l]{Spiced Wine}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.xb1cclwXVsbJk2Om]{Wayfarer's Compass}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.X9tTeASZX6X8nSGI]{Whirl-Crafted Rabir}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.cmVe7dk8t3QFemJo]{Crumpled Frog}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.DPUl9hPdzcOOOlKN]{Feathered Cobra}</li></ul>",
+    "collapsed": false,
+    "type": "origin"
+  },
+  "folder": "irGBRwstZnCDKWcY",
+  "_id": "kwBlrFtDbRmRMaUL",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!kwBlrFtDbRmRMaUL"
+}

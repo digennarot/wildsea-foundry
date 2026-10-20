@@ -1,0 +1,20 @@
+{
+  "name": "Una Preghiera Cifrata",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Corron.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "YerzHGc9c80GAzNm",
+  "_id": "qpoqQqkeWr6ROl6z",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!qpoqQqkeWr6ROl6z"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Registro del Draghista",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "xuM8tozDDZSI9Bao",
+  "_id": "vXwFhbi8GUGKn14M",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!vXwFhbi8GUGKn14M"
+}

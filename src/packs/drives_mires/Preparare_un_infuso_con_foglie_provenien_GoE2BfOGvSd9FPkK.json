@@ -1,0 +1,19 @@
+{
+  "name": "Preparare un infuso con foglie provenienti dalle regioni più remote",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Mescitore.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "UB9AeR5BOil7YX6i",
+  "_id": "GoE2BfOGvSd9FPkK",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!GoE2BfOGvSd9FPkK"
+}

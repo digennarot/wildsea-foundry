@@ -1,0 +1,19 @@
+{
+  "name": "I tuoi movimenti sono disturbanti, sincopati",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Tzelicrae.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "89atq0k3fz8RgYZP",
+  "_id": "5QlEPzjDnSqM6aBf",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!5QlEPzjDnSqM6aBf"
+}

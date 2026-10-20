@@ -1,0 +1,19 @@
+{
+  "name": "Marketeer",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.bNH8Q2ifEDoYvp3T]{Aureate Kiss}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.gTPDdMV4DneYoSum]{Lingua Fortunae}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Ueaj9qLwM3k894fh]{Loan Wolf}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.kUEPxPkPyxiSMjPo]{Odds Broker}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.43aD43Xg4i8iG8ZY]{Oligarch}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.7ImgLCCFZgAbEkss]{Supplying Demand}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.Bgt2NxIRvH3HJhlz]{Hazardous Goods}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.AoYEv8GXcE9BHZF9]{Pidgin Eggs}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.J1i6gvq5V5YexHpx]{Protectionism Plan}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.5JKb5XGDFEqXGhpK]{Record of Accounting}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.cGnq0rGwywDOuss9]{Tariffigy}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.BDkyUGrLImvjxsEj]{Trade Winds}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.rttMtWfumEp3cOr5]{Viridian Viper}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.5yeVgClatHMgwsr8]{Warebear}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "y2z9qJIh0VJY7CWX",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!y2z9qJIh0VJY7CWX"
+}

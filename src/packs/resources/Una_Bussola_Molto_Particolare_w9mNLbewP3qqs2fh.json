@@ -1,0 +1,20 @@
+{
+  "name": "Una Bussola Molto Particolare",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Magnetista.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "fqSvfHBdlfpDZBzp",
+  "_id": "w9mNLbewP3qqs2fh",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!w9mNLbewP3qqs2fh"
+}

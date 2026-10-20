@@ -1,0 +1,19 @@
+{
+  "name": "Scoprire un grande segreto delle onde più lontane",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Navigatore.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "2HGrfxmuPGqOGb2z",
+  "_id": "9IpIPdWQ5opMJeWt",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!9IpIPdWQ5opMJeWt"
+}

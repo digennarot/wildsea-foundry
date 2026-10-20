@@ -1,0 +1,19 @@
+{
+  "name": "Scoprire una nuova cultura o un’enclave nascosta",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Pioniere.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "BNRSwiXzjvavxNiX",
+  "_id": "j7H4MnfquLrGZo4x",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!j7H4MnfquLrGZo4x"
+}

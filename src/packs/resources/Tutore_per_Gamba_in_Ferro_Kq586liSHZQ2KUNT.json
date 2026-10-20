@@ -1,0 +1,20 @@
+{
+  "name": "Tutore per Gamba in Ferro",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Chirurgo.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "Y97wOPffx4jkHONf",
+  "_id": "Kq586liSHZQ2KUNT",
+  "effects": [],
+  "sort": 100001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!Kq586liSHZQ2KUNT"
+}

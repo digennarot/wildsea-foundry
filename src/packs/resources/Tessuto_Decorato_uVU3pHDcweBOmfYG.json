@@ -1,0 +1,20 @@
+{
+  "name": "Tessuto Decorato",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Tzelicrae.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "SKxWI9JZ1tJFLrF0",
+  "_id": "uVU3pHDcweBOmfYG",
+  "effects": [],
+  "sort": 100001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!uVU3pHDcweBOmfYG"
+}

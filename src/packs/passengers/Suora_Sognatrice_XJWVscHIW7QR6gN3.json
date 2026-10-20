@@ -1,0 +1,19 @@
+{
+  "name": "Suora Sognatrice",
+  "type": "attribute",
+  "system": {
+    "details": "<p>In visita alla famiglia, trasforma ogni conversazione in un dibattito sulla natura delle anime.</p><p>Passeggero della regione L'Autunno della Sibilla. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "gMaOTUFUfQ3s2bOa",
+  "_id": "XJWVscHIW7QR6gN3",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!XJWVscHIW7QR6gN3"
+}

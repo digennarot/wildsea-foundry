@@ -1,0 +1,19 @@
+{
+  "name": "Erigere una struttura Pre-Verdeggiante",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Ketra.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "kVQtcpIlIq8jpXE3",
+  "_id": "Pe7d16vhkQ8xegXC",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!Pe7d16vhkQ8xegXC"
+}

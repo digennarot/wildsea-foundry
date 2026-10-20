@@ -1,0 +1,19 @@
+{
+  "name": "Ironbound",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.HOkOOKdJpgQq3310]{Attenuate}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.VyAtRHBCECQ32dOh]{Fruiting Limb}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.vtuyGuPwOwXw0CNL]{Ghost-Heart}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.uZvD3THreb800sUv]{Hollow Tubing}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WBxfFo7hMVUh6YYP]{Monument to Travel}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Z4yxKwofT1gEoa4l]{Structural Integration}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.1pbRWZmj0hidC5x7]{Titanic}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.si4tRjNu0COM3Acf]{Vocal Recovery}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.af7IHFgb0iXL6C4C]{Ancient Tar-Seals}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OoqWR2KG5wzms3LA]{Broadwood Carapace}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.N0wQwLgT87xP7tJf]{Delver's Drill}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.XbFUppHCvaGe2dXP]{Living Workshop}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.BEFuY0YFUgl6aJAh]{Ornate Cannon}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.EHQqPUbG4iOnfs27]{Prowhammer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Qj7BQEgG4opeiyPT]{Reef-Iron Plating}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.mXNlEgFaFDH6l6cA]{Spotlight Lantern}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.wmfcrVGSm2N6lv20]{Sailghast}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.VemZrFLJWg2DLwDd]{Shipside Symbiote}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.UetV4NqXa0odaEJe]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.dasXfmKNnzU7dQoY]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.REOQAap3pWqVlsZe]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.Bf1TnIHSjZrw0zCK]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.q0CLYjCXbnLAbdEJ]</li><li>@UUID[Compendium.wildsea.resources.Item.6MEBA1oVPP7wpE3t]</li><li>@UUID[Compendium.wildsea.resources.Item.avTbR3YUxWO2eWrk]</li><li>@UUID[Compendium.wildsea.resources.Item.EH60cQAUBb0lt6If]</li><li>@UUID[Compendium.wildsea.resources.Item.rN4C0c8ez0qYarNT]</li><li>@UUID[Compendium.wildsea.resources.Item.LGgCgqg5nRwp8RXE]</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "qPhjeWNCfe4juyF9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!qPhjeWNCfe4juyF9"
+}

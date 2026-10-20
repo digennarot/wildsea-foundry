@@ -1,0 +1,20 @@
+{
+  "name": "Un’Agenda a Brandelli",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Fattorino.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "Sgw8pYYLZycJMYce",
+  "_id": "IsD9AyyxcOZdjJog",
+  "effects": [],
+  "sort": 300002,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!IsD9AyyxcOZdjJog"
+}

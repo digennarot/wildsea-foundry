@@ -5,6 +5,8 @@
     "aspects": "Aspetti",
     "background": "Background",
     "bite": "Mordente",
+    "backgroundSet": "{field}: {name}",
+    "slimExists": "\"{name}\" è già sulla scheda",
     "bloodline": "Stirpe",
     "brace": "Resistere",
     "brasstongue": "Denarico",

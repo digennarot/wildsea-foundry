@@ -1,0 +1,20 @@
+{
+  "name": "Brontolii del Micosanctum",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Gau.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "wEhW6shYyepZANK0",
+  "_id": "5jdg5dY2AqUbT6Us",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!5jdg5dY2AqUbT6Us"
+}

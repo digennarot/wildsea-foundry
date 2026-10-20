@@ -1,0 +1,20 @@
+{
+  "name": "Asse di Legno Recuperato",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Ketra.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "vJUF3arvkg8avuXd",
+  "_id": "NlgbbGtXLW3q8DmD",
+  "effects": [],
+  "sort": 100001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!NlgbbGtXLW3q8DmD"
+}

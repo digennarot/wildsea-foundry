@@ -1,0 +1,19 @@
+{
+  "name": "Raccogliere un ingrediente davvero unico",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Cuoco.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "fmn9RZ7Udf3K6cs6",
+  "_id": "UjIiU9JIOVVeVqL6",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!UjIiU9JIOVVeVqL6"
+}

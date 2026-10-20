@@ -1,0 +1,19 @@
+{
+  "name": "Monstrous Ketra",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.zTxfFupPKq630pcG]{Catalyst Growth}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.xvf7vAFZzSsshrwU]{Marrow Supper}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.QxFfYfcreUITbdMS]{Ooze Trap}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.oDwKfXH4xk27o0jz]{Slugger}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.cST9482doqA0M15b]{Wrecker's-Yard Pangoska}</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "lEGezxLpp1xCrDYj",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!lEGezxLpp1xCrDYj"
+}

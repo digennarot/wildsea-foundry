@@ -1,0 +1,19 @@
+{
+  "name": "Itzenko",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.qs1CMceocUA1N0Fp]{Ambitious Mimic}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.UWFDE4nNLMNC0I7w]{Bursting Moult}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.g61W2AJDtPnAZk38]{Modes of Prayer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.uPV42LhgzaJbIde3]{Shaping the Self}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.lhTcuA4X7OYsQ0XT]{Translucent Wings}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.82E5cdU6VTqxaM85]{True Dedication}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.aMpaPjFnjMFdpopb]{Copper-Chi Simulacra}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.LmbzCvRGPGbKjPxn]{Intercut Fabrics}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.l5IfOiO4xEKfyLjN]{Sculptor's Claw-Hammer}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.FELphXU38voWv3x2]{Moult-Husk Marionette}</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "sOI0GaXLtEEGQSww",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!sOI0GaXLtEEGQSww"
+}

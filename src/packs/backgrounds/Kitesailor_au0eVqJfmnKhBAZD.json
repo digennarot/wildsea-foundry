@@ -1,0 +1,19 @@
+{
+  "name": "Kitesailor",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.tw0pI6Hp8r61mwkL]{Born for the Skies}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.LbheaCEJEcnk78VC]{Emergency Repairs}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.E1JZMsDfbFfKsT5P]{Snapdragon's Fervour}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.hrxOcTONZYMKXWlh]{The Seventh Sense}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.KSYcUJ7Wl0gXGKrO]{Wingtip Swing}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.7W7sIyO65K2jDC3h]{Buoyloon}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.FkFm8yRQLDwAjC2G]{Flight Visor}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.jUI4bZbSXQwXTIAx]{Scatterbombs}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.KeiXt9VCbcNfs7WL]{Gull of Hearts}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.t4aL25IfGiFgVVmy]{Livesail}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "au0eVqJfmnKhBAZD",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!au0eVqJfmnKhBAZD"
+}

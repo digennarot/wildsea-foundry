@@ -1,0 +1,19 @@
+{
+  "name": "Preparare un banchetto per tutti coloro che se lo meritano",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Cuoco.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "fmn9RZ7Udf3K6cs6",
+  "_id": "7gHvjNUsHg1dLdYE",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!7gHvjNUsHg1dLdYE"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ottenere un Grado in un’Abilità",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Progetto di avanzamento: al termine aggiungi un grado a un’abilità. Un avanzamento minore segna 1 casella, uno maggiore 3. Ad esempio: Addestramento Ondivagante.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 3
+    },
+    "type": "Progetto"
+  },
+  "folder": "sHO3zhf1pCFQ4KRk",
+  "_id": "yT4bVxvHngvt5241",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!yT4bVxvHngvt5241"
+}

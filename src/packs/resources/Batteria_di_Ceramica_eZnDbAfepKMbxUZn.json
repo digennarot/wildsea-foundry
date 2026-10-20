@@ -1,0 +1,20 @@
+{
+  "name": "Batteria di Ceramica",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Smanettone.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "BCjcGDzRmXg4lfaj",
+  "_id": "eZnDbAfepKMbxUZn",
+  "effects": [],
+  "sort": 100001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!eZnDbAfepKMbxUZn"
+}

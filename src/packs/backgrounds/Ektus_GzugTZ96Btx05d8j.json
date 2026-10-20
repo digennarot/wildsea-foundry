@@ -1,0 +1,19 @@
+{
+  "name": "Ektus",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.gLqsqSUzxnBWawNo]{1000 Needles}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.pdPnZnbLQik31OaZ]{Cactus-Flesh Filtration}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.cmuCXfXporpxA2Sy]{Flexneedle}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Psk24LAdFNsMC8u4]{Grafted Limb}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.kr8DaEy251DdCAnN]{Heliovore}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.h1XdInBsripv1bCX]{Iris Blossom}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wadsOdCKX9Vt3aTt]{Longspine}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Q6TARsnFDOBqkus7]{Solid Footing}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.bbeTHDUdVQ1kjPkV]{Tar-Scrawl Tattoos}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.s3usvVIZCdAxEP6M]{Towering}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.VE4WkUlcKUzLlFEq]{Amber-Pinned Petal}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.GV4TG9VPQ9V8RBdh]{Desert Harness}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.sUj6VzshWd5AOqic]{Heavy Chakram}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.HMqvFHnMDGV5eb2d]{Stone-Bound Histories}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.aDBgsnOzIoRZgyh3]{Tower Shield}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.DwRknYXi836qijZI]{Wedge-Axe}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.GrlmLlqIeSyN8gIS]{Zephyrskin Drums}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.rbXDIWnJ9o99jiQt]{Burrowing Bees}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.C5IzbJc7wnQ6LfEC]{Catekora}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.g0y6Hk9OyxeEJFIe]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.CxaJiAAU4FR0sF7x]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.YHUHETSgSYpKKcbA]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.XwlsiAxTuj4Pdwr2]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.h0V4Dll1qtzIqEeC]</li><li>@UUID[Compendium.wildsea.resources.Item.fx3mIMaLPLNBVWkR]</li><li>@UUID[Compendium.wildsea.resources.Item.KvrpIhBsWhzSyrC1]</li><li>@UUID[Compendium.wildsea.resources.Item.ggBgFB4kXdCjuP7W]</li><li>@UUID[Compendium.wildsea.resources.Item.yBEdMbhWG60xwQHS]</li><li>@UUID[Compendium.wildsea.resources.Item.G0kyXyCdh3Ittfmw]</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "GzugTZ96Btx05d8j",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!GzugTZ96Btx05d8j"
+}

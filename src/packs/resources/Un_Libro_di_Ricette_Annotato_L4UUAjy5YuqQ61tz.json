@@ -1,0 +1,20 @@
+{
+  "name": "Un Libro di Ricette Annotato",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Cuoco.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "5pcj5i4yjrfxOQVl",
+  "_id": "L4UUAjy5YuqQ61tz",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!L4UUAjy5YuqQ61tz"
+}

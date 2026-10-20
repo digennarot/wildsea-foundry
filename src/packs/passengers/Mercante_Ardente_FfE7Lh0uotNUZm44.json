@@ -1,0 +1,19 @@
+{
+  "name": "Mercante Ardente",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Altissima, gambe come trampoli sotto la gonna; gli Ektus la salutano con grande rispetto.</p><p>Passeggero della regione L'Itterino. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "ArpPduwQ9lOe0a93",
+  "_id": "FfE7Lh0uotNUZm44",
+  "effects": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!FfE7Lh0uotNUZm44"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Dati di Geolocalizzazione Obsoleti",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Corron.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "YerzHGc9c80GAzNm",
+  "_id": "vN1qxe8oV7792M7R",
+  "effects": [],
+  "sort": 300001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!vN1qxe8oV7792M7R"
+}

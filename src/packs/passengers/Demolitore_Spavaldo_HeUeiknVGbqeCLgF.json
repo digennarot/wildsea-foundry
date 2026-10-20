@@ -1,0 +1,19 @@
+{
+  "name": "Demolitore Spavaldo",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Dice di cercare i compagni di viaggio, ma si guarda sempre le spalle e giura che i suoi tatuaggi sono veri.</p><p>Passeggero della regione L'Anomalia di Kremich. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "jxOFpoDwm7M9H64G",
+  "_id": "HeUeiknVGbqeCLgF",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!HeUeiknVGbqeCLgF"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Lucchetto di Bronzo",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Ektus.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "8YuKrbdun3sIM2ib",
+  "_id": "fx3mIMaLPLNBVWkR",
+  "effects": [],
+  "sort": 100001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!fx3mIMaLPLNBVWkR"
+}

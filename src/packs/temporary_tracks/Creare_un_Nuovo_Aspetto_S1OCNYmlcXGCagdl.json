@@ -1,0 +1,24 @@
+{
+  "name": "Creare un Nuovo Aspetto",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Progetto di avanzamento: al termine ottieni un aspetto nuovo, creato con l’approvazione della Lucciola. Un avanzamento minore segna 1 casella, uno maggiore 3.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 6
+    },
+    "type": "Progetto"
+  },
+  "folder": "sHO3zhf1pCFQ4KRk",
+  "_id": "S1OCNYmlcXGCagdl",
+  "effects": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!S1OCNYmlcXGCagdl"
+}

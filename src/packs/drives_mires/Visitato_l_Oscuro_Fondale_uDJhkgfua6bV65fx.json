@@ -1,0 +1,19 @@
+{
+  "name": "Visitato l’Oscuro Fondale",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Avanzamento maggiore, esempio del manuale. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi avanzamenti maggiori.</p>",
+    "collapsed": false,
+    "type": "milestoneMajor"
+  },
+  "folder": "QAdyaJIYVDqWnb4p",
+  "_id": "uDJhkgfua6bV65fx",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/upgrade.svg",
+  "_key": "!items!uDJhkgfua6bV65fx"
+}

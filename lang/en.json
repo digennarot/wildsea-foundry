@@ -5,6 +5,8 @@
     "aspects": "Aspects",
     "background": "Background",
     "bite": "Bite",
+    "backgroundSet": "{field} set to {name}",
+    "slimExists": "\"{name}\" is already on the sheet",
     "bloodline": "Bloodline",
     "brace": "Brace",
     "brasstongue": "Brasstongue",

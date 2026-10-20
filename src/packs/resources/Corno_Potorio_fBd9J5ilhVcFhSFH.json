@@ -1,0 +1,20 @@
+{
+  "name": "Corno Potorio",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Pioniere.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "oPivvAhFltpTo9oN",
+  "_id": "fBd9J5ilhVcFhSFH",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!fBd9J5ilhVcFhSFH"
+}

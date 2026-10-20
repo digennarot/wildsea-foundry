@@ -1,0 +1,19 @@
+{
+  "name": "DaWheh-Whe Appassito e i suoi Radicati",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Chiedono di arrivare ai confini della Xerofitoflorescenza, per un incontro voluto all’improvviso dalla Madre Dorata.</p><p>Passeggero della regione Le Ferradici Ambrate. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "eo7HM5VWOlKOw7qG",
+  "_id": "qmF7mIgOiGiAsLYv",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!qmF7mIgOiGiAsLYv"
+}

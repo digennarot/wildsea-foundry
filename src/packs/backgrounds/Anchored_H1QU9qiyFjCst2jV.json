@@ -1,0 +1,19 @@
+{
+  "name": "Anchored",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Origin. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.Vmq7KOKLF8CWFH5p]{By a Thread}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.dWGcv3WMHPJrffRr]{Ethereal Healing}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WtLwVk9fyQ2dhKr1]{Geist Hand}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.fsCohGR6rOktdSPO]{Mortal Needs}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.HTIhBFrw7S2kapll]{Spectral Variance}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.tECX9Wf8b5aHxxQ5]{Touch of the Beyond}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.hOSW4zrDXf8Niifl]{Anchor Fragment}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.xG65CUqwduocnNmB]{Battered Ajna}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wYdUwz4KmAKPmY94]{Death Mask}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.BOiwVp6Ap23iMZXp]{Phantom Blade}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.bV4GuHf890Fs0kDD]{Reavolver}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.G55BvphQtabfTiN6]{Resonant Tether}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ZBPFWFPvXPjFkTEF]{Siphoning Fork}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.iqPBMvXls8bEWxnn]{Tempered Anchor}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.hEdZyfdfdOky8MAb]{Faithful Spirit}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.l55ZMLSth9ZIG7Nz]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.MbnKX9QpxR2bZDol]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.F0j68iOKcsV947Kb]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.aheeFdj9ERHHnfMD]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.nZOxNouuUFY9MxHq]</li><li>@UUID[Compendium.wildsea.resources.Item.nS4N3BXcj5ZefXmE]</li><li>@UUID[Compendium.wildsea.resources.Item.7r8tX7GOheoCgp90]</li><li>@UUID[Compendium.wildsea.resources.Item.wPgfYjUGgWgQX17r]</li><li>@UUID[Compendium.wildsea.resources.Item.thH299hWqwLpce1Y]</li><li>@UUID[Compendium.wildsea.resources.Item.HiDswgAWYTjuSABx]</li><li>@UUID[Compendium.wildsea.resources.Item.lGGrTZeePDNlbZqR]</li></ul>",
+    "collapsed": false,
+    "type": "origin"
+  },
+  "folder": "irGBRwstZnCDKWcY",
+  "_id": "H1QU9qiyFjCst2jV",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!H1QU9qiyFjCst2jV"
+}

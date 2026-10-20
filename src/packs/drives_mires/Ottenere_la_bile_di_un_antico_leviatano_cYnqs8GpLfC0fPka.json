@@ -1,0 +1,19 @@
+{
+  "name": "Ottenere la bile di un antico leviatano",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Alchimista.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "qfejWNLkrscc2R03",
+  "_id": "cYnqs8GpLfC0fPka",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!cYnqs8GpLfC0fPka"
+}

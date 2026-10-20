@@ -1,0 +1,19 @@
+{
+  "name": "Scoprire nuovi impulsi o rumori per comprendere meglio il cosmo",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Corron.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "xNdo9pJ15TrLIxj3",
+  "_id": "JIx4629472kxeiMM",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!JIx4629472kxeiMM"
+}

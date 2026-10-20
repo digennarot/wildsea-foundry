@@ -106,8 +106,10 @@ export default class WildseaActorSheet extends ActorSheet {
 
     if (data.cancelled) return
 
-    const text = data.text
+    return this.createSlimItem(itemType, data.text, itemSubtype)
+  }
 
+  async createSlimItem(itemType, text, itemSubtype = null) {
     const id = foundry.utils.randomID()
     const slimData = {
       id,
@@ -126,7 +128,7 @@ export default class WildseaActorSheet extends ActorSheet {
       items.push(slimData)
     }
 
-    this.actor.update({
+    return this.actor.update({
       system: {
         [itemType]: items,
       },

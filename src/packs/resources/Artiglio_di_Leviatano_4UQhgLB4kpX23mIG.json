@@ -1,0 +1,20 @@
+{
+  "name": "Artiglio di Leviatano",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Draghista.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "5t0L415nW5kvXOzJ",
+  "_id": "4UQhgLB4kpX23mIG",
+  "effects": [],
+  "sort": 200001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!4UQhgLB4kpX23mIG"
+}

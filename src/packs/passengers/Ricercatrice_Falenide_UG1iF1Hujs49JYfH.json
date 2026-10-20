@@ -1,0 +1,19 @@
+{
+  "name": "Ricercatrice Falenide",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Trascina valigie di strumenti che tintinnano come vetri rotti.</p><p>Passeggero della regione L'Itterino. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "ArpPduwQ9lOe0a93",
+  "_id": "UG1iF1Hujs49JYfH",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!UG1iF1Hujs49JYfH"
+}

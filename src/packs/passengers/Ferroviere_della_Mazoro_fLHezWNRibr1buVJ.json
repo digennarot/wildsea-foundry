@@ -1,0 +1,19 @@
+{
+  "name": "Ferroviere della Mazoro",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Sollevato dall’incarico dopo che un titanopede è morto durante il suo turno.</p><p>Passeggero della regione La Vulpinaia. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "3DpDYXXm4eg6vqFi",
+  "_id": "fLHezWNRibr1buVJ",
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!fLHezWNRibr1buVJ"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Una Striscia Appena Emersa",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Gente delle Strisce.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "w2qdUPLD0EP5xQ28",
+  "_id": "laJMExQwmj7RVTih",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!laJMExQwmj7RVTih"
+}

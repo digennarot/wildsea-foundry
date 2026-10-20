@@ -1,0 +1,19 @@
+{
+  "name": "Reclute del Cartello delle Sanguisughe",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Due novellini con muscoli da trivellatore.</p><p>Passeggero della regione L'Itterino. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "ArpPduwQ9lOe0a93",
+  "_id": "ezD2mVIKlSRa7zqQ",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!ezD2mVIKlSRa7zqQ"
+}

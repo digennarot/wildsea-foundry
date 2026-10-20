@@ -1,0 +1,19 @@
+{
+  "name": "Cacciare e catturare il Grande Lupo Bianco",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "gz2QfeTNrOGjnvCl",
+  "_id": "SsyP16BnaRRpTe2I",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!SsyP16BnaRRpTe2I"
+}

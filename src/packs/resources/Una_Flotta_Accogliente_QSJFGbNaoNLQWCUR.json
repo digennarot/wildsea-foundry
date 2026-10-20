@@ -1,0 +1,20 @@
+{
+  "name": "Una Flotta Accogliente",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Eradicato.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "BIkR1aYod7kbC4ee",
+  "_id": "QSJFGbNaoNLQWCUR",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!QSJFGbNaoNLQWCUR"
+}

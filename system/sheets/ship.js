@@ -180,11 +180,15 @@ export default class WildseaShipSheet extends WildseaActorSheet {
     })
   }
 
-  // The ship has no resource list: dropped resources go to Cargo & Passengers
+  // The ship has no resource list: dropped resources and passengers go to
+  // Cargo & Passengers
   async _onDropItem(event, data) {
     if (!this.actor.isOwner) return false
     const item = await Item.implementation.fromDropData(data)
-    if (item?.type !== 'resource') return super._onDropItem(event, data)
+    const isPassenger =
+      item?.type === 'attribute' && item.system.type === 'passenger'
+    if (item?.type !== 'resource' && !isPassenger)
+      return super._onDropItem(event, data)
 
     const tags = (item.system.tags || '')
       .split(',')

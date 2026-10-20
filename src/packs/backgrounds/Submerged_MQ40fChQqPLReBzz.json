@@ -1,0 +1,19 @@
+{
+  "name": "Submerged",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Origin. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.nMXG7DJa45OpTG3L]{Decoy Tactics}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.QBTQOL7F96sAhlmt]{Howl of the Veil}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TzrGgGeGF9Lnu8TL]{Marked by the Sea}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.SYcEtyu8rUneKZxP]{Masktopus Tattoo}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Ilr3i2HPFekCLYJP]{Natural Learner}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.xdkQlCfVFMPnfUlF]{Pheromonal Nose}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.D40bYUpcuKJ2huPk]{Prey Instinct}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.rMsgkKGbxN8Vb44k]{Sealegs}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.zgSqYip4ciVfyS7F]{A Whispered Roar}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.iAcoB8fbUIEPcFFt]{Adaptive Anatomy}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.yeUX0Qeg73Yv0plf]{Leviathan Ambergris}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.CyeyY501brYYUUGb]{Trophied Longclaw}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.KbVFRCzY4kzPU1Lf]{Yelnstra's Fables}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.v5NdlOpBOIihZYhw]{Rode's Path}</li></ul>",
+    "collapsed": false,
+    "type": "origin"
+  },
+  "folder": "irGBRwstZnCDKWcY",
+  "_id": "MQ40fChQqPLReBzz",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!MQ40fChQqPLReBzz"
+}

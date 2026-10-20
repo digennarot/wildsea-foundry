@@ -1,0 +1,19 @@
+{
+  "name": "Stowaway",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Origin. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.90pwEjgxgt5R9Dh0]{Engine's Toll}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.qKteV3zEYoCxziqN]{Old Habits Die Hard}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.V8QlMjd40gMR3bBv]{Softshoe Reflexes}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.5Te9QjFw5dO9Jkj3]{Struggle Through}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.a2hsXkQvOyr61LR6]{Underdeck Physique}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.AxGSsWvQ1RuxgLUy]{Gasping Jar}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.6CFeHKTmGUApqyt0]{Piecemeal Outfit}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.LveteQAjVpejh9ps]{Stolen Revolver}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.JsTmayGydcn2OKp2]{Tar-Stained Cloak}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.M26Cohx3k7vhKPFY]{Whispering Key}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.SEAlfHZaL58yxQBV]{Accidental Anchor}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.G3PM5JNMrekrqmAh]{Flashfinger Construct}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.EJDW1NatcIj5LV5j]{Leashless Monkey}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Xqxt5uTWee5zVYyW]{Librico Silverfish}</li></ul>",
+    "collapsed": false,
+    "type": "origin"
+  },
+  "folder": "irGBRwstZnCDKWcY",
+  "_id": "rz6pyCadliS64MV9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!rz6pyCadliS64MV9"
+}

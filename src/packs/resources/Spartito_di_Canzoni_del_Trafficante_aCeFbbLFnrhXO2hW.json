@@ -1,0 +1,20 @@
+{
+  "name": "Spartito di Canzoni del Trafficante",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "xuM8tozDDZSI9Bao",
+  "_id": "aCeFbbLFnrhXO2hW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!aCeFbbLFnrhXO2hW"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Le tue armi si inceppano e fanno cilecca al momento sbagliato",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Artigliere.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "kuHg0o2bpirAV10v",
+  "_id": "U731cYb9VxhVRJW3",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!U731cYb9VxhVRJW3"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Zealot",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.YVKhs363u7lcL7cq]{Bellow of the Beast}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Aw3pLF76EGnaJaVk]{Consecrated Ramblings}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.UOafGA2dZfocYPpx]{Fallen Pillars}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.pg92xBXhffA3NQ50]{Hasty Doomsayer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.FdNqiVwBc5LBh0IU]{Hollow Mantra}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.1PrFigIMSosHQY5t]{Spiral Scars}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ws5hWwDIP3FstZGp]{The Hard Road Back}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.AM2DJWtMyOP0GQIU]{Decorated Leviathan's Tooth}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.42Sw1MRr2SOL2e4x]{Hymn-Scribed Dice}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.rTU4IwKAUI2knCcu]{Melismaphone}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Pp3JYk2cnJFEvaPB]{Rampant Tongue}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.v8F6mWYtTqIrIxCq]{Rope-Strung Tablets}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.R5UPvqdRqZ9WBdto]{Tattered Vestments}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.GolW1MluEJ7a6kne]{Protoleviathan Grubling}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.iLnfkGUafGjl0gEE]{Shrineruff Mastiff}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "r1v7Ksvsfnv0KkDO",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!r1v7Ksvsfnv0KkDO"
+}

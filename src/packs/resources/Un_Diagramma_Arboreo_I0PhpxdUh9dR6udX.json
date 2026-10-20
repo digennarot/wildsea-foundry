@@ -1,0 +1,20 @@
+{
+  "name": "Un Diagramma Arboreo",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Apripista.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "0RS0OjR1OigEOxFz",
+  "_id": "I0PhpxdUh9dR6udX",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!I0PhpxdUh9dR6udX"
+}

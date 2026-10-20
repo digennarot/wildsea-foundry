@@ -5,6 +5,8 @@
     "aspects": "Аспекти",
     "background": "Підґрунтя",
     "bite": "Вгризання",
+    "backgroundSet": "{field}: {name}",
+    "slimExists": "\"{name}\" is already on the sheet",
     "bloodline": "Родовід",
     "brace": "Brace",
     "brasstongue": "Brasstongue",

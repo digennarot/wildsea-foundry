@@ -1,0 +1,20 @@
+{
+  "name": "Una Carta Celeste Rubata",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Filibustiere.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "tzPTWmeRgh91zT1A",
+  "_id": "TqbiXJ4AxJDcgxn4",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!TqbiXJ4AxJDcgxn4"
+}

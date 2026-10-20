@@ -1,0 +1,19 @@
+{
+  "name": "Vecchio Sacerdote",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Segnato da anni di sacrifici, offre un ottimo scambio per arrivare all’Ago.</p><p>Passeggero della regione L'Anomalia di Kremich. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "jxOFpoDwm7M9H64G",
+  "_id": "luIcHOBOUhDs51Es",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!luIcHOBOUhDs51Es"
+}

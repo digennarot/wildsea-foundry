@@ -1,0 +1,20 @@
+{
+  "name": "Rotolo di Tessuto",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Falenide.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "We8brdPu65JFC5eL",
+  "_id": "RWaChXZKCFF1bzph",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!RWaChXZKCFF1bzph"
+}

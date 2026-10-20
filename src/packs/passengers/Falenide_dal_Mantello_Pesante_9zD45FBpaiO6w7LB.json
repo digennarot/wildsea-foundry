@@ -1,0 +1,19 @@
+{
+  "name": "Falenide dal Mantello Pesante",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fin troppo ordinario, con un mantello troppo pesante per il clima. Di sicuro non nasconde i gioielli del Cartello.</p><p>Passeggero della regione L'Itterino. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "ArpPduwQ9lOe0a93",
+  "_id": "9zD45FBpaiO6w7LB",
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!9zD45FBpaiO6w7LB"
+}

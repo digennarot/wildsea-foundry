@@ -1,0 +1,20 @@
+{
+  "name": "Vetro Antico",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Gente delle Strisce.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "w2qdUPLD0EP5xQ28",
+  "_id": "iZNhcEgjfm6Mkcpr",
+  "effects": [],
+  "sort": 100001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!iZNhcEgjfm6Mkcpr"
+}

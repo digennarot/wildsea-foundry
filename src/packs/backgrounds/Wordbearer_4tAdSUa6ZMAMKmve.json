@@ -1,0 +1,19 @@
+{
+  "name": "Wordbearer",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.4RA6vxFgykbLx2vJ]{Dead Letters}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.QY5LxIyUwqcbg3NV]{Oathbound}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.rwTCJi4DbNxSsZ1j]{Respect Runs Deep}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.VylMqepCMpmztSBT]{Rightful Owner}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Xes9oRCXA7dbAH8n]{The Safest Wrapping}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wJZJRxMfQzCUefCR]{The Words Always Know}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.12Xxlh0IS7tWIjBb]{Weatherbeaten}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.93P8UCmE8zHxqgGA]{Canvas Sling}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.CLiUtfyoIx04jNwv]{Courier's Cage}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.oiNsvnXdeNti52KG]{Glyph Flares}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.NGYs5TQrom6DFvgR]{Pattern-Reader}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.DjM4CMj5O8o97ZlR]{Promise-Twine}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.9fs8Bqj276mrzE0P]{Undeliverables}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.6IIHzyqldgXgti1r]{Crawling Jar}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.z71lamo3z9wCBO6W]{Retired Courier Dragonfly}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.s1dqpoKRoHF8JLAv]{Sortomaton}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.z4aUuCg8tjOVVC97]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.dVwi0PhN6NlOCYl5]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.eqX3x0EyWQRfQVL3]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.MdpVAe1ZdaGUhJdL]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.AfeghQPjheW6g4At]</li><li>@UUID[Compendium.wildsea.resources.Item.QuHFFtN6kja6QwBj]</li><li>@UUID[Compendium.wildsea.resources.Item.5fovtS5X0ctK6xZy]</li><li>@UUID[Compendium.wildsea.resources.Item.qyplNFiMmEAlZfll]</li><li>@UUID[Compendium.wildsea.resources.Item.po6vB8PTpTCyIZsC]</li><li>@UUID[Compendium.wildsea.resources.Item.0Xa0U2LyTyXR8MNF]</li><li>@UUID[Compendium.wildsea.resources.Item.caUVdHK0cjQ7Mv9w]</li><li>@UUID[Compendium.wildsea.resources.Item.IsD9AyyxcOZdjJog]</li><li>@UUID[Compendium.wildsea.resources.Item.UAI0l8vcLUat7wn4]</li><li>@UUID[Compendium.wildsea.resources.Item.4LL5PliIqwjkZHUI]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "4tAdSUa6ZMAMKmve",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!4tAdSUa6ZMAMKmve"
+}

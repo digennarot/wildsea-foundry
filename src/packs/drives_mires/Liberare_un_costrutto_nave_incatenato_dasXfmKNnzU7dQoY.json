@@ -1,0 +1,19 @@
+{
+  "name": "Liberare un costrutto-nave incatenato",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Corazzata.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "ux5JTSrIHQwUg6Yy",
+  "_id": "dasXfmKNnzU7dQoY",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!dasXfmKNnzU7dQoY"
+}

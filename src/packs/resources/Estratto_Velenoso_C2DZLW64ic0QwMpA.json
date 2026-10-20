@@ -1,0 +1,20 @@
+{
+  "name": "Estratto Velenoso",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Tzelicrae.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "SKxWI9JZ1tJFLrF0",
+  "_id": "C2DZLW64ic0QwMpA",
+  "effects": [],
+  "sort": 200001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!C2DZLW64ic0QwMpA"
+}

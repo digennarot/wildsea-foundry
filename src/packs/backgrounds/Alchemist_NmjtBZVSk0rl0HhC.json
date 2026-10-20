@@ -1,0 +1,19 @@
+{
+  "name": "Alchemist",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.BrLZrauqfZJSIgig]{Alchemical Unearthing}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.8oldvp5X3DVuhref]{Baseline}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.c9UkjBF5m2KtBbM8]{Chemicokinesis}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.VDqNcGIvnf58VfCb]{Component Scrounger}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.rjbn7uBrPgbxMpef]{Extraction Techniques}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TfhiVg9FvYWildHR]{Heady Vapours}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.hCfiaXUImN2EYBMf]{Metabolize}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.f73Ex2fauPEo4xk0]{Pestle-Pound}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.97R6fvajsdo0Zj1j]{The Old Ways}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ACXtiAb8QHPeIU3H]{Ulcerous Alembic}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.PDkOgT5CcdfHu1F3]{Accelerant Vial}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ehNJFk01HNuSHBds]{Broke-Mirror Mist}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.bpXUlnZ0UCkjhqz2]{Catalyst Belt}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.2JIkV22KVzZT0Mm6]{Dilution Agent}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Z9RYSTkIawrz0m6e]{Explosive Vials}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OXY6j7mSImwEuW16]{Pressure-Sealed Linkage}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.6MRBF6zXvhtYMDfH]{Living Liquid}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Eqx6cjVAfV7YZli4]{Syringiosquito}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.7eRg0hBJgzKuLTQw]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.cYnqs8GpLfC0fPka]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.aBXUU3Mszx7c2Ate]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.XEcy8U5JBRCNMH5V]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.ScT14tGaba247xjD]</li><li>@UUID[Compendium.wildsea.resources.Item.vL41CxwCGrGeZdPf]</li><li>@UUID[Compendium.wildsea.resources.Item.eDvwNWjh3PBvp7Jx]</li><li>@UUID[Compendium.wildsea.resources.Item.lySdGehtuz0BjhNB]</li><li>@UUID[Compendium.wildsea.resources.Item.ja3gPokCQghRZKER]</li><li>@UUID[Compendium.wildsea.resources.Item.Jlgkj6sYT1BAkDF8]</li><li>@UUID[Compendium.wildsea.resources.Item.2lJDkKPc4RUgRhgD]</li><li>@UUID[Compendium.wildsea.resources.Item.hXdKfOQVbwNAC6q4]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "NmjtBZVSk0rl0HhC",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!NmjtBZVSk0rl0HhC"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Aggiungere una Casella a un Aspetto",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Progetto di avanzamento: al termine aggiungi una casella al tracciato di un aspetto. Un avanzamento minore segna 1 casella, uno maggiore 3. Rinominalo con l’obiettivo del personaggio.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 3
+    },
+    "type": "Progetto"
+  },
+  "folder": "sHO3zhf1pCFQ4KRk",
+  "_id": "s5vdIh8rgtuHyH4K",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!s5vdIh8rgtuHyH4K"
+}

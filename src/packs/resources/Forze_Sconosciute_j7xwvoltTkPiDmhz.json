@@ -1,0 +1,20 @@
+{
+  "name": "Forze Sconosciute",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Magnetista.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "fqSvfHBdlfpDZBzp",
+  "_id": "j7xwvoltTkPiDmhz",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!j7xwvoltTkPiDmhz"
+}

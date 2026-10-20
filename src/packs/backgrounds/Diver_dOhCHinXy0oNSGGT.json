@@ -1,0 +1,19 @@
+{
+  "name": "Diver",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.ZV3Uj2LkYWOVMmEe]{Cathedral Lungs}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.m4UFPdDeCQug5wLL]{Dancing on the Edge}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.mipTSV0uUac0CJ9e]{Paths in the Dark}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.FfOmbTVEKTW4mnMh]{Pheromone Glandgraft}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.nCN54lp1y5Gg7TPx]{Bunting Chains}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.HSZsAqHiHJ8TE8Ja]{Deeps-Badger Claws}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Blk9EAlGHezmygBw]{Ragged Dive-Clothes}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WgXhB5mZwtfFC61X]{Serrospear}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Z6q3vNzOQrV9Gooa]{Winch-Rifle}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.POIgEE4iFP9qjhhf]{Chakio}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "dOhCHinXy0oNSGGT",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!dOhCHinXy0oNSGGT"
+}

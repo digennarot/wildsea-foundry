@@ -1,0 +1,19 @@
+{
+  "name": "La bocca ti si impasta quando devi comunicare le informazioni più importanti",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Navigatore.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "fqXyjXFHfM6INKVD",
+  "_id": "uSVXxuzKPWmLa9FR",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!uSVXxuzKPWmLa9FR"
+}

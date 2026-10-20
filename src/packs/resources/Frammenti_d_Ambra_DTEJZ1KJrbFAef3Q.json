@@ -1,0 +1,20 @@
+{
+  "name": "Frammenti d’Ambra",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Ambrato.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "UtQxlr7V1HEbt3XJ",
+  "_id": "DTEJZ1KJrbFAef3Q",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!DTEJZ1KJrbFAef3Q"
+}

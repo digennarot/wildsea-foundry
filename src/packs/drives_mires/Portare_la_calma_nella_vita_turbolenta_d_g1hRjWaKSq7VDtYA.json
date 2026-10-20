@@ -1,0 +1,19 @@
+{
+  "name": "Portare la calma nella vita turbolenta degli altri",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Mescitore.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "UB9AeR5BOil7YX6i",
+  "_id": "g1hRjWaKSq7VDtYA",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!g1hRjWaKSq7VDtYA"
+}

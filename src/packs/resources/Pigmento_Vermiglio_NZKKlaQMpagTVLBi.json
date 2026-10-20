@@ -1,0 +1,20 @@
+{
+  "name": "Pigmento Vermiglio",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Falenide.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "We8brdPu65JFC5eL",
+  "_id": "NZKKlaQMpagTVLBi",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!NZKKlaQMpagTVLBi"
+}

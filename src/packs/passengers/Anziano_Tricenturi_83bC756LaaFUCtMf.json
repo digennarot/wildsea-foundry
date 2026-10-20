@@ -1,0 +1,19 @@
+{
+  "name": "Anziano Tricenturi",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Vecchio anche per la sua gente, vuole raggiungere un tempio antico appena riaffiorato.</p><p>Passeggero della regione L'Itterino. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "ArpPduwQ9lOe0a93",
+  "_id": "83bC756LaaFUCtMf",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!83bC756LaaFUCtMf"
+}

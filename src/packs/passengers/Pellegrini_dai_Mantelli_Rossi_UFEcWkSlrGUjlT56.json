@@ -1,0 +1,19 @@
+{
+  "name": "Pellegrini dai Mantelli Rossi",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Silenziosi, pagano in risorse e chiedono con un biglietto di raggiungere un insediamento lontano.</p><p>Passeggero della regione L'Anomalia di Kremich. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "jxOFpoDwm7M9H64G",
+  "_id": "UFEcWkSlrGUjlT56",
+  "effects": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!UFEcWkSlrGUjlT56"
+}

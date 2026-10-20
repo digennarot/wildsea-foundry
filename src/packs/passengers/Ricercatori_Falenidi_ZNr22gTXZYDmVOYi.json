@@ -1,0 +1,19 @@
+{
+  "name": "Ricercatori Falenidi",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Girano a torso nudo: la loro pelliccia regge benissimo il freddo della regione.</p><p>Passeggero della regione L'Interregno. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "JisdLgdxgzprQTE6",
+  "_id": "ZNr22gTXZYDmVOYi",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!ZNr22gTXZYDmVOYi"
+}

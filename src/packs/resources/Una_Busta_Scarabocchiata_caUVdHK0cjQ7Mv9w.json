@@ -1,0 +1,20 @@
+{
+  "name": "Una Busta Scarabocchiata",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Fattorino.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "Sgw8pYYLZycJMYce",
+  "_id": "caUVdHK0cjQ7Mv9w",
+  "effects": [],
+  "sort": 300001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!caUVdHK0cjQ7Mv9w"
+}

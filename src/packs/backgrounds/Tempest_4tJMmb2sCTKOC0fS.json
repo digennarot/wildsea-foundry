@@ -1,0 +1,19 @@
+{
+  "name": "Tempest",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.vMt2TMpUHXW42EOy]{Bolt-Switch}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.sv2oyox4zF0KdQaL]{Ground Zero Overload}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WX7CRzUwhmL7UYtd]{Lightning's Call}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.DRukKYFN9vKseqHO]{Old Accord}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ATFPDNSLNDUCQtw0]{Storm-Stride}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.xND6MD53iaMoTd00]{The Gathering Storm}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.JTkynTPgUmR3YqF3]{The Pulse}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.CEKmyOLLr0NMo0sb]{The Skies Agree}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.HcjBRyRNR1wmidag]{Thunder's Tone}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.nbLwekOH0CZ8MWba]{Internal battery}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.n56F4C0OyHYMAAQr]{Ironjaw Seven-String}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.dNsRzUIK66fU92fE]{Mesh Relay}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.LTDNbo2xHocHN9UP]{Petrichord}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TCtRPEKNFMy7rlic]{Singed Coat}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.BclJrPPBxYHNNKaN]{Voltaic Lantern}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wHmk4gUoleATTtv8]{Voltomotive Interfacing}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.j0MeZcLHG02rPn5Z]{Sparking-Eel}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.RBxkxMWNZTp1Gr8i]{Squallkitten}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.Gr5b1zglZjxsDuTF]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.PdXw7ekAmjaMbHPX]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.JvFJx80Yuzaim3gC]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.K4D1nOABT9Q32trz]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.AcbjhbNgFX2rbELS]</li><li>@UUID[Compendium.wildsea.resources.Item.Yo9HjapYXc4MRkjq]</li><li>@UUID[Compendium.wildsea.resources.Item.xWoMYaqdONTD6Yka]</li><li>@UUID[Compendium.wildsea.resources.Item.OJrBKTcE6VyX9TfA]</li><li>@UUID[Compendium.wildsea.resources.Item.Rjl4tbBFHxk4nUxD]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "4tJMmb2sCTKOC0fS",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!4tJMmb2sCTKOC0fS"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Scoprire e rivendicare una cima sconosciuta",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Esposto.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "TBtfTJV0LdCUpQuc",
+  "_id": "4dUi60nUd0RerbGN",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!4dUi60nUd0RerbGN"
+}

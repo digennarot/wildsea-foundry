@@ -1,0 +1,19 @@
+{
+  "name": "Mesmer",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.mVbPi25F2kZAPQLf]{An Uncomfortable Understanding}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wREhAogh7cYevexZ]{Autohypnosis}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.A7QAM3RU2Mgqmrs8]{Empty the Mind}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Afmd6MUeuZSNeQq7]{Intricate Tattoos}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OsT80ph8QQXYfaPP]{Knowing The Unknown}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.gBrncrFfqFuKoO2u]{Meditative Healing}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.vCuIqfhXbiSxleaX]{Parasite Thought}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.p6cgVOqaILFStPLB]{Staredown}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.H33fqNJYRRl9HR5Y]{Amberglass Spectacles}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.kKNnv3FN1tIzxiU0]{Chameleon Veil}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wk5QSWtzcu441xKE]{Seven-Eye Scrawl}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.bbCIOSSeVhQ3mJBU]{Shard of Dream-Soaked Amber}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.NLas4aYDbOw3ybl1]{Smoked-Glass Hookah}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.PPZVlZwgLsHcIwyb]{Chromiguana}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.C2dUZRrAa8mnr0dx]{Guilewasps}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.J4qxdMPGbgnz7Jdw]{Pinned Butterfly}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.TVW4PUkCkect5cSg]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.dpJrnaTHZXVT8B9o]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.AQftzmOUxWh9JNCe]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.yBgtN0xxOVlMon63]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.lgi78o3GZLzYFY8q]</li><li>@UUID[Compendium.wildsea.resources.Item.fhtzlPxt23sKAiQq]</li><li>@UUID[Compendium.wildsea.resources.Item.GNGMv77xtzDG7fle]</li><li>@UUID[Compendium.wildsea.resources.Item.B33YRgzbIySfP2ah]</li><li>@UUID[Compendium.wildsea.resources.Item.xdv0VhPUIOT7bdZ8]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "S3OuxfPCyTZsanrQ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!S3OuxfPCyTZsanrQ"
+}

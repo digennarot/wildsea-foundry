@@ -1,0 +1,19 @@
+{
+  "name": "I rami si piegano e si spezzano sotto di te",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Svettante.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "0N32jXPJZsvl8rRr",
+  "_id": "Xc0P0q9NaHeomUwd",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!Xc0P0q9NaHeomUwd"
+}

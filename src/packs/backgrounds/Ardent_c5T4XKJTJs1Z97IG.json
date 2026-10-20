@@ -1,0 +1,19 @@
+{
+  "name": "Ardent",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.LUdMNTbNW2mD6chf]{Ghostsight}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.dM1HgOF0LsSZpjFk]{Guide My Hands}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.eGt1I5Fi1EbeEUvm]{Ironclad Mind}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.yPCoyifVb8ElYexn]{Strong Stomach}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.uhiEkWRSWcnpNs6Y]{Tough as Nails}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.FVRvBc1OtPtJEeGM]{Ajna}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.tX8kFi68I8GVIEZ5]{Hand Crossbow}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.QoCSpizVyD8rpLnw]{Machete}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.50O0hREFUEBibqki]{Pre-Verdant Heirloom}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.nz44kZNACMBXwLe1]{Ragged Longcoat}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.vNea8xMi0zWlQGWG]{Scimitar}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ILVL7HZr97vtVTIh]{Segmented Torc}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.frwEiMixW5I2Wbsy]{Sporescarf}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.GNu3mlPjU48sNqpN]{Venchcoat}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.tPYNYI7TR8Tci1m9]{Ancestral Spirit}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.R3qaXpHLdO5Syvpt]{Grizzled Ratter}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.4PJT6sAA0W6crBBR]{Haughty Grandling}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.YGWNzs92cF1HEgoz]{Watch-Wolf}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.Nqv4BWwPPJlvqLrZ]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.mS2bwSKrBKeTA8Hy]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.cmaEa8OkIhoBupxG]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.IPxsW9wlCATUeXrI]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.WdhZGnBR6bIEe4VT]</li><li>@UUID[Compendium.wildsea.resources.Item.9cE3wZopLAHa6Kgm]</li><li>@UUID[Compendium.wildsea.resources.Item.i2DHUqblwIH7rRev]</li><li>@UUID[Compendium.wildsea.resources.Item.OhwszhlCvcbc5rwR]</li><li>@UUID[Compendium.wildsea.resources.Item.XzEnLIochXFWgwt4]</li><li>@UUID[Compendium.wildsea.resources.Item.wUhMFlyZIDGekyKp]</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "c5T4XKJTJs1Z97IG",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!c5T4XKJTJs1Z97IG"
+}

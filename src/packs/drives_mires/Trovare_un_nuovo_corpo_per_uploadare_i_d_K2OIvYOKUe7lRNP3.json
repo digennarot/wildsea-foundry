@@ -1,0 +1,19 @@
+{
+  "name": "Trovare un nuovo corpo per uploadare i dati mentali di un Corron perduto",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Corron.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "xNdo9pJ15TrLIxj3",
+  "_id": "K2OIvYOKUe7lRNP3",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!K2OIvYOKUe7lRNP3"
+}

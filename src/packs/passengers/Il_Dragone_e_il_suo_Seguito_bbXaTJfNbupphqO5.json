@@ -1,0 +1,19 @@
+{
+  "name": "Il Dragone e il suo Seguito",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Vogliono ammirare le Ferradici Ambrate dal ponte di una nave.</p><p>Passeggero della regione Le Ferradici Ambrate. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "eo7HM5VWOlKOw7qG",
+  "_id": "bbXaTJfNbupphqO5",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!bbXaTJfNbupphqO5"
+}

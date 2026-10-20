@@ -1,0 +1,19 @@
+{
+  "name": "Il tuo controllo nel mondo materiale vacilla, si fa sempre più irregolare",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Ancorato.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "cX9IO7a0sp6T4nRa",
+  "_id": "aheeFdj9ERHHnfMD",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!aheeFdj9ERHHnfMD"
+}

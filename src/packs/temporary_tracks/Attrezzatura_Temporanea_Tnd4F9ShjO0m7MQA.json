@@ -1,0 +1,24 @@
+{
+  "name": "Attrezzatura Temporanea",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Artigianato (2 materiali di recupero): un attrezzo utile ma provvisorio. Rinominalo e descrivi cosa fa. Con un Conflitto ha anche uno svantaggio.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 2
+    },
+    "type": "Creazione"
+  },
+  "folder": "b1LMlwAj8JOeqk9Z",
+  "_id": "Tnd4F9ShjO0m7MQA",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/potion.svg",
+  "_key": "!items!Tnd4F9ShjO0m7MQA"
+}

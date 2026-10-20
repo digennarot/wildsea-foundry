@@ -1,0 +1,19 @@
+{
+  "name": "Horizoneer",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.4he7BHcYEVTTfT8H]{Exports Tell Stories}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.lDeUjd5SYUkgPURM]{First Impressions}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.HH9dmxTQFf8wu7xl]{Hyperadaptive}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.glJdKe7MTEdBwFhB]{Nothing Stays Buried}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.tIqwXkPXSfUQvXeW]{Open Hands, Open Heart}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.nhOcGyQBvUxJPfwc]{Silver Tongue}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.isfGKai3kYiCFPgD]{Watch and Learn}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.I2mPHnnxX8jwM7rf]{Wealth of Knowledge}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.XFvD0IFxSzDQ2E8I]{Worth Telling Twice}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.CsZgksKMNrQpGX3H]{Bait Bandoleer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.EtbRBMKNEEdFtEaC]{Bundled Correspondence}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.NWmHMIWEpexdyFea]{Padded Gauntlet}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.gYY07gCMWhTeiFHc]{Sheaf of a Hundred Stories}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.c8S86Uxqah44tJeT]{Spike Wine}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Qoo00M07j38scEjW]{Sturdy Instrument}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OHYnSvZ8Ihmuhh9s]{Tuning Fork}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.do3BU2QS0MiCwIU0]{Wavecutter's Ravito}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.j7H4MnfquLrGZo4x]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.XaZry2EP9HhOfsJS]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.BslYkXztRlqX4qY7]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.UeDNukKXIvULVrkj]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.fBd9J5ilhVcFhSFH]</li><li>@UUID[Compendium.wildsea.resources.Item.VxaQeUHbeeBNdhE1]</li><li>@UUID[Compendium.wildsea.resources.Item.5J6yPg4DL0FJy33h]</li><li>@UUID[Compendium.wildsea.resources.Item.NWVZ1JKzEGfHXVaC]</li><li>@UUID[Compendium.wildsea.resources.Item.avP8Rbirf3Wacv4a]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "LrmjvdKnCrGSHahk",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!LrmjvdKnCrGSHahk"
+}

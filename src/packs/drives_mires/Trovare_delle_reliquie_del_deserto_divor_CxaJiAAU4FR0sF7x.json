@@ -1,0 +1,19 @@
+{
+  "name": "Trovare delle reliquie del deserto divorato",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Ektus.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "A1nb0KVQaVq30iHd",
+  "_id": "CxaJiAAU4FR0sF7x",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!CxaJiAAU4FR0sF7x"
+}

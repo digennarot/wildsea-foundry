@@ -1,0 +1,20 @@
+{
+  "name": "La Quiete Prima",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Tempesta.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "U79VRxXDF06b11iS",
+  "_id": "OJrBKTcE6VyX9TfA",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!OJrBKTcE6VyX9TfA"
+}

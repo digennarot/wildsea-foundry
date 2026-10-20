@@ -1,0 +1,19 @@
+{
+  "name": "I ragni abbandonano la tua pelle, alla ricerca dell’individualità",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Tzelicrae.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "89atq0k3fz8RgYZP",
+  "_id": "M9f9kvNJiJ2LPN8y",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!M9f9kvNJiJ2LPN8y"
+}

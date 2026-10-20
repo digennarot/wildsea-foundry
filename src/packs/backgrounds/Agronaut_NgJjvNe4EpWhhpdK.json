@@ -1,0 +1,19 @@
+{
+  "name": "Agronaut",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.79Cm3lAcPDWbL4QN]{Constant Gardener}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Dc9TvCWzhOfjkPCD]{Dawn to Dusk to Dawn}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.3MngPBegEF3Nj2X9]{Delicate Step}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.3uvUQjVFRyQeSYqC]{Green Mile}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ZAGphtnhrBVbiFhW]{Perfectly Ripe}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.MtDh1Hkkz6xquVUM]{Soothing Harvester}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.8Ikv6n6720HEw9JM]{Brute-Shovel}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Dm9os8cmM0NkGWNt]{Ireful Pitchfork}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TLWfoSJ0GMhqxIPB]{Misting Coppercan}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.XxWgx7IhzmHI28CT]{Paradox Slug-Box}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.1Hwxj7WIk38smZOq]{Portable Plot}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.FLODPjEoXir5a1Ko]{Sumptuous Seed-Bag}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.IRLTgKPHTQ2Wv1ql]{Vespin Almanac}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.lQoNyevxvHSf7TrQ]{Amblecotta Pot}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ZKGOh08des1gTvGQ]{Sabre-Nosed Bat}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "NgJjvNe4EpWhhpdK",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!NgJjvNe4EpWhhpdK"
+}

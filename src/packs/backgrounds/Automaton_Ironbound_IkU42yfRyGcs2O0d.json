@@ -1,0 +1,19 @@
+{
+  "name": "Automaton Ironbound",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.vrS8L8KRQ2hwJT3E]{Apportioning Sequences}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.oQyjDNg98lSjfSCX]{Card Swap}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.tkwmyPZKBzpMkb4a]{Major Malfunction}</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "IkU42yfRyGcs2O0d",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!IkU42yfRyGcs2O0d"
+}

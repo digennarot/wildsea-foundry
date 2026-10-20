@@ -1,0 +1,19 @@
+{
+  "name": "Gendarme Gianocorno",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Torna a casa dopo una missione fallita presso l’Ammasso Avekdi.</p><p>Passeggero della regione L'Interregno. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "JisdLgdxgzprQTE6",
+  "_id": "qUKCwamgwWzsYLxc",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!qUKCwamgwWzsYLxc"
+}

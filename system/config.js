@@ -31,6 +31,14 @@ WILDSEA.languages = [
 ]
 WILDSEA.milestoneSubtypes = ['major', 'minor']
 WILDSEA.resourceTypes = ['salvage', 'specimen', 'whisper', 'chart']
+WILDSEA.backgroundFields = ['bloodline', 'origin', 'post']
+// attribute types that become slim items when dropped on a player sheet
+WILDSEA.slimDropTypes = {
+  drive: ['drives', null],
+  mire: ['mires', null],
+  milestoneMajor: ['milestones', 'major'],
+  milestoneMinor: ['milestones', 'minor'],
+}
 WILDSEA.shipRatings = ['armour', 'seals', 'speed', 'saws', 'stealth', 'tilt']
 WILDSEA.skillMax = 3
 WILDSEA.skills = [

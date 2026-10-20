@@ -1,0 +1,19 @@
+{
+  "name": "Smuggler",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.Vdyf60c6wIy8xOg9]{Balancing Act}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.iX8H3t3orFx2f3lm]{Easy Go}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.cY7vpkXo8ep1A8Fu]{Fleet-Heel}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.6pHTA257DG9T5Hm1]{Know How to Pack It}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.FLsGtMzZ3l5br6DA]{Silverleaf Tongue}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OkjePBDfK1JS1j2w]{Winning Smile}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.W4L8v9DIFkPz04Zl]{Wrapped in Rippling Words}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.UylQwce4LXBvVG2a]{Axehead Blunderbuss}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.bSfExIcmk0lsWFij]{Chemical Flashbangs}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.SDEwNT14ATCq145T]{Commanding Tricorn}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OvIyDgVflXcTojeA]{Disarming Cutlass}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.iTtKFWSpYzikFrAj]{Wickless Lantern}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.2VlD73viVsp2VDLc]{A Fragment of an Old Friend}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.YGrA5olFxhWOaoY6]{Crafty Lemurs}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Tgvyw1RuEFUwyVLm]{Multi-Hued Moths}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.SdYQxVzlN0yfOtZ4]{Smuggle Bug}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "uvNcFyVQPgB9ruqM",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!uvNcFyVQPgB9ruqM"
+}

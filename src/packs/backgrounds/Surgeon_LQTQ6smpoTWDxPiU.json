@@ -1,0 +1,19 @@
+{
+  "name": "Surgeon",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.4cVSoyRJELgiTgcO]{Biological Maestro}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.yaxJjWGOCKmWJLzV]{Ceaseless Tending}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.RUy8lpvgKXDM2rl7]{Evolving Techniques}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ERA4OS5ed8zWsj2B]{First Aid}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.V5V2jL2vWXyqaPdi]{In the Absence of Journals}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.1ZbwFaxB1WWjZ72J]{The Limits of the Crew}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.djhsIxwrr8pQpvAw]{Vigilance}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.abt5FnGKAcWRThIP]{We Can't Keep Doing This}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.FF0HgjT6rP15YFkq]{Wilds Theoreteician}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.8q7uy4hLXERsi5T2]{Bonesaw}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.avyzXqe9NIL05PX7]{Doctor's Trusty Satchel}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.y8bSix7xOiMQ0nuz]{Herbal Sealing-Wax}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.3aAjKBGJpheayLz5]{Jar of Old Fears}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Zbl0MLcdtSfIJTQF]{Leviathan-Blood Infusion}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.p1S13plon0YaPdCm]{Spice-Nosed Mask}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Go2xjqlzGNyMQBr0]{Surgical Spectacles}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.ashyfsuJgDWujs26]{Whisperspit Leech}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.kWCyhjGwepncqK8N]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.DtUGPHfzCTYIJy2D]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.qjL3yS7pfmaqkm3P]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.iBYObJNmP5OjvtvH]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.125PD4awQS7Ff9Ml]</li><li>@UUID[Compendium.wildsea.resources.Item.Kq586liSHZQ2KUNT]</li><li>@UUID[Compendium.wildsea.resources.Item.Xyp8IHFKRMcLgOTX]</li><li>@UUID[Compendium.wildsea.resources.Item.eGLDouGzeGvbinLU]</li><li>@UUID[Compendium.wildsea.resources.Item.QSWR3TYAUmz51Mbh]</li><li>@UUID[Compendium.wildsea.resources.Item.nEb1LAx5cnVTZD5h]</li><li>@UUID[Compendium.wildsea.resources.Item.qthLU0PHnNkGRVYF]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "LQTQ6smpoTWDxPiU",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!LQTQ6smpoTWDxPiU"
+}

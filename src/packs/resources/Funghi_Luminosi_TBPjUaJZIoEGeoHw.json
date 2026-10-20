@@ -1,0 +1,20 @@
+{
+  "name": "Funghi Luminosi",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Navigatore.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "ei7IIaXms1BJnqra",
+  "_id": "TBPjUaJZIoEGeoHw",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!TBPjUaJZIoEGeoHw"
+}

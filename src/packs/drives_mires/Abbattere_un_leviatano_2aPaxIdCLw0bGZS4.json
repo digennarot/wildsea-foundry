@@ -1,0 +1,19 @@
+{
+  "name": "Abbattere un leviatano",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Cacciatore.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "DFVpWzNzqBVtsTET",
+  "_id": "2aPaxIdCLw0bGZS4",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!2aPaxIdCLw0bGZS4"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Mozzato una Zanna a un Serpente Gigante",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Avanzamento minore, esempio del manuale. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi avanzamenti minori.</p>",
+    "collapsed": false,
+    "type": "milestoneMinor"
+  },
+  "folder": "FL176yd3nLvVVyae",
+  "_id": "JQm33d50RUFD9eLo",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/upgrade.svg",
+  "_key": "!items!JQm33d50RUFD9eLo"
+}

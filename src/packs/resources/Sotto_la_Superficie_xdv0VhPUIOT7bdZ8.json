@@ -1,0 +1,20 @@
+{
+  "name": "Sotto la Superficie",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Mesmerista.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "TwMdaPBiO5BhbMPH",
+  "_id": "xdv0VhPUIOT7bdZ8",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!xdv0VhPUIOT7bdZ8"
+}

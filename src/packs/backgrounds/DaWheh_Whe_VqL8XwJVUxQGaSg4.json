@@ -1,0 +1,19 @@
+{
+  "name": "DaWheh-Whe",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.upmxdVg0UiE5ukrx]{Harmonious Nature}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.IgM3TbzfKC56OKo1]{Honour Braid}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.lHHErPH4xtbSMwPE]{Pale Shadow}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TQhp1M1ZZQXDbmac]{Patterned Signals}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.MoFEmhfLl7x6kKRe]{Sweet Like Honey}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.mY5Tz7HubgK820OZ]{Petrified Carapace}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.7HqylWVJjVF9Px84]{Soiled Hands}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.uL9llilucgb19Hkp]{Same Heartbeat}</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "VqL8XwJVUxQGaSg4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!VqL8XwJVUxQGaSg4"
+}

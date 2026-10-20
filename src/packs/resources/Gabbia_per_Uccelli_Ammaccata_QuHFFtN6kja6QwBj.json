@@ -1,0 +1,20 @@
+{
+  "name": "Gabbia per Uccelli Ammaccata",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Fattorino.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "Sgw8pYYLZycJMYce",
+  "_id": "QuHFFtN6kja6QwBj",
+  "effects": [],
+  "sort": 100001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!QuHFFtN6kja6QwBj"
+}

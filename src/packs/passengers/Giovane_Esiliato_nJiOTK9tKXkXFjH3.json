@@ -1,0 +1,19 @@
+{
+  "name": "Giovane Esiliato",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Il fazzoletto copre a malapena il marchio dell’esilio: vuole ricominciare altrove.</p><p>Passeggero della regione L'Autunno della Sibilla. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "gMaOTUFUfQ3s2bOa",
+  "_id": "nJiOTK9tKXkXFjH3",
+  "effects": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!nJiOTK9tKXkXFjH3"
+}

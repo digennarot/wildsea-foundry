@@ -1,0 +1,19 @@
+{
+  "name": "Kosmer",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Origin. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.SyqAMj4o8nAOEX62]{Eyrie Swing}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.zcOQSnPGzdPA8Cbj]{Mask Under Mask}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Qru8sgCjAu54d4Na]{Obscuring Words}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.k7UFqMryxhy76BiL]{So Below}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.fDalyFOnxloxD3iR]{Wide-Arms Ritual}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.aENHFKtID8IeEL4D]{Baffler Ribbons}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.7FGopg1ajGpPXimN]{Cloak of Stolen Stars}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.XJEcmmaSrTs9Fone]{Cyclopean Mantle}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.1z2gu3yzhfMmqBXG]{Lightning Lash}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.kbrJYUSgSlR9aLzi]{Counterweight Ferret}</li></ul>",
+    "collapsed": false,
+    "type": "origin"
+  },
+  "folder": "irGBRwstZnCDKWcY",
+  "_id": "0G7LhnanJIhw30F4",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!0G7LhnanJIhw30F4"
+}

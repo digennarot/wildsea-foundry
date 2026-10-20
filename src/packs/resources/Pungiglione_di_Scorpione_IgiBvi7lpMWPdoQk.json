@@ -1,0 +1,20 @@
+{
+  "name": "Pungiglione di Scorpione",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "66O7FjKm4Qs5Vd2J",
+  "_id": "IgiBvi7lpMWPdoQk",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!IgiBvi7lpMWPdoQk"
+}

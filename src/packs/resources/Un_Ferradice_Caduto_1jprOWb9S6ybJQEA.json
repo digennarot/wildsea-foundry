@@ -1,0 +1,20 @@
+{
+  "name": "Un Ferradice Caduto",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Apripista.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "0RS0OjR1OigEOxFz",
+  "_id": "1jprOWb9S6ybJQEA",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!1jprOWb9S6ybJQEA"
+}

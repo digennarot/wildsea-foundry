@@ -1,0 +1,20 @@
+{
+  "name": "Dei Libri",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Ambrato.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "UtQxlr7V1HEbt3XJ",
+  "_id": "Za1nLLeHC3p5TOtZ",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!Za1nLLeHC3p5TOtZ"
+}

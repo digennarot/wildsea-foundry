@@ -1,0 +1,19 @@
+{
+  "name": "Recuperare un macchinario funzionante da un antico relitto",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Draghista.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "mHiWeajT73skLf9i",
+  "_id": "m0I9MGHmICZv419U",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!m0I9MGHmICZv419U"
+}

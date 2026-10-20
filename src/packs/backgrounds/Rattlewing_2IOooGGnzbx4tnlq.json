@@ -1,0 +1,19 @@
+{
+  "name": "Rattlewing",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.J4su0DLQhqkA8wit]{Aviotinker}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.DO1G6qQM7aJjDAAt]{Emergency Innovation}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.0j6G1Jj7SYvi4AZI]{More Than Maintenance}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.1IHR4j8FBpqweESx]{On Awkward Wings}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.8Bv194tCdJqOGXes]{The Purr and the Claw}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.tJnamWIxEe5fyvqh]{Deadening Bolt}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.YgWFrAwv1HV60axo]{Enlightening Chaff}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.GNznz0sLWCwyFfTQ]{Ironroot Repulsors}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OvsebH1SH0fsyoTd]{Portable Chamicovent}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.y9FNBXf8YbVsWiQ9]{Raka-Jets}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.4rHlBa1cWty6rSS4]{Reef-Iron Pinions}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.QAFgRi3xVlrFiJSR]{Skimmers}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.wDojutpcpBzgZZAI]{Vortex Aerofans}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.aq4hGuwJ8mhpmFoJ]{Mobile Scrapbox}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "2IOooGGnzbx4tnlq",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!2IOooGGnzbx4tnlq"
+}

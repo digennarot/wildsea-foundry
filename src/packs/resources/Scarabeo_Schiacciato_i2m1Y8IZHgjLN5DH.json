@@ -1,0 +1,20 @@
+{
+  "name": "Scarabeo Schiacciato",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Smanettone.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "BCjcGDzRmXg4lfaj",
+  "_id": "i2m1Y8IZHgjLN5DH",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!i2m1Y8IZHgjLN5DH"
+}

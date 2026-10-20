@@ -1,0 +1,24 @@
+{
+  "name": "Pasto",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Cucina (2 campioni): un pasto completo con proprietà legate agli ingredienti. Rinominalo e descrivi cosa fa. Con un Conflitto ha anche uno svantaggio.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 2
+    },
+    "type": "Creazione"
+  },
+  "folder": "b1LMlwAj8JOeqk9Z",
+  "_id": "1lthvfI9GJ5mvJaW",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/potion.svg",
+  "_key": "!items!1lthvfI9GJ5mvJaW"
+}

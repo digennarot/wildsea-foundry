@@ -1,0 +1,20 @@
+{
+  "name": "Rotte Commerciali con Inchiostro Rosso",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "xuM8tozDDZSI9Bao",
+  "_id": "0AvEuKqZR7w7sH4k",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!0AvEuKqZR7w7sH4k"
+}

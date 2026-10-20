@@ -1,0 +1,19 @@
+{
+  "name": "Tzelicrae dalle Maschere di Toro",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Avvolta nelle pellicce, porta maschere elaborate al posto del viso.</p><p>Passeggero della regione L'Interregno. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "JisdLgdxgzprQTE6",
+  "_id": "Y8ab5lYa8geVDkEV",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!Y8ab5lYa8geVDkEV"
+}

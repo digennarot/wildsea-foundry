@@ -1,0 +1,20 @@
+{
+  "name": "Uno Schizzo Frettoloso",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Pioniere.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "oPivvAhFltpTo9oN",
+  "_id": "5J6yPg4DL0FJy33h",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!5J6yPg4DL0FJy33h"
+}

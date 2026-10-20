@@ -1,0 +1,19 @@
+{
+  "name": "Corron",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.RVYFUf3ITmMxG8ol]{Jump Start}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.YV9RvOxbZDfa9N87]{Symbiomoss}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.8P019M3PHi3QXZZx]{Technopathic Senses}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Fc4L6ERT1b2MMShE]{Unshakeable}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.naqgsZMaryGMzRif]{Arcbeam Lance}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.cvHhTujZw4iSN0el]{Modular Limb}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.XkTn3mfiI64mDVuf]{Religious Robes}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.AHJHi4aYlNtlYVoH]{Bloomdrone}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.jBhA8XyfULgC0utM]{Garam Dog}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.K2OIvYOKUe7lRNP3]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.JIx4629472kxeiMM]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.OcbZOyyJMFhl44ih]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.RINgBINNZ7D9bYy2]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.ocFWrxulfL1N1B9Y]</li><li>@UUID[Compendium.wildsea.resources.Item.jXGEzV15WSoVWqWJ]</li><li>@UUID[Compendium.wildsea.resources.Item.BoBGt89wv7hxOHRM]</li><li>@UUID[Compendium.wildsea.resources.Item.4lcxS2FqyFGZj7vQ]</li><li>@UUID[Compendium.wildsea.resources.Item.qpoqQqkeWr6ROl6z]</li><li>@UUID[Compendium.wildsea.resources.Item.vN1qxe8oV7792M7R]</li><li>@UUID[Compendium.wildsea.resources.Item.MpPyVqHLewJilvei]</li><li>@UUID[Compendium.wildsea.resources.Item.NVmqQIBdzXTv2nU6]</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "8gEPBqGvGUPAjy34",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!8gEPBqGvGUPAjy34"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Comunicare con una tempesta vivente da pari a pari",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Tempesta.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "X3CnW6cfRTXmLL6W",
+  "_id": "Gr5b1zglZjxsDuTF",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!Gr5b1zglZjxsDuTF"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sviluppare un Aspetto",
+  "type": "temporaryTrack",
+  "system": {
+    "details": "<p>Progetto di avanzamento: al termine cambia le regole, il nome o la descrizione di un aspetto, d’accordo con la Lucciola. Un avanzamento minore segna 1 casella, uno maggiore 3.</p>",
+    "collapsed": false,
+    "track": {
+      "value": 0,
+      "burn": 0,
+      "max": 3
+    },
+    "type": "Progetto"
+  },
+  "folder": "sHO3zhf1pCFQ4KRk",
+  "_id": "5dl5bZHd3RYkjBdc",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!5dl5bZHd3RYkjBdc"
+}

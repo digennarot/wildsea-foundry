@@ -1,0 +1,20 @@
+{
+  "name": "Dito Mozzato",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Filibustiere.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "tzPTWmeRgh91zT1A",
+  "_id": "LdRbiay8BQxRLHJh",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!LdRbiay8BQxRLHJh"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Le cose intorno a te si rompono: vanno in frantumi se le sfiori",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Smantellatore.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "iVMdK0SUf8ruJULg",
+  "_id": "NRvF9aJtINFj2quK",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!NRvF9aJtINFj2quK"
+}

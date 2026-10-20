@@ -1,0 +1,19 @@
+{
+  "name": "Affondata la Divoranave Lingua dell’Alba",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Avanzamento maggiore, esempio del manuale. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi avanzamenti maggiori.</p>",
+    "collapsed": false,
+    "type": "milestoneMajor"
+  },
+  "folder": "QAdyaJIYVDqWnb4p",
+  "_id": "hWkY5jk0ktGmih2u",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/upgrade.svg",
+  "_key": "!items!hWkY5jk0ktGmih2u"
+}

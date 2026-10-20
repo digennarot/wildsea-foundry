@@ -1,0 +1,19 @@
+{
+  "name": "Scoprire e saccheggiare delle rovine Pre-V inesplorate",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "gz2QfeTNrOGjnvCl",
+  "_id": "fDqeEebDT7bnZSiz",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!fDqeEebDT7bnZSiz"
+}

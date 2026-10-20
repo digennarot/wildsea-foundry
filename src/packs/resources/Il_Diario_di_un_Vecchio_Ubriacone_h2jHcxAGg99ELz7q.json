@@ -1,0 +1,20 @@
+{
+  "name": "Il Diario di un Vecchio Ubriacone",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Artigliere.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "dJYbZGyQvYV0MXgv",
+  "_id": "h2jHcxAGg99ELz7q",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!h2jHcxAGg99ELz7q"
+}

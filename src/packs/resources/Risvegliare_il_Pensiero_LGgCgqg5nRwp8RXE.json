@@ -1,0 +1,20 @@
+{
+  "name": "Risvegliare il Pensiero",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Corazzata.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "jn66gQ6U7ofvnFV7",
+  "_id": "LGgCgqg5nRwp8RXE",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!LGgCgqg5nRwp8RXE"
+}

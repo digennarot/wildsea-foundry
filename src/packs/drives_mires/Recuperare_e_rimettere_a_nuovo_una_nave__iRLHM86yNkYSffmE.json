@@ -1,0 +1,19 @@
+{
+  "name": "Recuperare e rimettere a nuovo una nave di metallo Pre-V",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Magnetista.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "MCl9uCzt79eiZp5p",
+  "_id": "iRLHM86yNkYSffmE",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!iRLHM86yNkYSffmE"
+}

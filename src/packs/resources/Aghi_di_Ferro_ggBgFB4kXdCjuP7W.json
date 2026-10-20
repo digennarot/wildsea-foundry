@@ -1,0 +1,20 @@
+{
+  "name": "Aghi di Ferro",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Ektus.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "8YuKrbdun3sIM2ib",
+  "_id": "ggBgFB4kXdCjuP7W",
+  "effects": [],
+  "sort": 200001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!ggBgFB4kXdCjuP7W"
+}

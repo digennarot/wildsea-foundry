@@ -1,0 +1,19 @@
+{
+  "name": "Tzelicrae in Visita ai Parenti",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Diretta agli Altopiani di Cristallo per trovare i suoi parenti prismatici.</p><p>Passeggero della regione Le Ferradici Ambrate. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "eo7HM5VWOlKOw7qG",
+  "_id": "syfcgwK95MzQaRhc",
+  "effects": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!syfcgwK95MzQaRhc"
+}

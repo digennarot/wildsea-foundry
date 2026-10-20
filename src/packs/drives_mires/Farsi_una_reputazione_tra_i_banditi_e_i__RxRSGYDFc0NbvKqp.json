@@ -1,0 +1,19 @@
+{
+  "name": "Farsi una reputazione tra i banditi e i razziatori",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Filibustiere.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "qRbYZ9RyO2PrE8fF",
+  "_id": "RxRSGYDFc0NbvKqp",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!RxRSGYDFc0NbvKqp"
+}

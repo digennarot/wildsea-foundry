@@ -1,0 +1,20 @@
+{
+  "name": "Un Diario Rilegato in Pelle",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Navigatore.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "ei7IIaXms1BJnqra",
+  "_id": "YlKYruQ22hxbQXcp",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!YlKYruQ22hxbQXcp"
+}

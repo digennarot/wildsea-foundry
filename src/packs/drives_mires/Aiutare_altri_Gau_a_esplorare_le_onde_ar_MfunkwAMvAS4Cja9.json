@@ -1,0 +1,19 @@
+{
+  "name": "Aiutare altri Gau a esplorare le onde arboree",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Gau.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "s3aAc8eLCAtKNSAx",
+  "_id": "MfunkwAMvAS4Cja9",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!MfunkwAMvAS4Cja9"
+}

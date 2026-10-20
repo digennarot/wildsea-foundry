@@ -1,0 +1,19 @@
+{
+  "name": "Proteggere la tua ciurma da pirati e malviventi",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Artigliere.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "0iL9TkPfA78TEFrf",
+  "_id": "wpzgeYk4l3hJJeKK",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!wpzgeYk4l3hJJeKK"
+}

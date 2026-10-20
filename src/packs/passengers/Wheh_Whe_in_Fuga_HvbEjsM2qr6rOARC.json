@@ -1,0 +1,19 @@
+{
+  "name": "Wheh-Whe in Fuga",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Terrorizzato dalla prova iniziatica al Ponte di Ferro, vuole essere lasciato ovunque sopra le onde.</p><p>Passeggero della regione Le Ferradici Ambrate. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "eo7HM5VWOlKOw7qG",
+  "_id": "HvbEjsM2qr6rOARC",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!HvbEjsM2qr6rOARC"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Fondare un altoporto",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Svettante.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "i2zFXAc65KekNFuq",
+  "_id": "aiKVMrKV4DabxKT4",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!aiKVMrKV4DabxKT4"
+}

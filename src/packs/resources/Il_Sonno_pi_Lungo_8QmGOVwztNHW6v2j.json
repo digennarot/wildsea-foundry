@@ -1,0 +1,20 @@
+{
+  "name": "Il Sonno più Lungo",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Ambrato.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "UtQxlr7V1HEbt3XJ",
+  "_id": "8QmGOVwztNHW6v2j",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!8QmGOVwztNHW6v2j"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Dredger",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.bSRDEodtCq9DvMrM]{Cramped Conditioning}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.6HO64LLkyvKSAsNs]{Devil May Care}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.xDfOhebRMlv6Mhus]{Lurid Cartography}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.zGyVUDvZeFuxVCGa]{Master Salvager}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.IGRhgYEA4bY9sfFM]{Mental Catalogue}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ILHSC8ks2DUUp8a6]{Scrounge}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.sSLRZbf0gWZ6kyOe]{Seared Skin}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.jDDcxI0SzAuhcw4n]{Amber Lenses}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.XGJEDj29OkonrQWI]{Arborafathometer}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.2LjqPhnnXSfJRQNQ]{Arc Lamp}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.1UKi87ttgXApY7je]{Moth Lantern}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.JUIWN4isvNpmD7XN]{Silkwire Coil}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.U7jGRuCUBNIQcBeS]{Springheel Boots}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.IhflhhH9RTSq4Now]{Tomb Hammer}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.ItGw0g7bIXwLLEYh]{Key-Tail Scorpion}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.X4WU3GakGmNrCgQ7]{Roving Shadow}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.KX60GZ1KIgmz1CuW]{Sanctipede}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.TiB6SBc3yNlGYs65]{Tickerclick}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.g0FDmEWMQVGxeIhO]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.m0I9MGHmICZv419U]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.oNXGCYxskyLeJTNH]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.bMksrTW60mkWxQbQ]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.FgzBgXLaqfQFlk79]</li><li>@UUID[Compendium.wildsea.resources.Item.g9gmoYr1uXzM1ZfF]</li><li>@UUID[Compendium.wildsea.resources.Item.b0S58UCqm4OXVrSw]</li><li>@UUID[Compendium.wildsea.resources.Item.4UQhgLB4kpX23mIG]</li><li>@UUID[Compendium.wildsea.resources.Item.vqOJC3yLeaYwm6DK]</li><li>@UUID[Compendium.wildsea.resources.Item.FKl322k9bk0rVGMW]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "kjSRMPxVu1H5wQbe",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!kjSRMPxVu1H5wQbe"
+}

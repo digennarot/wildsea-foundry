@@ -1,0 +1,19 @@
+{
+  "name": "Swarmjack",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.MiZz5oIvngGo9xdC]{Coruscating Shield}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.IwRB0372kqPF8YK6]{Honey For Blood}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.j2ZfYpZJ8guFQFey]{Spread the Swarm}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.iHXB9PsCKBA3VjLn]{The Hive Remembers}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OJPnnDWg1LCwG3uh]{To The Bone}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.EaKPBDw4I40P8JAS]{Colony Backpack}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.REV5zSprYILWfdtc]{Pheromone Bellows}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OLY1UI0YjyP9vhbr]{Royal-Jack Array}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.WMDMWzhIehxzqPPg]{Signal Spikes}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.OYrC1HMVPzk3BFud]{Tome of Scuttling Pages}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.0Zhd0i8YQO6XGwAt]{Herding Bat}</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "cmPJyfaH4u0hO03n",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!cmPJyfaH4u0hO03n"
+}

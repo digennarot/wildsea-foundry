@@ -1,0 +1,19 @@
+{
+  "name": "Giovane Addestratore di Volpi",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Membro di una Famiglia Venatoria, torna da una battuta con un nuovo amico peloso.</p><p>Passeggero della regione La Vulpinaia. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "3DpDYXXm4eg6vqFi",
+  "_id": "9gzlLioRgyDP4ds5",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!9gzlLioRgyDP4ds5"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Skinless Tzelicrae",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Bloodline. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.uTLnBfjyA7Kk3YFg]{Moving Mass}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.vnNXl22GMm5gtb1k]{Scatterscree}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.M44SdmfreWLFCICg]{We Are The Mire}</li></ul>",
+    "collapsed": false,
+    "type": "bloodline"
+  },
+  "folder": "z3ibOH9ymBt8OXO2",
+  "_id": "hEIRuf9QeQZdcTjJ",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!hEIRuf9QeQZdcTjJ"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Aiutare le navi e le colonie degli Eradicati",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Eradicato.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "KuwnBX3X4xxMWJHI",
+  "_id": "phJT8urgrpHo0TVg",
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!phJT8urgrpHo0TVg"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Una Crepa che si Allarga",
+  "type": "resource",
+  "system": {
+    "details": "<p>Sussurro: sussurralo per scoprire segreti, pronuncialo per creare una svolta, gridalo per imporre un cambiamento.</p><p>Proposto nella creazione rapida: Smantellatore.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "whisper"
+  },
+  "folder": "oW7JWECX81LaR0go",
+  "_id": "0GMGmJ8gQFuqIohL",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/sound.svg",
+  "_key": "!items!0GMGmJ8gQFuqIohL"
+}

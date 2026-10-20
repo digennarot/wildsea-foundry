@@ -1,0 +1,20 @@
+{
+  "name": "Mandibole di Insetto Gigante",
+  "type": "resource",
+  "system": {
+    "details": "<p>Campione: serve per guarire i tratti, cucinare pasti che danno bonus o come arma improvvisata.</p><p>Proposto nella creazione rapida: Smanettone.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "specimen"
+  },
+  "folder": "BCjcGDzRmXg4lfaj",
+  "_id": "8Wmo8m9izuSPjo03",
+  "effects": [],
+  "sort": 200001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/oak.svg",
+  "_key": "!items!8Wmo8m9izuSPjo03"
+}

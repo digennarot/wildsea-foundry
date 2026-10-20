@@ -1,0 +1,19 @@
+{
+  "name": "Crash",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Post. Drag onto a character sheet to set it, then pick its aspects below.</p><h3>Traits</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.n6fXPIMaWwCuq5qp]{Broken Points}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.gYV3lJhYkgDoFOkj]{Cannonball Dreams}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.bO7kXPFv4gXoZOWL]{Crude Tools}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.weP3th66QJDtFdGE]{I've Had Worse}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Cr1jdT4I5CYfzFGI]{Load-Bearing Wall}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.PgMpGBC02DNd88xp]{Padded Boilersuit}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.U3I48l1e3FQq7WiU]{The Joy of Direct Paths}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ZoNPkiGJFwayDFvy]{The Seam Bear Secrets}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.3NLG32k9Et6920HQ]{Zero Days}</li></ul><h3>Gear</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.Qd3qzcH340ede5bw]{Baby Bombs}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.ge3xJsU5iDepTbTa]{Canis Box Detonator}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.Az7HdbkeTz5lY3KC]{Crash Mask}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.lBvcxvHgRCBUbNWQ]{Demolisher}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.8FvPM1PlM8s02pn4]{Torpedo Mallet}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.k5Zk3Uo9d665IEo0]{Wrecker's Globe}</li></ul><h3>Companions</h3><ul><li>@UUID[Compendium.wildsea.character_aspects.Item.aaFLNAurgirKggIw]{Blitceros}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.jQD6ICaVA822xL8Z]{Burrowhip Colony}</li><li>@UUID[Compendium.wildsea.character_aspects.Item.lrGTJ7JBwmUPHllH]{Torteaver}</li></ul><h3>Drives</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.V1eNuIe0BoZqcfl3]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.who3uILl3lWa8sXH]</li></ul><h3>Mires</h3><ul><li>@UUID[Compendium.wildsea.drives_mires.Item.NRvF9aJtINFj2quK]</li><li>@UUID[Compendium.wildsea.drives_mires.Item.hchxPo4gacmVN6nT]</li></ul><h3>Resources</h3><ul><li>@UUID[Compendium.wildsea.resources.Item.egO9YPW26TDNLzzf]</li><li>@UUID[Compendium.wildsea.resources.Item.ueBIjHpD2e0iDSUO]</li><li>@UUID[Compendium.wildsea.resources.Item.1CPc2hN7FspvMhAk]</li><li>@UUID[Compendium.wildsea.resources.Item.8aR5rSC5BIA1Z2HA]</li><li>@UUID[Compendium.wildsea.resources.Item.Y6I8jnHTgBHcC0vt]</li><li>@UUID[Compendium.wildsea.resources.Item.0GMGmJ8gQFuqIohL]</li></ul>",
+    "collapsed": false,
+    "type": "post"
+  },
+  "folder": "F30EAANynSUVDQmx",
+  "_id": "3qKRx1c7CeWGc9Fr",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/book.svg",
+  "_key": "!items!3qKRx1c7CeWGc9Fr"
+}

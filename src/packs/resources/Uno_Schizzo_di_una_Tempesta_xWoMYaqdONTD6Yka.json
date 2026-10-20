@@ -1,0 +1,20 @@
+{
+  "name": "Uno Schizzo di una Tempesta",
+  "type": "resource",
+  "system": {
+    "details": "<p>Carta nautica: serve per scoprire nuovi luoghi e registrare rotte sicure.</p><p>Proposto nella creazione rapida: Tempesta.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "chart"
+  },
+  "folder": "U79VRxXDF06b11iS",
+  "_id": "xWoMYaqdONTD6Yka",
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/compass.svg",
+  "_key": "!items!xWoMYaqdONTD6Yka"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Flauto di Recupero Danneggiato",
+  "type": "resource",
+  "system": {
+    "details": "<p>Materiale di recupero: serve per riparare attrezzatura, creare attrezzatura temporanea o come arma improvvisata.</p><p>Proposto nella creazione rapida: Falenide.</p>",
+    "collapsed": false,
+    "tags": "",
+    "type": "salvage"
+  },
+  "folder": "We8brdPu65JFC5eL",
+  "_id": "lt3iM3I3fSWNNWu6",
+  "effects": [],
+  "sort": 100001,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/anvil.svg",
+  "_key": "!items!lt3iM3I3fSWNNWu6"
+}

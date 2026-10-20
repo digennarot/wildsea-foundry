@@ -1,0 +1,19 @@
+{
+  "name": "L’alcol ti chiama, specie nei momenti più bui",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Chirurgo.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "aMiG4iwJTJbnwP8v",
+  "_id": "iBYObJNmP5OjvtvH",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!iBYObJNmP5OjvtvH"
+}

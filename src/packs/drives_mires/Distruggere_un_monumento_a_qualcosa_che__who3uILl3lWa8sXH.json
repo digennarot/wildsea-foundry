@@ -1,0 +1,19 @@
+{
+  "name": "Distruggere un monumento a qualcosa che odi",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Motivazione. Trascinala sulla scheda del personaggio per aggiungerla alle sue motivazioni.</p><p>Suggerito per: Smantellatore.</p>",
+    "collapsed": false,
+    "type": "drive"
+  },
+  "folder": "8kWfXCpgFzm9KShL",
+  "_id": "who3uILl3lWa8sXH",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/target.svg",
+  "_key": "!items!who3uILl3lWa8sXH"
+}

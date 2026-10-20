@@ -1,0 +1,19 @@
+{
+  "name": "La tua voce è un tuono: non si sente niente, nessun’altra voce",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Fardello. Trascinalo sulla scheda del personaggio per aggiungerlo ai suoi fardelli, con un tracciato da 2.</p><p>Suggerito per: Tempesta.</p>",
+    "collapsed": false,
+    "type": "mire"
+  },
+  "folder": "mgAKUCKGt0wqnmGP",
+  "_id": "K4D1nOABT9Q32trz",
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/stoned.svg",
+  "_key": "!items!K4D1nOABT9Q32trz"
+}

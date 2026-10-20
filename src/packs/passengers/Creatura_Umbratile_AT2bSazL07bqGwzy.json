@@ -1,0 +1,19 @@
+{
+  "name": "Creatura Umbratile",
+  "type": "attribute",
+  "system": {
+    "details": "<p>Cerca rifugio nella stiva della nave.</p><p>Passeggero della regione Le Ferradici Ambrate. Trascinalo sulla scheda della nave per aggiungerlo a Carico e Passeggeri.</p>",
+    "collapsed": false,
+    "type": "passenger"
+  },
+  "folder": "eo7HM5VWOlKOw7qG",
+  "_id": "AT2bSazL07bqGwzy",
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "_key": "!items!AT2bSazL07bqGwzy"
+}
