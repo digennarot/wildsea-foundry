@@ -198,6 +198,19 @@
       "signalling": "Bandiere, razzi, luci di segnalazione (codice).",
       "highvin": "Principalmente scritta (rovine Pre-Verdeggianti)."
     },
+    "FOCUS": {
+      "title": "Focus",
+      "nobody": "Nessuno",
+      "give": "Dai il focus a",
+      "hijack": "Dirotta il focus con",
+      "clear": "Rilascia focus",
+      "given": "{name} prende il focus.",
+      "requested": "{name} chiede di dirottare il focus.",
+      "hijacked": "{name} dirotta il focus!",
+      "rejected": "La tua richiesta di dirottare il focus non è stata applicata.",
+      "noGM": "Per dirottare il focus deve essere connesso un GM.",
+      "updateFailed": "Impossibile aggiornare il focus."
+    },
     "TRACKS": {
       "addTrack": "Aggiungi Tracciato",
       "editTrack": "Modifica Tracciato",

@@ -19,6 +19,7 @@ import { setupEnrichers } from './system/enrichers.js'
 import { runMigrations } from './system/migrations.js'
 
 import * as WildseaTracks from './system/applications/tracks/index.js'
+import * as WildseaFocus from './system/applications/focus/index.js'
 
 Hooks.once('init', () => {
   console.log('wildsea | Initializing')
@@ -33,6 +34,7 @@ Hooks.once('init', () => {
   game.wildsea = {}
 
   WildseaTracks.setup()
+  WildseaFocus.setup()
 
   loadHandlebarsPartials()
   loadHandlebarsHelpers()

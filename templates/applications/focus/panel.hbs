@@ -1,0 +1,20 @@
+<section class="focus-panel">
+  <div class="focus-holder">
+    <span class="focus-label">{{localize "wildsea.FOCUS.title"}}:</span>
+    <span class="focus-name">{{#if holder.name}}{{holder.name}}{{else}}{{localize "wildsea.FOCUS.nobody"}}{{/if}}</span>
+  </div>
+  {{#if actions.length}}
+  <div class="focus-actions">
+    {{#each actions as |action|}}
+    <button type="button" class="focus-action" data-actor-id="{{action.id}}">
+      {{#if ../isGM}}{{localize "wildsea.FOCUS.give"}}{{else}}{{localize "wildsea.FOCUS.hijack"}}{{/if}} {{action.name}}
+    </button>
+    {{/each}}
+    {{#if isGM}}
+    {{#if holder.name}}
+    <button type="button" class="clear-focus">{{localize "wildsea.FOCUS.clear"}}</button>
+    {{/if}}
+    {{/if}}
+  </div>
+  {{/if}}
+</section>

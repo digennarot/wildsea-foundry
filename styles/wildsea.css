@@ -1260,3 +1260,44 @@ a.inline-roll.unstyled {
 .track-panel .track-list .track .slots .break:last-child {
   display: none;
 }
+.focus-panel {
+  position: absolute;
+  top: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  pointer-events: initial;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 0.25rem;
+  font-family: 'Merriweather', serif;
+  font-size: 0.9rem;
+}
+.focus-panel .focus-holder {
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.25rem;
+  background: #f9f9f9;
+  color: #2d2a2b;
+}
+.focus-panel .focus-holder .focus-label {
+  opacity: 0.7;
+}
+.focus-panel .focus-holder .focus-name {
+  font-weight: bold;
+}
+.focus-panel .focus-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25rem;
+}
+.focus-panel .focus-actions button {
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  background: #f9f9f9;
+  color: #2d2a2b;
+  opacity: 0.8;
+}
+.focus-panel .focus-actions button:hover {
+  opacity: 1;
+}

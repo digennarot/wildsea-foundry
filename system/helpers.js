@@ -37,3 +37,26 @@ export const deleteAndReturn = (map, key) => {
 }
 
 export const clickModifiers = (event) => event.shiftKey || event.ctrlKey
+
+// Anchors a non-popout panel after #ui-top and renders it whenever the canvas is ready.
+// If #ui-top is not in the DOM yet, the anchor is retried right before the first render,
+// so the panel never renders without its anchor and never leaves a duplicate id behind.
+export const mountPanel = (id, getPanel) => {
+  const insertAnchor = () => {
+    const top = document.querySelector('#ui-top')
+    if (!top) return false
+
+    const template = document.createElement('template')
+    template.setAttribute('id', id)
+    top.insertAdjacentElement('afterend', template)
+    return true
+  }
+
+  insertAnchor()
+
+  Hooks.on('canvasReady', () => {
+    if (!document.getElementById(id) && !insertAnchor())
+      console.warn(`wildsea | #ui-top not found, cannot anchor panel ${id}`)
+    getPanel().render(true)
+  })
+}

@@ -198,6 +198,19 @@
       "signalling": "Flags, flares, signal lamps (code).",
       "highvin": "Primarily written (pre-verdant ruins)."
     },
+    "FOCUS": {
+      "title": "Focus",
+      "nobody": "Nobody",
+      "give": "Give focus to",
+      "hijack": "Hijack focus with",
+      "clear": "Clear focus",
+      "given": "{name} takes the focus.",
+      "requested": "{name} asks to hijack the focus.",
+      "hijacked": "{name} hijacks the focus!",
+      "rejected": "Your request to hijack the focus was not applied.",
+      "noGM": "A GM must be connected to hijack the focus.",
+      "updateFailed": "Could not update the focus."
+    },
     "TRACKS": {
       "addTrack": "Add Track",
       "editTrack": "Edit Track",
