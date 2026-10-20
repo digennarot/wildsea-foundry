@@ -1,5 +1,9 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.12
+
+- Release workflow: use actions/checkout v7 (Node 24) and pin the runner to Ubuntu 24.04
+
 ## v0.2.11
 
 - Add a Focus panel at the top of the screen showing which character holds the narrative focus. The GM can give the focus to any player character or clear it; players can hijack it with a character they own. A hijack is whispered to the GM as a request, applied by the active GM after checking ownership and announced in chat; the player is told privately if it was not applied. Hijack buttons only appear while a GM is connected. The holder is cleared when its character is deleted
