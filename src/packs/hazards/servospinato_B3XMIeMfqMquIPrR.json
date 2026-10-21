@@ -3,7 +3,7 @@
   "_key": "!actors!B3XMIeMfqMquIPrR",
   "name": "Servospinato",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/root-vine-coiled-crook.webp",
   "folder": "t8jqTPU1iTq55RIr",
   "sort": 7400000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Servospinato",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/root-vine-coiled-crook.webp"
     }
   }
 }

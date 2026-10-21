@@ -3,7 +3,7 @@
   "_key": "!actors!hrcGeSp0KhgXSXAL",
   "name": "Ottening Ost",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/reptiles/lizard-iguana-green.webp",
   "folder": "SCdjypXrsjxCOTfr",
   "sort": 300000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Ottening Ost",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/creatures/reptiles/lizard-iguana-green.webp"
     }
   }
 }

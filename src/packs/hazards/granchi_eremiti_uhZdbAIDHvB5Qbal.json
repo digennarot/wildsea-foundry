@@ -3,7 +3,7 @@
   "_key": "!actors!uhZdbAIDHvB5Qbal",
   "name": "Granchi Eremiti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/fish/jellyfish-swarm-eyed-teal.webp",
   "folder": "wKaXmVMpDNM3Uf2O",
   "sort": 5500000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Granchi Eremiti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/fish/jellyfish-swarm-eyed-teal.webp"
     }
   }
 }

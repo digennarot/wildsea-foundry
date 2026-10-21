@@ -3,7 +3,7 @@
   "_key": "!actors!5voVPbg1U7jk5vPf",
   "name": "Crescita Rapida",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/leaf-oak-glow-green.webp",
   "folder": "EasSmg0dpCCRiCvr",
   "sort": 200000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Crescita Rapida",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/leaf-oak-glow-green.webp"
     }
   }
 }

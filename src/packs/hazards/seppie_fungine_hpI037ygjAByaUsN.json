@@ -3,7 +3,7 @@
   "_key": "!actors!hpI037ygjAByaUsN",
   "name": "Seppie Fungine",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/consumables/mushrooms/umbontae-hot-pink.webp",
   "folder": "XrqksO6vjLSChbuj",
   "sort": 8100000,
   "system": {
@@ -130,7 +130,7 @@
       "_key": "!actors.items!hpI037ygjAByaUsN.gcUV14uRh3KsEQDD",
       "name": "Viticcio Fungino",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/mushrooms/conical-bell-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -149,7 +149,7 @@
       "_key": "!actors.items!hpI037ygjAByaUsN.oJpMP1ISkdeHR50q",
       "name": "Fetta di Fungo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/mushrooms/campanulate-bell-red-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -168,7 +168,7 @@
       "_key": "!actors.items!hpI037ygjAByaUsN.0O6A0sME1OrUhzUq",
       "name": "Nato dal Marciume",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/mushrooms/campanulate-bell-shiny-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -187,7 +187,7 @@
       "_key": "!actors.items!hpI037ygjAByaUsN.gMRg9FbbcUtVNU4f",
       "name": "Cacciatore Flessuoso",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/skills/ranged/target-bullseye-arrow-glowing.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -211,7 +211,7 @@
     "name": "Seppie Fungine",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/consumables/mushrooms/umbontae-hot-pink.webp"
     }
   }
 }

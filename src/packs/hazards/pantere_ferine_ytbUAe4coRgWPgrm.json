@@ -3,7 +3,7 @@
   "_key": "!actors!ytbUAe4coRgWPgrm",
   "name": "Pantere Ferine",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/abilities/cougar-roar-rush-orange.webp",
   "folder": "g4PF7Tt0HC0ZjSV9",
   "sort": 3300000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Pantere Ferine",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/abilities/cougar-roar-rush-orange.webp"
     }
   }
 }

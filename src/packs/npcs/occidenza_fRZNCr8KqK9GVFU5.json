@@ -3,7 +3,7 @@
   "_key": "!actors!fRZNCr8KqK9GVFU5",
   "name": "Occidenza",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/consumables/mushrooms/umbontae-pink.webp",
   "folder": "4kRXs1LUbMyEXIND",
   "sort": 300000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Occidenza",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/consumables/mushrooms/umbontae-pink.webp"
     }
   }
 }

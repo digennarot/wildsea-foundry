@@ -3,7 +3,7 @@
   "_key": "!actors!gpaYV0J74RczrGMq",
   "name": "Tagliole Nascoste",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
   "folder": "cdJDVVFlS0y5Z02h",
   "sort": 8700000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Tagliole Nascoste",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/stealth-hide-eyes-green.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!C2QY8MRRVOrG4z6l",
   "name": "Iktaret",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/invertebrates/spider-mandibles-brown.webp",
   "folder": "BirbZzxhLD6TZrLv",
   "sort": 200000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Iktaret",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/creatures/invertebrates/spider-mandibles-brown.webp"
     }
   }
 }

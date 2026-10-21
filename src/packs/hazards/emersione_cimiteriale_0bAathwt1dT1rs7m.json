@@ -3,7 +3,7 @@
   "_key": "!actors!0bAathwt1dT1rs7m",
   "name": "Emersione Cimiteriale",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/unholy/beam-impact-purple.webp",
   "folder": "Tb22ATZVP0IDliL2",
   "sort": 1800000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Emersione Cimiteriale",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/unholy/beam-impact-purple.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!rLAef2YrgkQuLWdI",
   "name": "Hondata Elio-Baciato",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/consumables/plants/thorned-dried-stem-red.webp",
   "folder": "BirbZzxhLD6TZrLv",
   "sort": 300000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Hondata Elio-Baciato",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/consumables/plants/thorned-dried-stem-red.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!5N5C52v3YmXb1yZv",
   "name": "Blatte della Ruggine",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/invertebrates/scorpion-yellow.webp",
   "folder": "wKaXmVMpDNM3Uf2O",
   "sort": 5700000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Blatte della Ruggine",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/invertebrates/scorpion-yellow.webp"
     }
   }
 }

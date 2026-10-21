@@ -3,7 +3,7 @@
   "_key": "!actors!8hgivvTlBL8F8PEl",
   "name": "Balfazar",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/consumables/mushrooms/umbontae-green.webp",
   "folder": "bPpj0MZKaIP8lhJX",
   "sort": 200000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Balfazar",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/consumables/mushrooms/umbontae-green.webp"
     }
   }
 }

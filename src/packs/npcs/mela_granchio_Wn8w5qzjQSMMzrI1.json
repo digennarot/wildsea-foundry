@@ -3,7 +3,7 @@
   "_key": "!actors!Wn8w5qzjQSMMzrI1",
   "name": "Mela Granchio",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/consumables/plants/succulent-bundle-green.webp",
   "folder": "bPpj0MZKaIP8lhJX",
   "sort": 300000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Mela Granchio",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/consumables/plants/succulent-bundle-green.webp"
     }
   }
 }

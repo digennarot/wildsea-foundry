@@ -3,7 +3,7 @@
   "_key": "!actors!7onGF4sSFJuMRHJn",
   "name": "Scorpioni Predatori",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/invertebrates/scorpion-yellow.webp",
   "folder": "cXs2ciq2MAxLLVu9",
   "sort": 6200000,
   "system": {
@@ -162,7 +162,7 @@
       "_key": "!actors.items!7onGF4sSFJuMRHJn.89W8XmEHTkpcTrz3",
       "name": "Placche di Chitina",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/shell-conch-gray.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -181,7 +181,7 @@
       "_key": "!actors.items!7onGF4sSFJuMRHJn.CAj2ttxUeFnAIoED",
       "name": "Sacche di Veleno",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/skills/toxins/cauldron-pot-bubbles-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -200,7 +200,7 @@
       "_key": "!actors.items!7onGF4sSFJuMRHJn.tcYPp5g3tSbaMmwh",
       "name": "Chele Gemelle",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/invertebrates/scorpion-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -219,7 +219,7 @@
       "_key": "!actors.items!7onGF4sSFJuMRHJn.KlQ760cZvKY8pmGJ",
       "name": "In Attesa",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/invertebrates/scorpion-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -243,7 +243,7 @@
     "name": "Scorpioni Predatori",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/invertebrates/scorpion-yellow.webp"
     }
   }
 }

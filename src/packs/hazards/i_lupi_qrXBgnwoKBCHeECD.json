@@ -3,7 +3,7 @@
   "_key": "!actors!qrXBgnwoKBCHeECD",
   "name": "I Lupi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/mammals/wolf-shadow-black.webp",
   "folder": "ymimSf4TWI33u4yE",
   "sort": 10400000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "I Lupi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/mammals/wolf-shadow-black.webp"
     }
   }
 }

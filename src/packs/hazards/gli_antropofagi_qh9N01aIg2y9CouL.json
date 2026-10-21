@@ -3,7 +3,7 @@
   "_key": "!actors!qh9N01aIg2y9CouL",
   "name": "Gli Antropofagi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/environment/people/archer.webp",
   "folder": "ymimSf4TWI33u4yE",
   "sort": 10300000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Gli Antropofagi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/environment/people/archer.webp"
     }
   }
 }

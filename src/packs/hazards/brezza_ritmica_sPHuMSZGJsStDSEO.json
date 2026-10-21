@@ -3,7 +3,7 @@
   "_key": "!actors!sPHuMSZGJsStDSEO",
   "name": "Brezza Ritmica",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/air/fog-gas-smoke-swirling-pink.webp",
   "folder": "EasSmg0dpCCRiCvr",
   "sort": 700000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Brezza Ritmica",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/air/fog-gas-smoke-swirling-pink.webp"
     }
   }
 }

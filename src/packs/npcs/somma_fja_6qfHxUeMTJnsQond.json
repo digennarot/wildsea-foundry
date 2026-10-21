@@ -3,7 +3,7 @@
   "_key": "!actors!6qfHxUeMTJnsQond",
   "name": "Somma Fja",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/people/archer.webp",
   "folder": "nPakvJQRrPUXNMbZ",
   "sort": 200000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Somma Fja",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/environment/people/archer.webp"
     }
   }
 }

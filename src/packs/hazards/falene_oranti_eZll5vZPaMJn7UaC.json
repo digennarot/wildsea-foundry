@@ -3,7 +3,7 @@
   "_key": "!actors!eZll5vZPaMJn7UaC",
   "name": "Falene Oranti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/invertebrates/bug-sixlegged-gray.webp",
   "folder": "wKaXmVMpDNM3Uf2O",
   "sort": 5900000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Falene Oranti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/invertebrates/bug-sixlegged-gray.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!RDyEYRKCskfIsZQW",
   "name": "La Malora",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/skills/toxins/poison-skull-herbs-bottle-pink.webp",
   "folder": "Hfv8TJ8WjpQgwpmN",
   "sort": 11600000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "La Malora",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/skills/toxins/poison-skull-herbs-bottle-pink.webp"
     }
   }
 }

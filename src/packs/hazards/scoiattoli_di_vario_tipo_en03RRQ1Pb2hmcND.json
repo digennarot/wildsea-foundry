@@ -3,7 +3,7 @@
   "_key": "!actors!en03RRQ1Pb2hmcND",
   "name": "Scoiattoli (di Vario Tipo)",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/mammals/rodent-rat-green.webp",
   "folder": "g4PF7Tt0HC0ZjSV9",
   "sort": 2700000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Scoiattoli (di Vario Tipo)",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/mammals/rodent-rat-green.webp"
     }
   }
 }

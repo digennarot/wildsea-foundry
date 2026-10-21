@@ -3,7 +3,7 @@
   "_key": "!actors!B3nH7LTKbsHzBldz",
   "name": "La Vibrissa",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/air/wind-tornado-wall-blue.webp",
   "folder": "8ABj2qk7P7AAHhCn",
   "sort": 13200000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "La Vibrissa",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/air/wind-tornado-wall-blue.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!LpyKrMnfLtyffpdI",
   "name": "Tam Dito-Scuro",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/people/commoner.webp",
   "folder": "4kRXs1LUbMyEXIND",
   "sort": 200000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Tam Dito-Scuro",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/environment/people/commoner.webp"
     }
   }
 }

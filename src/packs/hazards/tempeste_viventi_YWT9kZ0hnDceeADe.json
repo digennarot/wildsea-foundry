@@ -3,7 +3,7 @@
   "_key": "!actors!YWT9kZ0hnDceeADe",
   "name": "Tempeste Viventi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/lightning/bolts-forked-large-blue-yellow.webp",
   "folder": "Qi7iQy3CSDDE2jkF",
   "sort": 14000000,
   "system": {
@@ -156,7 +156,7 @@
       "_key": "!actors.items!YWT9kZ0hnDceeADe.wUVlJsTj1mC15Yxo",
       "name": "Fulmine in Bottiglia",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/tech/battery-fuel-cell-teal.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -175,7 +175,7 @@
       "_key": "!actors.items!YWT9kZ0hnDceeADe.cYLvc08M1eV1aO24",
       "name": "Frammento di Tempesta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/lightning/bolt-cloud-sky-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -194,7 +194,7 @@
       "_key": "!actors.items!YWT9kZ0hnDceeADe.iw5YpqNVoOVlFnQ8",
       "name": "Pioggia in Barattolo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/water/water-drop-swirl-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -213,7 +213,7 @@
       "_key": "!actors.items!YWT9kZ0hnDceeADe.bZZphGafrpsTgJhc",
       "name": "Aria Carica di Elettricità",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/air/fog-gas-smoke-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -232,7 +232,7 @@
       "_key": "!actors.items!YWT9kZ0hnDceeADe.gtMALAnNYoiRe953",
       "name": "Acqua Piovana Pura",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/water/wave-water-explosion.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -251,7 +251,7 @@
       "_key": "!actors.items!YWT9kZ0hnDceeADe.nmHuh87hrOa5MXP0",
       "name": "La Tempesta Che Sarà",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/lightning/bolt-strike-clouds-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -270,7 +270,7 @@
       "_key": "!actors.items!YWT9kZ0hnDceeADe.NgtqgG2U6t77OfVe",
       "name": "Mente Annebbiata",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/control/energy-stream-link-large-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -289,7 +289,7 @@
       "_key": "!actors.items!YWT9kZ0hnDceeADe.HVqrKIweOd9lMfqD",
       "name": "Barili di Pioggia",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/containers/barrels/barrel-drum-steel-oil.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -308,7 +308,7 @@
       "_key": "!actors.items!YWT9kZ0hnDceeADe.4G4oZHj25cxAFY5s",
       "name": "Detriti Lanciati dalla Tempesta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/tech/frame-copper.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -332,7 +332,7 @@
     "name": "Tempeste Viventi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/lightning/bolts-forked-large-blue-yellow.webp"
     }
   }
 }

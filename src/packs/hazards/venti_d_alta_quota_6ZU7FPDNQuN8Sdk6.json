@@ -3,7 +3,7 @@
   "_key": "!actors!6ZU7FPDNQuN8Sdk6",
   "name": "Venti d'Alta Quota",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/air/wind-swirl-purple-blue.webp",
   "folder": "EasSmg0dpCCRiCvr",
   "sort": 100000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Venti d'Alta Quota",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/air/wind-swirl-purple-blue.webp"
     }
   }
 }

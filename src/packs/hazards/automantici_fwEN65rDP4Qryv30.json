@@ -3,7 +3,7 @@
   "_key": "!actors!fwEN65rDP4Qryv30",
   "name": "Automantici",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/commodities/tech/robotics-steel-jaw.webp",
   "folder": "TlEoAN6LaWOsg7D1",
   "sort": 9800000,
   "system": {
@@ -150,7 +150,7 @@
       "_key": "!actors.items!fwEN65rDP4Qryv30.CTWblu4BzzAxziLT",
       "name": "Arto Rotto di Automantice",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/hand-clawed-grey.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -169,7 +169,7 @@
       "_key": "!actors.items!fwEN65rDP4Qryv30.81HkT15owUGWZf6N",
       "name": "Pompa ad Aria",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/tech/exhaust-vent-grate-brass.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -188,7 +188,7 @@
       "_key": "!actors.items!fwEN65rDP4Qryv30.Vwfn7P0Djz1IiSIv",
       "name": "Sacca a Mantice",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/containers/bags/sack-symbol-flower-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -207,7 +207,7 @@
       "_key": "!actors.items!fwEN65rDP4Qryv30.aHk4OhLGWHmQOVVc",
       "name": "Scheda Perforata con Istruzioni",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/sundries/scrolls/scroll-writing-brown-grey.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -226,7 +226,7 @@
       "_key": "!actors.items!fwEN65rDP4Qryv30.uLiPBteuwHV2R3iL",
       "name": "Mappa Obsoleta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/tools/navigation/map-marked-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -250,7 +250,7 @@
     "name": "Automantici",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/commodities/tech/robotics-steel-jaw.webp"
     }
   }
 }

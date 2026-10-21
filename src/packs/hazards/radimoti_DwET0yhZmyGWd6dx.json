@@ -3,7 +3,7 @@
   "_key": "!actors!DwET0yhZmyGWd6dx",
   "name": "Radimoti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/earth/projectile-spiked-stone-boulder-blue.webp",
   "folder": "EasSmg0dpCCRiCvr",
   "sort": 600000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Radimoti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/earth/projectile-spiked-stone-boulder-blue.webp"
     }
   }
 }

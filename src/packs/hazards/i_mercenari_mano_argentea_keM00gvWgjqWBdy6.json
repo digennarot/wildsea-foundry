@@ -3,7 +3,7 @@
   "_key": "!actors!keM00gvWgjqWBdy6",
   "name": "I Mercenari Mano Argentea",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/commodities/biological/hand-clawed-scale-grey.webp",
   "folder": "ymimSf4TWI33u4yE",
   "sort": 10200000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "I Mercenari Mano Argentea",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/commodities/biological/hand-clawed-scale-grey.webp"
     }
   }
 }

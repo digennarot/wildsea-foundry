@@ -3,7 +3,7 @@
   "_key": "!actors!7HGsSgHkq4ATjnDF",
   "name": "Akaeran Kir",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/people/commoner.webp",
   "folder": "3ICIrqFNYGfdWuo1",
   "sort": 300000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Akaeran Kir",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/environment/people/commoner.webp"
     }
   }
 }

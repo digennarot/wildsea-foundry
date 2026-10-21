@@ -3,7 +3,7 @@
   "_key": "!actors!X2dJtnAqA3P4Ak1C",
   "name": "Pangoska",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/mammals/wolf-shadow-black.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 3500000,
   "system": {
@@ -188,7 +188,7 @@
       "_key": "!actors.items!X2dJtnAqA3P4Ak1C.i89GRpPJcMknqn7G",
       "name": "Placche di Terra",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/nature/leaf-glow-maple-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -207,7 +207,7 @@
       "_key": "!actors.items!X2dJtnAqA3P4Ak1C.ux6BMVtmcCztffR5",
       "name": "Zolle Muschiate",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/leather/scales-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -226,7 +226,7 @@
       "_key": "!actors.items!X2dJtnAqA3P4Ak1C.YJxdPwimbE7YA5og",
       "name": "Lottatore Recalcitrante",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/skills/melee/strike-axe-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -245,7 +245,7 @@
       "_key": "!actors.items!X2dJtnAqA3P4Ak1C.gtFxbQCBEWZTmWiO",
       "name": "Piattaforma Vibrante",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/sonic/projectile-sound-rings-wave.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -269,7 +269,7 @@
     "name": "Pangoska",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/mammals/wolf-shadow-black.webp"
     }
   }
 }

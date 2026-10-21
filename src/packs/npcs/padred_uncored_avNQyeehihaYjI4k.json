@@ -3,7 +3,7 @@
   "_key": "!actors!avNQyeehihaYjI4k",
   "name": "Padred Uncored",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/consumables/plants/thorned-stem-brown.webp",
   "folder": "3Z68MJuKyvHqu6vY",
   "sort": 200000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Padred Uncored",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/consumables/plants/thorned-stem-brown.webp"
     }
   }
 }

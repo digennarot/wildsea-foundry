@@ -3,7 +3,7 @@
   "_key": "!actors!UYdTJE70qFkhddWo",
   "name": "Insulia",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/skills/toxins/symbol-poison-drop-skull-green.webp",
   "folder": "Hfv8TJ8WjpQgwpmN",
   "sort": 11500000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Insulia",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/skills/toxins/symbol-poison-drop-skull-green.webp"
     }
   }
 }

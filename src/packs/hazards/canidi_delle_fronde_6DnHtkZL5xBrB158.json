@@ -3,7 +3,7 @@
   "_key": "!actors!6DnHtkZL5xBrB158",
   "name": "Canidi delle Fronde",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/abilities/wolf-heads-swirl-purple.webp",
   "folder": "g4PF7Tt0HC0ZjSV9",
   "sort": 2600000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Canidi delle Fronde",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/abilities/wolf-heads-swirl-purple.webp"
     }
   }
 }

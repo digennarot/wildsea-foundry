@@ -3,7 +3,7 @@
   "_key": "!actors!oy2UQkyQ6STp4kIA",
   "name": "Fosse",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/water/tendrils-ice-thorns.webp",
   "folder": "WQSuqMAEmcFM1Ilu",
   "sort": 1400000,
   "system": {
@@ -116,7 +116,7 @@
       "_key": "!actors.items!oy2UQkyQ6STp4kIA.3PxK5JK1l3m27Yyc",
       "name": "Cosa c'è sul Fondo?",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/eye-ringed-glow-angry-large-teal.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -135,7 +135,7 @@
       "_key": "!actors.items!oy2UQkyQ6STp4kIA.p8iyN5wQcgX46Jeo",
       "name": "Mare Famelico",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/water/water-iceberg-bubbles.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -159,7 +159,7 @@
     "name": "Fosse",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/water/tendrils-ice-thorns.webp"
     }
   }
 }

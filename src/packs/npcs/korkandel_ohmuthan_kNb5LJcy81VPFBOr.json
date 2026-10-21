@@ -3,7 +3,7 @@
   "_key": "!actors!kNb5LJcy81VPFBOr",
   "name": "Korkandel Ohmuthan",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/consumables/plants/thorned-stem-vine-green.webp",
   "folder": "3ICIrqFNYGfdWuo1",
   "sort": 200000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Korkandel Ohmuthan",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/consumables/plants/thorned-stem-vine-green.webp"
     }
   }
 }

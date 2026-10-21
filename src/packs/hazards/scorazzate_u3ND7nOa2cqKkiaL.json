@@ -3,7 +3,7 @@
   "_key": "!actors!u3ND7nOa2cqKkiaL",
   "name": "Scorazzate",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/commodities/tech/robotics-steel-jaw.webp",
   "folder": "cdJDVVFlS0y5Z02h",
   "sort": 9500000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Scorazzate",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/commodities/tech/robotics-steel-jaw.webp"
     }
   }
 }

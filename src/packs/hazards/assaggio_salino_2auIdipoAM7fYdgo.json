@@ -3,7 +3,7 @@
   "_key": "!actors!2auIdipoAM7fYdgo",
   "name": "Assaggio Salino",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/consumables/food/salt-seasoning-spice-pink.webp",
   "folder": "Tb22ATZVP0IDliL2",
   "sort": 2200000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Assaggio Salino",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/consumables/food/salt-seasoning-spice-pink.webp"
     }
   }
 }

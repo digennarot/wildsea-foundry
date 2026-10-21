@@ -3,7 +3,7 @@
   "_key": "!actors!Zye9uO3EsWZTnF4d",
   "name": "I Concavi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/environment/people/archer.webp",
   "folder": "ymimSf4TWI33u4yE",
   "sort": 10800000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "I Concavi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/environment/people/archer.webp"
     }
   }
 }

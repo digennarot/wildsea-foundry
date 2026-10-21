@@ -3,7 +3,7 @@
   "_key": "!actors!6IOzJ9Oci9zZres6",
   "name": "Allarmi Tesi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/magical/construct-golem-robot-blue.webp",
   "folder": "cdJDVVFlS0y5Z02h",
   "sort": 8800000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Allarmi Tesi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/magical/construct-golem-robot-blue.webp"
     }
   }
 }

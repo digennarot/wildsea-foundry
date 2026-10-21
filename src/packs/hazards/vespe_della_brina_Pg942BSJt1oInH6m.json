@@ -3,7 +3,7 @@
   "_key": "!actors!Pg942BSJt1oInH6m",
   "name": "Vespe della Brina",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/invertebrates/wasp-swarm-movement.webp",
   "folder": "cXs2ciq2MAxLLVu9",
   "sort": 6600000,
   "system": {
@@ -194,7 +194,7 @@
       "_key": "!actors.items!Pg942BSJt1oInH6m.nk6LnDZfgODzbk6P",
       "name": "Nettare Ghiacciato",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/invertebrates/wasp-swarm-tan.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -213,7 +213,7 @@
       "_key": "!actors.items!Pg942BSJt1oInH6m.tnnryXxvgAbe8lnB",
       "name": "Veleno Congelante",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/skills/toxins/symbol-poison-drop-skull-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -232,7 +232,7 @@
       "_key": "!actors.items!Pg942BSJt1oInH6m.KWC56iebYgyWYuJ1",
       "name": "Un Ronzio Rilassante",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/invertebrates/wasp-swarm-movement.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -251,7 +251,7 @@
       "_key": "!actors.items!Pg942BSJt1oInH6m.Ee2yFA00YWpyijy8",
       "name": "Una Coreografia",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/invertebrates/wasp-swarm-movement.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -275,7 +275,7 @@
     "name": "Vespe della Brina",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/invertebrates/wasp-swarm-movement.webp"
     }
   }
 }

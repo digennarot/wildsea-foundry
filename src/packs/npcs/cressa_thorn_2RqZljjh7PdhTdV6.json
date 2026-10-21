@@ -3,7 +3,7 @@
   "_key": "!actors!2RqZljjh7PdhTdV6",
   "name": "Cressa Thorn",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/people/group.webp",
   "folder": "6obdRNLOdhDAfgtW",
   "sort": 100000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Cressa Thorn",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/environment/people/group.webp"
     }
   }
 }

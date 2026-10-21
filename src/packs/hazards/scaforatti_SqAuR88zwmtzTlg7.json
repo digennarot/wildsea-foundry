@@ -3,7 +3,7 @@
   "_key": "!actors!SqAuR88zwmtzTlg7",
   "name": "Scaforatti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/mammals/rodent-rat-green.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 3800000,
   "system": {
@@ -134,7 +134,7 @@
       "_key": "!actors.items!SqAuR88zwmtzTlg7.6qSXNjiLoQ2KBB1M",
       "name": "Carne di Ratto",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/meat/tuna-fish-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -153,7 +153,7 @@
       "_key": "!actors.items!SqAuR88zwmtzTlg7.PDjkCyJy6dRomyhZ",
       "name": "Pelliccia Sporca di Olio",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/leather/ring-leather.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -172,7 +172,7 @@
       "_key": "!actors.items!SqAuR88zwmtzTlg7.fw4wzojAuiKKyobx",
       "name": "Clandestino Entusiasta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/mammals/rodent-rat-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -196,7 +196,7 @@
     "name": "Scaforatti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/mammals/rodent-rat-green.webp"
     }
   }
 }

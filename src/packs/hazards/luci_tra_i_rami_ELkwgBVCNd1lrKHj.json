@@ -3,7 +3,7 @@
   "_key": "!actors!ELkwgBVCNd1lrKHj",
   "name": "Luci Tra i Rami",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/light/hand-sparks-smoke-green.webp",
   "folder": "Tb22ATZVP0IDliL2",
   "sort": 2100000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Luci Tra i Rami",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/light/hand-sparks-smoke-green.webp"
     }
   }
 }

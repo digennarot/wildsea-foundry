@@ -3,7 +3,7 @@
   "_key": "!actors!jqHqjXzhXrIcBTnn",
   "name": "La Calamitosi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/commodities/tech/diode-copper.webp",
   "folder": "Hfv8TJ8WjpQgwpmN",
   "sort": 11700000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "La Calamitosi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/commodities/tech/diode-copper.webp"
     }
   }
 }

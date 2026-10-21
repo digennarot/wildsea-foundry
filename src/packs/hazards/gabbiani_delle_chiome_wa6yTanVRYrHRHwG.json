@@ -3,7 +3,7 @@
   "_key": "!actors!wa6yTanVRYrHRHwG",
   "name": "Gabbiani delle Chiome",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/birds/songbird-yellow-flying.webp",
   "folder": "g4PF7Tt0HC0ZjSV9",
   "sort": 3000000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Gabbiani delle Chiome",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/birds/songbird-yellow-flying.webp"
     }
   }
 }

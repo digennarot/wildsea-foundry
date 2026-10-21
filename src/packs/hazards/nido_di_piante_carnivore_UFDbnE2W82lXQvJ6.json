@@ -3,7 +3,7 @@
   "_key": "!actors!UFDbnE2W82lXQvJ6",
   "name": "Nido di Piante Carnivore",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/consumables/meat/salmon-fish-fillet-pink-gray.webp",
   "folder": "t8jqTPU1iTq55RIr",
   "sort": 6700000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Nido di Piante Carnivore",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/consumables/meat/salmon-fish-fillet-pink-gray.webp"
     }
   }
 }

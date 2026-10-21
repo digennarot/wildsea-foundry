@@ -3,7 +3,7 @@
   "_key": "!actors!nqiXM3Yh222STxFR",
   "name": "Lenkuspini",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/mammals/beast-horned-scaled-glowing-orange.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 4400000,
   "system": {
@@ -144,7 +144,7 @@
       "_key": "!actors.items!nqiXM3Yh222STxFR.PO6ObvtLnjJnAynp",
       "name": "Grasso di Lenkuspino",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/leather/leather-patch-tan.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -163,7 +163,7 @@
       "_key": "!actors.items!nqiXM3Yh222STxFR.KTy1gnovLumUsAMY",
       "name": "Aculei",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/foot-black-grey.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -182,7 +182,7 @@
       "_key": "!actors.items!nqiXM3Yh222STxFR.fHgzwmy8KbajOecX",
       "name": "Profonde Scanalature",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/environment/wilderness/mine-interior-dungeon-door.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -206,7 +206,7 @@
     "name": "Lenkuspini",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/mammals/beast-horned-scaled-glowing-orange.webp"
     }
   }
 }

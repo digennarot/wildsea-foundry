@@ -3,7 +3,7 @@
   "_key": "!actors!tnzlzwqNI7ximUzt",
   "name": "Nubispora",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/air/wind-vortex-swirl-purple.webp",
   "folder": "WQSuqMAEmcFM1Ilu",
   "sort": 900000,
   "system": {
@@ -110,7 +110,7 @@
       "_key": "!actors.items!tnzlzwqNI7ximUzt.HrjWNNFFR9UwccO3",
       "name": "Spore Parassitarie",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/mushrooms/conical-bell-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -129,7 +129,7 @@
       "_key": "!actors.items!tnzlzwqNI7ximUzt.ZnrSrk9jHqbBUvZL",
       "name": "Maledetto dai Funghi",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/mushrooms/umbontae-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -153,7 +153,7 @@
     "name": "Nubispora",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/air/wind-vortex-swirl-purple.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!IRFFbPxpWZTu3hJ3",
   "name": "Muffa-Rancio",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/consumables/mushrooms/convex-bolete-brown.webp",
   "folder": "LFLpciVomAVN3BPW",
   "sort": 12700000,
   "system": {
@@ -90,7 +90,7 @@
       "_key": "!actors.items!IRFFbPxpWZTu3hJ3.wlWZSMZJ5wSwgiXm",
       "name": "Cibo Avariato",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/food/cooked-hock-bone-drumstick-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -109,7 +109,7 @@
       "_key": "!actors.items!IRFFbPxpWZTu3hJ3.7khHF7lRXWRX7dcT",
       "name": "Burattino Appeso",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/mushrooms/conical-bell-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -128,7 +128,7 @@
       "_key": "!actors.items!IRFFbPxpWZTu3hJ3.Y4VKe3zyy0zQTSH8",
       "name": "Discesa Strisciante",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/mushrooms/bell-shiitake-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -152,7 +152,7 @@
     "name": "Muffa-Rancio",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/consumables/mushrooms/convex-bolete-brown.webp"
     }
   }
 }

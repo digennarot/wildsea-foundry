@@ -3,7 +3,7 @@
   "_key": "!actors!1im62JruC2OkCpHX",
   "name": "Scorpioni Fonderia",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/invertebrates/scorpion-yellow.webp",
   "folder": "wKaXmVMpDNM3Uf2O",
   "sort": 5600000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Scorpioni Fonderia",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/invertebrates/scorpion-yellow.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!owB8xihLihT91wM8",
   "name": "L'Abracanto",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/environment/people/infantry.webp",
   "folder": "ymimSf4TWI33u4yE",
   "sort": 10100000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "L'Abracanto",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/environment/people/infantry.webp"
     }
   }
 }

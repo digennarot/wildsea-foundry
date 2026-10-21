@@ -3,7 +3,7 @@
   "_key": "!actors!PiNBO4Tp2BaCT0Tf",
   "name": "Pipistrelli Chimerici",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/mammals/bat-movement-flying-purple.webp",
   "folder": "g4PF7Tt0HC0ZjSV9",
   "sort": 2500000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Pipistrelli Chimerici",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/mammals/bat-movement-flying-purple.webp"
     }
   }
 }

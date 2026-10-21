@@ -3,7 +3,7 @@
   "_key": "!actors!wyg8Jg58wDgYtRMr",
   "name": "Fuoco",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/fire/elemental-creature-horse.webp",
   "folder": "WQSuqMAEmcFM1Ilu",
   "sort": 1300000,
   "system": {
@@ -144,7 +144,7 @@
       "_key": "!actors.items!wyg8Jg58wDgYtRMr.xdEPCTrX1ldIM9Fb",
       "name": "Rami Carbonizzati",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/nature/tree-fruit-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -163,7 +163,7 @@
       "_key": "!actors.items!wyg8Jg58wDgYtRMr.adLBDXcY7PW9Jhqe",
       "name": "Legno Ridotto in Cenere",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/wood/framing-reinforced-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -182,7 +182,7 @@
       "_key": "!actors.items!wyg8Jg58wDgYtRMr.vVUCVdJsFWXgpt1D",
       "name": "Un Ramo che Brucia",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/nature/tree-roots-glow-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -201,7 +201,7 @@
       "_key": "!actors.items!wyg8Jg58wDgYtRMr.eSSkr62Zh9V2wkAT",
       "name": "Una Paura Atavica",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/control/fear-fright-mask-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -220,7 +220,7 @@
       "_key": "!actors.items!wyg8Jg58wDgYtRMr.d4O74D6cpbYEWu7o",
       "name": "Una Nuova Apocalisse",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/fire/flame-burning-skull-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -244,7 +244,7 @@
     "name": "Fuoco",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/fire/elemental-creature-horse.webp"
     }
   }
 }

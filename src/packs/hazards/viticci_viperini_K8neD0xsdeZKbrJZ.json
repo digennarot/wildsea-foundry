@@ -3,7 +3,7 @@
   "_key": "!actors!K8neD0xsdeZKbrJZ",
   "name": "Viticci Viperini",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/reptiles/serpent-horned-green.webp",
   "folder": "XrqksO6vjLSChbuj",
   "sort": 7900000,
   "system": {
@@ -110,7 +110,7 @@
       "_key": "!actors.items!K8neD0xsdeZKbrJZ.QLq6k1N0dW78HOs7",
       "name": "Spine Come Zanne",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/bone-jaw-teeth-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -129,7 +129,7 @@
       "_key": "!actors.items!K8neD0xsdeZKbrJZ.KnFgFAVI4zMwm9Rq",
       "name": "Piccole Ossa",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/bone-spine-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -148,7 +148,7 @@
       "_key": "!actors.items!K8neD0xsdeZKbrJZ.mNLjmTscDvQNTBCy",
       "name": "Raggomitolato e Pronto",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/reptiles/serpent-horned-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -172,7 +172,7 @@
     "name": "Viticci Viperini",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/reptiles/serpent-horned-green.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!VNZBDYaFnSArMyRe",
   "name": "Alberi di Vermela",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/tree-spirit-glow-black-yellow.webp",
   "folder": "t8jqTPU1iTq55RIr",
   "sort": 7200000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Alberi di Vermela",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/tree-spirit-glow-black-yellow.webp"
     }
   }
 }

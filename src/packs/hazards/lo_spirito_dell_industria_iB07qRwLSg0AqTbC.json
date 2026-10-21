@@ -3,7 +3,7 @@
   "_key": "!actors!iB07qRwLSg0AqTbC",
   "name": "Lo Spirito dell'Industria",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/magical/spirit-fire-orange.webp",
   "folder": "Qi7iQy3CSDDE2jkF",
   "sort": 13900000,
   "system": {
@@ -160,7 +160,7 @@
       "_key": "!actors.items!iB07qRwLSg0AqTbC.4AcwDRFqt6BPtNnm",
       "name": "Il Sogno di un'Accetta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/control/hypnosis-mesmerism-eye-tan.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -179,7 +179,7 @@
       "_key": "!actors.items!iB07qRwLSg0AqTbC.ymxY7JIoNpfllLJL",
       "name": "Legname Fresco",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/wood/log-rough-maple-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -198,7 +198,7 @@
       "_key": "!actors.items!iB07qRwLSg0AqTbC.ru8z0ZaQoJgvyA10",
       "name": "Legno Lavorato",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/wood/kindling-sticks-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -222,7 +222,7 @@
     "name": "Lo Spirito dell'Industria",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/magical/spirit-fire-orange.webp"
     }
   }
 }

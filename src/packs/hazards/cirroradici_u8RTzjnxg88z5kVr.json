@@ -3,7 +3,7 @@
   "_key": "!actors!u8RTzjnxg88z5kVr",
   "name": "Cirroradici",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/tree-roots-glow-yellow.webp",
   "folder": "t8jqTPU1iTq55RIr",
   "sort": 6900000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Cirroradici",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/tree-roots-glow-yellow.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!g38keZOgXtqa04O6",
   "name": "Silenzio",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
   "folder": "2VDLVnj9HweOX2Ef",
   "sort": 200000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Silenzio",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp"
     }
   }
 }

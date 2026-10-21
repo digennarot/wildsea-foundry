@@ -3,7 +3,7 @@
   "_key": "!actors!wC5T2lWgON00POk8",
   "name": "Triforadonti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 4200000,
   "system": {
@@ -206,7 +206,7 @@
       "_key": "!actors.items!wC5T2lWgON00POk8.g8scZotM2ErzIIuy",
       "name": "Morbide Piume",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/materials/feather-blue-grey.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -225,7 +225,7 @@
       "_key": "!actors.items!wC5T2lWgON00POk8.CBfprGbPf499ofXE",
       "name": "Trifomuscolo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/plants/mint-dried-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -244,7 +244,7 @@
       "_key": "!actors.items!wC5T2lWgON00POk8.2l2NqHJgHsRUwWdL",
       "name": "Vessilli Stracciati",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/metal/ingot-iron.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -263,7 +263,7 @@
       "_key": "!actors.items!wC5T2lWgON00POk8.w0YPC0A3lNcwW5s3",
       "name": "Antico e Aereo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/sonic/projectile-sound-rings-wave.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -282,7 +282,7 @@
       "_key": "!actors.items!wC5T2lWgON00POk8.2w5UO1v3s9KRVsIe",
       "name": "Trespolo per Casa",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/eye-ringed-glow-angry-teal.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -306,7 +306,7 @@
     "name": "Triforadonti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp"
     }
   }
 }

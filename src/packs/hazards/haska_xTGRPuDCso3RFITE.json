@@ -3,7 +3,7 @@
   "_key": "!actors!xTGRPuDCso3RFITE",
   "name": "Haska",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/plant-vines-skull-green.webp",
   "folder": "t8jqTPU1iTq55RIr",
   "sort": 7700000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Haska",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/plant-vines-skull-green.webp"
     }
   }
 }

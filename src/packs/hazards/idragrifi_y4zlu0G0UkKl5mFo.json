@@ -3,7 +3,7 @@
   "_key": "!actors!y4zlu0G0UkKl5mFo",
   "name": "Idragrifi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/abilities/bear-roar-bite-brown.webp",
   "folder": "g4PF7Tt0HC0ZjSV9",
   "sort": 2800000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Idragrifi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/abilities/bear-roar-bite-brown.webp"
     }
   }
 }

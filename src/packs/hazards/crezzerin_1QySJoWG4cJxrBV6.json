@@ -3,7 +3,7 @@
   "_key": "!actors!1QySJoWG4cJxrBV6",
   "name": "Crezzerin",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/fire/flame-burning-fence.webp",
   "folder": "WQSuqMAEmcFM1Ilu",
   "sort": 1200000,
   "system": {
@@ -104,7 +104,7 @@
       "_key": "!actors.items!1QySJoWG4cJxrBV6.rr1Lvrf3WICIHfqr",
       "name": "Crezzerin Liquido",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/fire/flame-burning-embers-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -123,7 +123,7 @@
       "_key": "!actors.items!1QySJoWG4cJxrBV6.9fn6rG416bFc36RA",
       "name": "Ossa Venate di Crezzerin",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/bone-jaw-teeth-beige.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -142,7 +142,7 @@
       "_key": "!actors.items!1QySJoWG4cJxrBV6.70AZrR8VP3qJcj8s",
       "name": "Tutto Cambia",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/fire/orbs-silhouette-sun.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -161,7 +161,7 @@
       "_key": "!actors.items!1QySJoWG4cJxrBV6.bceDzMXTpX1aTSwP",
       "name": "Crescita Infinita",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/nature/leaf-arrowheads-glow-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -185,7 +185,7 @@
     "name": "Crezzerin",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/fire/flame-burning-fence.webp"
     }
   }
 }

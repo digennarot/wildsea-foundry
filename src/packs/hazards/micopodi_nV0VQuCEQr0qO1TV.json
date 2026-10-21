@@ -3,7 +3,7 @@
   "_key": "!actors!nV0VQuCEQr0qO1TV",
   "name": "Micopodi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/consumables/mushrooms/convex-green.webp",
   "folder": "cXs2ciq2MAxLLVu9",
   "sort": 6300000,
   "system": {
@@ -94,7 +94,7 @@
       "_key": "!actors.items!nV0VQuCEQr0qO1TV.JJZlx1odLDKCITBF",
       "name": "Spore Digestive",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/mushrooms/bell-shiitake-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -113,7 +113,7 @@
       "_key": "!actors.items!nV0VQuCEQr0qO1TV.npKlDn4XiUkVJ8d0",
       "name": "Consumo Vorace",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/mushrooms/helm-red-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -137,7 +137,7 @@
     "name": "Micopodi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/consumables/mushrooms/convex-green.webp"
     }
   }
 }

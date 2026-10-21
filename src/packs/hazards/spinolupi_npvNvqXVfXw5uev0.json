@@ -3,7 +3,7 @@
   "_key": "!actors!npvNvqXVfXw5uev0",
   "name": "Spinolupi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/abilities/bear-roar-bite-brown.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 3600000,
   "system": {
@@ -220,7 +220,7 @@
       "_key": "!actors.items!npvNvqXVfXw5uev0.XDuDTf4Ps3AlG5L4",
       "name": "Zampe a Spillo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/plants/herb-tied-bundle-dried-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -239,7 +239,7 @@
       "_key": "!actors.items!npvNvqXVfXw5uev0.4ExoZDK8QDK7APuD",
       "name": "Lingua Spiraliforme",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/tongue-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -258,7 +258,7 @@
       "_key": "!actors.items!npvNvqXVfXw5uev0.4zn8APHGpTvHjqJM",
       "name": "Ossa di Bestia",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/bones-stack-grey.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -277,7 +277,7 @@
       "_key": "!actors.items!npvNvqXVfXw5uev0.1UxCdkAEQkB6NbDq",
       "name": "Pelle di Spinolupo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/leather/fur-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -296,7 +296,7 @@
       "_key": "!actors.items!npvNvqXVfXw5uev0.OrKc2M2YUhAb5PXn",
       "name": "Movimenti Inquietanti",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/eye-slit-red-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -315,7 +315,7 @@
       "_key": "!actors.items!npvNvqXVfXw5uev0.5aGUA4gNi3zVvXDE",
       "name": "Branco in Avvicinamento",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/orb-crystal-ball-scrying-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -339,7 +339,7 @@
     "name": "Spinolupi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/abilities/bear-roar-bite-brown.webp"
     }
   }
 }

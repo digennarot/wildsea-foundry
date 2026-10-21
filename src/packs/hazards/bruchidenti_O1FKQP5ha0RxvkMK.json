@@ -3,7 +3,7 @@
   "_key": "!actors!O1FKQP5ha0RxvkMK",
   "name": "Bruchidenti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/environment/creatures/bug-caterpillar-curled-green.webp",
   "folder": "cXs2ciq2MAxLLVu9",
   "sort": 6100000,
   "system": {
@@ -198,7 +198,7 @@
       "_key": "!actors.items!O1FKQP5ha0RxvkMK.M5c1QjSFnAs0FU2S",
       "name": "Mascella Quadrupla",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/environment/creatures/bug-caterpillar-dotted-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -217,7 +217,7 @@
       "_key": "!actors.items!O1FKQP5ha0RxvkMK.bym3m4h6nt4HYM5T",
       "name": "Lingua di Brucodenti",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/tongue-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -236,7 +236,7 @@
       "_key": "!actors.items!O1FKQP5ha0RxvkMK.Cv3fSm1XhaX2MKfS",
       "name": "Chitina Ruvida",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/shell-worn-beige.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -255,7 +255,7 @@
       "_key": "!actors.items!O1FKQP5ha0RxvkMK.8mOVXrW2KojmbCTl",
       "name": "Uova di Brucodenti",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/eggs/eggs-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -274,7 +274,7 @@
       "_key": "!actors.items!O1FKQP5ha0RxvkMK.87cuNxwv1GC9Y27n",
       "name": "Un Incrocio Curioso",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/treasure/cup-trophy-gold.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -298,7 +298,7 @@
     "name": "Bruchidenti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/environment/creatures/bug-caterpillar-curled-green.webp"
     }
   }
 }

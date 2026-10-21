@@ -3,7 +3,7 @@
   "_key": "!actors!i3TkIb8OVIUwtcRQ",
   "name": "Lumacomante",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/invertebrates/snail-movement-tan.webp",
   "folder": "cXs2ciq2MAxLLVu9",
   "sort": 6400000,
   "system": {
@@ -132,7 +132,7 @@
       "_key": "!actors.items!i3TkIb8OVIUwtcRQ.GQXH4hy1XT9Vvaoo",
       "name": "Bava Ustionante",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/invertebrates/snail-movement-tan.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -151,7 +151,7 @@
       "_key": "!actors.items!i3TkIb8OVIUwtcRQ.PRdiHLm8ZUiSskXF",
       "name": "Antenne Oculari di Lumacomanta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/invertebrates/snail-movement-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -170,7 +170,7 @@
       "_key": "!actors.items!i3TkIb8OVIUwtcRQ.NsTTB2r4OKp3sKzq",
       "name": "Un'Orda di Lacrime Calde",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/invertebrates/snail-movement-tan.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -194,7 +194,7 @@
     "name": "Lumacomante",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/invertebrates/snail-movement-tan.webp"
     }
   }
 }

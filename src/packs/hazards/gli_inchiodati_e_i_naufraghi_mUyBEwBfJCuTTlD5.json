@@ -3,7 +3,7 @@
   "_key": "!actors!mUyBEwBfJCuTTlD5",
   "name": "Gli Inchiodati e I Naufraghi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/environment/people/charge.webp",
   "folder": "ymimSf4TWI33u4yE",
   "sort": 10900000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Gli Inchiodati e I Naufraghi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/environment/people/charge.webp"
     }
   }
 }

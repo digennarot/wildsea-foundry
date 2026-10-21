@@ -3,7 +3,7 @@
   "_key": "!actors!pZ4KaCLwwJvr5WrV",
   "name": "Aracnonauti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/webs/web-thin-pruple.webp",
   "folder": "TlEoAN6LaWOsg7D1",
   "sort": 9700000,
   "system": {
@@ -134,7 +134,7 @@
       "_key": "!actors.items!pZ4KaCLwwJvr5WrV.8Qko632hwBno6FBj",
       "name": "Batteria Quasi Andata",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/tech/battery-fuel-cell-teal.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -153,7 +153,7 @@
       "_key": "!actors.items!pZ4KaCLwwJvr5WrV.TRsfROQi3FycCrIL",
       "name": "Memoria Esterna Pre-V",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/time/hourglass-brown-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -172,7 +172,7 @@
       "_key": "!actors.items!pZ4KaCLwwJvr5WrV.MYVf6Az7PmeRI15t",
       "name": "Custode delle Torri",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/webs/webthin-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -191,7 +191,7 @@
       "_key": "!actors.items!pZ4KaCLwwJvr5WrV.3XrxrsqqLmdiy3Ex",
       "name": "Allarme Intrusi",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/invertebrates/spider-web-black.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -210,7 +210,7 @@
       "_key": "!actors.items!pZ4KaCLwwJvr5WrV.JiDFElwY2ChUJfda",
       "name": "Arto di Aracnonauta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/hand-yellow-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -229,7 +229,7 @@
       "_key": "!actors.items!pZ4KaCLwwJvr5WrV.T6qUQMav4yIDsFRo",
       "name": "Fasci di Cavi",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/sundries/survival/rope-coil-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -253,7 +253,7 @@
     "name": "Aracnonauti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/webs/web-thin-pruple.webp"
     }
   }
 }

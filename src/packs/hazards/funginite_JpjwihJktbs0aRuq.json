@@ -3,7 +3,7 @@
   "_key": "!actors!JpjwihJktbs0aRuq",
   "name": "Funginite",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/consumables/mushrooms/convex-tan.webp",
   "folder": "Hfv8TJ8WjpQgwpmN",
   "sort": 12000000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Funginite",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/consumables/mushrooms/convex-tan.webp"
     }
   }
 }

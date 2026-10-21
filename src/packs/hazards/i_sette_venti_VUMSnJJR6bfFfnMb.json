@@ -3,7 +3,7 @@
   "_key": "!actors!VUMSnJJR6bfFfnMb",
   "name": "I Sette Venti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/air/wind-weather-sailing-ship.webp",
   "folder": "8ABj2qk7P7AAHhCn",
   "sort": 13300000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "I Sette Venti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/air/wind-weather-sailing-ship.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!cATBSD3W39FVCv32",
   "name": "L'Isomelma",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/slimes/slime-movement-swirling-blue.webp",
   "folder": "Qi7iQy3CSDDE2jkF",
   "sort": 14100000,
   "system": {
@@ -156,7 +156,7 @@
       "_key": "!actors.items!cATBSD3W39FVCv32.3HdxDd36wducGMgH",
       "name": "Melma di Isomelma",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/materials/slime-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -175,7 +175,7 @@
       "_key": "!actors.items!cATBSD3W39FVCv32.zzxzXqIk326B8ufa",
       "name": "Frammento di Conchiglia",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/shell-ribbed-gold.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -194,7 +194,7 @@
       "_key": "!actors.items!cATBSD3W39FVCv32.04dZamZlXq43o88L",
       "name": "Tenebra Concentrata",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/unholy/hand-claw-fire-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -213,7 +213,7 @@
       "_key": "!actors.items!cATBSD3W39FVCv32.44S11aa6BMhfjKmW",
       "name": "Peduncolo Oculare del Leviatano",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/tentacles/tentacle-earth-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -232,7 +232,7 @@
       "_key": "!actors.items!cATBSD3W39FVCv32.8pCiqHHRau6VtEbc",
       "name": "Duraquercia Acidificata",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/wood/lumber-stack-brown3.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -251,7 +251,7 @@
       "_key": "!actors.items!cATBSD3W39FVCv32.iX9GRAKAs1cm2fps",
       "name": "Agguato dal Basso",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/materials/slime-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -270,7 +270,7 @@
       "_key": "!actors.items!cATBSD3W39FVCv32.LMKJxkZAOtlAB1Oa",
       "name": "Marea Acida",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/water/water-drop-swirl-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -289,7 +289,7 @@
       "_key": "!actors.items!cATBSD3W39FVCv32.T7ZbPyPXpv09f4RA",
       "name": "Mappa dei Rami Rovinata",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/sundries/documents/blueprint-helmet.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -308,7 +308,7 @@
       "_key": "!actors.items!cATBSD3W39FVCv32.dpNqpKufDsPN9aW4",
       "name": "Rivestimento di Isomelma",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/materials/slime-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -327,7 +327,7 @@
       "_key": "!actors.items!cATBSD3W39FVCv32.26WmVb7xQOoHPLhS",
       "name": "Tentacolo Reciso",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/tentacles/tentacle-eyes-yellow-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -351,7 +351,7 @@
     "name": "L'Isomelma",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/slimes/slime-movement-swirling-blue.webp"
     }
   }
 }

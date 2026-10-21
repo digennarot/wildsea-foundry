@@ -3,7 +3,7 @@
   "_key": "!actors!kOoQik4tKng0L5wg",
   "name": "Pietre Nomadi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/commodities/stone/stone-pile-grey.webp",
   "folder": "EasSmg0dpCCRiCvr",
   "sort": 300000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Pietre Nomadi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/commodities/stone/stone-pile-grey.webp"
     }
   }
 }

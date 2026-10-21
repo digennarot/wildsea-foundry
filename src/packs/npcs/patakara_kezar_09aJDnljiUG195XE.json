@@ -3,7 +3,7 @@
   "_key": "!actors!09aJDnljiUG195XE",
   "name": "Patakara Kezar",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/invertebrates/spider-web-red.webp",
   "folder": "nPakvJQRrPUXNMbZ",
   "sort": 300000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Patakara Kezar",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/creatures/invertebrates/spider-web-red.webp"
     }
   }
 }

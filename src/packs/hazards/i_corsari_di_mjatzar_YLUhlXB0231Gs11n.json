@@ -3,7 +3,7 @@
   "_key": "!actors!YLUhlXB0231Gs11n",
   "name": "I Corsari di Mjatzar",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/movement/trail-streak-zigzag-yellow.webp",
   "folder": "ymimSf4TWI33u4yE",
   "sort": 10600000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "I Corsari di Mjatzar",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/movement/trail-streak-zigzag-yellow.webp"
     }
   }
 }

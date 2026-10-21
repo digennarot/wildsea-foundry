@@ -3,7 +3,7 @@
   "_key": "!actors!QcSSCu5tRtdbuH64",
   "name": "Fiori Fosforosi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/commodities/flowers/blooms-pink.webp",
   "folder": "t8jqTPU1iTq55RIr",
   "sort": 7000000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Fiori Fosforosi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/commodities/flowers/blooms-pink.webp"
     }
   }
 }

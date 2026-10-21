@@ -3,7 +3,7 @@
   "_key": "!actors!txiFzqIvmHHPhph8",
   "name": "Spinovele",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/invertebrates/snail-movement-green.webp",
   "folder": "wKaXmVMpDNM3Uf2O",
   "sort": 5300000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Spinovele",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/invertebrates/snail-movement-green.webp"
     }
   }
 }

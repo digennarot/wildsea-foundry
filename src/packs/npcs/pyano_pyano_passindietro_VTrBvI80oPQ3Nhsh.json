@@ -3,7 +3,7 @@
   "_key": "!actors!VTrBvI80oPQ3Nhsh",
   "name": "Pyano-Pyano Passindietro",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/invertebrates/spider-large-white-green.webp",
   "folder": "JB5ufO4DpPywBMej",
   "sort": 100000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Pyano-Pyano Passindietro",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/creatures/invertebrates/spider-large-white-green.webp"
     }
   }
 }

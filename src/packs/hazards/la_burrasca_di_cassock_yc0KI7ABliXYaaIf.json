@@ -3,7 +3,7 @@
   "_key": "!actors!yc0KI7ABliXYaaIf",
   "name": "La Burrasca di Cassock",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/air/wind-swirl-red-orange.webp",
   "folder": "8ABj2qk7P7AAHhCn",
   "sort": 12900000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "La Burrasca di Cassock",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/air/wind-swirl-red-orange.webp"
     }
   }
 }

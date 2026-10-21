@@ -3,7 +3,7 @@
   "_key": "!actors!gRww1KT2A4WD6ZfE",
   "name": "Spettrolinci",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/magical/spirit-undead-masked-blue.webp",
   "folder": "g4PF7Tt0HC0ZjSV9",
   "sort": 3400000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Spettrolinci",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/magical/spirit-undead-masked-blue.webp"
     }
   }
 }

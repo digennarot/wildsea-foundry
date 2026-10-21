@@ -3,7 +3,7 @@
   "_key": "!actors!vnUPRrARqJ9XMwis",
   "name": "Semi di Zannospina",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/consumables/nuts/peanut-shelled-brown-tan.webp",
   "folder": "XrqksO6vjLSChbuj",
   "sort": 8000000,
   "system": {
@@ -154,7 +154,7 @@
       "_key": "!actors.items!vnUPRrARqJ9XMwis.9xuoYkzWJ7S3uxeE",
       "name": "Gusci Vuoti",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/nuts/hazelnut-acorn-tree-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -173,7 +173,7 @@
       "_key": "!actors.items!vnUPRrARqJ9XMwis.wFh9u155bDMeSDcQ",
       "name": "Legno di Zannospina",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/wood/log-rough-cherry-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -192,7 +192,7 @@
       "_key": "!actors.items!vnUPRrARqJ9XMwis.1aNe0o31Ksx97YIC",
       "name": "Pronto a Radicarsi",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/vegetable/root-carrot-fat-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -211,7 +211,7 @@
       "_key": "!actors.items!vnUPRrARqJ9XMwis.lRdU0XVrnWRHyPjo",
       "name": "Fame Incessante",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/nuts/hazelnuts-group-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -235,7 +235,7 @@
     "name": "Semi di Zannospina",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/consumables/nuts/peanut-shelled-brown-tan.webp"
     }
   }
 }

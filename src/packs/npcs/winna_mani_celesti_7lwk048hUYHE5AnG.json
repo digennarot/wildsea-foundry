@@ -3,7 +3,7 @@
   "_key": "!actors!7lwk048hUYHE5AnG",
   "name": "Winna Mani Celesti",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/people/cleric-orange.webp",
   "folder": "wlUMKbrjHFn6uYCT",
   "sort": 200000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Winna Mani Celesti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/environment/people/cleric-orange.webp"
     }
   }
 }

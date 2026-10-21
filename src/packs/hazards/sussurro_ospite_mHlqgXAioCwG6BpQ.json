@@ -3,7 +3,7 @@
   "_key": "!actors!mHlqgXAioCwG6BpQ",
   "name": "Sussurro Ospite",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/sonic/projectile-sound-rings-wave.webp",
   "folder": "LFLpciVomAVN3BPW",
   "sort": 12600000,
   "system": {
@@ -70,7 +70,7 @@
       "_key": "!actors.items!mHlqgXAioCwG6BpQ.Bk7NEOP56EppvZo2",
       "name": "Un Potente Silenzio",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -89,7 +89,7 @@
       "_key": "!actors.items!mHlqgXAioCwG6BpQ.eWYnLT9NbGbHXJOg",
       "name": "Giù nella Gola",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -113,7 +113,7 @@
     "name": "Sussurro Ospite",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/sonic/projectile-sound-rings-wave.webp"
     }
   }
 }

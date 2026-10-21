@@ -3,7 +3,7 @@
   "_key": "!actors!nFvcVFMNEWou3SAb",
   "name": "Tempeste Prodigiose",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/lightning/bolts-forked-large-green.webp",
   "folder": "EasSmg0dpCCRiCvr",
   "sort": 400000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Tempeste Prodigiose",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/lightning/bolts-forked-large-green.webp"
     }
   }
 }

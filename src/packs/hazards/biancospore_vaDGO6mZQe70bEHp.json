@@ -3,7 +3,7 @@
   "_key": "!actors!vaDGO6mZQe70bEHp",
   "name": "Biancospore",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/plant-sprout-snow-green.webp",
   "folder": "t8jqTPU1iTq55RIr",
   "sort": 6800000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Biancospore",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/plant-sprout-snow-green.webp"
     }
   }
 }

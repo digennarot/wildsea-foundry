@@ -3,7 +3,7 @@
   "_key": "!actors!Kbc6r5utDVXF4rz6",
   "name": "Firfan Bor",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/consumables/mushrooms/campanulate-bell-shiny-bumpy-red.webp",
   "folder": "9flqGtMcnmHK5xcM",
   "sort": 200000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Firfan Bor",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/consumables/mushrooms/campanulate-bell-shiny-bumpy-red.webp"
     }
   }
 }

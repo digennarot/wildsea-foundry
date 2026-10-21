@@ -3,7 +3,7 @@
   "_key": "!actors!fdGX7kXT5frgoJ8G",
   "name": "Le Leonine",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/vines-thorned-glow-green.webp",
   "folder": "XrqksO6vjLSChbuj",
   "sort": 8200000,
   "system": {
@@ -190,7 +190,7 @@
       "_key": "!actors.items!fdGX7kXT5frgoJ8G.Ftm4eSVOHMyc9C3s",
       "name": "Petali Mandibolari",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/flowers/bouquet-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -209,7 +209,7 @@
       "_key": "!actors.items!fdGX7kXT5frgoJ8G.WKPN7MRxz9SU6x2l",
       "name": "Pelle Ruvida Come Radice",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/leather/leather-bolt-grey.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -228,7 +228,7 @@
       "_key": "!actors.items!fdGX7kXT5frgoJ8G.BrRC4uNAyyti9Ux2",
       "name": "Attirato dal Sangue",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/skills/wounds/blood-cells-vessel-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -247,7 +247,7 @@
       "_key": "!actors.items!fdGX7kXT5frgoJ8G.mQiH4WkhtixKyCO5",
       "name": "Colui che Attende",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/eye-slit-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -271,7 +271,7 @@
     "name": "Le Leonine",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/vines-thorned-glow-green.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!56FJrHznaM7fhoAe",
   "name": "Sindrome di Oskatar",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",
   "folder": "Hfv8TJ8WjpQgwpmN",
   "sort": 11900000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Sindrome di Oskatar",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp"
     }
   }
 }

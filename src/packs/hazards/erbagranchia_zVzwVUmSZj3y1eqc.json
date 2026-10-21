@@ -3,7 +3,7 @@
   "_key": "!actors!zVzwVUmSZj3y1eqc",
   "name": "Erbagranchia",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/plant-sprout-hand-blue.webp",
   "folder": "t8jqTPU1iTq55RIr",
   "sort": 7600000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Erbagranchia",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/plant-sprout-hand-blue.webp"
     }
   }
 }

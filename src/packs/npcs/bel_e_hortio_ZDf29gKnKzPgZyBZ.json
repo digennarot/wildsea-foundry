@@ -3,7 +3,7 @@
   "_key": "!actors!ZDf29gKnKzPgZyBZ",
   "name": "Bel & Hortio",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/people/group.webp",
   "folder": "6obdRNLOdhDAfgtW",
   "sort": 300000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Bel & Hortio",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/environment/people/group.webp"
     }
   }
 }

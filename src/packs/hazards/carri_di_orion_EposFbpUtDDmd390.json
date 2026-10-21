@@ -3,7 +3,7 @@
   "_key": "!actors!EposFbpUtDDmd390",
   "name": "Carri di Orion",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/magical/construct-face-stone-pink.webp",
   "folder": "cdJDVVFlS0y5Z02h",
   "sort": 9400000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Carri di Orion",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/magical/construct-face-stone-pink.webp"
     }
   }
 }

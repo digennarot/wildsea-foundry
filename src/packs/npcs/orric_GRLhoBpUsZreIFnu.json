@@ -3,7 +3,7 @@
   "_key": "!actors!GRLhoBpUsZreIFnu",
   "name": "Orric",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/people/cleric-orange.webp",
   "folder": "BirbZzxhLD6TZrLv",
   "sort": 100000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Orric",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/environment/people/cleric-orange.webp"
     }
   }
 }

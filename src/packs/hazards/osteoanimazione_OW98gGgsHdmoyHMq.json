@@ -3,7 +3,7 @@
   "_key": "!actors!OW98gGgsHdmoyHMq",
   "name": "Osteoanimazione",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/skills/wounds/illness-disease-glowing-green.webp",
   "folder": "LFLpciVomAVN3BPW",
   "sort": 12800000,
   "system": {
@@ -94,7 +94,7 @@
       "_key": "!actors.items!OW98gGgsHdmoyHMq.s1uV3zo20318vN8w",
       "name": "Ossa Animate",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/bone-spine-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -113,7 +113,7 @@
       "_key": "!actors.items!OW98gGgsHdmoyHMq.grYrFOsbKXShkEC4",
       "name": "Suppliche di Aiuto",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/eye-slit-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -132,7 +132,7 @@
       "_key": "!actors.items!OW98gGgsHdmoyHMq.aLEuBKAazcsMrFtD",
       "name": "Parole Come Cicatrici",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/skills/wounds/injury-stapled-flesh-tan.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -156,7 +156,7 @@
     "name": "Osteoanimazione",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/skills/wounds/illness-disease-glowing-green.webp"
     }
   }
 }

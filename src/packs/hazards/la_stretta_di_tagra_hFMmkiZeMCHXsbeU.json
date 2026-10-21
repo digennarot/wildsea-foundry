@@ -3,7 +3,7 @@
   "_key": "!actors!hFMmkiZeMCHXsbeU",
   "name": "La Stretta di Tagra",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/air/wind-tornado-wall-blue.webp",
   "folder": "8ABj2qk7P7AAHhCn",
   "sort": 13500000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "La Stretta di Tagra",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/air/wind-tornado-wall-blue.webp"
     }
   }
 }

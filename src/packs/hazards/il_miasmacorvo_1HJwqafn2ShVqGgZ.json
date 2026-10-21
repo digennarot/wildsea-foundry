@@ -3,7 +3,7 @@
   "_key": "!actors!1HJwqafn2ShVqGgZ",
   "name": "Il Miasmacorvo",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/birds/duck-green.webp",
   "folder": "Qi7iQy3CSDDE2jkF",
   "sort": 13800000,
   "system": {
@@ -152,7 +152,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.isD65S1rpR21WEQM",
       "name": "Olio di Crezzerin",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/sundries/survival/fuel-canister-glass-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -171,7 +171,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.9MXXw2nIDg2aoJ0g",
       "name": "Resti Mutanti",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/birds/duck-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -190,7 +190,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.hys6gOafy0heFajg",
       "name": "Frammenti di Becco",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/beak-grey-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -209,7 +209,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.0CRsKxRaOoTri7Y6",
       "name": "Piume Intrise",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/materials/feathers-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -228,7 +228,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.vx3mvIUPa7edibf1",
       "name": "Tratto Biliare",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/birds/dove-pigeon-flying-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -247,7 +247,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.2f2IhyTZInTC3TEN",
       "name": "Ghiandola Sconosciuta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/birds/raptor-hawk-flying.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -266,7 +266,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.6i0gNiTLNyE4l7bX",
       "name": "Pastoie Distrutte",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/food/cooked-drumstick-bone-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -285,7 +285,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.1bQ68zjLt0xJ8Vdp",
       "name": "Malattia Diffusa",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/birds/birds-flock-fly-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -304,7 +304,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.GIZVwaAMMUAorm6r",
       "name": "A volte Non c'è Cura",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/tools/medical/medkit-pills-silver.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -323,7 +323,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.DlDJKW80bTNaSa3s",
       "name": "Non c'è Modo di Resistere",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/defensive/shield-hex-purple.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -342,7 +342,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.RGnUetdTredU65fj",
       "name": "Arto Malformato",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/hand-yellow-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -361,7 +361,7 @@
       "_key": "!actors.items!1HJwqafn2ShVqGgZ.7D2HVXurAIHpEBLj",
       "name": "Becco di Miasmacorvo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/beak-orange-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -385,7 +385,7 @@
     "name": "Il Miasmacorvo",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/birds/duck-green.webp"
     }
   }
 }

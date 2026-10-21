@@ -3,7 +3,7 @@
   "_key": "!actors!8HWvi5jxuAlXve2u",
   "name": "Cercasole",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/environment/people/infantry-armored.webp",
   "folder": "4bhvOdiRf5lal7By",
   "sort": 11300000,
   "system": {
@@ -106,7 +106,7 @@
       "_key": "!actors.items!8HWvi5jxuAlXve2u.kV0YRAaSVjTapFaO",
       "name": "Accetta di Fattura Falenide",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/weapons/axes/axe-double-gold.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -125,7 +125,7 @@
       "_key": "!actors.items!8HWvi5jxuAlXve2u.cCXgKrbniXRUr7uV",
       "name": "Farneticazioni Solari",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/orb-eye-scrying.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -144,7 +144,7 @@
       "_key": "!actors.items!8HWvi5jxuAlXve2u.nfS1C7Q02wXknmun",
       "name": "Ignorare l'Ovvio",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/eye-ringed-glow-angry-large-teal.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -163,7 +163,7 @@
       "_key": "!actors.items!8HWvi5jxuAlXve2u.AdKlbVdT3ofunD8E",
       "name": "Luce Nascosta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/light/explosion-star-large-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -187,7 +187,7 @@
     "name": "Cercasole",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/environment/people/infantry-armored.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!Mfdb2DVDFQ3LYzW2",
   "name": "Banchi di Carpanti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/abilities/wolf-heads-swirl-purple.webp",
   "folder": "g4PF7Tt0HC0ZjSV9",
   "sort": 3100000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Banchi di Carpanti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/abilities/wolf-heads-swirl-purple.webp"
     }
   }
 }

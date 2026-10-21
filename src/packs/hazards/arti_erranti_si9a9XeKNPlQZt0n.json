@@ -3,7 +3,7 @@
   "_key": "!actors!si9a9XeKNPlQZt0n",
   "name": "Arti Erranti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/commodities/biological/hand-gnarled-purple.webp",
   "folder": "cdJDVVFlS0y5Z02h",
   "sort": 8900000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Arti Erranti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/commodities/biological/hand-gnarled-purple.webp"
     }
   }
 }

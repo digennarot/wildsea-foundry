@@ -3,7 +3,7 @@
   "_key": "!actors!asuYqnz4HYthWbpQ",
   "name": "Il Sole Oscuro",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/light/projectile-beam-yellow.webp",
   "folder": "Tb22ATZVP0IDliL2",
   "sort": 1500000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Il Sole Oscuro",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/light/projectile-beam-yellow.webp"
     }
   }
 }

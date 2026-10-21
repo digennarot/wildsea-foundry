@@ -3,7 +3,7 @@
   "_key": "!actors!Zm2N6aMubAtfVn7B",
   "name": "Frutto Titanico",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/consumables/fruit/avocado-cut-green.webp",
   "folder": "Tb22ATZVP0IDliL2",
   "sort": 2300000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Frutto Titanico",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/consumables/fruit/avocado-cut-green.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!Sca9zE2JXtl9jsdA",
   "name": "Vipere Diamantine",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/reptiles/snake-fangs-bite-green.webp",
   "folder": "g4PF7Tt0HC0ZjSV9",
   "sort": 3200000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Vipere Diamantine",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/reptiles/snake-fangs-bite-green.webp"
     }
   }
 }

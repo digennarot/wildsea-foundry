@@ -3,7 +3,7 @@
   "_key": "!actors!bwDxWzuBIrDgquse",
   "name": "Vespe della Corteccia",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/invertebrates/wasp-swarm-attack.webp",
   "folder": "wKaXmVMpDNM3Uf2O",
   "sort": 5200000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Vespe della Corteccia",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/invertebrates/wasp-swarm-attack.webp"
     }
   }
 }

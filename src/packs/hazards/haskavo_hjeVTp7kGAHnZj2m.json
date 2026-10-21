@@ -3,7 +3,7 @@
   "_key": "!actors!hjeVTp7kGAHnZj2m",
   "name": "Haskavo",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/root-vine-fire-entangled-hand.webp",
   "folder": "XrqksO6vjLSChbuj",
   "sort": 8300000,
   "system": {
@@ -112,7 +112,7 @@
       "_key": "!actors.items!hjeVTp7kGAHnZj2m.RANE8bKYnPjINaGG",
       "name": "Cappelli di Funghi Haska",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/equipment/head/hat-cloth-camo.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -131,7 +131,7 @@
       "_key": "!actors.items!hjeVTp7kGAHnZj2m.0QMGhrOmh5gEOJj9",
       "name": "Muco Comunicatore",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/eye-tentacle-green-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -150,7 +150,7 @@
       "_key": "!actors.items!hjeVTp7kGAHnZj2m.Q6eT3p2fhgW0tJXW",
       "name": "Abiti a Brandelli",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/tech/spring-flat-blue-brass.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -169,7 +169,7 @@
       "_key": "!actors.items!hjeVTp7kGAHnZj2m.XhoK8Y5uwJabuh7M",
       "name": "Armi mal Conservate",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/tech/plating-metal-armor-piston-tech-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -188,7 +188,7 @@
       "_key": "!actors.items!hjeVTp7kGAHnZj2m.O531segu2sUMBq0C",
       "name": "Un Disegno Più Grande",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/eye-slit-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -207,7 +207,7 @@
       "_key": "!actors.items!hjeVTp7kGAHnZj2m.s9vmIy86NJtl4UNq",
       "name": "Sconosciuto e Insondabile",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/eye-ringed-glow-angry-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -231,7 +231,7 @@
     "name": "Haskavo",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/root-vine-fire-entangled-hand.webp"
     }
   }
 }

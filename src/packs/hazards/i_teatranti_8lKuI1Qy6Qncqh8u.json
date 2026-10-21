@@ -3,7 +3,7 @@
   "_key": "!actors!8lKuI1Qy6Qncqh8u",
   "name": "I Teatranti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/skills/social/theft-pickpocket-bribery-brown.webp",
   "folder": "ymimSf4TWI33u4yE",
   "sort": 10500000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "I Teatranti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/skills/social/theft-pickpocket-bribery-brown.webp"
     }
   }
 }

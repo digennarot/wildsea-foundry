@@ -3,7 +3,7 @@
   "_key": "!actors!v6MSRVXGHJPhiUNp",
   "name": "Floramaree",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/water/bubbles-air-water-light.webp",
   "folder": "WQSuqMAEmcFM1Ilu",
   "sort": 1000000,
   "system": {
@@ -102,7 +102,7 @@
       "_key": "!actors.items!v6MSRVXGHJPhiUNp.goCLbtkCmjtWYLBN",
       "name": "Fiore Appena Sbocciato",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/flowers/lily-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -121,7 +121,7 @@
       "_key": "!actors.items!v6MSRVXGHJPhiUNp.wwfgAMdX2kWcrJlz",
       "name": "Stranieri in Terra Aliena",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/nature/leaf-glow-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -145,7 +145,7 @@
     "name": "Floramaree",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/water/bubbles-air-water-light.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!0xzGf78ytnEb1Eli",
   "name": "Vecchio Ordalio",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/fish/deepsea-creature-glowing-blue.webp",
   "folder": "Qi7iQy3CSDDE2jkF",
   "sort": 13700000,
   "system": {
@@ -180,7 +180,7 @@
       "_key": "!actors.items!0xzGf78ytnEb1Eli.ItpHQ7Oj8nam45SV",
       "name": "Setole Dure Come il Ferro",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/metal/ingot-teal.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -199,7 +199,7 @@
       "_key": "!actors.items!0xzGf78ytnEb1Eli.hrUJ9gk6PWypA7SK",
       "name": "Pelliccia Opaca",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/leather/leather-bolt-tan.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -218,7 +218,7 @@
       "_key": "!actors.items!0xzGf78ytnEb1Eli.gG4ePWIGtVkgCyAG",
       "name": "Carne di Leviatano",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/meat/steak-raw-red-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -237,7 +237,7 @@
       "_key": "!actors.items!0xzGf78ytnEb1Eli.4AYDzM6X4kfn7hiB",
       "name": "Sangue Contaminato dal Crezzerin",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/skills/wounds/blood-spurt-spray-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -256,7 +256,7 @@
       "_key": "!actors.items!0xzGf78ytnEb1Eli.6DTqw4iCDXJJF0Ng",
       "name": "Chitina di Scoiattolo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/shell-worn-beige.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -275,7 +275,7 @@
       "_key": "!actors.items!0xzGf78ytnEb1Eli.JQ1GeBjsewWYsHZ6",
       "name": "Frammento di una Vecchia Lama",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/metal/plating-metal-armor-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -294,7 +294,7 @@
       "_key": "!actors.items!0xzGf78ytnEb1Eli.CJC8Ppfa7rYXK0CQ",
       "name": "Elsa di Serralama",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/tools/hand/chainsaw-steel-purple.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -313,7 +313,7 @@
       "_key": "!actors.items!0xzGf78ytnEb1Eli.Gh7CsnFR9biPC1og",
       "name": "Un Antico Nemico",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -332,7 +332,7 @@
       "_key": "!actors.items!0xzGf78ytnEb1Eli.Z7lFZxVMXWnlTfab",
       "name": "Pronto per l'Inverno",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/eye-winged-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -351,7 +351,7 @@
       "_key": "!actors.items!0xzGf78ytnEb1Eli.cBDyThpaAFijIkxL",
       "name": "Ossa di Scoiattolo Titanico",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/bones-rib-gold.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -370,7 +370,7 @@
       "_key": "!actors.items!0xzGf78ytnEb1Eli.hnp63rTKRgp0Ys9C",
       "name": "Coda di Scoiattolo Leviatano",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/tail-spiked-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -394,7 +394,7 @@
     "name": "Vecchio Ordalio",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/fish/deepsea-creature-glowing-blue.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!o1oPZZpzrt65fEyO",
   "name": "Inverno",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/water/projectile-ice-faceted-teal.webp",
   "folder": "EasSmg0dpCCRiCvr",
   "sort": 800000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Inverno",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/water/projectile-ice-faceted-teal.webp"
     }
   }
 }

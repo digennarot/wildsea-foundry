@@ -3,7 +3,7 @@
   "_key": "!actors!Coqpbhtx21hsmVNk",
   "name": "Divoranavi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/magical/construct-gargoyle-stone-gray.webp",
   "folder": "TlEoAN6LaWOsg7D1",
   "sort": 9900000,
   "system": {
@@ -192,7 +192,7 @@
       "_key": "!actors.items!Coqpbhtx21hsmVNk.ju6i0EBPDmdfSyOf",
       "name": "Travi Incrinate",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/wing-lizard-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -211,7 +211,7 @@
       "_key": "!actors.items!Coqpbhtx21hsmVNk.t97kBAC1vgxGtVlo",
       "name": "Muschio Parassitico",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/plants/grass-leaves-stems-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -230,7 +230,7 @@
       "_key": "!actors.items!Coqpbhtx21hsmVNk.8r1fFQs1O1EMK8WS",
       "name": "Ossa Antiche",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/bone-simple-white-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -249,7 +249,7 @@
       "_key": "!actors.items!Coqpbhtx21hsmVNk.pFtJVjQdX2vD3rT6",
       "name": "Denti di Divoranave",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/abilities/fang-tooth-venomous.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -268,7 +268,7 @@
       "_key": "!actors.items!Coqpbhtx21hsmVNk.GbLZZLEkC2JrwTlC",
       "name": "Cimeli del Vecchio Equipaggio",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/tech/robotics-frame-steel-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -287,7 +287,7 @@
       "_key": "!actors.items!Coqpbhtx21hsmVNk.j2E8S0YniKsfCG8s",
       "name": "Carburante Stantio",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/sundries/survival/fuel-canister-glass-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -306,7 +306,7 @@
       "_key": "!actors.items!Coqpbhtx21hsmVNk.PRiqHQ85ceqhLUZM",
       "name": "Fatale Destino",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/symbols/runes-star-pentagon-magenta.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -325,7 +325,7 @@
       "_key": "!actors.items!Coqpbhtx21hsmVNk.NRwantUHIgFoBQxY",
       "name": "Una Nave Affamata",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/tools/nautical/steering-wheel-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -344,7 +344,7 @@
       "_key": "!actors.items!Coqpbhtx21hsmVNk.aJia3AaoUyQm6Htk",
       "name": "Una Mappa Macchiata di Petrolio",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/tools/navigation/map-chart-tan.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -363,7 +363,7 @@
       "_key": "!actors.items!Coqpbhtx21hsmVNk.5a63jRS7Qn4JI86S",
       "name": "Una Carta Nautica dei Luoghi Mai Raggiunti",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/sundries/documents/blueprint-recipe-alchemical.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -382,7 +382,7 @@
       "_key": "!actors.items!Coqpbhtx21hsmVNk.qpVdop49ed2czD8E",
       "name": "Un Motore Vivente",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/tech/fuel-tank-steel.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -406,7 +406,7 @@
     "name": "Divoranavi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/magical/construct-gargoyle-stone-gray.webp"
     }
   }
 }

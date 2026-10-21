@@ -3,7 +3,7 @@
   "_key": "!actors!nm97iCxbHWL4SAi0",
   "name": "Cratizoa",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/invertebrates/spider-pink-purple.webp",
   "folder": "9flqGtMcnmHK5xcM",
   "sort": 300000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Cratizoa",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/creatures/invertebrates/spider-pink-purple.webp"
     }
   }
 }

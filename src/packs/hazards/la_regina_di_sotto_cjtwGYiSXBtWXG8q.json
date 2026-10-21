@@ -3,7 +3,7 @@
   "_key": "!actors!cjtwGYiSXBtWXG8q",
   "name": "La Regina Di Sotto",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/tentacles/tentacles-eyes-poisoned-green.webp",
   "folder": "Qi7iQy3CSDDE2jkF",
   "sort": 14400000,
   "system": {
@@ -158,7 +158,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.C3V0tjHOtc0qAVmY",
       "name": "Lacrime di Pietra",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/stone/geode-raw-teal.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -177,7 +177,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.EAQPQq62krZjg8pF",
       "name": "Artigli Cristallini",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/claws/pincer-crab-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -196,7 +196,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.GCJUeB9aLQ9hfiPq",
       "name": "Occhio Onnisciente",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/eyes/human-single-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -215,7 +215,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.qdOTguJMqikJ5qD0",
       "name": "Artefatto Pre-Verdeggiante",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/tech/cable-end.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -234,7 +234,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.aB1jTzLpg8AzTd1w",
       "name": "Ricco Frammento",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/metal/chain-silver.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -253,7 +253,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.u883Z28nNuBaP5nM",
       "name": "Tomi Venerabili",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/tech/coil-steel-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -272,7 +272,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.8ZQxJj8IUTZTJQVn",
       "name": "Tutto Ciò Che Luccica",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/eye-ringed-glow-angry-large-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -291,7 +291,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.Sk7PImki0DDpMCdE",
       "name": "Sogni Sventurati",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -310,7 +310,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.ZKhdwIDK3RcoHvv4",
       "name": "Nucleo di Seme Stellare",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/nuts/mapleseed-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -329,7 +329,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.nF0W9R1RFgDgAwHU",
       "name": "Uovo del Sognatore",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/eggs/egg-painted-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -348,7 +348,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.nYBYxNcEZpXcNDOk",
       "name": "Mucchio di Antiche Ricchezze",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/treasure/medal-ribbon-silver-purple.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -367,7 +367,7 @@
       "_key": "!actors.items!cjtwGYiSXBtWXG8q.5EQ2Q7XnwBhKL3ol",
       "name": "Una Montagna di Gemme",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/gems/gem-faceted-teardrop-teal.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -391,7 +391,7 @@
     "name": "La Regina Di Sotto",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/tentacles/tentacles-eyes-poisoned-green.webp"
     }
   }
 }

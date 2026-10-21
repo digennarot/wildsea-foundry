@@ -3,7 +3,7 @@
   "_key": "!actors!yoc7R4dFjCq4qacN",
   "name": "La Fioritura",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/magical/spirit-undead-ghost-purple.webp",
   "folder": "2VDLVnj9HweOX2Ef",
   "sort": 300000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "La Fioritura",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/creatures/magical/spirit-undead-ghost-purple.webp"
     }
   }
 }

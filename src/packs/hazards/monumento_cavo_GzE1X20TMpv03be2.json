@@ -3,7 +3,7 @@
   "_key": "!actors!GzE1X20TMpv03be2",
   "name": "Monumento Cavo",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/environment/settlement/castle-gatehouse.webp",
   "folder": "Tb22ATZVP0IDliL2",
   "sort": 1900000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Monumento Cavo",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/environment/settlement/castle-gatehouse.webp"
     }
   }
 }

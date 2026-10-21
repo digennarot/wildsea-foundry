@@ -3,7 +3,7 @@
   "_key": "!actors!XS5FH7viifJNZOuK",
   "name": "Sciame Famelico",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/invertebrates/bee-yellow.webp",
   "folder": "wKaXmVMpDNM3Uf2O",
   "sort": 5000000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Sciame Famelico",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/invertebrates/bee-yellow.webp"
     }
   }
 }

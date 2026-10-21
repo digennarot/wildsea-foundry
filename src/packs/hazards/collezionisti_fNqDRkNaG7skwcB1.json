@@ -3,7 +3,7 @@
   "_key": "!actors!fNqDRkNaG7skwcB1",
   "name": "Collezionisti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/magical/construct-golem-robot-blue.webp",
   "folder": "cdJDVVFlS0y5Z02h",
   "sort": 9000000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Collezionisti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/magical/construct-golem-robot-blue.webp"
     }
   }
 }

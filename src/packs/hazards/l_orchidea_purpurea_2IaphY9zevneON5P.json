@@ -3,7 +3,7 @@
   "_key": "!actors!2IaphY9zevneON5P",
   "name": "L'Orchidea Purpurea",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/commodities/flowers/lily-grey-orange.webp",
   "folder": "Qi7iQy3CSDDE2jkF",
   "sort": 13600000,
   "system": {
@@ -156,7 +156,7 @@
       "_key": "!actors.items!2IaphY9zevneON5P.plILwwxv052MhqxW",
       "name": "Nettare di Crezzerin",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/fire/flame-burning-chain.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -175,7 +175,7 @@
       "_key": "!actors.items!2IaphY9zevneON5P.IjJfNeyFqESH0kVZ",
       "name": "Muschio del Bocciolo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/plants/leaf-dried-eaten-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -194,7 +194,7 @@
       "_key": "!actors.items!2IaphY9zevneON5P.r1itLnP5CISlBxPj",
       "name": "Petalo Reciso",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/flowers/lotus-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -213,7 +213,7 @@
       "_key": "!actors.items!2IaphY9zevneON5P.vKUMwLq0hGP97xSR",
       "name": "Polline della Corolla Interna",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/flowers/daisy-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -232,7 +232,7 @@
       "_key": "!actors.items!2IaphY9zevneON5P.8WOy8MkhITQ4AEnl",
       "name": "Insetto Essiccato",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/environment/creatures/bug-worm-toothed-grey.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -251,7 +251,7 @@
       "_key": "!actors.items!2IaphY9zevneON5P.T40Oy2V4bWuHuTXq",
       "name": "Lama Seghettata Rotta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/flowers/wheat-bundle.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -270,7 +270,7 @@
       "_key": "!actors.items!2IaphY9zevneON5P.avLAYi7tnC2wVZpA",
       "name": "Serralama Smussata",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/tools/hand/saw-blue-steel.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -289,7 +289,7 @@
       "_key": "!actors.items!2IaphY9zevneON5P.RaA1pE5pBNsnseDS",
       "name": "Pianta Perpetua",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/flowers/flower-grey-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -308,7 +308,7 @@
       "_key": "!actors.items!2IaphY9zevneON5P.dJGlssyZkHirDdWk",
       "name": "Morte e Rinascita",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/death/projectile-skull-flaming-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -327,7 +327,7 @@
       "_key": "!actors.items!2IaphY9zevneON5P.bWeSeZlYtDdToA2x",
       "name": "Petalo Intero",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/flowers/lily-bloom.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -346,7 +346,7 @@
       "_key": "!actors.items!2IaphY9zevneON5P.s0tSqmoP2B7sEcQA",
       "name": "Fascio di Stami",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/flowers/clover-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -370,7 +370,7 @@
     "name": "L'Orchidea Purpurea",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/commodities/flowers/lily-grey-orange.webp"
     }
   }
 }

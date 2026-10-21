@@ -3,7 +3,7 @@
   "_key": "!actors!t7frQ3uLX1rvkwBg",
   "name": "Pangopodi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
   "folder": "g4PF7Tt0HC0ZjSV9",
   "sort": 2900000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Pangopodi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/abilities/bull-head-horns-glowing.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!WjRcyJqsJ08KfnJ3",
   "name": "Safir Hesten",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/people/cleric-grey.webp",
   "folder": "JB5ufO4DpPywBMej",
   "sort": 200000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Safir Hesten",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/environment/people/cleric-grey.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!joQX95rtlEwvV5QC",
   "name": "Bradipi Testadascia",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/abilities/bull-head-horns-glowing.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 4500000,
   "system": {
@@ -122,7 +122,7 @@
       "_key": "!actors.items!joQX95rtlEwvV5QC.FNlPZbQET3oCXNIx",
       "name": "Pelliccia Coperta di Fango",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/leather/leather-patch-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -141,7 +141,7 @@
       "_key": "!actors.items!joQX95rtlEwvV5QC.C1yQmTmHtXc5UaGI",
       "name": "Carne di Bradipo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/food/shank-meat-bone-glazed-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -160,7 +160,7 @@
       "_key": "!actors.items!joQX95rtlEwvV5QC.ASA3G8RQgwmIzooq",
       "name": "Cresta Testadascia",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/plants/dried-leaf-stem-twig-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -179,7 +179,7 @@
       "_key": "!actors.items!joQX95rtlEwvV5QC.fyIn6BZYfDBCDbC0",
       "name": "Un Lungo Sonno",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/control/hypnosis-mesmerism-eye-tan.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -203,7 +203,7 @@
     "name": "Bradipi Testadascia",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/abilities/bull-head-horns-glowing.webp"
     }
   }
 }

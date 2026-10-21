@@ -3,7 +3,7 @@
   "_key": "!actors!1uItk9pG6IziGhFo",
   "name": "Malebecchi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/abilities/bear-roar-bite-brown.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 4300000,
   "system": {
@@ -144,7 +144,7 @@
       "_key": "!actors.items!1uItk9pG6IziGhFo.LSNe8OEZyGGNPy2V",
       "name": "Coda Contorta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/abilities/tail-strike-bone-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -163,7 +163,7 @@
       "_key": "!actors.items!1uItk9pG6IziGhFo.uAyetETzi3Slm95P",
       "name": "Becco Scheggiato",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/beak-grey-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -182,7 +182,7 @@
       "_key": "!actors.items!1uItk9pG6IziGhFo.Oq9lxlCYqZtSoh71",
       "name": "Non Si Butta Via Niente",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/orb-eye-scrying.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -206,7 +206,7 @@
     "name": "Malebecchi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/abilities/bear-roar-bite-brown.webp"
     }
   }
 }

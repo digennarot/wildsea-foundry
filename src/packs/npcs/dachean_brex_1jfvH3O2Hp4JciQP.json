@@ -3,7 +3,7 @@
   "_key": "!actors!1jfvH3O2Hp4JciQP",
   "name": "Dachean Brex",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/people/cleric-orange.webp",
   "folder": "3ICIrqFNYGfdWuo1",
   "sort": 100000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Dachean Brex",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/environment/people/cleric-orange.webp"
     }
   }
 }

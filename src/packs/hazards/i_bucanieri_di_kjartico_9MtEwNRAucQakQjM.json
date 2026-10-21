@@ -3,7 +3,7 @@
   "_key": "!actors!9MtEwNRAucQakQjM",
   "name": "I Bucanieri di Kjartico",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/environment/people/charge.webp",
   "folder": "4bhvOdiRf5lal7By",
   "sort": 11100000,
   "system": {
@@ -180,7 +180,7 @@
       "_key": "!actors.items!9MtEwNRAucQakQjM.TwoEr31ZxXGFI1Rr",
       "name": "Sciabola d'Abbordaggio",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/weapons/swords/sword-cane.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -199,7 +199,7 @@
       "_key": "!actors.items!9MtEwNRAucQakQjM.ZBtZzlNBsbhvO0oi",
       "name": "Cappotto da Pirata",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/equipment/chest/shirt-collared-yellow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -218,7 +218,7 @@
       "_key": "!actors.items!9MtEwNRAucQakQjM.D22D8h51ZRAL698s",
       "name": "Pietra Focaia",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/stone/ore-chunk-grey.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -237,7 +237,7 @@
       "_key": "!actors.items!9MtEwNRAucQakQjM.Pgr0vE2v93RNxyTL",
       "name": "Teschio di Pirata",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/skull-lizard-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -256,7 +256,7 @@
       "_key": "!actors.items!9MtEwNRAucQakQjM.dZq84gIrcfPdDNvU",
       "name": "Una Vecchia Mappa delle Onde",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/sundries/documents/blueprints-teal.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -275,7 +275,7 @@
       "_key": "!actors.items!9MtEwNRAucQakQjM.mYLOl4nZoly0sPNf",
       "name": "Manifesto di Carico del Pirata",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/sundries/documents/calendar-daily.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -294,7 +294,7 @@
       "_key": "!actors.items!9MtEwNRAucQakQjM.s5m6IHUXjDSypEht",
       "name": "Il Bottino o la Morte",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/death/skull-poison-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -318,7 +318,7 @@
     "name": "I Bucanieri di Kjartico",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/environment/people/charge.webp"
     }
   }
 }

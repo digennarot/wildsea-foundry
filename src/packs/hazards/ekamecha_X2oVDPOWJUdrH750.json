@@ -3,7 +3,7 @@
   "_key": "!actors!X2oVDPOWJUdrH750",
   "name": "Ekamecha",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/environment/creatures/golem-stone-purple.webp",
   "folder": "cdJDVVFlS0y5Z02h",
   "sort": 9300000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Ekamecha",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/environment/creatures/golem-stone-purple.webp"
     }
   }
 }

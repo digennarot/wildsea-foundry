@@ -3,7 +3,7 @@
   "_key": "!actors!22Q5DVB5Ugf9e7uC",
   "name": "Null",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/abilities/fang-tooth-poison-green.webp",
   "folder": "wlUMKbrjHFn6uYCT",
   "sort": 100000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Null",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/creatures/abilities/fang-tooth-poison-green.webp"
     }
   }
 }

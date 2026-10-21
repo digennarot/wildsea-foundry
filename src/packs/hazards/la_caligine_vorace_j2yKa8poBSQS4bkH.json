@@ -3,7 +3,7 @@
   "_key": "!actors!j2yKa8poBSQS4bkH",
   "name": "La Caligine Vorace",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/air/weather-sunlight-sky.webp",
   "folder": "8ABj2qk7P7AAHhCn",
   "sort": 13000000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "La Caligine Vorace",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/air/weather-sunlight-sky.webp"
     }
   }
 }

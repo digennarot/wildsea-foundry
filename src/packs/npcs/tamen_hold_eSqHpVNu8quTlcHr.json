@@ -3,7 +3,7 @@
   "_key": "!actors!eSqHpVNu8quTlcHr",
   "name": "Tamen Hold",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/consumables/mushrooms/helm-red-white.webp",
   "folder": "nPakvJQRrPUXNMbZ",
   "sort": 100000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Tamen Hold",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/consumables/mushrooms/helm-red-white.webp"
     }
   }
 }

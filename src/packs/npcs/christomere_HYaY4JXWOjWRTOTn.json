@@ -3,7 +3,7 @@
   "_key": "!actors!HYaY4JXWOjWRTOTn",
   "name": "Christomere",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/invertebrates/bug-cross-green.webp",
   "folder": "SCdjypXrsjxCOTfr",
   "sort": 200000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Christomere",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/creatures/invertebrates/bug-cross-green.webp"
     }
   }
 }

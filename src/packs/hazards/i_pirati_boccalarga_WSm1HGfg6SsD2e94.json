@@ -3,7 +3,7 @@
   "_key": "!actors!WSm1HGfg6SsD2e94",
   "name": "I Pirati Boccalarga",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/skills/social/intimidation-impressing.webp",
   "folder": "4bhvOdiRf5lal7By",
   "sort": 11200000,
   "system": {
@@ -142,7 +142,7 @@
       "_key": "!actors.items!WSm1HGfg6SsD2e94.E24uSCtPJTbmX6sy",
       "name": "Forchetta Cerimoniale",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/tools/hand/shovel-spade-steel-brown-grey.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -161,7 +161,7 @@
       "_key": "!actors.items!WSm1HGfg6SsD2e94.F7r3LKKxdQBryI9E",
       "name": "Boccale Ampio",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/drinks/pitcher-dripping-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -180,7 +180,7 @@
       "_key": "!actors.items!WSm1HGfg6SsD2e94.s4lUKvEhWRSzhndV",
       "name": "Urla",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/eye-ringed-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -199,7 +199,7 @@
       "_key": "!actors.items!WSm1HGfg6SsD2e94.tOnswe99r126FLrU",
       "name": "Stretto delle Fauci Insanguinate",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/tooth-molar-white-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -218,7 +218,7 @@
       "_key": "!actors.items!WSm1HGfg6SsD2e94.odlR7Sygk00wfq48",
       "name": "Scritture Allettanti e Seducenti",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/sundries/scrolls/scroll-runed-tan-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -237,7 +237,7 @@
       "_key": "!actors.items!WSm1HGfg6SsD2e94.oIHin1A3MDs9HLP1",
       "name": "Ricette da Far Brontolare lo Stomaco",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -261,7 +261,7 @@
     "name": "I Pirati Boccalarga",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/skills/social/intimidation-impressing.webp"
     }
   }
 }

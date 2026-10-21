@@ -3,7 +3,7 @@
   "_key": "!actors!w0lNjh5Lgs2FTbrb",
   "name": "Massablatta",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
   "folder": "Tb22ATZVP0IDliL2",
   "sort": 1600000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Massablatta",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/unholy/silhouette-robe-evil-power.webp"
     }
   }
 }

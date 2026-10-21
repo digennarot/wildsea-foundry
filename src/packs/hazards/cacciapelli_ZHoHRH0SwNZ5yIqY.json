@@ -3,7 +3,7 @@
   "_key": "!actors!ZHoHRH0SwNZ5yIqY",
   "name": "Cacciapelli",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/weapons/bows/shortbow-recurve-red.webp",
   "folder": "4bhvOdiRf5lal7By",
   "sort": 11400000,
   "system": {
@@ -142,7 +142,7 @@
       "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.dJ0cVmZy8EDCefO3",
       "name": "Sacco di Juta Lacerato",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/containers/bags/satchel-leather-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -161,7 +161,7 @@
       "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.VL1UWjkVxUaYtaAo",
       "name": "Ragni Solitari",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/webs/web-spider-moving-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -180,7 +180,7 @@
       "_key": "!actors.items!ZHoHRH0SwNZ5yIqY.yAvLBtP544giqpSb",
       "name": "Mappa Coperta di Ragnatele",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/sundries/documents/blueprint-shield.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -204,7 +204,7 @@
     "name": "Cacciapelli",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/weapons/bows/shortbow-recurve-red.webp"
     }
   }
 }

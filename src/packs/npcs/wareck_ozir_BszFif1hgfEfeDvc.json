@@ -3,7 +3,7 @@
   "_key": "!actors!BszFif1hgfEfeDvc",
   "name": "Wareck Ozir",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/people/group.webp",
   "folder": "9flqGtMcnmHK5xcM",
   "sort": 100000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Wareck Ozir",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/environment/people/group.webp"
     }
   }
 }

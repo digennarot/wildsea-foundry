@@ -3,7 +3,7 @@
   "_key": "!actors!nKYnL0xIvu6oR6x0",
   "name": "Macchine Cogitanti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/commodities/tech/robotics-steel-jaw.webp",
   "folder": "cdJDVVFlS0y5Z02h",
   "sort": 9200000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Macchine Cogitanti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/commodities/tech/robotics-steel-jaw.webp"
     }
   }
 }

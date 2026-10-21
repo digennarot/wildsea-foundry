@@ -3,7 +3,7 @@
   "_key": "!actors!2t7uICVuCRoMqkJO",
   "name": "Mantidi Profane",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/environment/creatures/bug-worm-purple-blue.webp",
   "folder": "cXs2ciq2MAxLLVu9",
   "sort": 6000000,
   "system": {
@@ -126,7 +126,7 @@
       "_key": "!actors.items!2t7uICVuCRoMqkJO.Srg4FNAihluFifqA",
       "name": "Occhio di Mantide Profana",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/eyes/void-single-black-purple.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -145,7 +145,7 @@
       "_key": "!actors.items!2t7uICVuCRoMqkJO.qmjEmEErSF5ytynB",
       "name": "Arto Falciante",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/hand-green-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -164,7 +164,7 @@
       "_key": "!actors.items!2t7uICVuCRoMqkJO.vuuVsMouK8i1czqi",
       "name": "Ala di Libellula",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/abilities/wing-batlike-red-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -183,7 +183,7 @@
       "_key": "!actors.items!2t7uICVuCRoMqkJO.mVUAhgMOzErRYJgz",
       "name": "L'Imboscata Perfetta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/invertebrates/beetle-grub-larvae-gray.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -202,7 +202,7 @@
       "_key": "!actors.items!2t7uICVuCRoMqkJO.4gc3z2ME7H3Iqpnx",
       "name": "La Fame per le Navi",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/environment/settlement/ship.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -226,7 +226,7 @@
     "name": "Mantidi Profane",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/environment/creatures/bug-worm-purple-blue.webp"
     }
   }
 }

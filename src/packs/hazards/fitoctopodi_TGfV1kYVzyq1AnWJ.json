@@ -3,7 +3,7 @@
   "_key": "!actors!TGfV1kYVzyq1AnWJ",
   "name": "Fitoctopodi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/root-vine-barrier-wall-brown.webp",
   "folder": "XrqksO6vjLSChbuj",
   "sort": 8400000,
   "system": {
@@ -116,7 +116,7 @@
       "_key": "!actors.items!TGfV1kYVzyq1AnWJ.UEnXamNJbZXddPwL",
       "name": "Feromone Attrattivo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/eye-simple-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -135,7 +135,7 @@
       "_key": "!actors.items!TGfV1kYVzyq1AnWJ.sIlQhnhqro9kfLPJ",
       "name": "Becco di Fitoctopode",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/beak-hooked-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -154,7 +154,7 @@
       "_key": "!actors.items!TGfV1kYVzyq1AnWJ.vKptdsvu3rlnIean",
       "name": "Rugiada Dolcissima",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/water/waves-water-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -173,7 +173,7 @@
       "_key": "!actors.items!TGfV1kYVzyq1AnWJ.9lirr4gNd4VdTbep",
       "name": "Dolce è la Morte",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/death/skull-energy-light-purple.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -192,7 +192,7 @@
       "_key": "!actors.items!TGfV1kYVzyq1AnWJ.kkcrXlZoZ7S8u4gz",
       "name": "Tentacolo di Fitoctopode",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -216,7 +216,7 @@
     "name": "Fitoctopodi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/root-vine-barrier-wall-brown.webp"
     }
   }
 }

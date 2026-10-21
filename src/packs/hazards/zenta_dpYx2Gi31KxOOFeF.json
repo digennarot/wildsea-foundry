@@ -3,7 +3,7 @@
   "_key": "!actors!dpYx2Gi31KxOOFeF",
   "name": "Zenta",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/abilities/bear-roar-bite-brown.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 4800000,
   "system": {
@@ -110,7 +110,7 @@
       "_key": "!actors.items!dpYx2Gi31KxOOFeF.z7dqpQkogybElEX1",
       "name": "Corona di un Dente",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/treasure/lantern-stone-grey.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -129,7 +129,7 @@
       "_key": "!actors.items!dpYx2Gi31KxOOFeF.aUcr0fHj5ooXwQoH",
       "name": "Pelle Squamata",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/leather/leather-patch-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -148,7 +148,7 @@
       "_key": "!actors.items!dpYx2Gi31KxOOFeF.R9Yjop3J7FjibXkr",
       "name": "Guscio d'Uovo Poroso",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/metal/fragments-steel-ring.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -167,7 +167,7 @@
       "_key": "!actors.items!dpYx2Gi31KxOOFeF.nCZBRiFIMycIne19",
       "name": "Cresciuto in un Involucro",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/nature/plant-poison-spit-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -186,7 +186,7 @@
       "_key": "!actors.items!dpYx2Gi31KxOOFeF.hvfMXSBAlpYmYFD7",
       "name": "Reinvenzione",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/hand-eye-fire-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -210,7 +210,7 @@
     "name": "Zenta",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/abilities/bear-roar-bite-brown.webp"
     }
   }
 }

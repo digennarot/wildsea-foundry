@@ -3,7 +3,7 @@
   "_key": "!actors!7bbK8UKiOspC6aYh",
   "name": "Newan",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/invertebrates/spider-mandibles-brown.webp",
   "folder": "4kRXs1LUbMyEXIND",
   "sort": 100000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Newan",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/creatures/invertebrates/spider-mandibles-brown.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!9dXyekSiwdnFTWXo",
   "name": "Saettomante",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/abilities/wolf-heads-swirl-purple.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 4900000,
   "system": {
@@ -194,7 +194,7 @@
       "_key": "!actors.items!9dXyekSiwdnFTWXo.v9ijSJqFqvJPDjJ8",
       "name": "Spine di Tuono",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/bone-jaw-teeth-grey.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -213,7 +213,7 @@
       "_key": "!actors.items!9dXyekSiwdnFTWXo.9qgTSGa10effJZbJ",
       "name": "Pelle Robusta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/leather/fur-white.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -232,7 +232,7 @@
       "_key": "!actors.items!9dXyekSiwdnFTWXo.3UvLXKCH3HJHmbSm",
       "name": "Una Tempesta al Guinzaglio",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/lightning/bolt-forked-large-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -256,7 +256,7 @@
     "name": "Saettomante",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/abilities/wolf-heads-swirl-purple.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!1LuNm10lKkFEuSDO",
   "name": "Le Stelle Nascenti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/environment/cosmos/planet-moon-blue.webp",
   "folder": "8ABj2qk7P7AAHhCn",
   "sort": 13100000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Le Stelle Nascenti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/environment/cosmos/planet-moon-blue.webp"
     }
   }
 }

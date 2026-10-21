@@ -3,7 +3,7 @@
   "_key": "!actors!5cuVBsANunFTfN6a",
   "name": "Colibrilli",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/birds/raptor-hawk-flying.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 3700000,
   "system": {
@@ -136,7 +136,7 @@
       "_key": "!actors.items!5cuVBsANunFTfN6a.52jWnNs937SBEeeq",
       "name": "Ambra del Gargarozzo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/gems/gem-rough-rectangle-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -155,7 +155,7 @@
       "_key": "!actors.items!5cuVBsANunFTfN6a.OrtBp7Gzk5RkPbQo",
       "name": "Becco Delizioso",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/bones/beak-orange-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -174,7 +174,7 @@
       "_key": "!actors.items!5cuVBsANunFTfN6a.vlwpXtBOeNlSECCW",
       "name": "Uovo Maculato",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/eggs/egg-nest-pink.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -193,7 +193,7 @@
       "_key": "!actors.items!5cuVBsANunFTfN6a.HGV7myypeGfUoFld",
       "name": "Moto Silente",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/silhouette-stealth-shadow.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -217,7 +217,7 @@
     "name": "Colibrilli",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/birds/raptor-hawk-flying.webp"
     }
   }
 }

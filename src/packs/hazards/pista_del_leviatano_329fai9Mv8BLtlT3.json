@@ -3,7 +3,7 @@
   "_key": "!actors!329fai9Mv8BLtlT3",
   "name": "Pista del Leviatano",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/tentacles/tentacles-thing-green.webp",
   "folder": "Tb22ATZVP0IDliL2",
   "sort": 1700000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Pista del Leviatano",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/tentacles/tentacles-thing-green.webp"
     }
   }
 }

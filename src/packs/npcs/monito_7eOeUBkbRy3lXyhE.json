@@ -3,7 +3,7 @@
   "_key": "!actors!7eOeUBkbRy3lXyhE",
   "name": "Monito",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/magic/light/orb-lightbulb-gray.webp",
   "folder": "2VDLVnj9HweOX2Ef",
   "sort": 100000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Monito",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/magic/light/orb-lightbulb-gray.webp"
     }
   }
 }

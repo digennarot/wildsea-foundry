@@ -3,7 +3,7 @@
   "_key": "!actors!QVXOgiuIcXhyn1Z4",
   "name": "Spettropodi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/death/undead-skeleton-tusk-purple.webp",
   "folder": "cXs2ciq2MAxLLVu9",
   "sort": 6500000,
   "system": {
@@ -156,7 +156,7 @@
       "_key": "!actors.items!QVXOgiuIcXhyn1Z4.XhRUVPHAY43HhLIY",
       "name": "Occhi Spiritati e Sfaccettati",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/eye-lizard-orange-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -175,7 +175,7 @@
       "_key": "!actors.items!QVXOgiuIcXhyn1Z4.QyTQOU442I5aJvHZ",
       "name": "Viscidume Spettrale",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/magical/spirit-mischief-fire-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -194,7 +194,7 @@
       "_key": "!actors.items!QVXOgiuIcXhyn1Z4.OWicAFqoQ8vPPLfA",
       "name": "Tra Due Mondi",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/magical/spirit-mischief-fire-ice-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -218,7 +218,7 @@
     "name": "Spettropodi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/death/undead-skeleton-tusk-purple.webp"
     }
   }
 }

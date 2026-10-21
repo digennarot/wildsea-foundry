@@ -3,7 +3,7 @@
   "_key": "!actors!gFtRjqN4snNanrae",
   "name": "Basilischi",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/reptiles/lizard-iguana-green.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 4600000,
   "system": {
@@ -134,7 +134,7 @@
       "_key": "!actors.items!gFtRjqN4snNanrae.llwZ5RrAMYqEVJDL",
       "name": "Occhio di Basilisco",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/eye-purple.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -153,7 +153,7 @@
       "_key": "!actors.items!gFtRjqN4snNanrae.8lliSdxe7j60jvlY",
       "name": "Stomaco di Mangiapietre",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/reptiles/lizard-iguana-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -172,7 +172,7 @@
       "_key": "!actors.items!gFtRjqN4snNanrae.mSnTZtvBazX9JV6u",
       "name": "Sangue di Gesso",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/skills/wounds/blood-cells-disease-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -191,7 +191,7 @@
       "_key": "!actors.items!gFtRjqN4snNanrae.rDvtv0seAHV7j4hD",
       "name": "Scaglie Con Motivi Floreali",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/reptiles/chameleon-camouflage-green-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -210,7 +210,7 @@
       "_key": "!actors.items!gFtRjqN4snNanrae.lB4zB8t45njQ7z64",
       "name": "Un Giardino di Statue",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/nature/leaf-glow-orange.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -229,7 +229,7 @@
       "_key": "!actors.items!gFtRjqN4snNanrae.weLZs9NSML7N2QsI",
       "name": "Innumerevoli Occhi",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/eye-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -248,7 +248,7 @@
       "_key": "!actors.items!gFtRjqN4snNanrae.4ix3l1bVBJGOlDjh",
       "name": "Il Pericolo del Sonno",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/control/hypnosis-mesmerism-swirl.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -272,7 +272,7 @@
     "name": "Basilischi",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/reptiles/lizard-iguana-green.webp"
     }
   }
 }

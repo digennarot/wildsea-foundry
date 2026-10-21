@@ -3,7 +3,7 @@
   "_key": "!actors!3HLImzQQaFHJYPsP",
   "name": "Lucciole Fatue",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/invertebrates/dragonfly-teal.webp",
   "folder": "wKaXmVMpDNM3Uf2O",
   "sort": 5100000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Lucciole Fatue",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/invertebrates/dragonfly-teal.webp"
     }
   }
 }

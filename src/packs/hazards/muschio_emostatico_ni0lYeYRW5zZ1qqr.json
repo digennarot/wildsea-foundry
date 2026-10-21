@@ -3,7 +3,7 @@
   "_key": "!actors!ni0lYeYRW5zZ1qqr",
   "name": "Muschio Emostatico",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/consumables/plants/leaf-veins-glowing-green.webp",
   "folder": "t8jqTPU1iTq55RIr",
   "sort": 7800000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Muschio Emostatico",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/consumables/plants/leaf-veins-glowing-green.webp"
     }
   }
 }

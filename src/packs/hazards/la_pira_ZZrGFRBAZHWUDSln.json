@@ -3,7 +3,7 @@
   "_key": "!actors!ZZrGFRBAZHWUDSln",
   "name": "La Pira",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/skills/toxins/cauldron-pot-bubbles-green.webp",
   "folder": "Hfv8TJ8WjpQgwpmN",
   "sort": 12200000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "La Pira",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/skills/toxins/cauldron-pot-bubbles-green.webp"
     }
   }
 }

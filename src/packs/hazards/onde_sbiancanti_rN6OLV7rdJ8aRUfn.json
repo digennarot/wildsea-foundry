@@ -3,7 +3,7 @@
   "_key": "!actors!rN6OLV7rdJ8aRUfn",
   "name": "Onde Sbiancanti",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/water/water-elemental-blue-teeth.webp",
   "folder": "WQSuqMAEmcFM1Ilu",
   "sort": 1100000,
   "system": {
@@ -76,7 +76,7 @@
       "_key": "!actors.items!rN6OLV7rdJ8aRUfn.ncNEeFLsAAFfQ5mY",
       "name": "Legno Marcescente",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/wood/log-rough-cherry-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -95,7 +95,7 @@
       "_key": "!actors.items!rN6OLV7rdJ8aRUfn.Mvvxaq3yW68i6atU",
       "name": "Foglie Spugnose",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/plants/dill-herb-bundle-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -114,7 +114,7 @@
       "_key": "!actors.items!rN6OLV7rdJ8aRUfn.gHxBEIsEIJsfz9Dz",
       "name": "Un Cuore Marcio",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/life/heart-cross-strong-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -133,7 +133,7 @@
       "_key": "!actors.items!rN6OLV7rdJ8aRUfn.DYVKcAhsX84VaowT",
       "name": "Una Bellezza Pericolosa",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/water/water-jet-wave-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -157,7 +157,7 @@
     "name": "Onde Sbiancanti",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/water/water-elemental-blue-teeth.webp"
     }
   }
 }

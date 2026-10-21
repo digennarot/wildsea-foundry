@@ -3,7 +3,7 @@
   "_key": "!actors!D4PukVoudnxQ9TPq",
   "name": "Dja Hara",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/consumables/plants/thorned-stem-brown.webp",
   "folder": "SCdjypXrsjxCOTfr",
   "sort": 100000,
   "system": {
@@ -27,7 +27,7 @@
     "name": "Dja Hara",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "icons/consumables/plants/thorned-stem-brown.webp"
     }
   }
 }

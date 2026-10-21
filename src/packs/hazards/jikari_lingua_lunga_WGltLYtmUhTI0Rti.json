@@ -3,7 +3,7 @@
   "_key": "!actors!WGltLYtmUhTI0Rti",
   "name": "Jikari Lingua Lunga",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/commodities/biological/tongue-violet.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 4000000,
   "system": {
@@ -144,7 +144,7 @@
       "_key": "!actors.items!WGltLYtmUhTI0Rti.zxiKz6ExBOXS51uE",
       "name": "Squame di Jikari",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/leather/fur-white-tan.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -163,7 +163,7 @@
       "_key": "!actors.items!WGltLYtmUhTI0Rti.mVw73gAAYjei81sI",
       "name": "Lingua Lunga Appuntita",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/tongue-red.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -182,7 +182,7 @@
       "_key": "!actors.items!WGltLYtmUhTI0Rti.qzCaoxbcR64hDIBo",
       "name": "Ghiandole Gracidanti",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/biological/tongue-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -201,7 +201,7 @@
       "_key": "!actors.items!WGltLYtmUhTI0Rti.iYwHg1LEcrH9MxZm",
       "name": "Una Bocca Senza Denti",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/creatures/abilities/fang-tooth-poison-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -220,7 +220,7 @@
       "_key": "!actors.items!WGltLYtmUhTI0Rti.kMk2Q0d4zM481TEK",
       "name": "Un Gracidare Minaccioso",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/skills/social/intimidation-impressing.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -244,7 +244,7 @@
     "name": "Jikari Lingua Lunga",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/commodities/biological/tongue-violet.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!Mynhmpc7DpxTxeej",
   "name": "Scorza e Marciume",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/skills/social/intimidation-impressing.webp",
   "folder": "ymimSf4TWI33u4yE",
   "sort": 10700000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Scorza e Marciume",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/skills/social/intimidation-impressing.webp"
     }
   }
 }

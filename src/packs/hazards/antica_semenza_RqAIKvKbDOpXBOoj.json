@@ -3,7 +3,7 @@
   "_key": "!actors!RqAIKvKbDOpXBOoj",
   "name": "Antica Semenza",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/consumables/nuts/hazelnut-acorn-tan-brown.webp",
   "folder": "Tb22ATZVP0IDliL2",
   "sort": 2400000,
   "system": {
@@ -22,7 +22,7 @@
     "name": "Antica Semenza",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/consumables/nuts/hazelnut-acorn-tan-brown.webp"
     }
   }
 }

@@ -3,7 +3,7 @@
   "_key": "!actors!lG7WI0aAH6LfjosV",
   "name": "Makadrilli",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/creatures/abilities/wolf-howl-moon-white.webp",
   "folder": "b6FkRevqwqdJHuiU",
   "sort": 4700000,
   "system": {
@@ -192,7 +192,7 @@
       "_key": "!actors.items!lG7WI0aAH6LfjosV.D6QkElUffAtRMXCR",
       "name": "Pelle di Makadrillo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/leather/scales-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -211,7 +211,7 @@
       "_key": "!actors.items!lG7WI0aAH6LfjosV.viWBXeEWv3wBfogy",
       "name": "Ghiandola-Gola",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/commodities/tech/engine-tech-thrust-green.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -230,7 +230,7 @@
       "_key": "!actors.items!lG7WI0aAH6LfjosV.ebWLZktMVoscsprw",
       "name": "Maschera Maka",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/equipment/head/mask-carved-wood-brown.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -249,7 +249,7 @@
       "_key": "!actors.items!lG7WI0aAH6LfjosV.e17hCB5so5c0mRJb",
       "name": "Un Grido Senza Parole",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/sonic/projectile-shock-wave-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -273,7 +273,7 @@
     "name": "Makadrilli",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/creatures/abilities/wolf-howl-moon-white.webp"
     }
   }
 }

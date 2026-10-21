@@ -3,7 +3,7 @@
   "_key": "!actors!ugd1Y3awGSS6bT8M",
   "name": "Mantiflora",
   "type": "hazard",
-  "img": "icons/svg/hazard.svg",
+  "img": "icons/magic/nature/tree-spirit-black.webp",
   "folder": "XrqksO6vjLSChbuj",
   "sort": 8500000,
   "system": {
@@ -100,7 +100,7 @@
       "_key": "!actors.items!ugd1Y3awGSS6bT8M.4OrGaAVosDl8s4Q8",
       "name": "Semi di Mantiflora",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/consumables/nuts/peanut-shelled-brown-tan.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -119,7 +119,7 @@
       "_key": "!actors.items!ugd1Y3awGSS6bT8M.WzmB8j5t2SU8kIpj",
       "name": "Una Divinità Sconosciuta",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -138,7 +138,7 @@
       "_key": "!actors.items!ugd1Y3awGSS6bT8M.r5PNL1OY7Folcjzf",
       "name": "Parole Rosse sullo Stelo",
       "type": "resource",
-      "img": "icons/svg/item-bag.svg",
+      "img": "icons/magic/perception/orb-eye-scrying.webp",
       "system": {
         "details": "",
         "collapsed": false,
@@ -162,7 +162,7 @@
     "name": "Mantiflora",
     "actorLink": false,
     "texture": {
-      "src": "icons/svg/hazard.svg"
+      "src": "icons/magic/nature/tree-spirit-black.webp"
     }
   }
 }
