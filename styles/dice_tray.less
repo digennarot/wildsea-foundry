@@ -3,16 +3,39 @@
 @import url(./config.less);
 
 .wildsea-dice-tray {
+  position: fixed;
+  z-index: var(--z-index-ui);
+  width: 18rem;
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
-  margin-bottom: 0.25rem;
-  padding: 0.35rem;
+  padding: 0 0.35rem 0.35rem;
   border-radius: 0.25rem;
   background: @dark-bg;
   color: @white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  pointer-events: all;
   .body-font();
   font-size: 0.8rem;
+
+  .tray-handle {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin: 0 -0.35rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 0.25rem 0.25rem 0 0;
+    background: @mid-bg;
+    cursor: grab;
+    user-select: none;
+    touch-action: none;
+    .title-font();
+    font-size: 1rem;
+
+    &:active {
+      cursor: grabbing;
+    }
+  }
 
   button {
     margin: 0;
@@ -221,13 +244,4 @@
       font-size: 0.8rem;
     }
   }
-}
-
-// With the sidebar collapsed the chat input lives in the notifications grid
-// (log row + input row): the tray floats above the input instead of taking a row.
-#chat-notifications > .wildsea-dice-tray {
-  position: absolute;
-  inset: auto 0 calc(var(--chat-input-height) + var(--chat-menu-height, 0px) + 14px);
-  margin: 0;
-  pointer-events: all;
 }

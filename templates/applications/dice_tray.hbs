@@ -1,4 +1,9 @@
 <section class="wildsea-dice-tray">
+  <header class="tray-handle" data-tooltip="{{localize "wildsea.TRAY.handleHint"}}">
+    <i class="fa-solid fa-grip-lines"></i>
+    <span>{{localize "wildsea.TRAY.title"}}</span>
+  </header>
+
   <div class="tray-dice">
     {{#each dice as |die|}}
     <button type="button" class="tray-die" data-dice="{{die.count}}"

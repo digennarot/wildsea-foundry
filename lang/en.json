@@ -225,6 +225,8 @@
       "visibility": "Visibility"
     },
     "TRAY": {
+      "title": "Dice Tray",
+      "handleHint": "Drag to move, double-click to put it back in place",
       "context": "Roll type",
       "dieTooltip": "Pool of {dice}d6 (right-click: roll now)",
       "roll": "Roll {dice}d6",

@@ -225,6 +225,8 @@
       "visibility": "Visibilità"
     },
     "TRAY": {
+      "title": "Vassoio dei Dadi",
+      "handleHint": "Trascina per spostare, doppio clic per riportarlo al suo posto",
       "context": "Tipo di tiro",
       "dieTooltip": "Riserva di {dice}d6 (clic destro: tira subito)",
       "roll": "Tira {dice}d6",

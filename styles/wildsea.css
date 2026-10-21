@@ -1302,16 +1302,38 @@ a.inline-roll.unstyled {
   opacity: 1;
 }
 .wildsea-dice-tray {
+  position: fixed;
+  z-index: var(--z-index-ui);
+  width: 18rem;
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
-  margin-bottom: 0.25rem;
-  padding: 0.35rem;
+  padding: 0 0.35rem 0.35rem;
   border-radius: 0.25rem;
   background: #2e2c20;
   color: #f9f9f9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  pointer-events: all;
   font-family: 'Merriweather', serif;
   font-size: 0.8rem;
+}
+.wildsea-dice-tray .tray-handle {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0 -0.35rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 0.25rem 0.25rem 0 0;
+  background: #626256;
+  cursor: grab;
+  user-select: none;
+  touch-action: none;
+  font-family: 'Teko', sans-serif;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+.wildsea-dice-tray .tray-handle:active {
+  cursor: grabbing;
 }
 .wildsea-dice-tray button {
   margin: 0;
@@ -1496,10 +1518,4 @@ a.inline-roll.unstyled {
 .wildsea-tray-roll .tray-roll-twist p {
   margin: 0;
   font-size: 0.8rem;
-}
-#chat-notifications > .wildsea-dice-tray {
-  position: absolute;
-  inset: auto 0 calc(var(--chat-input-height) + var(--chat-menu-height, 0px) + 14px);
-  margin: 0;
-  pointer-events: all;
 }
