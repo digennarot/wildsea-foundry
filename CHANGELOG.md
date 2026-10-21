@@ -1,5 +1,9 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.20
+
+- Worlds without an active scene no longer show a black screen in cinematic mode: once per world, the GM's client creates the "Selvapelago" scene ("The Wildsea" in English) with the Foxloft illustration as its map and cinematic background, and activates it. It is skipped when the "Default Cinematic Background" setting is off, and after that first time the GM is free to deactivate or delete it
+
 ## v0.2.19
 
 - libWrapper and socketlib, needed by Storyteller's Cinema, are now required by the system, so Foundry installs them with it
