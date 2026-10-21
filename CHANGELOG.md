@@ -1,6 +1,6 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
-## Unreleased
+## v0.2.14
 
 - Compendium icons: replace the 119 icons that no longer exist in Foundry 13/14 (anvil, compass, potion) and the generic bag on character aspects, ship aspects, resources, cargo and hazard resources with matching Foundry core icons, chosen from each entry's name (weapons, tools, creatures, materials...) or, failing that, from its category. Hazards get an icon for their creature or phenomenon, temporary tracks one for their kind, bloodlines and posts one for their theme, and NPCs and passengers one for their bloodline
 
