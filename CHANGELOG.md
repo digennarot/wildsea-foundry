@@ -1,6 +1,6 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
-## Unreleased
+## v0.2.13
 
 - Add an NPC actor type ("PNG" in Italian) with its own sheet, following the rulebook's recipe for NPCs: bloodline, profession, faction, type (Accessory or Integrated), distinctive traits (appearance, presence, voice), personality, drives, aspects and temporary tracks, resources and notes
 - NPC sheet: the dice button next to Profile generates a name from the common name elements of the appendix, in Low Sour, Cthonic, Saprekk, Gaudimm or Knock. Dropping a bloodline or a post fills in Bloodline or Profession, dropping a faction fills in Faction, and dropping a drive adds it to Drives
