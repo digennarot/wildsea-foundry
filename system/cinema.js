@@ -50,6 +50,29 @@ export const setupCinema = () => {
     if (foundry.utils.getProperty(data, 'flags.core.sourceId')) return
     scene.updateSource({ [`flags.${MODULE}.cinematicBg`]: CINEMA_BACKGROUND })
   })
+
+  // Scenes that never had a cinematic background (imported, duplicated or
+  // made after the one-off default) would open cinematic mode on black: the
+  // active GM gives them the default when viewing them. A background that
+  // was cleared on purpose is an empty string and stays as it is.
+  Hooks.on('canvasReady', ({ scene }) => {
+    if (!scene || !game.users.activeGM?.isSelf || !useDefaultBackground()) return
+    if (scene.getFlag(MODULE, 'cinematicBg') !== undefined) return
+    scene.setFlag(MODULE, 'cinematicBg', CINEMA_BACKGROUND)
+  })
+
+  // Storyteller's Cinema looks for an "appearance" or "basic" tab and on
+  // Foundry 13/14 (whose first tab is "basics") falls back to the last tab,
+  // where its background field is easy to miss: move it to the first tab.
+  // Registered on ready so it runs after the module's own render hook.
+  Hooks.once('ready', () => {
+    Hooks.on('renderSceneConfig', (_app, html) => {
+      const root = html instanceof HTMLElement ? html : html?.[0]
+      const block = root?.querySelector(`.${MODULE}-config`)
+      const basics = root?.querySelector('.tab[data-tab="basics"]')
+      if (block && basics && block.parentElement !== basics) basics.append(block)
+    })
+  })
 }
 
 // Called from the ready hook after the system migrations, so a reload never

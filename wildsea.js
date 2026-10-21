@@ -74,7 +74,9 @@ Hooks.once('init', () => {
   Journal.unregisterSheet('core', JournalSheet)
   Journal.registerSheet('wildsea', WildseaJournalSheet)
 
-  CONFIG.TinyMCE.content_css = `${WILDSEA.root_path}/styles/tinymce.css`
+  // TinyMCE is gone in Foundry 14
+  if (CONFIG.TinyMCE)
+    CONFIG.TinyMCE.content_css = `${WILDSEA.root_path}/styles/tinymce.css`
 })
 
 // Compendium translations, applied by the Babele module when it is active
