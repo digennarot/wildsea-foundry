@@ -1,5 +1,10 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.17
+
+- The dice tray is now a floating panel and no longer covers the chat messages that appear above the chat input. Drag it by its "Dice Tray" bar; each player's position is remembered, and a double-click on the bar puts it back in its default spot
+- Default spot: beside the chat input, left of the controls next to it (such as the cinematic mode's toggles), moved above the hotbar when they would overlap and left of the sidebar when the chat input is inside it. An unmoved tray follows the chat input when the sidebar or the cinematic mode moves it
+
 ## v0.2.16
 
 - Dice tray above the chat input: pick the pool (1 to 6 dice, right-click a die to roll it straight away), the cut (0 to 5), the roll type from the rulebook tables (action, attack, defense, resources, rest, crafting, ship rating) and "no pool" (1d6, a triumph counts as a conflict). The chat card strikes through the cut dice, colours the deciding die and the outcome (green triumph, yellow conflict, red disaster) with the matching rulebook text, and shows a twist banner on doubles. The roll is attached to the message, so Dice So Nice! animates it and the chat message mode applies. The tray follows the chat input into the sidebar, the popout and the notifications area
