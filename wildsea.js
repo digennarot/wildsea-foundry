@@ -18,6 +18,11 @@ import WildseaAdversarySheet from './system/sheets/adversary.js'
 import WildseaNpcSheet from './system/sheets/npc.js'
 import { setupEnrichers } from './system/enrichers.js'
 import { runMigrations } from './system/migrations.js'
+import {
+  readyCinema,
+  registerCinemaSettings,
+  setupCinema,
+} from './system/cinema.js'
 
 import * as WildseaTracks from './system/applications/tracks/index.js'
 import * as WildseaFocus from './system/applications/focus/index.js'
@@ -26,6 +31,7 @@ Hooks.once('init', () => {
   console.log('wildsea | Initializing')
 
   registerSystemSettings()
+  registerCinemaSettings()
 
   if (game.settings.get('wildsea', 'showDepth'))
     WILDSEA.shipRatings.push('depth')
@@ -36,6 +42,7 @@ Hooks.once('init', () => {
 
   WildseaTracks.setup()
   WildseaFocus.setup()
+  setupCinema()
 
   loadHandlebarsPartials()
   loadHandlebarsHelpers()
@@ -73,8 +80,9 @@ Hooks.once('babele.init', (babele) => {
   babele.setSystemTranslationsDir('lang/compendium')
 })
 
-Hooks.once('ready', () => {
-  runMigrations()
+Hooks.once('ready', async () => {
+  await runMigrations()
+  await readyCinema()
 })
 
 Hooks.on('ready', async () => {

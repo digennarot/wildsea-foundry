@@ -241,7 +241,15 @@
     "personality": "Personality",
     "notes": "Notes",
     "generateName": "Generate a Name",
-    "npcDropUnsupported": "NPC sheets cannot hold \"{name}\""
+    "npcDropUnsupported": "NPC sheets cannot hold \"{name}\"",
+    "CINEMA": {
+      "missing": "The Wildsea requires the Storyteller's Cinema module: install it from Add-on Modules and reload the world.",
+      "missingRequired": "Storyteller's Cinema needs these modules, which are not installed: {modules}. Install them and reload the world.",
+      "enabling": "Enabling Storyteller's Cinema, required by The Wildsea. The world will reload.",
+      "unavailable": "Foundry cannot load these modules, required by The Wildsea (incompatible version or missing dependencies): {modules}. Update them and reload the world.",
+      "notLoaded": "Storyteller's Cinema was enabled but did not load. Check its compatibility in Manage Modules.",
+      "noPermission": "Only a GM who can change the settings can enable Storyteller's Cinema, required by The Wildsea."
+    }
   },
   "SETTINGS": {
     "showBurnTooltip": {
@@ -261,6 +269,10 @@
       "hint": "Where to display the UI Track Panel. Requires reload.",
       "bottom": "Bottom",
       "top": "Top"
+    },
+    "cinemaDefaultBackground": {
+      "label": "Default Cinematic Background",
+      "hint": "Give new scenes, and scenes without one, the Foxloft illustration as their Storyteller's Cinema background. Scenes imported from compendiums keep their own."
     }
   },
   "TYPES": {

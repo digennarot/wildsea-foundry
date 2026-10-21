@@ -1,0 +1,18 @@
+{
+  "id": "wildsea-verdant-hull",
+  "name": "The Wildsea - Verdant Hull",
+  "author": "Tiziano",
+  "version": "1.0.0",
+  "autoDownload": false,
+  "assets": {},
+  "options": {
+    "theme": "dark",
+    "filter": "sepia(14%) saturate(1.15) hue-rotate(-6deg) contrast(1.05)",
+    "styles": {
+      "--cinematic-bar-bg": "linear-gradient(180deg, #0d1a17 0%, #14251f 55%, #0d1a17 100%)",
+      "--cinematic-text-color": "#e8dcc0",
+      "--cinematic-bar-border": "3px solid #8a6a2f",
+      "--cinematic-filter": "sepia(14%) saturate(1.15) hue-rotate(-6deg) contrast(1.05)"
+    }
+  }
+}

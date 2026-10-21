@@ -1,0 +1,20 @@
+{
+  "id": "tiziano-bioluminescent-canopy-textured",
+  "name": "Bioluminescent Canopy (Textured)",
+  "author": "Tiziano",
+  "version": "1.0.0",
+  "autoDownload": false,
+  "assets": {},
+  "options": {
+    "theme": "dark",
+    "filter": "saturate(1.2) hue-rotate(-4deg) contrast(1.06) brightness(0.97)",
+    "barTexture": "biolum-bar.png",
+    "overlayTexture": "biolum-overlay.webp",
+    "styles": {
+      "--cinematic-bar-bg": "#050d0d",
+      "--cinematic-text-color": "#bff7e6",
+      "--cinematic-bar-border": "2px solid #3fd9b4",
+      "--cinematic-filter": "saturate(1.2) hue-rotate(-4deg) contrast(1.06) brightness(0.97)"
+    }
+  }
+}

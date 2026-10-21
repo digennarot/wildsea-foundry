@@ -16,6 +16,8 @@ https://github.com/digennarot/wildsea-foundry/releases/latest/download/system.js
 
 To install a specific version, use the `system.json` attached to that release on the [Releases page](https://github.com/digennarot/wildsea-foundry/releases).
 
+The system requires the [Storyteller's Cinema](https://foundryvtt.com/packages/storyteller-cinema) module (with libWrapper and socketlib, which it requires): Foundry offers to install it along with the system. When a GM opens a world, the system enables it if needed, installs the Wildsea skins ("The Wildsea - Verdant Hull", active by default, and two "Bioluminescent Canopy" variants) and gives every scene without a cinematic background the Foxloft illustration.
+
 ## Features
 
 - **Sheets** for players, ships, adversaries, and items (aspects, resources, ship designs and fittings)

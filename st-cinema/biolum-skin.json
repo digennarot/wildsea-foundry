@@ -1,0 +1,18 @@
+{
+  "id": "tiziano-bioluminescent-canopy",
+  "name": "Bioluminescent Canopy",
+  "author": "Tiziano",
+  "version": "1.0.0",
+  "autoDownload": false,
+  "assets": {},
+  "options": {
+    "theme": "dark",
+    "filter": "saturate(1.2) hue-rotate(-4deg) contrast(1.06) brightness(0.97)",
+    "styles": {
+      "--cinematic-bar-bg": "linear-gradient(180deg, #050d0d 0%, #0b1b19 55%, #050d0d 100%)",
+      "--cinematic-text-color": "#bff7e6",
+      "--cinematic-bar-border": "2px solid #3fd9b4",
+      "--cinematic-filter": "saturate(1.2) hue-rotate(-4deg) contrast(1.06) brightness(0.97)"
+    }
+  }
+}

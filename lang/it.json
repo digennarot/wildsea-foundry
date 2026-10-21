@@ -241,7 +241,15 @@
     "personality": "Personalità",
     "notes": "Note",
     "generateName": "Genera un Nome",
-    "npcDropUnsupported": "La scheda di un PNG non può contenere \"{name}\""
+    "npcDropUnsupported": "La scheda di un PNG non può contenere \"{name}\"",
+    "CINEMA": {
+      "missing": "The Wildsea richiede il modulo Storyteller's Cinema: installalo da Moduli Aggiuntivi e ricarica il mondo.",
+      "missingRequired": "Storyteller's Cinema ha bisogno di questi moduli, che non sono installati: {modules}. Installali e ricarica il mondo.",
+      "enabling": "Attivazione di Storyteller's Cinema, richiesto da The Wildsea. Il mondo verrà ricaricato.",
+      "unavailable": "Foundry non può caricare questi moduli, richiesti da The Wildsea (versione incompatibile o dipendenze mancanti): {modules}. Aggiornali e ricarica il mondo.",
+      "notLoaded": "Storyteller's Cinema è stato attivato ma non si è caricato. Controllane la compatibilità in Gestisci Moduli.",
+      "noPermission": "Solo un GM che può modificare le impostazioni può attivare Storyteller's Cinema, richiesto da The Wildsea."
+    }
   },
   "SETTINGS": {
     "showBurnTooltip": {
@@ -261,6 +269,10 @@
       "hint": "Dove mostrare il pannello dei Tracciati. Richiede il ricaricamento.",
       "bottom": "In basso",
       "top": "In alto"
+    },
+    "cinemaDefaultBackground": {
+      "label": "Sfondo Cinematico Predefinito",
+      "hint": "Dà alle nuove scene, e a quelle che non ne hanno uno, l'illustrazione di Foxloft come sfondo di Storyteller's Cinema. Le scene importate dai compendi mantengono il loro."
     }
   },
   "TYPES": {
