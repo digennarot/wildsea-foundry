@@ -19,6 +19,7 @@ import WildseaNpcSheet from './system/sheets/npc.js'
 import { setupEnrichers } from './system/enrichers.js'
 import { runMigrations } from './system/migrations.js'
 import {
+  ensureActiveScene,
   readyCinema,
   registerCinemaSettings,
   setupCinema,
@@ -87,6 +88,7 @@ Hooks.once('babele.init', (babele) => {
 Hooks.once('ready', async () => {
   await runMigrations()
   await readyCinema()
+  await ensureActiveScene()
 })
 
 Hooks.on('ready', async () => {

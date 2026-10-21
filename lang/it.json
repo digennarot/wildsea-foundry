@@ -320,7 +320,9 @@
       "enabling": "Attivazione di Storyteller's Cinema, richiesto da The Wildsea. Il mondo verrà ricaricato.",
       "unavailable": "Foundry non può caricare questi moduli, richiesti da The Wildsea (versione incompatibile o dipendenze mancanti): {modules}. Aggiornali e ricarica il mondo.",
       "notLoaded": "Storyteller's Cinema è stato attivato ma non si è caricato. Controllane la compatibilità in Gestisci Moduli.",
-      "noPermission": "Solo un GM che può modificare le impostazioni può attivare Storyteller's Cinema, richiesto da The Wildsea."
+      "noPermission": "Solo un GM che può modificare le impostazioni può attivare Storyteller's Cinema, richiesto da The Wildsea.",
+      "defaultScene": "Selvapelago",
+      "defaultSceneFailed": "Impossibile creare o attivare la scena Selvapelago: attiva una scena dalla scheda Scene per vedere la modalità cinematica."
     }
   },
   "SETTINGS": {

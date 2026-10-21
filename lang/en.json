@@ -320,7 +320,9 @@
       "enabling": "Enabling Storyteller's Cinema, required by The Wildsea. The world will reload.",
       "unavailable": "Foundry cannot load these modules, required by The Wildsea (incompatible version or missing dependencies): {modules}. Update them and reload the world.",
       "notLoaded": "Storyteller's Cinema was enabled but did not load. Check its compatibility in Manage Modules.",
-      "noPermission": "Only a GM who can change the settings can enable Storyteller's Cinema, required by The Wildsea."
+      "noPermission": "Only a GM who can change the settings can enable Storyteller's Cinema, required by The Wildsea.",
+      "defaultScene": "The Wildsea",
+      "defaultSceneFailed": "Could not create or activate The Wildsea scene: activate a scene from the Scenes tab to see cinematic mode."
     }
   },
   "SETTINGS": {

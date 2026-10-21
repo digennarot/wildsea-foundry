@@ -26,6 +26,14 @@ export const registerCinemaSettings = () => {
     default: '',
   })
 
+  // set once the world was given an active scene (see ensureActiveScene)
+  game.settings.register('wildsea', 'defaultScene', {
+    config: false,
+    scope: 'world',
+    type: Boolean,
+    default: false,
+  })
+
   game.settings.register('wildsea', 'cinemaDefaultBackground', {
     config: true,
     scope: 'world',
@@ -92,6 +100,60 @@ export const readyCinema = async () => {
 
   await setDefaultBackgrounds()
   await game.settings.set('wildsea', 'cinemaDefaults', DEFAULTS_VERSION)
+}
+
+const imageSize = async (src) => {
+  const image = new Image()
+  image.src = src
+  await image.decode()
+  return { width: image.naturalWidth, height: image.naturalHeight }
+}
+
+// The Foxloft as the scene's map, at its own size. Foundry 14 keeps the map
+// on the scene's level and drops a top-level background on creation.
+const defaultSceneData = async () => {
+  const name = game.i18n.localize('wildsea.CINEMA.defaultScene')
+  const data = {
+    name,
+    ...(await imageSize(CINEMA_BACKGROUND)),
+    grid: { type: CONST.GRID_TYPES.GRIDLESS },
+    flags: { wildsea: { defaultScene: true } },
+  }
+
+  const levelId = Scene.metadata.defaultLevelId
+  if (game.release.generation >= 14 && levelId) {
+    data.levels = [{ _id: levelId, name, background: { src: CINEMA_BACKGROUND } }]
+    data.initialLevel = levelId
+  } else data.background = { src: CINEMA_BACKGROUND }
+
+  return data
+}
+
+// Without an active scene Foundry draws no canvas, so cinematic mode shows
+// only black. Once per world, if no scene is active, the active GM activates
+// the Wildsea scene, creating it the first time. Later loads leave the GM's
+// choices alone: a world may run without an active scene.
+export const ensureActiveScene = async () => {
+  if (!game.users.activeGM?.isSelf) return
+  if (game.settings.get('wildsea', 'defaultScene')) return
+  // wait until the cinema modules are all loaded (enabling them reloads the
+  // world), and respect worlds that turned the default background off
+  if (!useDefaultBackground()) return
+  if (requiredModules().some((id) => !game.modules.get(id)?.active)) return
+
+  if (!game.scenes.active) {
+    try {
+      const scene =
+        game.scenes.find((s) => s.getFlag('wildsea', 'defaultScene')) ??
+        (await Scene.create(await defaultSceneData()))
+      await scene.activate()
+    } catch (err) {
+      console.error('wildsea | Could not activate the default scene', err)
+      return notifyError('defaultSceneFailed')
+    }
+  }
+
+  await game.settings.set('wildsea', 'defaultScene', true)
 }
 
 const notifyError = (key, data = {}) =>
