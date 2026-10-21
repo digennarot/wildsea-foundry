@@ -26,6 +26,7 @@ import {
 
 import * as WildseaTracks from './system/applications/tracks/index.js'
 import * as WildseaFocus from './system/applications/focus/index.js'
+import * as WildseaDiceTray from './system/applications/dice_tray/index.js'
 
 Hooks.once('init', () => {
   console.log('wildsea | Initializing')
@@ -42,6 +43,7 @@ Hooks.once('init', () => {
 
   WildseaTracks.setup()
   WildseaFocus.setup()
+  WildseaDiceTray.setup()
   setupCinema()
 
   loadHandlebarsPartials()

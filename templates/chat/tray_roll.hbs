@@ -1,0 +1,28 @@
+<div class="wildsea wildsea-tray-roll {{outcome}}">
+  <header class="tray-roll-header">
+    <span>{{title}}</span>
+    <span class="tray-roll-formula">{{formula}}</span>
+  </header>
+
+  <ol class="tray-roll-dice">
+    {{#each dice as |die|}}
+    <li class="tray-roll-die{{#if die.cut}} cut{{/if}}{{#if die.top}} top{{/if}}"
+        {{#if die.cut}}data-tooltip="{{localize "wildsea.TRAY.cutDie"}}"{{/if}}>{{die.value}}</li>
+    {{/each}}
+  </ol>
+  {{#if notes}}
+  <p class="tray-roll-notes">{{notes}}</p>
+  {{/if}}
+
+  <div class="tray-roll-outcome">
+    <h3>{{localize (concat "wildsea." outcome)}}</h3>
+    <p>{{outcomeText}}</p>
+  </div>
+
+  {{#if twist}}
+  <div class="tray-roll-twist">
+    <h4><i class="fa-solid fa-bolt"></i> {{localize "wildsea.twist"}}!</h4>
+    <p>{{twistText}}</p>
+  </div>
+  {{/if}}
+</div>

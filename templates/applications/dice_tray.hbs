@@ -1,0 +1,38 @@
+<section class="wildsea-dice-tray">
+  <div class="tray-dice">
+    {{#each dice as |die|}}
+    <button type="button" class="tray-die" data-dice="{{die.count}}"
+            data-tooltip="{{localize "wildsea.TRAY.dieTooltip" dice=die.count}}"
+            aria-label="{{die.count}}d6">
+      <i class="fa-solid {{die.icon}}"></i>
+    </button>
+    {{/each}}
+  </div>
+
+  <div class="tray-row">
+    <span class="tray-label">{{localize "wildsea.cut"}}</span>
+    <div class="tray-cut">
+      <button type="button" class="tray-step" data-tray-action="cutDown" aria-label="-1">
+        <i class="fa-solid fa-minus"></i>
+      </button>
+      <span class="tray-cut-value">0</span>
+      <button type="button" class="tray-step" data-tray-action="cutUp" aria-label="+1">
+        <i class="fa-solid fa-plus"></i>
+      </button>
+    </div>
+    <select class="tray-context" aria-label="{{localize "wildsea.TRAY.context"}}">
+      {{selectOptions contexts localize=true}}
+    </select>
+  </div>
+
+  <div class="tray-row">
+    <label class="tray-no-pool-label" data-tooltip="{{localize "wildsea.TRAY.noPoolHint"}}">
+      <input type="checkbox" class="tray-no-pool" />
+      {{localize "wildsea.TRAY.noPool"}}
+    </label>
+    <button type="button" class="tray-roll" data-tray-action="roll">
+      <i class="fa-solid fa-dice"></i>
+      <span class="tray-roll-label"></span>
+    </button>
+  </div>
+</section>

@@ -224,6 +224,76 @@
       "trackGroupsHelpText": "Crea separazioni con ',' o '|'",
       "visibility": "Visibilità"
     },
+    "TRAY": {
+      "context": "Tipo di tiro",
+      "dieTooltip": "Riserva di {dice}d6 (clic destro: tira subito)",
+      "roll": "Tira {dice}d6",
+      "noPool": "Nessuna riserva",
+      "noPoolHint": "Non hai nulla a cui attingere: tiri 1d6 e il trionfo conta come conflitto.",
+      "cutNote": "Riduzione {cut}",
+      "allCut": "Riduzione {cut}: tutti i dadi rimossi",
+      "downgraded": "il trionfo conta come conflitto",
+      "cutDie": "Ridotto",
+      "CONTEXTS": {
+        "action": {
+          "label": "Azione",
+          "title": "Tiro Azione",
+          "triumph": "Un vero e proprio successo, senza alcun inconveniente. Se l’azione coinvolge un tracciato, segni o ripulisci una casella.",
+          "conflict": "Un successo, ma con qualche inconveniente: potresti subire danni o perdere una risorsa. Se l’azione coinvolge un tracciato, segni o ripulisci una casella.",
+          "disaster": "Un fallimento, con una complicazione narrativa o un inconveniente di qualche tipo. Non segni né ripulisci caselle.",
+          "twist": "Un esito inaspettato che si aggiunge al risultato principale. Chiunque al tavolo può suggerirlo, ma la Lucciola ha l’ultima parola."
+        },
+        "attack": {
+          "label": "Attacco",
+          "title": "Tiro Attacco",
+          "triumph": "Il tuo attacco colpisce ed è davvero potente: infliggi danni e, se la situazione lo consente, un effetto associato.",
+          "conflict": "Colpisci e infliggi danni, forse anche un effetto, ma qualcosa va storto: subisci danni o un effetto, perdi una risorsa o ti ritrovi in una posizione meno favorevole.",
+          "disaster": "Il tuo attacco manca il bersaglio o non infligge danni. Subirai sicuramente danni o un effetto, e potresti perdere una risorsa o la posizione.",
+          "twist": "Svolta… o Critico: un effetto narrativo inaspettato oppure un colpo critico che aumenta il tuo impatto."
+        },
+        "defense": {
+          "label": "Difesa",
+          "title": "Tiro Difesa",
+          "triumph": "Eviti completamente la minaccia: non subisci danni né effetti, non perdi risorse e la tua posizione resta invariata.",
+          "conflict": "Eviti il peggio, ma qualcosa va storto: subisci danno, un effetto, una posizione sfavorevole o perdi una risorsa.",
+          "disaster": "Il colpo ti prende in pieno: subisci danni e probabilmente un effetto, perdi risorse e ti ritrovi in una posizione sfavorevole.",
+          "twist": "Svolta… o Contrattacco: un effetto narrativo inaspettato oppure contrattacchi infliggendo danno (se a portata)."
+        },
+        "resources": {
+          "label": "Risorse",
+          "title": "Tiro Risorse",
+          "triumph": "Ottieni la risorsa che stavi cercando, perfettamente integra.",
+          "conflict": "Ottieni una risorsa con un’etichetta negativa: può ancora essere utile, ma non è niente di che.",
+          "disaster": "Non trovi ciò che cerchi, oppure guasti la risorsa rovinandola mentre la raccogli.",
+          "twist": "Tu o un’altra persona al tavolo potete assegnare un’etichetta positiva o unica alla risorsa ottenuta."
+        },
+        "rest": {
+          "label": "Riposo",
+          "title": "Tiro Riposo",
+          "triumph": "Ripulisci due caselle di un aspetto, tracciato base della nave o fardello, o elimina due caselle di un tracciato ferita.",
+          "conflict": "Ripulisci una casella di un aspetto, tracciato base della nave o fardello, o elimina una casella di un tracciato ferita.",
+          "disaster": "Segna una casella ulteriore di un aspetto, tracciato base della nave o fardello, o aggiungi una casella a un tracciato ferita.",
+          "twist": "Non consumi la risorsa utilizzata per effettuare il riposo."
+        },
+        "crafting": {
+          "label": "Creazione",
+          "title": "Tiro Creazione",
+          "triumph": "La tua creazione fornisce un aspetto temporaneo: un tracciato da 2 caselle, legato alle risorse utilizzate.",
+          "conflict": "Un aspetto temporaneo da 2 caselle con degli svantaggi, oppure senza svantaggi ma con bonus diversi da quelli previsti.",
+          "disaster": "Un bizzarro ornamento o una stranezza culinaria. Non fornisce alcun bonus.",
+          "twist": "La tua creazione fornisce un bonus inaspettato: qualcosa di limitato ma utile."
+        },
+        "rating": {
+          "label": "Tracciato Base (nave)",
+          "title": "Tiro Tracciato Base",
+          "triumph": "La nave riesce a superare l’ostacolo senza problemi.",
+          "conflict": "La nave supera l’ostacolo, ma segna una casella del tracciato usato per il tiro.",
+          "disaster": "La nave non riesce a superare l’ostacolo e, inoltre, segna una casella del tracciato usato per il tiro.",
+          "twist": "Un evento inaspettato in aggiunta al risultato: può coinvolgere la nave, l’equipaggio o l’ambiente circostante."
+        }
+      },
+      "rollFailed": "Il tiro non è riuscito: controlla la console per i dettagli."
+    },
     "WARNINGS": {
       "effectDeprecationTitle": "Gli Effetti stanno per essere deprecati",
       "effectDeprecationBody": "A partire da una prossima versione, gli ActiveEffect non saranno più il metodo consigliato per modificare i Tracciati Base della nave. Dovresti rimuovere gli ActiveEffect dagli oggetti della nave e spostare i modificatori nella nuova scheda Modificatori di Tracciato Base."

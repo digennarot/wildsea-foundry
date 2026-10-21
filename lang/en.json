@@ -224,6 +224,76 @@
       "trackGroupsHelpText": "Create breaks with ',' or '|'",
       "visibility": "Visibility"
     },
+    "TRAY": {
+      "context": "Roll type",
+      "dieTooltip": "Pool of {dice}d6 (right-click: roll now)",
+      "roll": "Roll {dice}d6",
+      "noPool": "No pool",
+      "noPoolHint": "You have nothing to draw on: roll 1d6 and treat a triumph as a conflict.",
+      "cutNote": "Cut {cut}",
+      "allCut": "Cut {cut}: every die removed",
+      "downgraded": "triumph counts as conflict",
+      "cutDie": "Cut",
+      "CONTEXTS": {
+        "action": {
+          "label": "Action",
+          "title": "Action Roll",
+          "triumph": "A complete success with no drawbacks. If you’re affecting a track, mark or clear a box.",
+          "conflict": "A success with a drawback: you might take damage or lose a resource. If you’re affecting a track, mark or clear a box.",
+          "disaster": "A failure, with a narrative complication or a drawback of some kind. No boxes are marked or cleared.",
+          "twist": "An unexpected outcome in addition to the result. Anyone at the table can suggest it, but the Firefly has the final say."
+        },
+        "attack": {
+          "label": "Attack",
+          "title": "Attack Roll",
+          "triumph": "Your attack lands with real force: deal damage and, if fitting, an associated effect.",
+          "conflict": "You hit, dealing damage and perhaps an effect, but something goes wrong: you take damage or an effect, lose a resource or end up in a worse position.",
+          "disaster": "Your attack misses or deals no damage. You’ll surely take damage or an effect, and may lose a resource or your position.",
+          "twist": "Twist… or Crit: an unexpected narrative effect, or a critical hit that increases your impact."
+        },
+        "defense": {
+          "label": "Defense",
+          "title": "Defense Roll",
+          "triumph": "You avoid the threat entirely: no damage, no effects, no lost resources, and your position holds.",
+          "conflict": "You avoid the worst, but something goes wrong: damage, an effect, a worse position or a lost resource.",
+          "disaster": "The blow lands in full: you take damage and likely an effect, lose resources and end up in a worse position.",
+          "twist": "Twist… or Counter: an unexpected narrative effect, or a counter-attack that deals damage (if in range)."
+        },
+        "resources": {
+          "label": "Resources",
+          "title": "Resource Roll",
+          "triumph": "You get the resource you were looking for, perfectly intact.",
+          "conflict": "You get the resource with a negative tag: still useful, but nothing special.",
+          "disaster": "You can’t find what you’re looking for, or you spoil the resource while gathering it.",
+          "twist": "You or another player can give the resource a positive or unique tag."
+        },
+        "rest": {
+          "label": "Rest",
+          "title": "Rest Roll",
+          "triumph": "Clear two boxes of an aspect, ship rating or burden, or remove two boxes of an injury track.",
+          "conflict": "Clear one box of an aspect, ship rating or burden, or remove one box of an injury track.",
+          "disaster": "Mark an extra box of an aspect, ship rating or burden, or add a box to an injury track.",
+          "twist": "You don’t consume the resource used for the rest."
+        },
+        "crafting": {
+          "label": "Crafting",
+          "title": "Crafting Roll",
+          "triumph": "Your creation grants a temporary aspect: a 2-box track tied to the resources used.",
+          "conflict": "A temporary 2-box aspect with drawbacks, or one without drawbacks but with different bonuses than intended.",
+          "disaster": "A bizarre ornament or culinary curiosity. It grants no bonus.",
+          "twist": "Your creation grants an unexpected bonus: something limited but useful."
+        },
+        "rating": {
+          "label": "Ship Rating",
+          "title": "Ship Rating Roll",
+          "triumph": "The ship clears the obstacle without trouble.",
+          "conflict": "The ship clears the obstacle, but marks a box on the rating used for the roll.",
+          "disaster": "The ship fails to clear the obstacle and marks a box on the rating used for the roll.",
+          "twist": "An unexpected event in addition to the result, involving the ship, the crew or the surroundings."
+        }
+      },
+      "rollFailed": "The roll failed: check the console for details."
+    },
     "WARNINGS": {
       "effectDeprecationTitle": "Effects are being deprecated",
       "effectDeprecationBody": "ActiveEffects will no longer be the preferred method of modifying Ship Ratings, starting in an upcoming release. You should remove any ActiveEffects from Ship Items and migrate your Rating modifiers to the new Rating Modifiers tab."

@@ -28,6 +28,32 @@ export const addDiceColor = (
   )
 }
 
+// A cut that removes every die (or a pool with nothing to draw on) means
+// rolling a single die, with a triumph counting as a conflict.
+export const isDesperate = (dice, cut) => dice - cut <= 0
+
+// Reads a rolled pool: drops the `cut` highest results, then takes the
+// highest die left; doubles among the kept dice are a twist.
+export const readPool = (rolled, cut, { desperate = false } = {}) => {
+  const byValue = rolled
+    .map((value, index) => ({ value, index }))
+    .sort((a, b) => b.value - a.value)
+  const cutIndexes = new Set(byValue.slice(0, cut).map((die) => die.index))
+  const kept = rolled.filter((_value, index) => !cutIndexes.has(index))
+
+  const highest = Math.max(...kept)
+  const twist = new Set(kept).size < kept.length
+  const topIndex = rolled.findIndex(
+    (value, index) => value === highest && !cutIndexes.has(index),
+  )
+
+  let outcome = 'disaster'
+  if (highest === 6) outcome = desperate ? 'conflict' : 'triumph'
+  else if (highest >= 4) outcome = 'conflict'
+
+  return { cutIndexes, highest, twist, topIndex, outcome }
+}
+
 export const rollPool = async (dicePool) => {
   const totalDice =
     (dicePool.edgeDice || 0) +
@@ -35,54 +61,35 @@ export const rollPool = async (dicePool) => {
     (dicePool.advantageDice || 0) +
     (dicePool.ratingDice || 0)
 
-  dicePool.cut = parseInt(dicePool.cut)
+  dicePool.cut = parseInt(dicePool.cut) || 0
 
-  let formula = `${totalDice}d6`
+  const zeroDice = isDesperate(totalDice, dicePool.cut)
+  const cut = zeroDice ? 0 : dicePool.cut
 
-  let zeroDice = false
-  if (totalDice - dicePool.cut <= 0) {
-    zeroDice = true
-    formula = '1d6'
-  }
-
-  if (dicePool.cut > 0) formula += `dh${dicePool.cut}`
+  let formula = zeroDice ? '1d6' : `${totalDice}d6`
+  if (cut > 0) formula += `dh${cut}`
   formula += 'kh'
 
-  const roll = await new Roll(formula).roll()
+  const roll = await new Roll(formula).evaluate()
 
-  const results = roll.dice
-    .flatMap((die) => die.results)
-    .sort((a, b) => b.result - a.result)
-    .map((r) => {
-      return { result: r.result }
-    })
+  const rolled = roll.dice[0].results.map((r) => r.result)
+  const { cutIndexes, highest, twist, topIndex, outcome } = readPool(
+    rolled,
+    cut,
+    { desperate: zeroDice },
+  )
 
-  if (!zeroDice)
-    for (const index in results) results[index].cut = index < dicePool.cut
-
-  results.filter((r) => !r.cut && r.result === roll.total)[0].max = true
-  results.reverse()
-
-  const keptNumbers = results.filter((r) => !r.cut).map((r) => r.result)
-  const twist =
-    keptNumbers.filter((item, index) => keptNumbers.indexOf(item) !== index)
-      .length > 0
+  const results = rolled
+    .map((result, index) => ({
+      result,
+      cut: cutIndexes.has(index),
+      max: index === topIndex,
+    }))
+    .sort((a, b) => a.result - b.result)
 
   let displayFormula = `${totalDice}d`
   if (dicePool.cut > 0)
     displayFormula += ` ${game.i18n.localize('wildsea.cut')} ${dicePool.cut}`
-
-  const resultText = ((total) => {
-    switch (total) {
-      case 6:
-        return zeroDice ? 'conflict' : 'triumph'
-      case 5:
-      case 4:
-        return 'conflict'
-      default:
-        return 'disaster'
-    }
-  })(roll.total)
 
   return [
     roll,
@@ -90,9 +97,9 @@ export const rollPool = async (dicePool) => {
       dicePool,
       results,
       twist,
-      total: roll.total,
+      total: highest,
       displayFormula,
-      resultText,
+      resultText: outcome,
     },
   ]
 }

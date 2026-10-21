@@ -1,0 +1,233 @@
+// out: false
+
+@import url(./config.less);
+
+.wildsea-dice-tray {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-bottom: 0.25rem;
+  padding: 0.35rem;
+  border-radius: 0.25rem;
+  background: @dark-bg;
+  color: @white;
+  .body-font();
+  font-size: 0.8rem;
+
+  button {
+    margin: 0;
+    color: @white;
+    background: @mid-bg;
+    border: 1px solid @light-bg;
+    border-radius: 0.25rem;
+    cursor: pointer;
+
+    &:hover:not(:disabled) {
+      background: @light-bg;
+    }
+    &:disabled {
+      opacity: 0.4;
+      cursor: default;
+    }
+  }
+
+  .tray-dice {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 0.25rem;
+  }
+
+  .tray-die {
+    height: 2rem;
+    font-size: 1.4rem;
+    line-height: 1;
+    opacity: 0.55;
+
+    &.active {
+      opacity: 1;
+      background: @light-bg;
+    }
+    &.selected {
+      background: @yellow;
+      border-color: @yellow;
+      color: @black;
+    }
+  }
+
+  .tray-row {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  .tray-label {
+    font-weight: bold;
+  }
+
+  .tray-cut {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+
+    .tray-step {
+      width: 1.5rem;
+      height: 1.5rem;
+      padding: 0;
+      font-size: 0.7rem;
+    }
+
+    .tray-cut-value {
+      min-width: 1rem;
+      text-align: center;
+      font-weight: bold;
+    }
+  }
+
+  .tray-context {
+    flex: 1;
+    min-width: 0;
+    height: 1.5rem;
+  }
+
+  .tray-no-pool-label {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .tray-roll {
+    flex: 1;
+    height: 1.75rem;
+    background: @green;
+    border-color: @green;
+    .title-font();
+    font-size: 1.2rem;
+    line-height: 1;
+  }
+}
+
+.wildsea-tray-roll {
+  --outcome: @red;
+  --outcome-bg: fade(@red, 15%);
+
+  &.triumph {
+    --outcome: @green;
+    --outcome-bg: fade(@green, 20%);
+  }
+  &.conflict {
+    --outcome: @yellow;
+    --outcome-bg: fade(@yellow, 20%);
+  }
+
+  overflow: hidden;
+  border: 2px solid var(--outcome);
+  border-radius: 0.25rem;
+
+  .tray-roll-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.25rem 0.5rem;
+    background: @dark-bg;
+    color: @white;
+    .title-font();
+    font-size: 1.3rem;
+
+    .tray-roll-formula {
+      opacity: 0.7;
+    }
+  }
+
+  .tray-roll-dice {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.25rem;
+    margin: 0;
+    padding: 0.5rem;
+    list-style: none;
+  }
+
+  .tray-roll-die {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    border: 2px solid @mid-bg;
+    border-radius: 0.3rem;
+    background: @white;
+    color: @black;
+    font-weight: bold;
+    font-size: 1.1rem;
+
+    &.top {
+      background: var(--outcome);
+      border-color: var(--outcome);
+      color: @white;
+    }
+    &.cut {
+      background: #ccc;
+      border-style: dashed;
+      color: #888;
+      text-decoration: line-through;
+      opacity: 0.7;
+    }
+  }
+
+  .tray-roll-notes {
+    margin: 0 0 0.35rem;
+    text-align: center;
+    font-size: 0.75rem;
+    opacity: 0.7;
+  }
+
+  .tray-roll-outcome {
+    padding: 0.35rem 0.5rem;
+    border-top: 1px solid var(--outcome);
+    background: var(--outcome-bg);
+    text-align: center;
+
+    h3 {
+      margin: 0;
+      border: none;
+      color: var(--outcome);
+      .title-font();
+      font-size: 1.8rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    p {
+      margin: 0;
+      font-size: 0.8rem;
+    }
+  }
+
+  .tray-roll-twist {
+    padding: 0.35rem 0.5rem;
+    background: @purple;
+    color: @white;
+    text-align: center;
+
+    h4 {
+      margin: 0;
+      border: none;
+      .title-font();
+      font-size: 1.4rem;
+      text-transform: uppercase;
+    }
+    p {
+      margin: 0;
+      font-size: 0.8rem;
+    }
+  }
+}
+
+// With the sidebar collapsed the chat input lives in the notifications grid
+// (log row + input row): the tray floats above the input instead of taking a row.
+#chat-notifications > .wildsea-dice-tray {
+  position: absolute;
+  inset: auto 0 calc(var(--chat-input-height) + var(--chat-menu-height, 0px) + 14px);
+  margin: 0;
+  pointer-events: all;
+}

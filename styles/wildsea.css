@@ -1301,3 +1301,205 @@ a.inline-roll.unstyled {
 .focus-panel .focus-actions button:hover {
   opacity: 1;
 }
+.wildsea-dice-tray {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-bottom: 0.25rem;
+  padding: 0.35rem;
+  border-radius: 0.25rem;
+  background: #2e2c20;
+  color: #f9f9f9;
+  font-family: 'Merriweather', serif;
+  font-size: 0.8rem;
+}
+.wildsea-dice-tray button {
+  margin: 0;
+  color: #f9f9f9;
+  background: #626256;
+  border: 1px solid #858778;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+.wildsea-dice-tray button:hover:not(:disabled) {
+  background: #858778;
+}
+.wildsea-dice-tray button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+.wildsea-dice-tray .tray-dice {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0.25rem;
+}
+.wildsea-dice-tray .tray-die {
+  height: 2rem;
+  font-size: 1.4rem;
+  line-height: 1;
+  opacity: 0.55;
+}
+.wildsea-dice-tray .tray-die.active {
+  opacity: 1;
+  background: #858778;
+}
+.wildsea-dice-tray .tray-die.selected {
+  background: #f8a923;
+  border-color: #f8a923;
+  color: #2d2a2b;
+}
+.wildsea-dice-tray .tray-row {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+.wildsea-dice-tray .tray-label {
+  font-weight: bold;
+}
+.wildsea-dice-tray .tray-cut {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+.wildsea-dice-tray .tray-cut .tray-step {
+  width: 1.5rem;
+  height: 1.5rem;
+  padding: 0;
+  font-size: 0.7rem;
+}
+.wildsea-dice-tray .tray-cut .tray-cut-value {
+  min-width: 1rem;
+  text-align: center;
+  font-weight: bold;
+}
+.wildsea-dice-tray .tray-context {
+  flex: 1;
+  min-width: 0;
+  height: 1.5rem;
+}
+.wildsea-dice-tray .tray-no-pool-label {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  gap: 0.25rem;
+}
+.wildsea-dice-tray .tray-roll {
+  flex: 1;
+  height: 1.75rem;
+  background: #84966c;
+  border-color: #84966c;
+  font-family: 'Teko', sans-serif;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  line-height: 1;
+}
+.wildsea-tray-roll {
+  --outcome: #bb434e;
+  --outcome-bg: rgba(187, 67, 78, 0.15);
+  overflow: hidden;
+  border: 2px solid var(--outcome);
+  border-radius: 0.25rem;
+}
+.wildsea-tray-roll.triumph {
+  --outcome: #84966c;
+  --outcome-bg: rgba(132, 150, 108, 0.2);
+}
+.wildsea-tray-roll.conflict {
+  --outcome: #f8a923;
+  --outcome-bg: rgba(248, 169, 35, 0.2);
+}
+.wildsea-tray-roll .tray-roll-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.25rem 0.5rem;
+  background: #2e2c20;
+  color: #f9f9f9;
+  font-family: 'Teko', sans-serif;
+  text-transform: uppercase;
+  font-size: 1.3rem;
+}
+.wildsea-tray-roll .tray-roll-header .tray-roll-formula {
+  opacity: 0.7;
+}
+.wildsea-tray-roll .tray-roll-dice {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25rem;
+  margin: 0;
+  padding: 0.5rem;
+  list-style: none;
+}
+.wildsea-tray-roll .tray-roll-die {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border: 2px solid #626256;
+  border-radius: 0.3rem;
+  background: #f9f9f9;
+  color: #2d2a2b;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+.wildsea-tray-roll .tray-roll-die.top {
+  background: var(--outcome);
+  border-color: var(--outcome);
+  color: #f9f9f9;
+}
+.wildsea-tray-roll .tray-roll-die.cut {
+  background: #ccc;
+  border-style: dashed;
+  color: #888;
+  text-decoration: line-through;
+  opacity: 0.7;
+}
+.wildsea-tray-roll .tray-roll-notes {
+  margin: 0 0 0.35rem;
+  text-align: center;
+  font-size: 0.75rem;
+  opacity: 0.7;
+}
+.wildsea-tray-roll .tray-roll-outcome {
+  padding: 0.35rem 0.5rem;
+  border-top: 1px solid var(--outcome);
+  background: var(--outcome-bg);
+  text-align: center;
+}
+.wildsea-tray-roll .tray-roll-outcome h3 {
+  margin: 0;
+  border: none;
+  color: var(--outcome);
+  font-family: 'Teko', sans-serif;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.wildsea-tray-roll .tray-roll-outcome p {
+  margin: 0;
+  font-size: 0.8rem;
+}
+.wildsea-tray-roll .tray-roll-twist {
+  padding: 0.35rem 0.5rem;
+  background: #a95c8d;
+  color: #f9f9f9;
+  text-align: center;
+}
+.wildsea-tray-roll .tray-roll-twist h4 {
+  margin: 0;
+  border: none;
+  font-family: 'Teko', sans-serif;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+}
+.wildsea-tray-roll .tray-roll-twist p {
+  margin: 0;
+  font-size: 0.8rem;
+}
+#chat-notifications > .wildsea-dice-tray {
+  position: absolute;
+  inset: auto 0 calc(var(--chat-input-height) + var(--chat-menu-height, 0px) + 14px);
+  margin: 0;
+  pointer-events: all;
+}
