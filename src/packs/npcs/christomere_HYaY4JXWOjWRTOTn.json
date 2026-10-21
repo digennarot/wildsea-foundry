@@ -1,0 +1,33 @@
+{
+  "_id": "HYaY4JXWOjWRTOTn",
+  "_key": "!actors!HYaY4JXWOjWRTOTn",
+  "name": "Christomere",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "SCdjypXrsjxCOTfr",
+  "sort": 200000,
+  "system": {
+    "bloodline": "Falenide",
+    "profession": "Musicista",
+    "faction": "I Tricenturi",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "Canticchia vecchie ballate",
+    "personality": "Curioso, sognatore",
+    "description": "<p>Vuole svelare i segreti della musica antica, soprattutto delle ballate del vecchio mare salato.</p><p><em>PNG Rapido della fazione I Tricenturi (L'Itterino). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Christomere",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

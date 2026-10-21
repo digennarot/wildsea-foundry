@@ -1,0 +1,33 @@
+{
+  "_id": "eSqHpVNu8quTlcHr",
+  "_key": "!actors!eSqHpVNu8quTlcHr",
+  "name": "Tamen Hold",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "nPakvJQRrPUXNMbZ",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Gau",
+    "profession": "Collezionista di monete",
+    "faction": "I Numismatici",
+    "kind": "",
+    "appearance": "",
+    "manner": "Sfoggia di continuo le sue monete",
+    "voice": "",
+    "personality": "Giovane, vanitoso",
+    "description": "<p>Giovane Numismatico che non perde occasione per mettere in mostra la “ricchezza” che ha accumulato.</p><p><em>PNG Rapido della fazione I Numismatici (La Vulpinaia). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Tamen Hold",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

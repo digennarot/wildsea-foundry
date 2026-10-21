@@ -1,0 +1,33 @@
+{
+  "_id": "LpyKrMnfLtyffpdI",
+  "_key": "!actors!LpyKrMnfLtyffpdI",
+  "name": "Tam Dito-Scuro",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "4kRXs1LUbMyEXIND",
+  "sort": 200000,
+  "system": {
+    "bloodline": "Ardente",
+    "profession": "Venditore ambulante",
+    "faction": "La Confederazione Mercantile",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "",
+    "personality": "Affabile, doppiogiochista",
+    "description": "<p>Vende di tutto, dai gioielli “trovati in giro” agli spiedini di ratto. È arrivato da poco nella Confederazione ed è in realtà una spia del clero.</p><p><em>PNG Rapido della fazione La Confederazione Mercantile (L'Autunno della Sibilla). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Tam Dito-Scuro",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

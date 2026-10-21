@@ -1,0 +1,33 @@
+{
+  "_id": "09aJDnljiUG195XE",
+  "_key": "!actors!09aJDnljiUG195XE",
+  "name": "Patakara Kezar",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "nPakvJQRrPUXNMbZ",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Tzelicrae",
+    "profession": "Cercatrice d'oro",
+    "faction": "I Numismatici",
+    "kind": "",
+    "appearance": "",
+    "manner": "Un tintinnio di monete nascoste nell'involucro",
+    "voice": "",
+    "personality": "Spaccona",
+    "description": "<p>I ragni che la compongono trasportano dentro il suo involucro molte monete di valute ormai perdute. Afferma di essere stata nell'Oscuro Fondale.</p><p><em>PNG Rapido della fazione I Numismatici (La Vulpinaia). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Patakara Kezar",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

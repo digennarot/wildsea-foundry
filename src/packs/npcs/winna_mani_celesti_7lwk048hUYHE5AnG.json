@@ -1,0 +1,33 @@
+{
+  "_id": "7lwk048hUYHE5AnG",
+  "_key": "!actors!7lwk048hUYHE5AnG",
+  "name": "Winna Mani Celesti",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "wlUMKbrjHFn6uYCT",
+  "sort": 200000,
+  "system": {
+    "bloodline": "Ardente",
+    "profession": "Tintrice",
+    "faction": "I Sognatori",
+    "kind": "",
+    "appearance": "Avambracci macchiati d'azzurro",
+    "manner": "",
+    "voice": "",
+    "personality": "Soddisfatta, laboriosa",
+    "description": "<p>Tinge le vesti dei Sognatori; è un lavoro duro, ma la soddisfa.</p><p><em>PNG Rapido della fazione I Sognatori (L'Autunno della Sibilla). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Winna Mani Celesti",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

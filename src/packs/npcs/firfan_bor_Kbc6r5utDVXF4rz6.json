@@ -1,0 +1,33 @@
+{
+  "_id": "Kbc6r5utDVXF4rz6",
+  "_key": "!actors!Kbc6r5utDVXF4rz6",
+  "name": "Firfan Bor",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "9flqGtMcnmHK5xcM",
+  "sort": 200000,
+  "system": {
+    "bloodline": "Gau",
+    "profession": "Sacerdote",
+    "faction": "I Famelici",
+    "kind": "",
+    "appearance": "Abiti rosso ruggine con catenelle spinate",
+    "manner": "Le catenelle tintinnano al suo passaggio",
+    "voice": "",
+    "personality": "Tranquillo, severo",
+    "description": "<p>Anziano sacerdote alla guida di una piccola comunità.</p><p><em>PNG Rapido della fazione I Famelici (L'Anomalia di Kremich). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Firfan Bor",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

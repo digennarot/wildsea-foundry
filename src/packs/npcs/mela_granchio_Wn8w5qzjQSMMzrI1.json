@@ -1,0 +1,33 @@
+{
+  "_id": "Wn8w5qzjQSMMzrI1",
+  "_key": "!actors!Wn8w5qzjQSMMzrI1",
+  "name": "Mela Granchio",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "bPpj0MZKaIP8lhJX",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Ektus",
+    "profession": "",
+    "faction": "Gli Appassiti",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "Parla per frasi incompiute e mezze verità",
+    "personality": "Confusa, sfuggente",
+    "description": "<p>La putrefazione le ha corrotto la mente.</p><p><em>PNG Rapido della fazione Gli Appassiti (Le Ferradici Ambrate). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Mela Granchio",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "nm97iCxbHWL4SAi0",
+  "_key": "!actors!nm97iCxbHWL4SAi0",
+  "name": "Cratizoa",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "9flqGtMcnmHK5xcM",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Tzelicrae",
+    "profession": "Sentinella",
+    "faction": "I Famelici",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "",
+    "personality": "Fedele, vigile",
+    "description": "<p>Si assicura che gli estranei non ficchino il naso nel suo insediamento.</p><p><em>PNG Rapido della fazione I Famelici (L'Anomalia di Kremich). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Cratizoa",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

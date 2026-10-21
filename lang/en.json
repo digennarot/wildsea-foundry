@@ -227,7 +227,21 @@
     "WARNINGS": {
       "effectDeprecationTitle": "Effects are being deprecated",
       "effectDeprecationBody": "ActiveEffects will no longer be the preferred method of modifying Ship Ratings, starting in an upcoming release. You should remove any ActiveEffects from Ship Items and migrate your Rating modifiers to the new Rating Modifiers tab."
-    }
+    },
+    "accessory": "Accessory",
+    "integrated": "Integrated",
+    "npcKind": "NPC Type",
+    "profession": "Profession",
+    "faction": "Faction",
+    "profile": "Profile",
+    "features": "Distinctive Traits",
+    "appearance": "Appearance",
+    "manner": "Presence",
+    "voice": "Voice",
+    "personality": "Personality",
+    "notes": "Notes",
+    "generateName": "Generate a Name",
+    "npcDropUnsupported": "NPC sheets cannot hold \"{name}\""
   },
   "SETTINGS": {
     "showBurnTooltip": {
@@ -253,7 +267,8 @@
     "Actor": {
       "hazard": "Hazard",
       "player": "Wildsailor",
-      "ship": "Ship"
+      "ship": "Ship",
+      "npc": "NPC"
     },
     "Item": {
       "aspect": "Aspect",

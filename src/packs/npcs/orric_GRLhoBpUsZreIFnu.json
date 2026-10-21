@@ -1,0 +1,33 @@
+{
+  "_id": "GRLhoBpUsZreIFnu",
+  "_key": "!actors!GRLhoBpUsZreIFnu",
+  "name": "Orric",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "BirbZzxhLD6TZrLv",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Ardente",
+    "profession": "Fuochista",
+    "faction": "Il Focolare",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "",
+    "personality": "Confuso, volenteroso",
+    "description": "<p>Fuochista e trasportatore di carburante, anche se non è più del tutto sicuro di cosa debba fare: la definizione di “carburante”, negli ultimi tempi, si è fatta piuttosto vaga.</p><p><em>PNG Rapido della fazione Il Focolare (L'Interregno). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Orric",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

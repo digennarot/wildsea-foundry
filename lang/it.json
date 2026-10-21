@@ -227,7 +227,21 @@
     "WARNINGS": {
       "effectDeprecationTitle": "Gli Effetti stanno per essere deprecati",
       "effectDeprecationBody": "A partire da una prossima versione, gli ActiveEffect non saranno più il metodo consigliato per modificare i Tracciati Base della nave. Dovresti rimuovere gli ActiveEffect dagli oggetti della nave e spostare i modificatori nella nuova scheda Modificatori di Tracciato Base."
-    }
+    },
+    "accessory": "Accessorio",
+    "integrated": "Integrato",
+    "npcKind": "Tipo di PNG",
+    "profession": "Professione",
+    "faction": "Fazione",
+    "profile": "Profilo",
+    "features": "Tratti Distintivi",
+    "appearance": "Aspetto",
+    "manner": "Presenza Scenica",
+    "voice": "Voce",
+    "personality": "Personalità",
+    "notes": "Note",
+    "generateName": "Genera un Nome",
+    "npcDropUnsupported": "La scheda di un PNG non può contenere \"{name}\""
   },
   "SETTINGS": {
     "showBurnTooltip": {
@@ -253,7 +267,8 @@
     "Actor": {
       "hazard": "Pericolo",
       "player": "Navigaselva",
-      "ship": "Nave"
+      "ship": "Nave",
+      "npc": "PNG"
     },
     "Item": {
       "aspect": "Aspetto",

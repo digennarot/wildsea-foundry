@@ -1,0 +1,33 @@
+{
+  "_id": "6fc99u8LDJQt7ywF",
+  "_key": "!actors!6fc99u8LDJQt7ywF",
+  "name": "Mutha/Madre",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "bPpj0MZKaIP8lhJX",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Specie sconosciuta",
+    "profession": "Leader degli Appassiti, necromante",
+    "faction": "Gli Appassiti",
+    "kind": "",
+    "appearance": "Una rafflesia in decomposizione sulla testa; muschi iridescenti le scendono a cascata sugli abiti",
+    "manner": "",
+    "voice": "",
+    "personality": "Saggia, rispettosa",
+    "description": "<p>Guida gli Appassiti con saggezza e rispetto, e padroneggia la necromanzia.</p><p><em>PNG Rapido della fazione Gli Appassiti (Le Ferradici Ambrate). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Mutha/Madre",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

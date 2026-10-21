@@ -1,0 +1,33 @@
+{
+  "_id": "2RqZljjh7PdhTdV6",
+  "_key": "!actors!2RqZljjh7PdhTdV6",
+  "name": "Cressa Thorn",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "6obdRNLOdhDAfgtW",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Ardente",
+    "profession": "Guardiacaccia",
+    "faction": "Le Famiglie Venatorie",
+    "kind": "",
+    "appearance": "Anziana, sempre con la carabina a lunga gittata",
+    "manner": "",
+    "voice": "",
+    "personality": "Di buon umore",
+    "description": "<p>Sorveglia la riserva dove i bambini delle Famiglie imparano a cacciare nei primi anni di vita. Anziana e gioviale, con la sua carabina a lunga gittata è una tiratrice formidabile.</p><p><em>PNG Rapido della fazione Le Famiglie Venatorie (La Vulpinaia). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Cressa Thorn",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

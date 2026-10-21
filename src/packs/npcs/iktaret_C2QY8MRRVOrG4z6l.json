@@ -1,0 +1,33 @@
+{
+  "_id": "C2QY8MRRVOrG4z6l",
+  "_key": "!actors!C2QY8MRRVOrG4z6l",
+  "name": "Iktaret",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "BirbZzxhLD6TZrLv",
+  "sort": 200000,
+  "system": {
+    "bloodline": "Tzelicrae",
+    "profession": "",
+    "faction": "Il Focolare",
+    "kind": "",
+    "appearance": "Esile e slanciata, con una pelle di seta che si scioglie come cera",
+    "manner": "",
+    "voice": "",
+    "personality": "",
+    "description": "<p>Lavora al Focolare; alla fine di ogni turno la sua pelle di seta le scivola via dal corpo come cera.</p><p><em>PNG Rapido della fazione Il Focolare (L'Interregno). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Iktaret",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

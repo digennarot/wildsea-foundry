@@ -1,0 +1,33 @@
+{
+  "_id": "7eOeUBkbRy3lXyhE",
+  "_key": "!actors!7eOeUBkbRy3lXyhE",
+  "name": "Monito",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "2VDLVnj9HweOX2Ef",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Sciame di batteri bioluminescenti senzienti",
+    "profession": "Messaggero",
+    "faction": "I Germogliati (protofazione)",
+    "kind": "",
+    "appearance": "Uno sciame di luci bioluminescenti",
+    "manner": "",
+    "voice": "Parla solo in Schiocco",
+    "personality": "Solenne, inquietante",
+    "description": "<p>Si considerano i messaggeri di coloro che si trovano al di là delle onde.</p><p><em>PNG Rapido della fazione I Germogliati (protofazione) (Le Ferradici Ambrate). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Monito",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "BszFif1hgfEfeDvc",
+  "_key": "!actors!BszFif1hgfEfeDvc",
+  "name": "Wareck Ozir",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "9flqGtMcnmHK5xcM",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Ardente",
+    "profession": "Macellaio",
+    "faction": "I Famelici",
+    "kind": "",
+    "appearance": "Denti limati per sembrare feroce",
+    "manner": "",
+    "voice": "",
+    "personality": "Devoto",
+    "description": "<p>Segue con devozione gli insegnamenti del culto ed è sempre contento di comprare carne fresca dai marinai.</p><p><em>PNG Rapido della fazione I Famelici (L'Anomalia di Kremich). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Wareck Ozir",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

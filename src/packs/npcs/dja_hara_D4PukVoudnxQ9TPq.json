@@ -1,0 +1,33 @@
+{
+  "_id": "D4PukVoudnxQ9TPq",
+  "_key": "!actors!D4PukVoudnxQ9TPq",
+  "name": "Dja Hara",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "SCdjypXrsjxCOTfr",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Ektus",
+    "profession": "Cantastorie",
+    "faction": "I Tricenturi",
+    "kind": "",
+    "appearance": "",
+    "manner": "Sempre circondato da giovani ascoltatori",
+    "voice": "",
+    "personality": "Nostalgico, loquace",
+    "description": "<p>Dice di avere quattrocento anni e ama radunare i giovani per raccontare degli imperi perduti del deserto.</p><p><em>PNG Rapido della fazione I Tricenturi (L'Itterino). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Dja Hara",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

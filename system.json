@@ -100,6 +100,13 @@
       "type": "Actor"
     },
     {
+      "name": "npcs",
+      "label": "NPCs",
+      "system": "wildsea",
+      "path": "packs/npcs",
+      "type": "Actor"
+    },
+    {
       "name": "cargo",
       "label": "Cargo",
       "system": "wildsea",
@@ -133,7 +140,7 @@
     {
       "name": "The Wildsea",
       "sorting": "m",
-      "packs": ["backgrounds", "drives_mires", "temporary_tracks", "resources", "character_aspects", "ship_aspects", "hazards", "cargo", "passengers", "factions", "journals"]
+      "packs": ["backgrounds", "drives_mires", "temporary_tracks", "resources", "character_aspects", "ship_aspects", "hazards", "npcs", "cargo", "passengers", "factions", "journals"]
     }
   ],
   "languages": [

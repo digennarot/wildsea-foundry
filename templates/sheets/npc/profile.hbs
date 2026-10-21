@@ -1,0 +1,16 @@
+<div id="profile" class="flex0">
+  <h2 class="corners dark">
+    {{localize "wildsea.profile"}}
+    <a class="generateName" data-tooltip="{{localize "wildsea.generateName"}}">
+      <i class="fas fa-dice"></i>
+    </a>
+  </h2>
+  <div class="bordered">
+    <div class="flexcol">
+      {{> "systems/wildsea/templates/shared/text_field.hbs" field="system.bloodline" value=system.bloodline label="wildsea.bloodline"}}
+      {{> "systems/wildsea/templates/shared/text_field.hbs" field="system.profession" value=system.profession label="wildsea.profession"}}
+      {{> "systems/wildsea/templates/shared/text_field.hbs" field="system.faction" value=system.faction label="wildsea.faction"}}
+      {{> "systems/wildsea/templates/shared/select_field.hbs" field="system.kind" value=system.kind label="wildsea.npcKind" selectOptions=config.npcKinds includeEmpty=true}}
+    </div>
+  </div>
+</div>

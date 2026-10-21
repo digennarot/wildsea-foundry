@@ -1,0 +1,33 @@
+{
+  "_id": "hMYrAElT5dVrBpbk",
+  "_key": "!actors!hMYrAElT5dVrBpbk",
+  "name": "Usk",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "3Z68MJuKyvHqu6vY",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Tzelicrae",
+    "profession": "Operaia",
+    "faction": "Il Cartello delle Sanguisughe",
+    "kind": "",
+    "appearance": "Una montagna di tarantole in una tuta di ferrospina essiccata",
+    "manner": "",
+    "voice": "",
+    "personality": "Instancabile, severa",
+    "description": "<p>Una delle poche operaie Tzelicrae. Instancabile, non perde tempo a rimproverare chi batte la fiacca.</p><p><em>PNG Rapido della fazione Il Cartello delle Sanguisughe (L'Itterino). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Usk",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

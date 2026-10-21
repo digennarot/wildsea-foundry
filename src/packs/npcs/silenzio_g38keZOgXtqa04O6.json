@@ -1,0 +1,33 @@
+{
+  "_id": "g38keZOgXtqa04O6",
+  "_key": "!actors!g38keZOgXtqa04O6",
+  "name": "Silenzio",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "2VDLVnj9HweOX2Ef",
+  "sort": 200000,
+  "system": {
+    "bloodline": "Leviatano umbratile",
+    "profession": "",
+    "faction": "I Germogliati (protofazione)",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "",
+    "personality": "",
+    "description": "<p>Richiamato dagli abissi dal Monito per mettere a tacere chi si è smarrito.</p><p><em>PNG Rapido della fazione I Germogliati (protofazione) (Le Ferradici Ambrate). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Silenzio",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

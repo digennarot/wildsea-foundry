@@ -1,0 +1,33 @@
+{
+  "_id": "WjRcyJqsJ08KfnJ3",
+  "_key": "!actors!WjRcyJqsJ08KfnJ3",
+  "name": "Safir Hesten",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "JB5ufO4DpPywBMej",
+  "sort": 200000,
+  "system": {
+    "bloodline": "Ardente",
+    "profession": "Addetto a una stazione di cottura",
+    "faction": "I Gianocorni",
+    "kind": "",
+    "appearance": "Malandato, imbacuccato contro il gelo",
+    "manner": "",
+    "voice": "",
+    "personality": "Stanco, tenace",
+    "description": "<p>Lavora in una stazione di cottura malridotta e fa il possibile per non morire di freddo.</p><p><em>PNG Rapido della fazione I Gianocorni (L'Interregno). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Safir Hesten",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

@@ -15,6 +15,7 @@ import WildseaResourceSheet from './system/sheets/resource.js'
 import WildseaShipSheet from './system/sheets/ship.js'
 import WildseaShipItemSheet from './system/sheets/ship_item.js'
 import WildseaAdversarySheet from './system/sheets/adversary.js'
+import WildseaNpcSheet from './system/sheets/npc.js'
 import { setupEnrichers } from './system/enrichers.js'
 import { runMigrations } from './system/migrations.js'
 
@@ -47,6 +48,7 @@ Hooks.once('init', () => {
   Actors.registerSheet('wildsea', WildseaPlayerSheet, { types: ['player'] })
   Actors.registerSheet('wildsea', WildseaShipSheet, { types: ['ship'] })
   Actors.registerSheet('wildsea', WildseaAdversarySheet, { types: ['hazard'] })
+  Actors.registerSheet('wildsea', WildseaNpcSheet, { types: ['npc'] })
 
   Items.unregisterSheet('core', ItemSheet)
   Items.registerSheet('wildsea', WildseaAspectSheet, {

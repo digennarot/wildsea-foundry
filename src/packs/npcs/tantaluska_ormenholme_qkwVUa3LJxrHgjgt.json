@@ -1,0 +1,33 @@
+{
+  "_id": "qkwVUa3LJxrHgjgt",
+  "_key": "!actors!qkwVUa3LJxrHgjgt",
+  "name": "Tantaluska Ormenholme",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "6obdRNLOdhDAfgtW",
+  "sort": 200000,
+  "system": {
+    "bloodline": "Ektus",
+    "profession": "Cacciatore, ex pirata",
+    "faction": "Le Famiglie Venatorie",
+    "kind": "",
+    "appearance": "Una cicatrice frastagliata che va dal viso al ginocchio",
+    "manner": "",
+    "voice": "",
+    "personality": "Ossessionato dalla sua preda",
+    "description": "<p>Un tempo pirata, oggi insegue lo scoiattolo leviatano che lo ha sfregiato.</p><p><em>PNG Rapido della fazione Le Famiglie Venatorie (La Vulpinaia). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Tantaluska Ormenholme",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

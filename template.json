@@ -1,6 +1,6 @@
 {
   "Actor": {
-    "types": ["player", "ship", "hazard"],
+    "types": ["player", "ship", "hazard", "npc"],
     "player": {
       "bloodline": "",
       "drives": [],
@@ -73,6 +73,17 @@
       "type": "",
       "size": "",
       "traits": "",
+      "description": ""
+    },
+    "npc": {
+      "bloodline": "",
+      "profession": "",
+      "faction": "",
+      "kind": "",
+      "appearance": "",
+      "manner": "",
+      "voice": "",
+      "personality": "",
       "description": ""
     }
   },

@@ -1,0 +1,33 @@
+{
+  "_id": "ZDf29gKnKzPgZyBZ",
+  "_key": "!actors!ZDf29gKnKzPgZyBZ",
+  "name": "Bel & Hortio",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "6obdRNLOdhDAfgtW",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Ardenti",
+    "profession": "Cacciatori",
+    "faction": "Le Famiglie Venatorie",
+    "kind": "",
+    "appearance": "Bel armato di lame, Hortio con l'arco",
+    "manner": "",
+    "voice": "",
+    "personality": "Coraggiosi, poco esperti",
+    "description": "<p>Fratello e sorella che cacciano sempre in coppia: Bel usa le lame, Hortio l'arco. Hanno più coraggio che abilità.</p><p><em>PNG Rapido della fazione Le Famiglie Venatorie (La Vulpinaia). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Bel & Hortio",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

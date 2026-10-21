@@ -1,0 +1,33 @@
+{
+  "_id": "73rNijo0yaHoAaTy",
+  "_key": "!actors!73rNijo0yaHoAaTy",
+  "name": "Sadina",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "wlUMKbrjHFn6uYCT",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Ektus",
+    "profession": "Mendicante",
+    "faction": "I Sognatori",
+    "kind": "",
+    "appearance": "Un aggeggio di rottami metallici le avvolge quasi tutta la testa",
+    "manner": "",
+    "voice": "",
+    "personality": "Visionaria",
+    "description": "<p>Una mendicante sognatrice che quasi nessuno ascolta. Il marchingegno che si è costruita dovrebbe aiutarla a captare meglio gli impulsi divini.</p><p><em>PNG Rapido della fazione I Sognatori (L'Autunno della Sibilla). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Sadina",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

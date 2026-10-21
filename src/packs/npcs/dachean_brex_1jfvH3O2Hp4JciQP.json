@@ -1,0 +1,33 @@
+{
+  "_id": "1jfvH3O2Hp4JciQP",
+  "_key": "!actors!1jfvH3O2Hp4JciQP",
+  "name": "Dachean Brex",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "3ICIrqFNYGfdWuo1",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Ardente",
+    "profession": "Capitana",
+    "faction": "I Pigliaossa",
+    "kind": "",
+    "appearance": "Brandisce una serralama",
+    "manner": "",
+    "voice": "Chiassosa",
+    "personality": "Sgarbata, amante del rum",
+    "description": "<p>Comanda una piccola nave; con la serralama in mano diventa un vero demonio.</p><p><em>PNG Rapido della fazione I Pigliaossa (L'Anomalia di Kremich). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Dachean Brex",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

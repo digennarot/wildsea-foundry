@@ -1,0 +1,33 @@
+{
+  "_id": "avNQyeehihaYjI4k",
+  "_key": "!actors!avNQyeehihaYjI4k",
+  "name": "Padred Uncored",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "3Z68MJuKyvHqu6vY",
+  "sort": 200000,
+  "system": {
+    "bloodline": "Ektus",
+    "profession": "Agitatore",
+    "faction": "Il Cartello delle Sanguisughe",
+    "kind": "",
+    "appearance": "Un enorme buco nel torso",
+    "manner": "",
+    "voice": "",
+    "personality": "Combattivo, idealista",
+    "description": "<p>Un terribile incidente di trivellazione gli ha lasciato un grande foro nel torso. Ora guida le proteste per la sicurezza dei lavoratori e perché l'acqua diventi un bene comune.</p><p><em>PNG Rapido della fazione Il Cartello delle Sanguisughe (L'Itterino). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Padred Uncored",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

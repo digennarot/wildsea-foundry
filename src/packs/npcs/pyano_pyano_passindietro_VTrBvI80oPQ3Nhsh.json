@@ -1,0 +1,33 @@
+{
+  "_id": "VTrBvI80oPQ3Nhsh",
+  "_key": "!actors!VTrBvI80oPQ3Nhsh",
+  "name": "Pyano-Pyano Passindietro",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "JB5ufO4DpPywBMej",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Tzelicrae",
+    "profession": "Scrutifex, cacciatore di spie",
+    "faction": "I Gianocorni",
+    "kind": "",
+    "appearance": "",
+    "manner": "Porta con sé sussurri imbottigliati",
+    "voice": "",
+    "personality": "Sospettoso",
+    "description": "<p>Famoso cacciatore di spie. Le sue doti arconautiche forse sono una montatura, ma i sussurri che tiene in bottiglia sono autentici.</p><p><em>PNG Rapido della fazione I Gianocorni (L'Interregno). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Pyano-Pyano Passindietro",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

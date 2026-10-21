@@ -1,0 +1,33 @@
+{
+  "_id": "yoc7R4dFjCq4qacN",
+  "_key": "!actors!yoc7R4dFjCq4qacN",
+  "name": "La Fioritura",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "2VDLVnj9HweOX2Ef",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Ombre Wheh-Whe",
+    "profession": "",
+    "faction": "I Germogliati (protofazione)",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "",
+    "personality": "Famelica",
+    "description": "<p>Ombre e spiriti dei defunti che danno la caccia ai vivi per impossessarsi della loro essenza.</p><p><em>PNG Rapido della fazione I Germogliati (protofazione) (Le Ferradici Ambrate). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "La Fioritura",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

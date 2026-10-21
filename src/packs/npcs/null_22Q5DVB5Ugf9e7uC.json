@@ -1,0 +1,33 @@
+{
+  "_id": "22Q5DVB5Ugf9e7uC",
+  "_key": "!actors!22Q5DVB5Ugf9e7uC",
+  "name": "Null",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "wlUMKbrjHFn6uYCT",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Corron",
+    "profession": "Mendicante esiliato",
+    "faction": "I Sognatori",
+    "kind": "",
+    "appearance": "Il marchio dell'Esiliato inciso sulla fronte",
+    "manner": "Le lampade oculari si accendono solo per chiedere l'elemosina",
+    "voice": "",
+    "personality": "Umile, devoto",
+    "description": "<p>Un Corron malconcio, che si trova spesso in preghiera vicino ai moli.</p><p><em>PNG Rapido della fazione I Sognatori (L'Autunno della Sibilla). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Null",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "6qfHxUeMTJnsQond",
+  "_key": "!actors!6qfHxUeMTJnsQond",
+  "name": "Somma Fja",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "nPakvJQRrPUXNMbZ",
+  "sort": 200000,
+  "system": {
+    "bloodline": "Ardente",
+    "profession": "Numismatica di alto rango",
+    "faction": "I Numismatici",
+    "kind": "",
+    "appearance": "Un mantello di ceralacca e banconote multicolori",
+    "manner": "",
+    "voice": "",
+    "personality": "Esperta, sicura di sé",
+    "description": "<p>Rispettata da tutti per il suo fiuto negli affari che riguardano le reliquie.</p><p><em>PNG Rapido della fazione I Numismatici (La Vulpinaia). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Somma Fja",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "hrcGeSp0KhgXSXAL",
+  "_key": "!actors!hrcGeSp0KhgXSXAL",
+  "name": "Ottening Ost",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "SCdjypXrsjxCOTfr",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Ketra",
+    "profession": "Impostore",
+    "faction": "I Tricenturi",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "",
+    "personality": "Bugiardo, affabulatore",
+    "description": "<p>Si spaccia per un Ketra Ambrato, ma è un impostore che fa passare storie bizzarre e fantasiose per fatti storici.</p><p><em>PNG Rapido della fazione I Tricenturi (L'Itterino). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Ottening Ost",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

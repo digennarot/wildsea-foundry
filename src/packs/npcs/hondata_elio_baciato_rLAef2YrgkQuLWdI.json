@@ -1,0 +1,33 @@
+{
+  "_id": "rLAef2YrgkQuLWdI",
+  "_key": "!actors!rLAef2YrgkQuLWdI",
+  "name": "Hondata Elio-Baciato",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "BirbZzxhLD6TZrLv",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Ektus",
+    "profession": "Tecnico del Motore",
+    "faction": "Il Focolare",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "",
+    "personality": "Determinato",
+    "description": "<p>Uno dei pochissimi Ektus del Focolare, mandato a rimettere in riga le componenti più indisciplinate del Motore.</p><p><em>PNG Rapido della fazione Il Focolare (L'Interregno). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Hondata Elio-Baciato",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

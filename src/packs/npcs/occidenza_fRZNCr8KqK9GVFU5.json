@@ -1,0 +1,33 @@
+{
+  "_id": "fRZNCr8KqK9GVFU5",
+  "_key": "!actors!fRZNCr8KqK9GVFU5",
+  "name": "Occidenza",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "4kRXs1LUbMyEXIND",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Gau",
+    "profession": "Suora Sognatrice",
+    "faction": "La Confederazione Mercantile",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "",
+    "personality": "Molto conservatrice, intransigente",
+    "description": "<p>Si è assunta il compito di perseguitare chi aderisce alla Confederazione e di condannare pubblicamente chiunque sia in combutta con loro.</p><p><em>PNG Rapido della fazione La Confederazione Mercantile (L'Autunno della Sibilla). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Occidenza",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "h1cq0cJymF96UsMp",
+  "_key": "!actors!h1cq0cJymF96UsMp",
+  "name": "Favia Tesk",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "3Z68MJuKyvHqu6vY",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Falenide",
+    "profession": "Ingegnera",
+    "faction": "Il Cartello delle Sanguisughe",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "",
+    "personality": "Motivata, spietata",
+    "description": "<p>Giovane e ambiziosa, guida uno dei gruppi più importanti del Cartello, quello che progetta nuovi impianti di trivellazione. Non ha alcuna pietà per il prossimo.</p><p><em>PNG Rapido della fazione Il Cartello delle Sanguisughe (L'Itterino). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Favia Tesk",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

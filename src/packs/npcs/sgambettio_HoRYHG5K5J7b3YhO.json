@@ -1,0 +1,33 @@
+{
+  "_id": "HoRYHG5K5J7b3YhO",
+  "_key": "!actors!HoRYHG5K5J7b3YhO",
+  "name": "Sgambettio",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "JB5ufO4DpPywBMej",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Tzelicrae",
+    "profession": "Gendarme",
+    "faction": "I Gianocorni",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "",
+    "personality": "Dubbioso, riservato",
+    "description": "<p>Medita in gran segreto di unirsi allo Scisma Ramingo.</p><p><em>PNG Rapido della fazione I Gianocorni (L'Interregno). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Sgambettio",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

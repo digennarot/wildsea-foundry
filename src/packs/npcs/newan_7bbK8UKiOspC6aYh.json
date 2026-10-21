@@ -1,0 +1,33 @@
+{
+  "_id": "7bbK8UKiOspC6aYh",
+  "_key": "!actors!7bbK8UKiOspC6aYh",
+  "name": "Newan",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "4kRXs1LUbMyEXIND",
+  "sort": 100000,
+  "system": {
+    "bloodline": "Tzelicrae",
+    "profession": "Mercante, membro del Consiglio",
+    "faction": "La Confederazione Mercantile",
+    "kind": "",
+    "appearance": "Corpulento",
+    "manner": "",
+    "voice": "",
+    "personality": "Compiaciuto",
+    "description": "<p>Membro fondatore del Consiglio, felicissimo che l'attenzione di tutti sia puntata sulla Confederazione.</p><p><em>PNG Rapido della fazione La Confederazione Mercantile (L'Autunno della Sibilla). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Newan",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

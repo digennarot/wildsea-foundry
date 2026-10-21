@@ -1,0 +1,33 @@
+{
+  "_id": "7HGsSgHkq4ATjnDF",
+  "_key": "!actors!7HGsSgHkq4ATjnDF",
+  "name": "Akaeran Kir",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "3ICIrqFNYGfdWuo1",
+  "sort": 300000,
+  "system": {
+    "bloodline": "Ardente",
+    "profession": "Quartiermastro",
+    "faction": "I Pigliaossa",
+    "kind": "",
+    "appearance": "",
+    "manner": "",
+    "voice": "Lingua tagliente",
+    "personality": "Svelto, sgradevole",
+    "description": "<p>Giovane quartiermastro incaricato di vendere il carico di recupero della sua nave. Trattare con lui non è affatto piacevole.</p><p><em>PNG Rapido della fazione I Pigliaossa (L'Anomalia di Kremich). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Akaeran Kir",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}

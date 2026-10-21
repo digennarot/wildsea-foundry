@@ -3,6 +3,7 @@ WILDSEA.root_path = 'systems/wildsea'
 WILDSEA.defaultTokens = {
   player: `${WILDSEA.root_path}/assets/tokens/person.png`,
   ship: `${WILDSEA.root_path}/assets/tokens/iron-hulled-warship.png`,
+  npc: 'icons/svg/mystery-man.svg',
 }
 WILDSEA.designTypes = ['size', 'frame', 'hull', 'bite', 'engine']
 WILDSEA.edgeMax = 1
@@ -94,6 +95,21 @@ WILDSEA.adversarySizes = {
   leviathan: 'wildsea.leviathan',
   variable: 'wildsea.variable',
   swarm: 'wildsea.swarm',
+}
+
+WILDSEA.npcKinds = ['accessory', 'integrated']
+// attribute types that fill in an NPC sheet field when dropped
+WILDSEA.npcDropFields = {
+  bloodline: 'bloodline',
+  post: 'profession',
+}
+// common name elements from the rulebook appendix, keyed by language
+WILDSEA.nameSyllables = {
+  lowSour: ['Ta', 'To', 'Te', 'Ra', 'Ro', 'Re', 'Ri', 'Ja', 'Jo', 'Je', 'Ka', 'Ko', 'Ke', 'Ku', 'Za', 'Zo', 'Ze', 'Tza', 'Tzi', 'Gra', 'Go'],
+  cthonic: ['Wood', 'Rise', 'Carboni', 'Solombrino', 'Cho', 'Lake', 'Wang', 'Smet', 'Dole', 'Rin', 'Bury', 'Ness', 'Ling'],
+  saprekk: ['Om', 'On', 'Ot', 'Ol', 'Ka', 'Hel', 'Nor', 'Sa', 'So', 'Si', 'Ga', 'Gu', 'Ge', 'Ne', 'Na', 'Ns', 'Ms', 'Gs'],
+  gaudimm: ['Ho', 'Hu', 'Hara', 'Hake', 'Ha', 'Bo', 'Be', 'Basu', 'Bodi', 'Do', 'De', 'Da', 'Dura', 'Disa', 'Fa', 'Fe', 'Fo', 'Ro'],
+  knock: ['Che', 'Chao', 'Cze', 'Cza', 'Tzi', 'Tzo', 'Otz', 'Za', 'Ze', 'To', 'Te', 'K'],
 }
 
 export const registerSystemSettings = () => {

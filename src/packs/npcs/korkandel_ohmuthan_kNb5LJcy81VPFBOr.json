@@ -1,0 +1,33 @@
+{
+  "_id": "kNb5LJcy81VPFBOr",
+  "_key": "!actors!kNb5LJcy81VPFBOr",
+  "name": "Korkandel Ohmuthan",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "folder": "3ICIrqFNYGfdWuo1",
+  "sort": 200000,
+  "system": {
+    "bloodline": "Ektus",
+    "profession": "Tatuatore (Ektus Inchiostrante)",
+    "faction": "I Pigliaossa",
+    "kind": "",
+    "appearance": "Pelle verde coperta di segni che ne attestano il valore",
+    "manner": "",
+    "voice": "",
+    "personality": "Anziano, rispettato",
+    "description": "<p>Anziano Ektus Inchiostrante che tatua la pelle altrui con gli aghi del proprio corpo.</p><p><em>PNG Rapido della fazione I Pigliaossa (L'Anomalia di Kremich). Riassunto: consulta il manuale per il testo completo.</em></p>"
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "prototypeToken": {
+    "name": "Korkandel Ohmuthan",
+    "actorLink": false,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    }
+  }
+}
