@@ -39,6 +39,18 @@
           "minimum": "1.1.2"
         },
         "reason": "Cinematic mode with the Wildsea skin and the Foxloft background"
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+        "reason": "Required by Storyteller's Cinema"
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "manifest": "https://github.com/farling42/foundryvtt-socketlib/releases/latest/download/module.json",
+        "reason": "Required by Storyteller's Cinema"
       }
     ],
     "recommends": [

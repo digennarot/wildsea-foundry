@@ -4,6 +4,7 @@ import { WILDSEA } from './config.js'
 // install the Wildsea skins once per world and give scenes the Foxloft
 // illustration as their default cinematic background
 const MODULE = 'storyteller-cinema'
+const MODULE_LIBRARIES = ['lib-wrapper', 'socketlib']
 const ASSETS = `${WILDSEA.root_path}/st-cinema`
 export const CINEMA_BACKGROUND = `${ASSETS}/wildsea-foxloft.webp`
 const DEFAULT_SKIN = 'wildsea-verdant-hull'
@@ -80,7 +81,10 @@ export const setupCinema = () => {
 export const readyCinema = async () => {
   if (!game.users.activeGM?.isSelf) return
 
-  if (!game.modules.get(MODULE)?.active) return enableCinema()
+  // the module, and the libraries it needs, may also have been disabled
+  // after the first setup
+  if (requiredModules().some((id) => !game.modules.get(id)?.active))
+    return enableCinema()
   sessionStorage.removeItem(ENABLE_ATTEMPT)
 
   if (game.settings.get('wildsea', 'cinemaDefaults') === DEFAULTS_VERSION) return
@@ -95,15 +99,24 @@ const notifyError = (key, data = {}) =>
     permanent: true,
   })
 
+// The module and the libraries it requires. While the module is disabled
+// Foundry may not list its relationships, so its known libraries are named.
+const requiredModules = () => [
+  ...new Set([
+    MODULE,
+    ...MODULE_LIBRARIES,
+    ...Array.from(
+      game.modules.get(MODULE)?.relationships?.requires ?? [],
+      (r) => r.id,
+    ),
+  ]),
+]
+
 // enable the module and the modules it requires, then reload the world
 async function enableCinema() {
-  const module = game.modules.get(MODULE)
-  if (!module) return notifyError('missing')
+  if (!game.modules.get(MODULE)) return notifyError('missing')
 
-  const required = [
-    MODULE,
-    ...Array.from(module.relationships?.requires ?? [], (r) => r.id),
-  ]
+  const required = requiredModules()
   const missing = required.filter((id) => !game.modules.get(id))
   if (missing.length)
     return notifyError('missingRequired', { modules: missing.join(', ') })
