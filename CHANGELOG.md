@@ -1,5 +1,11 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.15
+
+- The system now requires the Storyteller's Cinema module. When the active GM opens a world, the system enables it (with libWrapper and socketlib) and reloads the world once if it is installed but disabled. It explains what to do instead when the module or a dependency is missing or cannot be loaded, or when the GM cannot change the settings, and it never reloads twice in a row
+- Storyteller's Cinema defaults, applied once per world after the system migrations: the "The Wildsea - Verdant Hull" skin is installed and activated, and the two "Bioluminescent Canopy" skins are installed too (the textured one with its textures shipped with the system). If the skins cannot be installed, the system tries again at the next load
+- Scenes without a cinematic background get the Foxloft illustration (`st-cinema/wildsea-foxloft.webp`), and so do new scenes, except those imported from a compendium or duplicated. The new "Default Cinematic Background" world setting turns this off
+
 ## v0.2.14
 
 - Compendium icons: replace the 119 icons that no longer exist in Foundry 13/14 (anvil, compass, potion) and the generic bag on character aspects, ship aspects, resources, cargo and hazard resources with matching Foundry core icons, chosen from each entry's name (weapons, tools, creatures, materials...) or, failing that, from its category. Hazards get an icon for their creature or phenomenon, temporary tracks one for their kind, bloodlines and posts one for their theme, and NPCs and passengers one for their bloodline
