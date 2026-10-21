@@ -1,5 +1,11 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.18
+
+- Storyteller's Cinema settings (view mode, cinematic background and its dimness) are back in the first tab of the scene configuration: on Foundry 13/14 the module put them in the last tab
+- Scenes without a cinematic background (imported, duplicated or created after the first setup) no longer open cinematic mode on black: the GM gives them the Foxloft illustration when viewing them, unless the "Default Cinematic Background" setting is off. A background cleared on purpose stays empty
+- Fix an error thrown at startup on Foundry 14 (TinyMCE no longer exists)
+
 ## v0.2.17
 
 - The dice tray is now a floating panel and no longer covers the chat messages that appear above the chat input. Drag it by its "Dice Tray" bar; each player's position is remembered, and a double-click on the bar puts it back in its default spot
