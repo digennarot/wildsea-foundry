@@ -1,5 +1,11 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.16
+
+- Dice tray above the chat input: pick the pool (1 to 6 dice, right-click a die to roll it straight away), the cut (0 to 5), the roll type from the rulebook tables (action, attack, defense, resources, rest, crafting, ship rating) and "no pool" (1d6, a triumph counts as a conflict). The chat card strikes through the cut dice, colours the deciding die and the outcome (green triumph, yellow conflict, red disaster) with the matching rulebook text, and shows a twist banner on doubles. The roll is attached to the message, so Dice So Nice! animates it and the chat message mode applies. The tray follows the chat input into the sidebar, the popout and the notifications area
+- `game.wildsea.rollTray({ dice, cut, context, noPool })` runs the same roll from a macro; `macros/tiro-wildsea.js` is a ready-made dialog for it
+- Fix: a sheet roll whose cut removed every die no longer fails; it rolls 1d6 and counts a triumph as a conflict
+
 ## v0.2.15
 
 - The system now requires the Storyteller's Cinema module. When the active GM opens a world, the system enables it (with libWrapper and socketlib) and reloads the world once if it is installed but disabled. It explains what to do instead when the module or a dependency is missing or cannot be loaded, or when the GM cannot change the settings, and it never reloads twice in a row
