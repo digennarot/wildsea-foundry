@@ -1,5 +1,10 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## v0.2.19
+
+- libWrapper and socketlib, needed by Storyteller's Cinema, are now required by the system, so Foundry installs them with it
+- The GM's client checks at every startup that Storyteller's Cinema, libWrapper and socketlib are enabled, and turns on whichever is off (reloading the world once). Before, only the module itself was enabled: its wrappers and sockets failed, and clearing subtitles threw "socket.executeForEveryone is not a function"
+
 ## v0.2.18
 
 - Storyteller's Cinema settings (view mode, cinematic background and its dimness) are back in the first tab of the scene configuration: on Foundry 13/14 the module put them in the last tab
