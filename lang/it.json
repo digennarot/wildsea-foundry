@@ -366,6 +366,7 @@
       "miss": "L'attacco fallisce: nessun danno.",
       "conflictHint": "Conflitto: l'attacco va a segno, ma a un costo.",
       "apply": "Applica i danni",
+      "alreadyApplied": "I danni di questo attacco sono già stati applicati. Applicarli di nuovo?",
       "applyTitle": "Danni a {target}",
       "selfDamageHint": "Speronare danneggerà con ogni probabilità anche la vostra nave.",
       "selfDamage": "Danneggia la nostra nave",

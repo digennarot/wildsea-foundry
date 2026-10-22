@@ -24,14 +24,15 @@ const ShipCombat = await new Promise((resolve, reject) => {
       ),
     )
   }, 10_000)
-  Hooks.once('shipCombatApiReady', (api) => {
+  // the core publishes globalThis.ShipCombat (with _api) before the hook
+  Hooks.once('shipCombatApiReady', () => {
     clearTimeout(timeout)
-    resolve(api)
+    resolve(globalThis.ShipCombat)
   })
 })
 
 const [
-  { MODULE_ID, WildseaAdapter },
+  { MODULE_ID, WildseaAdapter, loadEdgeLabels },
   { ShipModel, NpcShipModel, ShipOrdnanceModel, ShipComponentModel },
   { ShipSheet, NpcShipSheet, OrdnanceSheet, ShipComponentSheet },
 ] = await Promise.all([
@@ -40,7 +41,9 @@ const [
   import('./scripts/sheets.js'),
 ])
 
-// Must happen at module evaluation, before the "init" hook
+// The core needs this before "init" fires: it is called as soon as the core's
+// API exists (the handshake the core requires of its companions); if the
+// core loaded too late, the core itself reports it at "init"
 ShipCombat.configure({
   moduleId: MODULE_ID,
   adapter: new WildseaAdapter(),
@@ -79,4 +82,8 @@ Hooks.once('init', () => {
   register(Actor, NpcShipSheet, 'npcShip', 'SHIPCOMBAT.Sheet.NpcShip')
   register(Actor, OrdnanceSheet, 'shipOrdnance', 'SHIPCOMBAT.Sheet.Torpedo')
   register(Item, ShipComponentSheet, 'component', 'SHIPCOMBAT.Sheet.Component')
+})
+
+Hooks.once('ready', () => {
+  if (game.system.id === 'wildsea') loadEdgeLabels()
 })

@@ -366,6 +366,7 @@
       "miss": "The attack misses: no damage.",
       "conflictHint": "Conflict: the attack hits, at a cost.",
       "apply": "Apply damage",
+      "alreadyApplied": "The damage of this attack has already been applied. Apply it again?",
       "applyTitle": "Damage to {target}",
       "selfDamageHint": "Ramming will most likely damage your own ship too.",
       "selfDamage": "Damage our ship",

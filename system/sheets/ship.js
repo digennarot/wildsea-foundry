@@ -4,7 +4,7 @@ import { clamp, clickModifiers, enrich } from '../helpers.js'
 import WildseaActorSheet from './actor.js'
 import * as Dice from '../dice.js'
 import { attack } from '../naval.js'
-import { weaponKind } from '../naval_rules.js'
+import { shipRatingDice, weaponKind } from '../naval_rules.js'
 
 export default class WildseaShipSheet extends WildseaActorSheet {
   get template() {
@@ -247,11 +247,7 @@ export default class WildseaShipSheet extends WildseaActorSheet {
     event.preventDefault()
     const rolling = event.currentTarget.dataset.rating
 
-    const ratings = {}
-    for (const rating of WILDSEA.shipRatings) {
-      const shipRating = this.actor.system.ratings[rating]
-      ratings[rating] = clamp(shipRating.max - shipRating.value, shipRating.max)
-    }
+    const ratings = shipRatingDice(this.actor.system.ratings)
 
     const data = await renderDialog(
       game.i18n.localize('wildsea.ratingRoll'),
@@ -264,11 +260,9 @@ export default class WildseaShipSheet extends WildseaActorSheet {
 
     const { rating, cut } = data
 
-    const ratingDice = this.actor.system.ratings[rating]
-
     const dicePool = {
       rating: rolling,
-      ratingDice: clamp(ratingDice.max - ratingDice.value, ratingDice.max),
+      ratingDice: ratings[rating],
       cut,
     }
 

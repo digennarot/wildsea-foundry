@@ -136,8 +136,13 @@ WILDSEA.damageTypePatterns = {
   salt: /\bsalt\b|\bsalin/i,
   flame: /\bflame\b|incenerent/i,
 }
-WILDSEA.armamentTypePattern = /armament|weapon|torpedo|silur/i
-WILDSEA.damagePattern = /\bdamage\b|\bdanni\b/i
+// boarding armaments ("Armamenti da Arrembaggio") arm the crew, not the ship
+WILDSEA.armamentTypePattern =
+  /armament(?!i da arrembaggio)|weapon|torpedo|silur/i
+// ship-scale damage dealt ("deals massive ... damage", "infligge danni ... a
+// impatto totale"); damage resisted, repaired or given to the crew is not
+WILDSEA.shipDamagePattern =
+  /\bmassive\b[^.]*\bdamage\b|\bdanni\b[^.]*\bimpatto (totale|superiore)/i
 // rams that spare the ship's own hull, such as the Ramming Prow
 WILDSEA.safeRamPattern =
   /without (any )?(danger|risk) to your own hull|senza (correre il rischio|pericolo)/i

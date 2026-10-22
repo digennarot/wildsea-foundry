@@ -43,11 +43,29 @@ export const markTrack = ({ value = 0, burn = 0, max = 0 }, marks, isBurn) => {
   return { value: clamp(value + marks, max, burn), burn }
 }
 
+// Dice a ship rolls for each rating: one per box left unmarked
+export const shipRatingDice = (ratings) =>
+  Object.fromEntries(
+    WILDSEA.shipRatings.map((rating) => {
+      const { max, value } = ratings[rating]
+      return [rating, clamp(max - value, max)]
+    }),
+  )
+
+export const damageTypeOptions = () =>
+  Object.fromEntries(
+    WILDSEA.damageTypes.map((type) => [type, `wildsea.DAMAGE.${type}`]),
+  )
+
 const plainText = (html) => (html || '').replace(/<[^>]*>/g, ' ')
 
-// The damage type named first in a text, as in "Deals massive LR Keen damage"
+const dealsShipDamage = (text) => WILDSEA.shipDamagePattern.test(text)
+
+// The damage type named first where a text deals damage, as in "Deals
+// massive LR Keen damage", so that a resistance named earlier is skipped
 export const detectDamageType = (html) => {
-  const text = plainText(html)
+  const sentences = plainText(html).split(/[.!?]\s/)
+  const text = sentences.find(dealsShipDamage) ?? sentences.join(' ')
   let found = ''
   let foundAt = Infinity
   for (const [type, pattern] of Object.entries(WILDSEA.damageTypePatterns)) {
@@ -60,26 +78,26 @@ export const detectDamageType = (html) => {
   return found
 }
 
-// Armaments are fittings; a bite that deals damage can ram
+// Armaments are fittings of an armament type, or that deal ship-scale damage;
+// a bite that deals damage can ram
 export const weaponKind = (item) => {
   const details = plainText(item.system?.details)
   if (item.type === 'design')
-    return item.system.type === 'bite' && WILDSEA.damagePattern.test(details)
+    return item.system.type === 'bite' && dealsShipDamage(details)
       ? 'ram'
       : null
   if (item.type !== 'fitting') return null
   if (
     WILDSEA.armamentTypePattern.test(item.system.type || '') ||
-    WILDSEA.damagePattern.test(details)
+    dealsShipDamage(details)
   )
     return 'armament'
   return null
 }
 
-export const hasSafeRam = (items) =>
-  items.some((item) =>
-    WILDSEA.safeRamPattern.test(plainText(item.system?.details)),
-  )
+// A weapon made to ram without harming the ship's own hull
+export const isSafeRam = (item) =>
+  WILDSEA.safeRamPattern.test(plainText(item?.system?.details))
 
 export const isFull = (track) => track.max > 0 && track.value >= track.max
 

@@ -1,16 +1,18 @@
 import { WILDSEA } from './config.js'
-import { clamp, renderTemplate } from './helpers.js'
+import { renderTemplate } from './helpers.js'
 import { renderDialog } from './dialog.js'
 import * as Dice from './dice.js'
 import {
   damageTracks,
+  damageTypeOptions,
   detectDamageType,
   effectiveImpact,
-  hasSafeRam,
   isDisabled,
   isFull,
+  isSafeRam,
   markTrack,
   marksFor,
+  shipRatingDice,
   weaponKind,
 } from './naval_rules.js'
 
@@ -23,23 +25,12 @@ const FLAG = 'navalAttack'
 
 const localize = (key) => game.i18n.localize(key)
 
-const damageTypeOptions = () =>
-  Object.fromEntries(
-    WILDSEA.damageTypes.map((type) => [type, `wildsea.DAMAGE.${type}`]),
-  )
-
 const impactOptions = () =>
   Object.fromEntries(
     WILDSEA.impacts.map((impact) => [impact, `wildsea.NAVAL.impact.${impact}`]),
   )
 
-const ratingDice = (actor) =>
-  Object.fromEntries(
-    WILDSEA.shipRatings.map((rating) => {
-      const { max, value } = actor.system.ratings[rating]
-      return [rating, clamp(max - value, max)]
-    }),
-  )
+const ratingDice = (actor) => shipRatingDice(actor.system.ratings)
 
 // Ships and raiders that can be attacked: targeted tokens first, then the
 // tokens of the scene, then world actors that have no token on it
@@ -165,7 +156,7 @@ export const attack = async (attacker, itemId = null) => {
     impact,
     shipScale: kind !== 'crew',
     outcome,
-    selfDamage: kind === 'ram' && !hasSafeRam(attacker.items),
+    selfDamage: kind === 'ram' && !isSafeRam(item),
     applied: false,
   }
 
@@ -239,6 +230,16 @@ const reportDamage = async (target, entry, marks, burn, extra = {}) => {
 export const applyAttack = async (message) => {
   const flags = message.getFlag('wildsea', FLAG)
   if (!flags || !game.user.isGM) return
+
+  // the same hit marks the target once, unless the Firefly insists
+  if (
+    flags.applied &&
+    !(await Dialog.confirm({
+      title: localize('wildsea.NAVAL.apply'),
+      content: `<p>${localize('wildsea.NAVAL.alreadyApplied')}</p>`,
+    }))
+  )
+    return
 
   const target = await fromUuid(flags.targetUuid)
   if (!target)

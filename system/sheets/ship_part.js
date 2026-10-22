@@ -1,4 +1,5 @@
 import { WILDSEA } from '../config.js'
+import { damageTypeOptions } from '../naval_rules.js'
 import WildseaAspectSheet from './aspect.js'
 
 // A part of a raider's ship or crew, damaged on its own track
@@ -17,9 +18,7 @@ export default class WildseaShipPartSheet extends WildseaAspectSheet {
   async getData() {
     const context = await super.getData()
 
-    context.damageTypes = Object.fromEntries(
-      WILDSEA.damageTypes.map((type) => [type, `wildsea.DAMAGE.${type}`]),
-    )
+    context.damageTypes = damageTypeOptions()
     context.damageLists = ['resistances', 'weaknesses', 'immunities'].map(
       (key) => ({ key, selected: this.item.system[key] || [] }),
     )

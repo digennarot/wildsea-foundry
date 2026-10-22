@@ -46,12 +46,37 @@ const ROLE_SKILLS = {
 
 const wildseaLabel = (key) => game.i18n.localize(`wildsea.${key}`)
 
+// Edge labels in every language of the system, so that a role skill saved by
+// a client in one language still rolls its edge in another
+const edgeLabels = new Map()
+
+export const loadEdgeLabels = async () => {
+  for (const { path } of game.system.languages ?? []) {
+    try {
+      const url = path.startsWith('systems/')
+        ? path
+        : `systems/${game.system.id}/${path}`
+      const data = await foundry.utils.fetchJsonWithTimeout(
+        foundry.utils.getRoute(url),
+      )
+      for (const edge of CONFIG.wildsea.edges) {
+        const label = data?.wildsea?.[edge] ?? data?.[`wildsea.${edge}`]
+        if (label) edgeLabels.set(label, edge)
+      }
+    } catch (error) {
+      console.warn(`${MODULE_ID} | could not read ${path}`, error)
+    }
+  }
+}
+
 // The engine shows the specialisation as it is, so edges are stored by their
-// label; keys (and labels of another language) are recognised too
+// label; keys and labels of any language are recognised
 const edgeKey = (specialisation) =>
   CONFIG.wildsea.edges.find(
     (edge) => edge === specialisation || wildseaLabel(edge) === specialisation,
-  ) ?? null
+  ) ??
+  edgeLabels.get(specialisation) ??
+  null
 
 // The die a single-die roll shows (the kept one for pools)
 const naturalDie = (roll) => {
@@ -311,12 +336,14 @@ export class WildseaAdapter extends SystemAdapter {
     return Math.min(6, HIT_TARGET + evasion)
   }
 
-  computeSuccessLevel(roll, target = HIT_TARGET) {
+  // The engine calls this for an NPC ship's attribute rolls, with a d100
+  // style attribute as the target: a Wildsea die is read on its own, against
+  // the same 4+ as an unmodified shot (isHit with no accuracy)
+  computeSuccessLevel(roll, _target) {
     const die = naturalDie(roll)
     if (die === 6) return 2
     if (die === 1) return -3
-    const total = roll?.total ?? 0
-    return total >= target ? 1 : Math.min(-1, total - target)
+    return die >= HIT_TARGET ? 1 : Math.min(-1, die - HIT_TARGET)
   }
 
   isHit(roll, accuracy, targetAC = null) {
@@ -359,12 +386,14 @@ export class WildseaAdapter extends SystemAdapter {
     return accuracy === null ? null : this.formatModifier(accuracy)
   }
 
-  // A Wildsea pool of one die plus one per point of modifier
+  // A Wildsea pool of one die plus one per point of modifier; its highest die
+  // must reach the target's number, raised by the pilot's evasion
   async resolveHitRoll(context) {
     const { modifiers = [], weaponItem, targetActor, options = {} } = context
     const total = modifiers.reduce((sum, m) => sum + (m.value ?? 0), 0)
+    const target = this.getTargetAC(targetActor)
 
-    const { SL, roll, message } = await this._rollPool(
+    const { SL, outcome, roll, message } = await this._rollPool(
       { ratingDice: Math.max(0, 1 + Math.round(total)) },
       {
         flavor: options.flavor ?? weaponItem?.name ?? '',
@@ -374,12 +403,13 @@ export class WildseaAdapter extends SystemAdapter {
       },
     )
 
+    const hit = (outcome.total ?? 0) >= target
     return {
-      hit: SL > 0,
-      sl: SL,
+      hit,
+      sl: hit ? Math.max(1, SL) : Math.min(-1, (outcome.total || 1) - target),
       roll,
       message,
-      displayTarget: this.getTargetAC(targetActor),
+      displayTarget: target,
       breakdownParts: modifiers
         .filter((m) => m.value)
         .map(
