@@ -82,6 +82,25 @@ Hooks.once('init', () => {
   register(Actor, NpcShipSheet, 'npcShip', 'SHIPCOMBAT.Sheet.NpcShip')
   register(Actor, OrdnanceSheet, 'shipOrdnance', 'SHIPCOMBAT.Sheet.Torpedo')
   register(Item, ShipComponentSheet, 'component', 'SHIPCOMBAT.Sheet.Component')
+
+  // Helpers core's templates expect from the game system
+  const NPC_ROLES = ['', 'hunter', 'raider', 'hauler', 'warship', 'scout']
+  const configs = {
+    npcRoles: () =>
+      Object.fromEntries(
+        NPC_ROLES.map((role) => [
+          role,
+          role ? game.i18n.localize(`WSSC.NpcRole.${role}`) : '—',
+        ]),
+      ),
+  }
+  const helpers = {
+    add: (...args) =>
+      args.slice(0, -1).reduce((sum, n) => sum + (Number(n) || 0), 0),
+    config: (key) => configs[key]?.() ?? {},
+  }
+  for (const [name, helper] of Object.entries(helpers))
+    if (!Handlebars.helpers[name]) Handlebars.registerHelper(name, helper)
 })
 
 Hooks.once('ready', () => {

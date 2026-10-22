@@ -3,6 +3,13 @@
     "Unit": {
       "singular": "successo",
       "plural": "successi"
+    },
+    "NpcRole": {
+      "hunter": "Cacciatrice",
+      "raider": "Predona",
+      "hauler": "Mercantile",
+      "warship": "Nave da Guerra",
+      "scout": "Esploratrice"
     }
   },
   "SHIPCOMBAT": {

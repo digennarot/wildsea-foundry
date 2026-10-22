@@ -3,6 +3,13 @@
     "Unit": {
       "singular": "success",
       "plural": "successes"
+    },
+    "NpcRole": {
+      "hunter": "Hunter",
+      "raider": "Raider",
+      "hauler": "Hauler",
+      "warship": "Warship",
+      "scout": "Scout"
     }
   },
   "SHIPCOMBAT": {

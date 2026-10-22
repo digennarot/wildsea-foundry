@@ -2,7 +2,7 @@
   "id": "wildsea-shipcombat",
   "title": "The Wildsea – Ship Combat",
   "description": "<p>Wildsea companion for Causodes's Ship Combat (Core): bridge stations, canvas overlays and tactical ship combat, rolled with Wildsea dice pools. Optional: the Wildsea system already handles naval battles as the rulebook describes them.</p>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": {
     "minimum": "13.351",
     "verified": "14",

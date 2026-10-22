@@ -8,8 +8,16 @@ const {
   ShipSchemaMixin,
 } = globalThis.ShipCombat._api
 
+// Core's schema mixins extend super.defineSchema(), which TypeDataModel
+// leaves abstract
+class ShipCombatModel extends foundry.abstract.TypeDataModel {
+  static defineSchema() {
+    return {}
+  }
+}
+
 // Runs core's preparation pipeline (stubs, movement, armour, hull display)
-class ShipCombatActorModel extends foundry.abstract.TypeDataModel {
+class ShipCombatActorModel extends ShipCombatModel {
   prepareBaseData() {
     super.prepareBaseData?.()
     this.computeBase()
@@ -30,5 +38,5 @@ export class ShipOrdnanceModel extends OrdnanceSchemaMixin(
 ) {}
 
 export class ShipComponentModel extends ShipComponentSchemaMixin(
-  foundry.abstract.TypeDataModel,
+  ShipCombatModel,
 ) {}
