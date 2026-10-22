@@ -1,6 +1,6 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
-## Unreleased
+## v0.2.23
 
 - The compendium folder in the sidebar follows the GM's language ("Selvapelago" in Italian, "The Wildsea" in English), unless it was renamed by hand
 - Italian compendium names: the "Journals" compendium is now "Diari", and the last supplement folders of the Character Aspects are translated (Mano Destra Rossa, Forbici a un Braccio, Il Richiamo della Sirena)
