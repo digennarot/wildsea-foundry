@@ -1,6 +1,9 @@
 <div id="ratings" class="flex0">
   <h2 class="corners dark">
     {{localize "wildsea.ratings"}}
+    <a class="headerAction navalAttack" data-tooltip="{{localize "wildsea.NAVAL.attack"}}">
+      <i class="fas fa-crosshairs"></i>
+    </a>
   </h2>
   <div class="flexcol spaced">
     {{#each config.shipRatings as |rating|}}

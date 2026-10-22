@@ -1,0 +1,36 @@
+<form class="wildsea flexcol spaced naval-apply">
+  <p class="hint">
+    {{localize mode}} · {{localize "wildsea.NAVAL.impactLabel"}}: <strong>{{localize impact}}</strong>
+    {{#if ignored}}<br />{{localize "wildsea.NAVAL.ignoredHint"}}{{/if}}
+  </p>
+
+  <ul class="naval-tracks flexcol spaced">
+    {{#each tracks as |track|}}
+      <li>
+        <label class="flexrow spaced corners light-transparent padded">
+          <input class="flex0" type="radio" name="track" value="{{track.id}}" {{#if (eq ../selected track.id)}}checked{{/if}} />
+          <span class="flex2">
+            {{track.name}}
+            <small class="text-mid">{{track.track.value}}/{{track.track.max}}{{#if track.full}} · {{localize "wildsea.NAVAL.full"}}{{/if}}</small>
+            {{#if track.notes}}<br /><small>{{track.notes}}</small>{{/if}}
+          </span>
+          <span class="flex0 center naval-marks">+{{track.marks}}</span>
+        </label>
+      </li>
+    {{/each}}
+  </ul>
+
+  <div class="form-group">
+    <label>{{localize "wildsea.NAVAL.marksOverride"}}</label>
+    <div class="form-fields">
+      <input name="marks" type="number" min="0" max="8" placeholder="{{localize "wildsea.NAVAL.auto"}}" />
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "wildsea.NAVAL.burn"}}</label>
+    <div class="form-fields">
+      <input name="burn" type="checkbox" />
+    </div>
+  </div>
+</form>

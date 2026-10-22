@@ -42,10 +42,15 @@ jobs:
       - name: Build zip
         run: zip "$ZIP_FILE_NAME" -r assets st-cinema lang styles/*.css styles/fonts packs system templates CHANGELOG.md LICENSE README.md system.json template.json wildsea.js -x st-cinema/wildsea-skin-textured.json
 
+      # The optional ship combat companion module ships as its own package
+      - name: Build ship combat module zip
+        run: (cd modules/wildsea-shipcombat && zip -r ../../wildsea-shipcombat.zip .)
+
       - name: Create release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh release create "$TAG" "$ZIP_FILE_NAME" system.json \
+            wildsea-shipcombat.zip modules/wildsea-shipcombat/module.json \
             --title "$TAG" \
-            --notes "**Installation:** To manually install this release, please use the following manifest URL: https://github.com/${{ github.repository }}/releases/download/$TAG/system.json"
+            --notes "**Installation:** To manually install this release, please use the following manifest URL: https://github.com/${{ github.repository }}/releases/download/$TAG/system.json. The optional ship combat module (requires Causodes's Ship Combat) installs from https://github.com/${{ github.repository }}/releases/download/$TAG/module.json"

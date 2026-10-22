@@ -323,6 +323,84 @@
       "noPermission": "Only a GM who can change the settings can enable Storyteller's Cinema, required by The Wildsea.",
       "defaultScene": "The Wildsea",
       "defaultSceneFailed": "Could not create or activate The Wildsea scene: activate a scene from the Scenes tab to see cinematic mode."
+    },
+    "DAMAGE": {
+      "blunt": "Blunt",
+      "keen": "Keen",
+      "spike": "Spike",
+      "hewing": "Hewing",
+      "serrated": "Serrated",
+      "toxin": "Toxin",
+      "acid": "Acid",
+      "blast": "Blast",
+      "volt": "Volt",
+      "frost": "Frost",
+      "salt": "Salt",
+      "flame": "Flame"
+    },
+    "NAVAL": {
+      "attack": "Naval attack",
+      "damage": "Ship damage",
+      "damageShip": "Damage a ship",
+      "target": "Target",
+      "weapon": "Weapon",
+      "crewWeapon": "Crew weapons",
+      "damageType": "Damage type",
+      "impactLabel": "Impact",
+      "fromWeapon": "From the weapon",
+      "roll": "Roll",
+      "noRoll": "No roll",
+      "attackHint": "Armaments and rams deal total impact, which ships and leviathans take as normal impact. Roll a rating for manoeuvres such as ramming (Saws); attacks made by a character are rolled from their sheet.",
+      "kind": {
+        "armament": "armament",
+        "ram": "ram",
+        "crew": "crew"
+      },
+      "impact": {
+        "none": "Ignored",
+        "limited": "Limited",
+        "normal": "Normal",
+        "increased": "Increased",
+        "total": "Total"
+      },
+      "miss": "The attack misses: no damage.",
+      "conflictHint": "Conflict: the attack hits, at a cost.",
+      "apply": "Apply damage",
+      "applyTitle": "Damage to {target}",
+      "selfDamageHint": "Ramming will most likely damage your own ship too.",
+      "selfDamage": "Damage our ship",
+      "ignoredHint": "A raider tracked on its ratings ignores anything weaker than total impact.",
+      "full": "full",
+      "marksOverride": "Boxes (override)",
+      "auto": "auto",
+      "marks": "Boxes",
+      "burn": "Burn instead of mark",
+      "severityHint": "Light damage marks 1-2 boxes, medium 3-4, heavy 5-6.",
+      "marked": "marked",
+      "burned": "burned",
+      "trackFull": "Track full: the raider loses what it represents",
+      "disabled": "All tracks are full: the raider is neutralised or destroyed",
+      "noTargets": "There is no ship or raider to target.",
+      "noTracks": "The target has no tracks to damage.",
+      "targetMissing": "The target of this attack no longer exists.",
+      "notOwner": "You cannot update the target ship.",
+      "crew": "Crew and faction",
+      "damageMode": "Damage",
+      "modeEqual": "On Equal Footing",
+      "modeParts": "Part Crew, Part Ship",
+      "modeHint": {
+        "equal": "Damage goes on the ratings. Total impact counts as normal impact (1 box), anything weaker is ignored.",
+        "parts": "Damage goes on the tracks of the parts below, with their resistances and weaknesses. Anything weaker than a ship armament loses one step of impact."
+      },
+      "boxes": "Boxes",
+      "parts": "Ship and crew parts",
+      "ratingMax": "Rating (boxes)",
+      "resistances": "Resistances",
+      "weaknesses": "Weaknesses",
+      "immunities": "Immunities",
+      "partHint": "Hazards take one box less from damage they resist and one more from damage they are weak to (ctrl-click to pick more than one type).",
+      "newPartName": "New Part",
+      "newPartDetails": "<p>A part of the raider's ship or crew, such as the deck guns, the boarding party or the engine.</p>"
     }
   },
   "SETTINGS": {
@@ -354,7 +432,8 @@
       "hazard": "Hazard",
       "player": "Wildsailor",
       "ship": "Ship",
-      "npc": "NPC"
+      "npc": "NPC",
+      "raider": "Raider Ship"
     },
     "Item": {
       "aspect": "Aspect",
@@ -363,7 +442,8 @@
       "fitting": "Ship Fitting",
       "resource": "Resource",
       "temporaryTrack": "Temporary Aspect Track",
-      "undercrew": "Undercrew"
+      "undercrew": "Undercrew",
+      "shipPart": "Raider Part"
     }
   }
 }

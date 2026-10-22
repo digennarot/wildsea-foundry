@@ -25,6 +25,7 @@ The system requires the [Storyteller's Cinema](https://foundryvtt.com/packages/s
 - **UI tracks panel**: shared tracks for the whole table, with a configurable position
 - **Compendiums**: character aspects, ship aspects, a Quick Reference rules journal, and an Italian-only hazards compendium ("Hazards", shown as "Pericoli" with Babele) with ready-to-use hazard actors, plus an Italian-only cargo compendium ("Cargo", shown as "Carichi") and an Italian-only factions compendium ("Factions", shown as "Fazioni"), both of which can be dropped on a ship sheet to fill Cargo & Passengers and Reputation
 - **Ship ratings** that pick up modifiers from designs and fittings
+- **Naval battles**: raider ship actors damaged on their ratings or on tracks for their parts (with resistances and weaknesses), attacks with armaments and rams from the ship sheet, and damage applied by the GM from the chat card, following the rulebook's "Battaglia Navale" options
 - **Localization**: English, Ukrainian, and Italian. Italian translations of the compendiums are included and applied when the [Babele](https://foundryvtt.com/packages/babele) module is active
 
 ### Journal enrichers
@@ -35,6 +36,16 @@ You can embed these in any journal or rich-text field:
 | --- | --- |
 | `@Track[3,2]{Hull Breach}` | An inline track with slot groups of 3 and 2, labelled "Hull Breach" |
 | `@DisplayItem[<uuid>]{Name}` | A link to an item that displays it in chat |
+
+### Ship combat module (optional)
+
+For tactical ship combat with bridge stations, firing arcs and canvas overlays, install the companion module from this manifest URL (**Add-on Modules → Install Module**):
+
+```
+https://github.com/digennarot/wildsea-foundry/releases/latest/download/module.json
+```
+
+It requires [Causodes's Ship Combat (Core)](https://github.com/Causodes/causodes-shipcombat-core) and adds its ship, NPC ship, torpedo and component types, rolled with Wildsea dice pools. Its source is in [modules/wildsea-shipcombat](modules/wildsea-shipcombat); the core module's own texts are in English only.
 
 ## Development
 
@@ -54,7 +65,7 @@ Styles are written in LESS (`styles/*.less`). Recompile them to `styles/wildsea.
    git tag v0.2.4
    git push origin v0.2.4
    ```
-3. The [Release workflow](.github/workflows/release.yml) checks the version, zips the system, and publishes a GitHub release with `system.json` and the zip attached.
+3. The [Release workflow](.github/workflows/release.yml) checks the version, zips the system, and publishes a GitHub release with `system.json` and the zip attached. It also attaches the ship combat module (`wildsea-shipcombat.zip` and its `module.json`); bump its own `version` in `modules/wildsea-shipcombat/module.json` when it changes.
 
 ## Credits
 

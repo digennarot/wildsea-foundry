@@ -323,6 +323,84 @@
       "noPermission": "Solo un GM che può modificare le impostazioni può attivare Storyteller's Cinema, richiesto da The Wildsea.",
       "defaultScene": "Selvapelago",
       "defaultSceneFailed": "Impossibile creare o attivare la scena Selvapelago: attiva una scena dalla scheda Scene per vedere la modalità cinematica."
+    },
+    "DAMAGE": {
+      "blunt": "Contundente",
+      "keen": "Tagliente",
+      "spike": "Perforante",
+      "hewing": "Trinciante",
+      "serrated": "Lacerante",
+      "toxin": "Tossico",
+      "acid": "Acido",
+      "blast": "Esplosivo",
+      "volt": "Elettrico",
+      "frost": "Gelido",
+      "salt": "Salino",
+      "flame": "Incenerente"
+    },
+    "NAVAL": {
+      "attack": "Attacco navale",
+      "damage": "Danni alla nave",
+      "damageShip": "Danneggia una nave",
+      "target": "Bersaglio",
+      "weapon": "Arma",
+      "crewWeapon": "Armi dell'equipaggio",
+      "damageType": "Tipo di danno",
+      "impactLabel": "Impatto",
+      "fromWeapon": "Dall'arma",
+      "roll": "Tiro",
+      "noRoll": "Nessun tiro",
+      "attackHint": "Armamenti e speronamenti hanno impatto totale, che navi e leviatani subiscono come impatto normale. Tira un tracciato base per le manovre come lo speronamento (Rostro); gli attacchi di un personaggio si tirano dalla sua scheda.",
+      "kind": {
+        "armament": "armamento",
+        "ram": "speronamento",
+        "crew": "equipaggio"
+      },
+      "impact": {
+        "none": "Ignorato",
+        "limited": "Limitato",
+        "normal": "Normale",
+        "increased": "Superiore",
+        "total": "Totale"
+      },
+      "miss": "L'attacco fallisce: nessun danno.",
+      "conflictHint": "Conflitto: l'attacco va a segno, ma a un costo.",
+      "apply": "Applica i danni",
+      "applyTitle": "Danni a {target}",
+      "selfDamageHint": "Speronare danneggerà con ogni probabilità anche la vostra nave.",
+      "selfDamage": "Danneggia la nostra nave",
+      "ignoredHint": "Una nave predonica a parità di condizioni ignora tutto ciò che ha un impatto inferiore al totale.",
+      "full": "pieno",
+      "marksOverride": "Caselle (manuale)",
+      "auto": "auto",
+      "marks": "Caselle",
+      "burn": "Brucia invece di segnare",
+      "severityHint": "Danni leggeri: 1-2 caselle; medi: 3-4; ingenti: 5-6.",
+      "marked": "segnate",
+      "burned": "bruciate",
+      "trackFull": "Tracciato pieno: la nave predonica perde ciò che rappresenta",
+      "disabled": "Tutti i tracciati sono pieni: la nave predonica è neutralizzata o distrutta",
+      "noTargets": "Non ci sono navi o navi predoniche da prendere di mira.",
+      "noTracks": "Il bersaglio non ha tracciati da danneggiare.",
+      "targetMissing": "Il bersaglio di questo attacco non esiste più.",
+      "notOwner": "Non puoi modificare la nave bersaglio.",
+      "crew": "Equipaggio e fazione",
+      "damageMode": "Danni",
+      "modeEqual": "A Parità di Condizioni",
+      "modeParts": "Parte della Ciurma, Parte della Nave",
+      "modeHint": {
+        "equal": "I danni si segnano sui tracciati base. L'impatto totale conta come impatto normale (1 casella), quello inferiore viene ignorato.",
+        "parts": "I danni si segnano sui tracciati delle parti qui sotto, con le loro resistenze e debolezze. Quanto è meno potente di un armamento da nave ha un impatto ridotto."
+      },
+      "boxes": "Caselle",
+      "parts": "Parti della nave e della ciurma",
+      "ratingMax": "Tracciato base (caselle)",
+      "resistances": "Resistenze",
+      "weaknesses": "Debolezze",
+      "immunities": "Immunità",
+      "partHint": "I pericoli subiscono una casella in meno dai danni a cui resistono e una in più da quelli a cui sono deboli (ctrl+clic per scegliere più tipi).",
+      "newPartName": "Nuova Parte",
+      "newPartDetails": "<p>Una parte della nave o della ciurma predonica, come gli armamenti di coperta, la squadra d'abbordaggio o il motore.</p>"
     }
   },
   "SETTINGS": {
@@ -354,7 +432,8 @@
       "hazard": "Pericolo",
       "player": "Navigaselva",
       "ship": "Nave",
-      "npc": "PNG"
+      "npc": "PNG",
+      "raider": "Nave Predonica"
     },
     "Item": {
       "aspect": "Aspetto",
@@ -363,7 +442,8 @@
       "fitting": "Modulo della Nave",
       "resource": "Risorsa",
       "temporaryTrack": "Tracciato Aspetto Temporaneo",
-      "undercrew": "Ciurma"
+      "undercrew": "Ciurma",
+      "shipPart": "Parte della Nave Predonica"
     }
   }
 }

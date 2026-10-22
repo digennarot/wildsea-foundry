@@ -1,0 +1,45 @@
+<div class="wildsea naval-card">
+  <h3>{{localize "wildsea.NAVAL.attack"}}</h3>
+  <div class="flexcol spaced">
+    <p class="no-margin"><strong>{{attacker}}</strong> &rarr; <strong>{{target}}</strong></p>
+    <div class="flexrow spaced">
+      <label class="padded flex2">{{localize "wildsea.NAVAL.weapon"}}</label>
+      <div class="padded flex2">{{weapon}} <small class="text-mid">({{localize (concat "wildsea.NAVAL.kind." kind)}})</small></div>
+    </div>
+    {{#if damageLabel}}
+      <div class="flexrow spaced">
+        <label class="padded flex2">{{localize "wildsea.NAVAL.damageType"}}</label>
+        <div class="padded flex2">{{localize damageLabel}}</div>
+      </div>
+    {{/if}}
+    <div class="flexrow spaced">
+      <label class="padded flex2">{{localize "wildsea.NAVAL.impactLabel"}}</label>
+      <div class="padded flex2">{{localize (concat "wildsea.NAVAL.impact." impact)}}</div>
+    </div>
+
+    {{#if outcome}}
+      <h4 class="corners dark padded center" data-tooltip="{{localize (concat "wildsea." outcome "Description")}}">
+        {{localize (concat "wildsea." outcome)}}
+      </h4>
+      {{#if twist}}
+        <h4 class="center corners mid padded">{{localize "wildsea.twist"}}</h4>
+      {{/if}}
+    {{/if}}
+
+    {{#if miss}}
+      <p class="center">{{localize "wildsea.NAVAL.miss"}}</p>
+    {{else}}
+      {{#if (eq outcome "conflict")}}<p class="center">{{localize "wildsea.NAVAL.conflictHint"}}</p>{{/if}}
+      <button type="button" class="gm-only naval-button" data-naval-action="navalApply">
+        <i class="fas fa-burst"></i> {{localize "wildsea.NAVAL.apply"}}
+      </button>
+    {{/if}}
+
+    {{#if selfDamage}}
+      <p class="center">{{localize "wildsea.NAVAL.selfDamageHint"}}</p>
+      <button type="button" class="gm-only naval-button" data-naval-action="navalSelfDamage">
+        <i class="fas fa-heart-crack"></i> {{localize "wildsea.NAVAL.selfDamage"}}
+      </button>
+    {{/if}}
+  </div>
+</div>

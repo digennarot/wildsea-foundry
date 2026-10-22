@@ -1,0 +1,42 @@
+{
+  "WSSC": {
+    "Unit": {
+      "singular": "success",
+      "plural": "successes"
+    }
+  },
+  "SHIPCOMBAT": {
+    "Term": {
+      "VoidShield": "Bulkhead",
+      "DistanceUnit": "League",
+      "DistanceUnits": "Leagues",
+      "DistanceUnitAbbr": "lg",
+      "SensorRadar": "Spyglass",
+      "PowerCore": "Engine Charge",
+      "PowerCores": "Engine Charges",
+      "StrikeCraft": "Outrider"
+    },
+    "Role": {
+      "Captain": "Captain",
+      "Engineer": "Engine Room",
+      "Pilot": "Helm",
+      "Gunner": "Gunner",
+      "Ordnance": "Torpedoes & Outriders",
+      "Sensors": "Lookout"
+    }
+  },
+  "TYPES": {
+    "Actor": {
+      "wildsea-shipcombat": {
+        "ship": "Combat Ship",
+        "npcShip": "Combat Raider",
+        "shipOrdnance": "Torpedo or Outrider"
+      }
+    },
+    "Item": {
+      "wildsea-shipcombat": {
+        "component": "Combat Ship Component"
+      }
+    }
+  }
+}

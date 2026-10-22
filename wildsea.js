@@ -4,7 +4,7 @@ import {
   loadHandlebarsPartials,
 } from './system/preload.js'
 import WildseaActor from './system/actor.js'
-import { addDiceColor } from './system/dice.js'
+import { addDiceColor, readPool, rollPool } from './system/dice.js'
 import WildseaAspectSheet from './system/sheets/aspect.js'
 import WildseaAttributeSheet from './system/sheets/attribute.js'
 import WildseaDicePool from './system/applications/dice_pool.js'
@@ -16,6 +16,9 @@ import WildseaShipSheet from './system/sheets/ship.js'
 import WildseaShipItemSheet from './system/sheets/ship_item.js'
 import WildseaAdversarySheet from './system/sheets/adversary.js'
 import WildseaNpcSheet from './system/sheets/npc.js'
+import WildseaRaiderSheet from './system/sheets/raider.js'
+import WildseaShipPartSheet from './system/sheets/ship_part.js'
+import { setupNaval } from './system/naval.js'
 import { setupEnrichers } from './system/enrichers.js'
 import { runMigrations } from './system/migrations.js'
 import {
@@ -40,12 +43,14 @@ Hooks.once('init', () => {
 
   CONFIG.wildsea = WILDSEA
   CONFIG.ActiveEffect.legacyTransferral = false
-  game.wildsea = {}
+  // dice pools, also used by the ship combat companion module
+  game.wildsea = { dice: { readPool, rollPool } }
 
   WildseaTracks.setup()
   WildseaFocus.setup()
   WildseaDiceTray.setup()
   setupCinema()
+  setupNaval()
 
   loadHandlebarsPartials()
   loadHandlebarsHelpers()
@@ -59,6 +64,7 @@ Hooks.once('init', () => {
   Actors.registerSheet('wildsea', WildseaShipSheet, { types: ['ship'] })
   Actors.registerSheet('wildsea', WildseaAdversarySheet, { types: ['hazard'] })
   Actors.registerSheet('wildsea', WildseaNpcSheet, { types: ['npc'] })
+  Actors.registerSheet('wildsea', WildseaRaiderSheet, { types: ['raider'] })
 
   Items.unregisterSheet('core', ItemSheet)
   Items.registerSheet('wildsea', WildseaAspectSheet, {
@@ -71,6 +77,7 @@ Hooks.once('init', () => {
   Items.registerSheet('wildsea', WildseaAttributeSheet, {
     types: ['attribute'],
   })
+  Items.registerSheet('wildsea', WildseaShipPartSheet, { types: ['shipPart'] })
 
   Journal.unregisterSheet('core', JournalSheet)
   Journal.registerSheet('wildsea', WildseaJournalSheet)

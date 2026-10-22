@@ -306,6 +306,38 @@ a.inline-roll {
     height: 2rem;
   }
 
+  // naval battles
+  input.rating-max {
+    width: 2.5rem;
+    height: 2rem;
+    text-align: center;
+  }
+
+  select.damage-list {
+    min-height: 12rem;
+  }
+
+  .naval-tracks {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    label {
+      align-items: center;
+      cursor: pointer;
+    }
+
+    .naval-marks {
+      .title-font();
+      font-size: 1.3rem;
+      min-width: 2rem;
+    }
+  }
+
+  .naval-button.applied {
+    opacity: 0.6;
+  }
+
   .body-font();
   font-size: 0.8rem;
   background: @white;
@@ -322,7 +354,8 @@ a.inline-roll {
     font-weight: 600;
     position: relative;
 
-    a.addItem {
+    a.addItem,
+    a.headerAction {
       position: absolute;
       right: 0.5rem;
       top: 0.25rem;

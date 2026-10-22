@@ -1,0 +1,48 @@
+{
+  "WSSC": {
+    "Unit": {
+      "singular": "successo",
+      "plural": "successi"
+    }
+  },
+  "SHIPCOMBAT": {
+    "Term": {
+      "VoidShield": "Paratia",
+      "DistanceUnit": "Lega",
+      "DistanceUnits": "Leghe",
+      "DistanceUnitAbbr": "lg",
+      "SensorRadar": "Cannocchiale",
+      "PowerCore": "Carica del Motore",
+      "PowerCores": "Cariche del Motore",
+      "StrikeCraft": "Battello"
+    },
+    "Role": {
+      "Captain": "Capitano",
+      "Engineer": "Sala Macchine",
+      "Pilot": "Timone",
+      "Gunner": "Artigliere",
+      "Ordnance": "Siluri e Battelli",
+      "Sensors": "Vedetta"
+    },
+    "Sheet": {
+      "Ship": "Scheda della Nave (Combattimento)",
+      "NpcShip": "Scheda della Nave Predonica (Combattimento)",
+      "Torpedo": "Scheda del Siluro",
+      "Component": "Scheda del Componente"
+    }
+  },
+  "TYPES": {
+    "Actor": {
+      "wildsea-shipcombat": {
+        "ship": "Nave da Combattimento",
+        "npcShip": "Nave Predonica da Combattimento",
+        "shipOrdnance": "Siluro o Battello"
+      }
+    },
+    "Item": {
+      "wildsea-shipcombat": {
+        "component": "Componente da Combattimento"
+      }
+    }
+  }
+}

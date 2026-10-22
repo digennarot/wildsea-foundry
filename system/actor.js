@@ -2,10 +2,11 @@ import { clamp } from './helpers.js'
 
 export default class WildseaActor extends Actor {
   static getDefaultArtwork(data) {
-    return {
-      img: CONFIG.wildsea.defaultTokens[data.type],
-      texture: { src: CONFIG.wildsea.defaultTokens[data.type] },
-    }
+    // actor types added by modules (such as the ship combat companion) keep
+    // Foundry's default artwork
+    const img = CONFIG.wildsea.defaultTokens[data.type]
+    if (!img) return super.getDefaultArtwork(data)
+    return { img, texture: { src: img } }
   }
 
   prepareBaseData() {

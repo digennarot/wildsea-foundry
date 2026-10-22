@@ -1,0 +1,19 @@
+/* Wildsea palette and fonts on the ship combat sheets */
+.wildsea-shipcombat {
+  --font-primary: 'Merriweather', serif;
+  --wssc-dark: #2e2c20;
+  --wssc-mid: #626256;
+  --wssc-light: #858778;
+}
+
+.wildsea-shipcombat .window-header,
+.wildsea-shipcombat h1,
+.wildsea-shipcombat h2,
+.wildsea-shipcombat h3,
+.wildsea-shipcombat .tabs {
+  font-family: 'Teko', serif;
+}
+
+.wildsea-shipcombat .window-header {
+  background: var(--wssc-dark);
+}

@@ -1,0 +1,67 @@
+<form class="wildsea flexcol spaced">
+  <div class="form-group">
+    <label>{{localize "wildsea.NAVAL.target"}}</label>
+    <div class="form-fields">
+      <select name="target" class="corners">
+        {{#each targets as |target|}}
+          <option value="{{target.uuid}}">{{#if target.targeted}}&#9678; {{/if}}{{target.name}}</option>
+        {{/each}}
+      </select>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "wildsea.NAVAL.weapon"}}</label>
+    <div class="form-fields">
+      <select name="weapon" class="corners">
+        {{#each weapons as |weapon|}}
+          <option value="{{weapon.id}}" {{#if (eq ../weapon weapon.id)}}selected{{/if}}>
+            {{weapon.name}} ({{localize (concat "wildsea.NAVAL.kind." weapon.kind)}})
+          </option>
+        {{/each}}
+        <option value="" {{#unless weapon}}selected{{/unless}}>{{localize "wildsea.NAVAL.crewWeapon"}}</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "wildsea.NAVAL.damageType"}}</label>
+    <div class="form-fields">
+      <select name="damageType" class="corners">
+        <option value="">{{localize "wildsea.NAVAL.fromWeapon"}}</option>
+        {{selectOptions damageTypes localize=true}}
+      </select>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "wildsea.NAVAL.impactLabel"}}</label>
+    <div class="form-fields">
+      <select name="impact" class="corners">
+        <option value="">{{localize "wildsea.NAVAL.fromWeapon"}}</option>
+        {{selectOptions impacts localize=true}}
+      </select>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "wildsea.NAVAL.roll"}}</label>
+    <div class="form-fields">
+      <select name="rating" class="corners">
+        <option value="">{{localize "wildsea.NAVAL.noRoll"}}</option>
+        {{#each ratings as |value label|}}
+          <option value="{{label}}" {{#if (eq ../rating label)}}selected{{/if}}>{{localize (concat "wildsea." label)}} (+{{value}}d)</option>
+        {{/each}}
+      </select>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "wildsea.cut"}}</label>
+    <div class="form-fields">
+      <input name="cut" type="number" min="0" placeholder="0" />
+    </div>
+  </div>
+
+  <p class="hint">{{localize "wildsea.NAVAL.attackHint"}}</p>
+</form>

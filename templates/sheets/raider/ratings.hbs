@@ -1,0 +1,27 @@
+<div id="ratings" class="flex0">
+  <h2 class="corners dark">
+    {{localize "wildsea.ratings"}}
+    <a class="headerAction navalAttack" data-tooltip="{{localize "wildsea.NAVAL.damageShip"}}">
+      <i class="fas fa-crosshairs"></i>
+    </a>
+  </h2>
+  <div class="flexcol spaced">
+    {{#each config.shipRatings as |rating|}}
+      {{#with (byKey @root.system.ratings rating) as |track|}}
+        <div class="flexrow corners">
+          <div class="mid rating">
+            <a class="ratingRoll title uppercase text-lg" data-rating="{{rating}}">
+              {{localize (concat "wildsea." rating)}}
+            </a>
+          </div>
+          <input class="flex0 rating-max corners" type="number" min="0" max="8"
+            name="system.ratings.{{rating}}.max" value="{{track.max}}"
+            data-tooltip="{{localize "wildsea.NAVAL.ratingMax"}}" />
+          <div class="flex2 light-transparent">
+            {{> "systems/wildsea/templates/shared/track.hbs" track id=rating type="rating" cssClass="padded"}}
+          </div>
+        </div>
+      {{/with}}
+    {{/each}}
+  </div>
+</div>

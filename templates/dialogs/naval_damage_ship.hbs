@@ -1,0 +1,53 @@
+<form class="wildsea flexcol spaced">
+  <div class="form-group">
+    <label>{{localize "wildsea.NAVAL.target"}}</label>
+    <div class="form-fields">
+      <select name="target" class="corners">
+        {{#each targets as |target|}}
+          <option value="{{target.uuid}}">{{#if target.targeted}}&#9678; {{/if}}{{target.name}}</option>
+        {{/each}}
+      </select>
+    </div>
+  </div>
+
+  {{#if (any weapons)}}
+    <div class="form-group">
+      <label>{{localize "wildsea.NAVAL.weapon"}}</label>
+      <div class="form-fields">
+        <select name="weapon" class="corners">
+          <option value="">{{localize "wildsea.none"}}</option>
+          {{#each weapons as |weapon|}}
+            <option value="{{weapon.id}}" {{#if (eq ../weapon weapon.id)}}selected{{/if}}>{{weapon.name}}</option>
+          {{/each}}
+        </select>
+      </div>
+    </div>
+  {{/if}}
+
+  <div class="form-group">
+    <label>{{localize "wildsea.rating"}}</label>
+    <div class="form-fields">
+      <select name="rating" class="corners">
+        {{#each ratings as |key|}}
+          <option value="{{key}}" {{#if (eq ../rating key)}}selected{{/if}}>{{localize (concat "wildsea." key)}}</option>
+        {{/each}}
+      </select>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "wildsea.NAVAL.marks"}}</label>
+    <div class="form-fields">
+      <input name="marks" type="number" min="0" max="8" value="{{marks}}" />
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "wildsea.NAVAL.burn"}}</label>
+    <div class="form-fields">
+      <input name="burn" type="checkbox" />
+    </div>
+  </div>
+
+  <p class="hint">{{localize "wildsea.NAVAL.severityHint"}}</p>
+</form>

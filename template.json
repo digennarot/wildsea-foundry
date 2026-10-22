@@ -1,6 +1,6 @@
 {
   "Actor": {
-    "types": ["player", "ship", "hazard", "npc"],
+    "types": ["player", "ship", "hazard", "npc", "raider"],
     "player": {
       "bloodline": "",
       "drives": [],
@@ -85,6 +85,22 @@
       "voice": "",
       "personality": "",
       "description": ""
+    },
+    "raider": {
+      "type": "",
+      "size": "",
+      "traits": "",
+      "description": "",
+      "damageMode": "equal",
+      "ratings": {
+        "armour": { "value": 0, "burn": 0, "max": 3 },
+        "saws": { "value": 0, "burn": 0, "max": 3 },
+        "seals": { "value": 0, "burn": 0, "max": 3 },
+        "speed": { "value": 0, "burn": 0, "max": 3 },
+        "stealth": { "value": 0, "burn": 0, "max": 3 },
+        "tilt": { "value": 0, "burn": 0, "max": 3 },
+        "depth": { "value": 0, "burn": 0, "max": 3 }
+      }
     }
   },
   "Item": {
@@ -94,6 +110,7 @@
       "design",
       "fitting",
       "resource",
+      "shipPart",
       "temporaryTrack",
       "undercrew"
     ],
@@ -133,6 +150,13 @@
     },
     "resource": {
       "templates": ["hasDetails", "hasTags"]
+    },
+    "shipPart": {
+      "templates": ["hasDetails", "hasTrack"],
+      "track": { "max": 3 },
+      "resistances": [],
+      "weaknesses": [],
+      "immunities": []
     },
     "temporaryTrack": {
       "templates": ["hasDetails", "hasTrack"],

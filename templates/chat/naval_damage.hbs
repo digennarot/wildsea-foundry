@@ -1,0 +1,13 @@
+<div class="wildsea naval-card">
+  <h3>{{localize "wildsea.NAVAL.damage"}}</h3>
+  <div class="flexcol spaced">
+    <p class="no-margin">
+      <strong>{{target}}</strong> · {{track}}:
+      {{#if burn}}{{localize "wildsea.NAVAL.burned"}}{{else}}{{localize "wildsea.NAVAL.marked"}}{{/if}}
+      <strong>{{marks}}</strong>
+    </p>
+    {{#if weapon}}<p class="no-margin text-mid">{{weapon}}{{#if damageLabel}} · {{localize damageLabel}}{{/if}}{{#if impact}} · {{localize impact}}{{/if}}</p>{{/if}}
+    {{#if full}}<h4 class="corners mid padded center">{{localize "wildsea.NAVAL.trackFull"}}</h4>{{/if}}
+    {{#if disabled}}<h4 class="corners dark padded center">{{localize "wildsea.NAVAL.disabled"}}</h4>{{/if}}
+  </div>
+</div>

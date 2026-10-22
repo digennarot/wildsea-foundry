@@ -4,6 +4,7 @@ WILDSEA.defaultTokens = {
   player: `${WILDSEA.root_path}/assets/tokens/person.png`,
   ship: `${WILDSEA.root_path}/assets/tokens/iron-hulled-warship.png`,
   npc: 'icons/svg/mystery-man.svg',
+  raider: `${WILDSEA.root_path}/assets/tokens/ship.webp`,
 }
 WILDSEA.designTypes = ['size', 'frame', 'hull', 'bite', 'engine']
 WILDSEA.edgeMax = 1
@@ -96,6 +97,50 @@ WILDSEA.adversarySizes = {
   variable: 'wildsea.variable',
   swarm: 'wildsea.swarm',
 }
+
+// Naval battles (rulebook, ch.10 "Navi Predoniche"): a raider ship is an
+// active hazard whose damage is tracked on its ratings ("equal") or on
+// tracks for the parts of ship and crew ("parts")
+WILDSEA.raiderDamageModes = {
+  equal: 'wildsea.NAVAL.modeEqual',
+  parts: 'wildsea.NAVAL.modeParts',
+}
+WILDSEA.impacts = ['limited', 'normal', 'increased', 'total']
+WILDSEA.damageTypes = [
+  'blunt',
+  'keen',
+  'spike',
+  'hewing',
+  'serrated',
+  'toxin',
+  'acid',
+  'blast',
+  'volt',
+  'frost',
+  'salt',
+  'flame',
+]
+// recognise damage types and weapons in the English and Italian texts of
+// the ship compendium
+WILDSEA.damageTypePatterns = {
+  blunt: /\bblunt|contundent/i,
+  keen: /\bkeen\b|taglient/i,
+  spike: /\bspike\b|perforant/i,
+  hewing: /\bhewing|trinciant/i,
+  serrated: /\bserrated|lacerant/i,
+  toxin: /\btoxin|tossic/i,
+  acid: /\bacid/i,
+  blast: /\bblast\b|esplosiv/i,
+  volt: /\bvolt\b|elettric/i,
+  frost: /\bfrost\b|gelid/i,
+  salt: /\bsalt\b|\bsalin/i,
+  flame: /\bflame\b|incenerent/i,
+}
+WILDSEA.armamentTypePattern = /armament|weapon|torpedo|silur/i
+WILDSEA.damagePattern = /\bdamage\b|\bdanni\b/i
+// rams that spare the ship's own hull, such as the Ramming Prow
+WILDSEA.safeRamPattern =
+  /without (any )?(danger|risk) to your own hull|senza (correre il rischio|pericolo)/i
 
 WILDSEA.npcKinds = ['accessory', 'integrated']
 // attribute types that fill in an NPC sheet field when dropped

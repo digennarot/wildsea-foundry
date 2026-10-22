@@ -1,0 +1,55 @@
+<form class="wildsea">
+  <div class="flexrow spaced">
+    <div class="flexcol spaced">
+      <div class="flex flex0 flexrow spaced">
+        <div class="flex0 img"><img src="{{actor.img}}" data-edit="img" title="{{actor.name}}" /></div>
+        <div>
+          <input id="name" class="corners" type="text" name="name" value="{{actor.name}}" placeholder="{{localize "wildsea.name"}}" />
+        </div>
+      </div>
+      <div class="flex flex0 flexrow spaced">
+        <input class="corners" type="text" name="system.type" value="{{system.type}}" placeholder="{{localize "wildsea.NAVAL.crew"}}" />
+      </div>
+      <div class="flex flex0 flexrow">
+        <select name="system.size" class="flex0 corners">
+          {{selectOptions config.adversarySizes selected=system.size localize=true blank=""}}
+        </select>
+        <div>
+          <input class="corners" type="text" name="system.traits" value="{{system.traits}}" placeholder="{{localize "wildsea.traits"}}"/>
+        </div>
+      </div>
+      {{> "systems/wildsea/templates/sheets/raider/ratings.hbs"}}
+      {{> "systems/wildsea/templates/sheets/adversary/drives.hbs"}}
+    </div>
+
+    <div class="flexcol spaced">
+      <div class="flex0 flexrow corners">
+        <div class="mid padded title uppercase text-lg">{{localize "wildsea.NAVAL.damageMode"}}</div>
+        <select name="system.damageMode" class="corners">
+          {{selectOptions config.raiderDamageModes selected=system.damageMode localize=true}}
+        </select>
+      </div>
+      <p class="flex0 corners light-transparent padded no-margin">
+        {{localize (concat "wildsea.NAVAL.modeHint." system.damageMode)}}
+        <strong>{{localize "wildsea.NAVAL.boxes"}}: {{boxes}}</strong>
+        {{#if disabled}}<br /><strong>{{localize "wildsea.NAVAL.disabled"}}</strong>{{/if}}
+      </p>
+      {{#if (eq system.damageMode "parts")}}
+        {{> "systems/wildsea/templates/shared/aspects.hbs"
+          aspects=parts
+          title=(localize "wildsea.NAVAL.parts")
+          type="shipPart"}}
+      {{/if}}
+      {{> "systems/wildsea/templates/sheets/ship/fittings.hbs"}}
+      {{> "systems/wildsea/templates/sheets/ship/designs.hbs"}}
+    </div>
+
+    <div class="flexcol spaced">
+      {{> "systems/wildsea/templates/sheets/adversary/aspects.hbs"}}
+      {{> "systems/wildsea/templates/sheets/adversary/quirks.hbs"}}
+      {{> "systems/wildsea/templates/sheets/adversary/resources.hbs"}}
+      <h2 class="corners dark flex0">{{localize "wildsea.description"}}</h2>
+      {{> "systems/wildsea/templates/shared/description.hbs" content=system.enrichedDetails target="system.description"}}
+    </div>
+  </div>
+</form>

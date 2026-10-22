@@ -1,0 +1,69 @@
+{
+  "id": "wildsea-shipcombat",
+  "title": "The Wildsea – Ship Combat",
+  "description": "<p>Wildsea companion for Causodes's Ship Combat (Core): bridge stations, canvas overlays and tactical ship combat, rolled with Wildsea dice pools. Optional: the Wildsea system already handles naval battles as the rulebook describes them.</p>",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13.351",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "digennarot"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "wildsea",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.2.21"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "causodes-shipcombat-core",
+        "type": "module",
+        "manifest": "https://github.com/Causodes/causodes-shipcombat-core/releases/latest/download/module.json",
+        "compatibility": {
+          "minimum": "2.5.2"
+        }
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "manifest": "https://github.com/farling42/foundryvtt-socketlib/releases/latest/download/module.json"
+      }
+    ]
+  },
+  "esmodules": ["wildsea-shipcombat.js"],
+  "styles": ["styles/wildsea-shipcombat.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "lang/it.json"
+    }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "ship": {},
+      "npcShip": {},
+      "shipOrdnance": {}
+    },
+    "Item": {
+      "component": {}
+    }
+  },
+  "url": "https://github.com/digennarot/wildsea-foundry",
+  "manifest": "https://github.com/digennarot/wildsea-foundry/releases/latest/download/module.json",
+  "download": "https://github.com/digennarot/wildsea-foundry/releases/latest/download/wildsea-shipcombat.zip"
+}

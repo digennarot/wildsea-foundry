@@ -1,5 +1,15 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
+## Unreleased
+
+- Naval battles, as the rulebook's "Battaglia Navale" section describes them (ch.10, "Navi Predoniche"):
+  - New actor type **Raider Ship** ("Nave Predonica"): an active hazard with the six ratings of a ship (rollable, with an editable number of boxes), armaments and bite, drives, aspects, quirks and resources. Its damage goes either on its ratings ("On Equal Footing": total impact counts as normal impact and marks 1 box, anything weaker is ignored) or on tracks for the parts of its ship and crew ("Part Crew, Part Ship", new item type **Raider Part** with resistances, weaknesses and immunities by damage type; anything weaker than a ship armament loses one step of impact). The sheet shows the total boxes and when the raider is neutralised
+  - On the ship sheet, a crosshair beside the ratings, every armament and every bite that deals damage opens a naval attack: pick the target (targeted tokens first), the weapon, the damage type and impact (read from the weapon's text by default, in English and Italian) and optionally roll a rating, such as Saws to ram. The chat card lets the GM apply the damage: a dialog lists the target's tracks with the boxes each would take, and allows a manual number or burning instead of marking
+  - Ramming without a bite or fitting that spares the hull (such as the Ramming Prow) warns that your own ship is damaged too, with a GM button to mark it
+  - On the raider sheet, the crosshairs damage the crew's ship: pick the rating and the boxes (light 1-2, medium 3-4, heavy 5-6), or burn them
+- Optional **Wildsea Ship Combat** module (`modules/wildsea-shipcombat`, released as its own `module.json`): a companion for [Causodes's Ship Combat](https://github.com/Causodes/causodes-shipcombat-core) that brings its bridge stations, canvas overlays and tactical combat to the Wildsea, rolled with Wildsea dice pools (skill + edge, advantage and cut; disaster, conflict and triumph become success levels)
+- `game.wildsea.dice` exposes `rollPool` and `readPool` to modules and macros
+
 ## v0.2.20
 
 - Worlds without an active scene no longer show a black screen in cinematic mode: once per world, the GM's client creates the "Selvapelago" scene ("The Wildsea" in English) with the Foxloft illustration as its map and cinematic background, and activates it. It is skipped when the "Default Cinematic Background" setting is off, and after that first time the GM is free to deactivate or delete it

@@ -3,6 +3,8 @@ import { renderDialog } from '../dialog.js'
 import { clamp, clickModifiers, enrich } from '../helpers.js'
 import WildseaActorSheet from './actor.js'
 import * as Dice from '../dice.js'
+import { attack } from '../naval.js'
+import { weaponKind } from '../naval_rules.js'
 
 export default class WildseaShipSheet extends WildseaActorSheet {
   get template() {
@@ -24,6 +26,7 @@ export default class WildseaShipSheet extends WildseaActorSheet {
 
     for (const item of this.actor.items) {
       item.system.enrichedDetails = await enrich(item.system.details)
+      item.system.navalWeapon = !!weaponKind(item)
       if (item.system.stakes)
         context.stakesUsed += parseInt(item.system.stakes) || 0
     }
@@ -60,6 +63,7 @@ export default class WildseaShipSheet extends WildseaActorSheet {
         html.find('.damage-button').click(this.toggleFittingDamaged.bind(this))
       }
       html.find('.ratingRoll').click(this.ratingRoll.bind(this))
+      html.find('.navalAttack').click(this.navalAttack.bind(this))
     }
     super.activateListeners(html)
   }
@@ -289,6 +293,13 @@ export default class WildseaShipSheet extends WildseaActorSheet {
       rating: form.rating.value,
       cut: parseInt(form.cut.value || 0),
     }
+  }
+
+  // Attacks another ship or a raider with an armament, the bite or the
+  // crew's own weapons
+  async navalAttack(event) {
+    event.preventDefault()
+    return attack(this.actor, event.currentTarget.dataset.itemId)
   }
 
   async toggleFittingDamaged(event) {

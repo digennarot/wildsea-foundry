@@ -309,6 +309,32 @@ a.inline-roll.unstyled {
   padding: 0.25rem 0 0 0.5rem;
   height: 2rem;
 }
+.wildsea input.rating-max {
+  width: 2.5rem;
+  height: 2rem;
+  text-align: center;
+}
+.wildsea select.damage-list {
+  min-height: 12rem;
+}
+.wildsea .naval-tracks {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.wildsea .naval-tracks label {
+  align-items: center;
+  cursor: pointer;
+}
+.wildsea .naval-tracks .naval-marks {
+  font-family: 'Teko', sans-serif;
+  text-transform: uppercase;
+  font-size: 1.3rem;
+  min-width: 2rem;
+}
+.wildsea .naval-button.applied {
+  opacity: 0.6;
+}
 .wildsea h1,
 .wildsea h2,
 .wildsea h3,
@@ -324,7 +350,11 @@ a.inline-roll.unstyled {
 .wildsea h1 a.addItem,
 .wildsea h2 a.addItem,
 .wildsea h3 a.addItem,
-.wildsea h4 a.addItem {
+.wildsea h4 a.addItem,
+.wildsea h1 a.headerAction,
+.wildsea h2 a.headerAction,
+.wildsea h3 a.headerAction,
+.wildsea h4 a.headerAction {
   position: absolute;
   right: 0.5rem;
   top: 0.25rem;
