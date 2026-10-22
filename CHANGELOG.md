@@ -1,6 +1,6 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
-## Unreleased
+## v0.2.21
 
 - Naval battles, as the rulebook's "Battaglia Navale" section describes them (ch.10, "Navi Predoniche"):
   - New actor type **Raider Ship** ("Nave Predonica"): an active hazard with the six ratings of a ship (rollable, with an editable number of boxes), armaments and bite, drives, aspects, quirks and resources. Its damage goes either on its ratings ("On Equal Footing": total impact counts as normal impact and marks 1 box, anything weaker is ignored) or on tracks for the parts of its ship and crew ("Part Crew, Part Ship", new item type **Raider Part** with resistances, weaknesses and immunities by damage type; anything weaker than a ship armament loses one step of impact). The sheet shows the total boxes and when the raider is neutralised
