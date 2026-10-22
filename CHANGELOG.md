@@ -1,6 +1,6 @@
 # The Wildsea (Unofficial) - FoundryVTT
 
-## Unreleased
+## v0.2.22
 
 - Wildsea Ship Combat 0.1.1: the world no longer stops loading with the module enabled ("The ShipModel subclass of DataModel must define its Document schema"), and the combat ship sheets open (the `add` and `config` helpers their templates need were missing). Raiders get a role (hunter, raider, hauler, warship, scout)
 
