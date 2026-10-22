@@ -19,6 +19,7 @@ import WildseaNpcSheet from './system/sheets/npc.js'
 import WildseaRaiderSheet from './system/sheets/raider.js'
 import WildseaShipPartSheet from './system/sheets/ship_part.js'
 import { setupNaval } from './system/naval.js'
+import { localizePackFolder } from './system/pack_folder.js'
 import { setupEnrichers } from './system/enrichers.js'
 import { runMigrations } from './system/migrations.js'
 import {
@@ -96,6 +97,7 @@ Hooks.once('ready', async () => {
   await runMigrations()
   await readyCinema()
   await ensureActiveScene()
+  await localizePackFolder()
 })
 
 Hooks.on('ready', async () => {
